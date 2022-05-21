@@ -1,0 +1,15 @@
+{
+  "name": "proflu_book",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://gitee.com/proflu/proflu_book.git",
+  "author": "杨仕明 <shiming.y@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.45"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
