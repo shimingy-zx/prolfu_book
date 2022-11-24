@@ -9,7 +9,7 @@ module.exports = {
       "link",
       {
         "rel": "icon",
-        "href": "/logo.jpg"
+        "href": "https://thumbs.dreamstime.com/b/scarlet-macaw%E5%AD%A4%E7%AB%8B%E7%9F%A2%E9%87%8F%E5%9B%BE%E6%A0%87%EF%BC%8C%E5%8F%AF%E4%BB%A5%E6%A0%B9%E6%8D%AE%E9%9C%80%E8%A6%81%E8%BD%BB%E6%9D%BE%E4%BF%AE%E6%94%B9%E6%88%96%E7%BC%96%E8%BE%91-166373312.jpg"
       }
     ],
     [
@@ -73,12 +73,12 @@ module.exports = {
         "link": "https://vuepress-theme-reco.recoluan.com"
       }
     ],
-    "logo": "/logo.png",
+    "logo": "https://thumbs.dreamstime.com/b/scarlet-macaw%E5%AD%A4%E7%AB%8B%E7%9F%A2%E9%87%8F%E5%9B%BE%E6%A0%87%EF%BC%8C%E5%8F%AF%E4%BB%A5%E6%A0%B9%E6%8D%AE%E9%9C%80%E8%A6%81%E8%BD%BB%E6%9D%BE%E4%BF%AE%E6%94%B9%E6%88%96%E7%BC%96%E8%BE%91-166373312.jpg",
     "search": true,
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
-    "author": "wangxiaoer",
-    "authorAvatar": "/avatar.jpg",
+    "author": "shimingy",
+    "authorAvatar": "https://thumbs.dreamstime.com/b/scarlet-macaw%E5%AD%A4%E7%AB%8B%E7%9F%A2%E9%87%8F%E5%9B%BE%E6%A0%87%EF%BC%8C%E5%8F%AF%E4%BB%A5%E6%A0%B9%E6%8D%AE%E9%9C%80%E8%A6%81%E8%BD%BB%E6%9D%BE%E4%BF%AE%E6%94%B9%E6%88%96%E7%BC%96%E8%BE%91-166373312.jpg",
     "record": "首页",
     "startYear": "2020"
   },

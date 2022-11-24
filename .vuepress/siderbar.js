@@ -4,7 +4,7 @@ const JAVASCRIPT_PATH = '/blogs/javascript'
 const CSS_PATH = '/blogs/css'
 const PERFORM_PATH = '/blogs/perform'
 const HTML_PATH = '/blogs/html'
-const OTHER_PATH = '/blogs/other'
+const OTHER_PATH = '/blogs/other' 
 
 
 module.exports = {
