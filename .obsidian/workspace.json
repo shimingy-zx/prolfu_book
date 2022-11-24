@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "5e67530830cbda35",
+    "type": "split",
+    "children": [
+      {
+        "id": "e982451c78a26ded",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03463ba02e84f48d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b05bc202da243cc1",
+    "type": "split",
+    "children": [
+      {
+        "id": "03b4c18c7c2246f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d41b21a2ca053447",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f04b19918e3895e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a007555367a5d349",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e6a70072d01ad20",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fdd3b25679fa7f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e1fe43c07653c8a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aba407e7bd515892",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "056181abe0c4bb0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e8edea76730cc754",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "03463ba02e84f48d",
+  "lastOpenFiles": [
+    "README.md",
+    "blogs/vue/001.md",
+    "blogs/vue/学习.md",
+    "blogs/vue/vue-graphql.md",
+    "blogs/vue/VuePress.md",
+    "blogs/node/Egg.js/debug/cross-env 不是内部或外部命令，也不是可运行的程序.md",
+    "logo.jpg"
+  ]
+}
