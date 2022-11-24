@@ -17,4 +17,4 @@ features:
 
 #### 项目简介
 
-一个基于[VuePress](https://vuepress.vuejs.org/zh/)实现的个人博客，实现详情看[我的博文](https://juejin.cn/post/6959403986495471647)
+一个基于[VuePress](https://vuepress.vuejs.org/zh/)实现的个人博客。

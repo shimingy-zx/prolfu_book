@@ -1,5 +1,5 @@
 const { createSideBarConfig } = require('./util')
-const FLUTTER_PATH = '/blogs/flutter'
+const FLUTTER_PATH = '/blogs/Flutter'
 const JAVASCRIPT_PATH = '/blogs/javascript'
 const CSS_PATH = '/blogs/css'
 const PERFORM_PATH = '/blogs/perform'

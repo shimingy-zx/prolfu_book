@@ -1,0 +1,10 @@
+{
+    "editor.detectIndentation": false,
+    "editor.tabSize": 4,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "eggHelper.serverPort": 54283,
+    "[markdown]": {
+        "editor.cursorSurroundingLines": 0
+    }
+}

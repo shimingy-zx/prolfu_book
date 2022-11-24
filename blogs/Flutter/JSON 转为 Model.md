@@ -1,0 +1,1 @@
+[Instantly parse JSON in any language | quicktype](https://app.quicktype.io/)（需要翻墙）
