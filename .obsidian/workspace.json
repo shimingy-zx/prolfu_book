@@ -11,8 +11,13 @@
             "id": "451f003d992cc4dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blogs/AI/OpenAI.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blogs/AI/OpenAI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blogs/AI/OpenAI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blogs/AI/OpenAI.md"
+              }
             }
           },
           {
@@ -136,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d41b21a2ca053447",
+  "active": "451f003d992cc4dd",
   "lastOpenFiles": [
-    "blogs/graphql/reference.md",
+    "blogs/backEnd/001.md",
+    "blogs/AI/语音转文字.md",
+    "blogs/AI/OpenAI.md",
+    "blogs/vue/reference.md",
+    "blogs/other/手动部署LNMP环境（CentOS 8）.md",
     "blogs/graphql/Graphql.md",
+    "blogs/graphql/reference.md",
     "blogs/graphql/在线格式化.md",
     "blogs/graphql/graphql-rbac.md",
-    "blogs/AI/语音转文字.md",
-    "blogs/backEnd/001.md",
-    "blogs/ES6/ES6.md",
-    "blogs/docker/demo.md",
-    "2022-11-25.md",
-    "blogs/docker/常用命令.md"
+    "blogs/ES6/ES6.md"
   ]
 }
