@@ -11,8 +11,13 @@
             "id": "03463ba02e84f48d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blogs/graphql/reference.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blogs/graphql/reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blogs/graphql/reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blogs/graphql/reference.md"
+              }
             }
           }
         ]
@@ -130,12 +139,15 @@
   },
   "active": "03463ba02e84f48d",
   "lastOpenFiles": [
+    "blogs/graphql/graphql-rbac.md",
+    "blogs/graphql/Graphql.md",
+    "blogs/graphql/在线格式化.md",
+    "blogs/graphql/reference.md",
     "README.md",
     "blogs/vue/001.md",
     "blogs/vue/学习.md",
     "blogs/vue/vue-graphql.md",
     "blogs/vue/VuePress.md",
-    "blogs/node/Egg.js/debug/cross-env 不是内部或外部命令，也不是可运行的程序.md",
-    "logo.jpg"
+    "blogs/node/Egg.js/debug/cross-env 不是内部或外部命令，也不是可运行的程序.md"
   ]
 }
