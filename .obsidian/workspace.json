@@ -11,8 +11,13 @@
             "id": "451f003d992cc4dd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blogs/docker/docker_centos.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blogs/docker/docker_centos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blogs/docker/docker_centos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blogs/docker/docker_centos.md"
+              }
             }
           },
           {
@@ -136,17 +145,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d41b21a2ca053447",
+  "active": "451f003d992cc4dd",
   "lastOpenFiles": [
-    "blogs/Flutter/教程合集/语音识别.md",
+    "blogs/docker/demo.md",
+    "blogs/docker/常用命令.md",
+    "blogs/docker/Portainer安装.md",
     "blogs/Flutter/混合开发/语音识别，合成.md",
+    "blogs/Flutter/插件整理/实用第三方库.md",
+    "blogs/Flutter/插件整理/插件整理.md",
+    "blogs/Flutter/教程合集/未命名.md",
+    "blogs/Flutter/教程合集/语音识别.md",
     "blogs/think/001.md",
-    "blogs/Flutter/组件合集/Wrap.md",
-    "blogs/Flutter/组件合集/TextField.md",
-    "blogs/Flutter/学习资源/知识点.md",
-    "blogs/Flutter/学习资源/学习网站.md",
-    "blogs/Flutter/学习资源/书籍.md",
-    "blogs/Flutter/学习资源/个人博客.md",
-    "blogs/graphql/reference.md"
+    "blogs/Flutter/组件合集/Wrap.md"
   ]
 }
