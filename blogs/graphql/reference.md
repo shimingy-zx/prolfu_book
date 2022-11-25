@@ -20,8 +20,9 @@ sidebar: 'auto'
 
 [后端使用egg框架+mongoose，创建简单的注册、登录、修改密码、修改名字 - 简书 (jianshu.com)](https://www.jianshu.com/p/e0e2b89d0a6a)
 
+[java - GraphQL 的入门指南_个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000017851838)
 
-- https://segmentfault.com/a/1190000017851838
+
 
 ## 在线测试窗口
 
