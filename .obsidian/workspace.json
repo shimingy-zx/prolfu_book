@@ -147,6 +147,8 @@
   },
   "active": "03463ba02e84f48d",
   "lastOpenFiles": [
+    "blogs/vue/reference.md",
+    "blogs/docker/常用命令.md",
     "blogs/docker/demo.md",
     "blogs/docker/docker_centos.md",
     "blogs/docker/docker_es.md",
@@ -154,8 +156,6 @@
     "blogs/docker/Portainer安装.md",
     "blogs/graphql/reference.md",
     "blogs/graphql/graphql-rbac.md",
-    "blogs/graphql/Graphql.md",
-    "blogs/graphql/在线格式化.md",
-    "README.md"
+    "blogs/graphql/Graphql.md"
   ]
 }
