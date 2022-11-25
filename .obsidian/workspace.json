@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9c90ee5f8066a54a",
+        "id": "728168aac3907b68",
         "type": "tabs",
         "children": [
           {
-            "id": "c34267366466c6d5",
+            "id": "62d00ee1180cd079",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blogs/AI/语音转文字.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blogs/AI/语音转文字.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blogs/AI/语音转文字.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blogs/AI/语音转文字.md"
+              }
             }
           },
           {
@@ -136,8 +145,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d41b21a2ca053447",
+  "active": "62d00ee1180cd079",
   "lastOpenFiles": [
+    "blogs/backEnd/001.md",
+    "blogs/ES6/ES6.md",
     "blogs/docker/demo.md",
     "2022-11-25.md",
     "blogs/docker/常用命令.md",
@@ -145,8 +156,6 @@
     "blogs/docker/docker_es.md",
     "blogs/docker/docker-compose.md",
     "blogs/vue/reference.md",
-    "blogs/docker/Portainer安装.md",
-    "blogs/graphql/reference.md",
-    "blogs/graphql/graphql-rbac.md"
+    "blogs/docker/Portainer安装.md"
   ]
 }
