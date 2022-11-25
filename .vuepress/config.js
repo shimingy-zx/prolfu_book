@@ -80,7 +80,7 @@ module.exports = {
     "author": "shimingy",
     "authorAvatar": "https://thumbs.dreamstime.com/b/scarlet-macaw%E5%AD%A4%E7%AB%8B%E7%9F%A2%E9%87%8F%E5%9B%BE%E6%A0%87%EF%BC%8C%E5%8F%AF%E4%BB%A5%E6%A0%B9%E6%8D%AE%E9%9C%80%E8%A6%81%E8%BD%BB%E6%9D%BE%E4%BF%AE%E6%94%B9%E6%88%96%E7%BC%96%E8%BE%91-166373312.jpg",
     "record": "首页",
-    "startYear": "2020"
+    "startYear": "2022"
   },
   "markdown": {
     "lineNumbers": true

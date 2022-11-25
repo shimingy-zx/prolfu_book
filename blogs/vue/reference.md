@@ -1,5 +1,5 @@
 ---
-title: 学习文档
+title: VUE学习参考文档
 date: 2022-11-24
 categories:
  - vue
@@ -20,3 +20,13 @@ sidebar: 'auto'
 [vue-element-admin (gitee.io)](https://panjiachen.gitee.io/vue-element-admin-site/zh/)
 
 [一个 Vue 3 UI 框架 | Element Plus (gitee.io)](https://element-plus.gitee.io/zh-CN/)
+
+## vuepress
+
+[使用VuePress快速搭建个人博客 - 掘金 (juejin.cn)](https://juejin.cn/post/6959403986495471647)
+
+## graphql
+
+[vue中对接Graphql接口(完整版) - 掘金 (juejin.cn)](https://juejin.cn/post/6966526799895330847)
+
+[在vue中如何使用GraphQL - 掘金 (juejin.cn)](https://juejin.cn/post/6844903985401315342)
