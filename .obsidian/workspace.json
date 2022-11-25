@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/AI/OpenAI.md",
+                "file": "blogs/AI/学习参考文档.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/AI/OpenAI.md",
+                "file": "blogs/AI/学习参考文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/AI/OpenAI.md",
+                "file": "blogs/AI/学习参考文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/AI/OpenAI.md"
+                "file": "blogs/AI/学习参考文档.md"
               }
             }
           },
@@ -147,9 +147,9 @@
   },
   "active": "451f003d992cc4dd",
   "lastOpenFiles": [
-    "blogs/backEnd/001.md",
     "blogs/AI/语音转文字.md",
-    "blogs/AI/OpenAI.md",
+    "blogs/AI/学习参考文档.md",
+    "blogs/backEnd/001.md",
     "blogs/vue/reference.md",
     "blogs/other/手动部署LNMP环境（CentOS 8）.md",
     "blogs/graphql/Graphql.md",
