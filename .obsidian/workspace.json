@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e982451c78a26ded",
+        "id": "9c90ee5f8066a54a",
         "type": "tabs",
         "children": [
           {
-            "id": "03463ba02e84f48d",
+            "id": "c34267366466c6d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/docker/常用命令.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/docker/常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/docker/常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "blogs/docker/常用命令.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03463ba02e84f48d",
+  "active": "d41b21a2ca053447",
   "lastOpenFiles": [
-    "blogs/vue/reference.md",
+    "2022-11-25.md",
     "blogs/docker/常用命令.md",
-    "blogs/docker/demo.md",
     "blogs/docker/docker_centos.md",
+    "blogs/docker/demo.md",
     "blogs/docker/docker_es.md",
     "blogs/docker/docker-compose.md",
+    "blogs/vue/reference.md",
     "blogs/docker/Portainer安装.md",
     "blogs/graphql/reference.md",
-    "blogs/graphql/graphql-rbac.md",
-    "blogs/graphql/Graphql.md"
+    "blogs/graphql/graphql-rbac.md"
   ]
 }
