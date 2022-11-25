@@ -34,3 +34,6 @@ sidebar: 'auto'
 ## 在线格式化
 
 [GraphQL 格式化工具 | 345Tool.com](https://www.345tool.com/zh-hans/formatter/graphql-formatter)
+
+Graphql_rbac
+[如何为 GraphQL 服务器构建基于角色的授权|作者：内森·梅伯根·|启动|中等 (medium.com)](https://medium.com/swlh/rule-based-authorisation-for-your-graphql-server-cf81bfa60790)
