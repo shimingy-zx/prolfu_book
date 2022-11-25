@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/think/001.md",
+                "file": "blogs/Flutter/混合开发/语音识别，合成.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297
   },
   "right": {
     "id": "7e6a70072d01ad20",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/think/001.md",
+                "file": "blogs/Flutter/混合开发/语音识别，合成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/think/001.md",
+                "file": "blogs/Flutter/混合开发/语音识别，合成.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/think/001.md"
+                "file": "blogs/Flutter/混合开发/语音识别，合成.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "451f003d992cc4dd",
   "lastOpenFiles": [
-    "blogs/other/2.md",
-    "blogs/other/1.md",
-    "blogs/AI/学习参考文档.md",
-    "blogs/AI/语音转文字.md",
-    "blogs/backEnd/001.md",
-    "blogs/vue/reference.md",
-    "blogs/other/手动部署LNMP环境（CentOS 8）.md",
-    "blogs/graphql/Graphql.md",
+    "blogs/think/001.md",
+    "blogs/Flutter/组件合集/Wrap.md",
+    "blogs/Flutter/组件合集/TextField.md",
+    "blogs/Flutter/学习资源/知识点.md",
+    "blogs/Flutter/学习资源/学习网站.md",
+    "blogs/Flutter/学习资源/书籍.md",
+    "blogs/Flutter/学习资源/个人博客.md",
     "blogs/graphql/reference.md",
-    "blogs/graphql/在线格式化.md"
+    "blogs/other/2.md",
+    "blogs/other/1.md"
   ]
 }
