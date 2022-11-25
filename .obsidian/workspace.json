@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/graphql/reference.md",
+                "file": "blogs/docker/常用命令.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/graphql/reference.md",
+                "file": "blogs/docker/常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/graphql/reference.md",
+                "file": "blogs/docker/常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/graphql/reference.md"
+                "file": "blogs/docker/常用命令.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "03463ba02e84f48d",
   "lastOpenFiles": [
+    "blogs/docker/demo.md",
+    "blogs/docker/docker_centos.md",
+    "blogs/docker/docker_es.md",
+    "blogs/docker/docker-compose.md",
+    "blogs/docker/Portainer安装.md",
+    "blogs/graphql/reference.md",
     "blogs/graphql/graphql-rbac.md",
     "blogs/graphql/Graphql.md",
     "blogs/graphql/在线格式化.md",
-    "blogs/graphql/reference.md",
-    "README.md",
-    "blogs/vue/001.md",
-    "blogs/vue/学习.md",
-    "blogs/vue/vue-graphql.md",
-    "blogs/vue/VuePress.md",
-    "blogs/node/Egg.js/debug/cross-env 不是内部或外部命令，也不是可运行的程序.md"
+    "README.md"
   ]
 }
