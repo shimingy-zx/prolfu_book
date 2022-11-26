@@ -22,8 +22,6 @@ sidebar: 'auto'
 
 [java - GraphQL 的入门指南_个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000017851838)
 
-
-
 ## 在线测试窗口
 
 [Playground - https://countries.trevorblades.com/](https://countries.trevorblades.com/)
@@ -36,5 +34,10 @@ sidebar: 'auto'
 
 [GraphQL 格式化工具 | 345Tool.com](https://www.345tool.com/zh-hans/formatter/graphql-formatter)
 
-Graphql_rbac
+## Graphql_rbac
+
 [如何为 GraphQL 服务器构建基于角色的授权|作者：内森·梅伯根·|启动|中等 (medium.com)](https://medium.com/swlh/rule-based-authorisation-for-your-graphql-server-cf81bfa60790)
+
+[Graphql请求的RBAC权限控制 - wang_yb - 博客园 (cnblogs.com)](https://www.cnblogs.com/wang_yb/p/13886551.html)
+
+[Apollo Graphql 优雅权限管理 - 简书 (jianshu.com)](https://www.jianshu.com/p/7a0669f3b87d)

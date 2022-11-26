@@ -139,3 +139,7 @@ https://github.com/Imfdj/egg-beehive
 - [Egg.js视频教程_Eggjs入门实战视频教程-2021年更新的egg.js教程](https://www.bilibili.com/video/BV1Ct411e7zG?from=search&seid=6388376983263460943&spm_id_from=333.337.0.0)
   
 - [web全栈必备后端框架，Egg.js框架教程](https://www.bilibili.com/video/BV1EV411m7wu?from=search&seid=6388376983263460943&spm_id_from=333.337.0.0)
+
+
+## 短信
+[(45条消息) egg(99)--egg之注册 发送手机短信验证码 以及验证当前ip、手机号发送验证码的次数..._普通网友的博客-CSDN博客](https://blog.csdn.net/weixin_33974433/article/details/88673592)
