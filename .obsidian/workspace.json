@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Flutter/Flutter学习参考.md",
+                "file": "blogs/Flutter/Flutter_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Flutter/Flutter学习参考.md",
+                "file": "blogs/Flutter/Flutter_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Flutter/Flutter学习参考.md"
+                "file": "blogs/Flutter/Flutter_reference.md"
               }
             }
           },
@@ -185,8 +185,9 @@
     "direction": "horizontal",
     "width": 337.5
   },
-  "active": "770adb8065e20d6a",
+  "active": "d896b635b6bd4eac",
   "lastOpenFiles": [
+    "blogs/Flutter/Flutter学习参考.md",
     "blogs/Flutter/Flutter_reference.md",
     "blogs/Flutter/实用第三方库.md",
     "blogs/Flutter/语音识别.md",
@@ -195,7 +196,6 @@
     "blogs/Flutter/学习资源/学习网站.md",
     "blogs/Flutter/学习资源/书籍.md",
     "blogs/Flutter/学习资源/个人博客.md",
-    "blogs/Flutter/debug/无法获取插件.md",
-    "blogs/Flutter/Flutter学习参考.md"
+    "blogs/Flutter/debug/无法获取插件.md"
   ]
 }

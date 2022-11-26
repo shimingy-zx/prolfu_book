@@ -10,21 +10,6 @@
 
 [Flutter | Flutter documentation](https://flutter.dev/docs)
 
-### 电子书
-
-阅读网站
-
-[Summary | 《Flutter实战·第二版》- Preview (flutterchina.club)](https://book.flutterchina.club/)
-
-[控件大全 pdf 控件继承关系图 | Flutter | 老孟 (laomengit.com)](http://laomengit.com/flutter/widgets/widgets_structure.html)
-
-github
-
-[flutterchina/flutter-in-action: 《Flutter实战》电子书 (github.com)](https://github.com/flutterchina/flutter-in-action)
-
-[flutterchina/flutter_in_action_2nd: 《Flutter实战 第二版》- 书稿（未完成） (github.com)](https://github.com/flutterchina/flutter_in_action_2nd)
-
-[LaoMengFlutter/flutter-do: 包含350多个组件用法、组件继承关系图、40多个 loading 组件，App升级、验证码、弹幕、音乐字幕 4个插件，一个小而全完整的App项目。 (github.com)](https://github.com/LaoMengFlutter/flutter-do)
 
 ### 教程
 

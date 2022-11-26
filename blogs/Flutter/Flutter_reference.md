@@ -47,6 +47,21 @@ sidebar: 'auto'
 - [Flutter Tips](https://medium.com/@diegoveloper) - 开发中的文章，提示和技巧 由[Diego Velásquez](https://twitter.com/diegoveloper)提供。
 - [FilledStacks](https://www.filledstacks.com/) - 开发教程和指南 by [Dane Mackier](https://www.instagram.com/filledstacks/)提供。
 - [persilee's Blog - 李少颖的博客 (lishaoy.net)](https://h.lishaoy.net/)
+### 平台专栏
+
+[Flutter - Flutter技术,学习,经验文章 - 掘金 (juejin.cn)](https://juejin.cn/tag/Flutter)
+
+[Maojunhao - 简书 (jianshu.com)](https://www.jianshu.com/u/b4119d75f4bf)
+
+[Carson_Ho - 简书 (jianshu.com)](https://www.jianshu.com/u/383970bef0a0)
+
+[ZeroFlutter 的个人主页 - 文章 - 掘金 (juejin.cn)](https://juejin.cn/user/764915820276439/posts)
+
+[若数 - 简书 (jianshu.com)](https://www.jianshu.com/u/3552acd414ac)
+
+[老孟 Flutter - 知乎 (zhihu.com)](https://www.zhihu.com/column/c_1213471760525783040)
+
+[Flutter教程网 - 最专业，最全面的Flutter实用项目代码及教程网站 (flutterj.com)](http://www.flutterj.com/)
 
 ### 教程
 
@@ -700,6 +715,20 @@ flutter --version
 
 ### 其他
 [Flutter核心技术与实战 · 看云 (kancloud.cn)](https://www.kancloud.cn/alex_wsc/flutter_demo)
+
+阅读网站
+
+[Summary | 《Flutter实战·第二版》- Preview (flutterchina.club)](https://book.flutterchina.club/)
+
+[控件大全 pdf 控件继承关系图 | Flutter | 老孟 (laomengit.com)](http://laomengit.com/flutter/widgets/widgets_structure.html)
+
+github
+
+[flutterchina/flutter-in-action: 《Flutter实战》电子书 (github.com)](https://github.com/flutterchina/flutter-in-action)
+
+[flutterchina/flutter_in_action_2nd: 《Flutter实战 第二版》- 书稿（未完成） (github.com)](https://github.com/flutterchina/flutter_in_action_2nd)
+
+[LaoMengFlutter/flutter-do: 包含350多个组件用法、组件继承关系图、40多个 loading 组件，App升级、验证码、弹幕、音乐字幕 4个插件，一个小而全完整的App项目。 (github.com)](https://github.com/LaoMengFlutter/flutter-do)
 
 ## 社区
 
