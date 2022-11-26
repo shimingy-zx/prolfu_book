@@ -4,50 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "fbbbdcf79e0ab2f2",
-        "type": "tabs",
+        "id": "6057c7c3977658ac",
+        "type": "split",
         "children": [
           {
-            "id": "3d3d78a247a950a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/node/Node_reference.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "fbbbdcf79e0ab2f2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3d3d78a247a950a5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "blogs/node/Node_reference.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "01d9ca897672bfa4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "blogs/node/Egg/demo.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "5040a44449842313",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "blogs/node/Egg/Egg_reference.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": false
+                  }
+                },
+                "group": "5dd0ee60e3f686e6"
               }
-            }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "01d9ca897672bfa4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/node/Egg/demo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+            "id": "90b8615e107f3f01",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e5b5985b08b809da",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "blogs/node/Egg/Egg_reference.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                },
+                "group": "5dd0ee60e3f686e6"
               }
-            }
-          },
-          {
-            "id": "5040a44449842313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/node/Egg/Egg_reference.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -172,7 +199,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5040a44449842313",
+  "active": "e5b5985b08b809da",
   "lastOpenFiles": [
     "blogs/node/Egg/demo.md",
     "blogs/node/Node_reference.md",
