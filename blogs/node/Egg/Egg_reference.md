@@ -42,6 +42,16 @@ sidebar: 'auto'
 [Egg.js视频教程_Eggjs入门实战视频教程-2021年更新的egg.js教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ct411e7zG?p=5)
 
 
+
+
+
+
+
+
+
+
+
+
 [[Node_reference]]
 
 
