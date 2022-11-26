@@ -4,7 +4,6 @@
   "author": "shiming",
   "description": "",
   "main": "index.js",
-
   "scripts": {
     "dev": "vuepress dev . --host \"localhost\"",
     "build": "vuepress build .",
@@ -23,6 +22,7 @@
   },
   "dependencies": {
     "@vuepress-reco/vuepress-plugin-comments": "^1.5.7",
-    "vue-class-component": "^7.2.3"
+    "vue-class-component": "^7.2.3",
+    "vuepress-plugin-sitemap": "^2.3.1"
   }
 }
