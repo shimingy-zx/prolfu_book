@@ -13,19 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/database/数据库设计.md",
+                "file": "blogs/other/1.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "09af5f774e7d976e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -107,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/database/数据库设计.md",
+                "file": "blogs/other/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/database/数据库设计.md",
+                "file": "blogs/other/1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/database/数据库设计.md"
+                "file": "blogs/other/1.md"
               }
             }
           },
@@ -168,15 +160,15 @@
   },
   "active": "69efeaf6b77a1405",
   "lastOpenFiles": [
-    "blogs/database/数据库设计参考.md",
     "blogs/database/database.md",
+    "blogs/database/mysql/debug.md",
+    "blogs/database/mysql/常用命令.md",
+    "blogs/database/数据库设计参考.md",
+    "blogs/vue/reference.md",
+    "blogs/database/数据库设计.md",
     "blogs/docker/常用命令.md",
     "blogs/docker/配置记录.md",
-    "blogs/vue/reference.md",
     "blogs/docker/reference.md",
-    "blogs/docker/demo.md",
-    "blogs/docker/docker_centos.md",
-    "blogs/docker/docker_es.md",
-    "blogs/docker/Portainer安装.md"
+    "blogs/docker/demo.md"
   ]
 }
