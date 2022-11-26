@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/node/Egg/学习文档.md",
+                "file": "blogs/node/Egg/Egg_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/node/Egg/学习文档.md",
+                "file": "blogs/node/Egg/Egg_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/node/Egg/学习文档.md",
+                "file": "blogs/node/Egg/Egg_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/node/Egg/学习文档.md"
+                "file": "blogs/node/Egg/Egg_reference.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "3d3d78a247a950a5",
   "lastOpenFiles": [
+    "blogs/node/Egg/学习文档.md",
     "blogs/node/Egg/Egg_reference.md",
     "blogs/node/Egg/demo.md",
     "blogs/node/Egg/egg-email.md",
@@ -169,7 +170,6 @@
     "2022-11-22.md",
     "blogs/node/Egg/npm.md",
     "blogs/node/Egg/egg.js.md",
-    "blogs/node/debug/WARN notsup SKIPPING OPTIONAL DEPENDENCY.md",
-    "blogs/node/debug/System limit for number of file watchers reached.md"
+    "blogs/node/debug/WARN notsup SKIPPING OPTIONAL DEPENDENCY.md"
   ]
 }

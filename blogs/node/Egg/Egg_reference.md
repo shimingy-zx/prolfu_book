@@ -31,7 +31,15 @@ egg_email
 
 [(42条消息) nodejs Egg框架使用nodemailer发送邮件模块，可用于登录注册的验证码哟_China-quanda的博客-CSDN博客](https://blog.csdn.net/weixin_44248187/article/details/124015512)
 
+## B站教程
 
+[【晓舟报告】从零开始学前端-Egg.js基础教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1cy4y1H7iX?p=5)
+
+
+[web全栈必备后端框架，Egg.js框架教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1EV411m7wu?from=search&seid=7008904251989820753&spm_id_from=333.337.0.0)
+
+
+[Egg.js视频教程_Eggjs入门实战视频教程-2021年更新的egg.js教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ct411e7zG?p=5)
 
 
 [[Node_reference]]
