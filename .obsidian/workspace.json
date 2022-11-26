@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/css/001.md",
+                "file": "blogs/Flutter/Flutter_reference.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -57,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#inherit",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/css/001.md",
+                "file": "blogs/Flutter/Flutter_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/css/001.md",
+                "file": "blogs/Flutter/Flutter_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/css/001.md"
+                "file": "blogs/Flutter/Flutter_reference.md"
               }
             }
           },
@@ -155,8 +154,10 @@
     "width": 342.5,
     "collapsed": true
   },
-  "active": "f04b19918e3895e8",
+  "active": "3d3d78a247a950a5",
   "lastOpenFiles": [
+    "node_modules/_base@0.11.2@base/README.md",
+    "blogs/css/001.md",
     "blogs/Flutter/Flutter_reference.md",
     "blogs/Flutter/工具篇.md",
     "blogs/Flutter/其他.md",
@@ -164,8 +165,6 @@
     "blogs/Linux/linux.md",
     "blogs/Linux/Linux常用命令.md",
     "blogs/Linux/debug.md",
-    "blogs/node/Egg/Egg_reference.md",
-    "blogs/Markdown/Markdown_reference.md",
-    "blogs/node/Egg/debug/cross-env 不是内部或外部命令，也不是可运行的程序.md"
+    "blogs/node/Egg/Egg_reference.md"
   ]
 }
