@@ -24,12 +24,9 @@
             "id": "696061f33204072f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "blogs/vue/reference.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "blogs/database/Mongodb/mongodb_advance.pdf"
               }
             }
           },
@@ -39,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/docker/reference.md",
+                "file": "blogs/docker/Docker_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/docker/reference.md",
+                "file": "blogs/database/Mongodb/mongodb_advance.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/docker/reference.md",
+                "file": "blogs/database/Mongodb/mongodb_advance.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/docker/reference.md"
+                "file": "blogs/database/Mongodb/mongodb_advance.pdf"
               }
             }
           },
@@ -172,17 +169,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a0fd0897a09cc351",
+  "active": "696061f33204072f",
   "lastOpenFiles": [
-    "blogs/database/Database_reference.md",
-    "blogs/vue/reference.md",
     "blogs/database/Mongodb/mongodb.md",
     "blogs/database/Mongodb/mongo.md",
+    "blogs/database/Mongodb/综合.md",
     "blogs/database/Mongodb/数据库导入.md",
     "blogs/database/Mongodb/时间.md",
-    "blogs/database/database.md",
-    "blogs/database/数据库设计参考.md",
+    "blogs/database/mysql/常用命令.md",
+    "blogs/database/mysql/debug.md",
+    "blogs/docker/Docker_reference.md",
     "blogs/database/数据库设计.md",
-    "blogs/node/随机数生成.md"
+    "blogs/database/Database_reference.md"
   ]
 }
