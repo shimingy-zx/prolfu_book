@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#工具",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,13 +165,14 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "01d9ca897672bfa4",
+  "active": "d41b21a2ca053447",
   "lastOpenFiles": [
     "blogs/node/Egg/npm.md",
     "blogs/node/Egg/egg.js.md",
