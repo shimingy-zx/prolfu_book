@@ -19,8 +19,13 @@
             "id": "01c33178375582df",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blogs/技术综合/技术部学习文档.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -116,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blogs/技术综合/技术部学习文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blogs/技术综合/技术部学习文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blogs/技术综合/技术部学习文档.md"
+              }
             }
           },
           {
@@ -171,17 +180,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d41b21a2ca053447",
+  "active": "01c33178375582df",
   "lastOpenFiles": [
+    "blogs/技术综合/工具篇.md",
+    "blogs/技术综合/工具类.md",
+    "blogs/Git/git.md",
     "blogs/Git/github同步到gitee.md",
     "blogs/Git/Git_reference.md",
-    "blogs/Git/git.md",
     "blogs/Git/github访问加速.md",
     "blogs/docker/Docker_reference.md",
     "blogs/Flutter/Dart/教程.md",
     "blogs/Flutter/debug/未命名.md",
-    "blogs/Flutter/debug/无法获取插件.md",
-    "blogs/Flutter/教程合集/语音识别.md",
-    "blogs/database/mysql/debug.md"
+    "blogs/Flutter/debug/无法获取插件.md"
   ]
 }
