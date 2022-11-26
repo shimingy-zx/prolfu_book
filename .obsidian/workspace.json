@@ -28,7 +28,7 @@
               "state": {
                 "file": "blogs/node/Egg/demo.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
@@ -166,13 +166,13 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 342.5
   },
-  "active": "d41b21a2ca053447",
+  "active": "0b9f202495dabc5d",
   "lastOpenFiles": [
     "blogs/node/Egg/npm.md",
     "blogs/node/Egg/egg.js.md",
