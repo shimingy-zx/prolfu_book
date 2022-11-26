@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/node/Egg/Egg_reference.md",
+                "file": "blogs/Linux/新手入门linux之最常用的20条命令 - 知乎 (zhihu.com).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/node/Egg/Egg_reference.md",
+                "file": "blogs/Linux/新手入门linux之最常用的20条命令 - 知乎 (zhihu.com).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/node/Egg/Egg_reference.md",
+                "file": "blogs/Linux/新手入门linux之最常用的20条命令 - 知乎 (zhihu.com).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/node/Egg/Egg_reference.md"
+                "file": "blogs/Linux/新手入门linux之最常用的20条命令 - 知乎 (zhihu.com).md"
               }
             }
           },
@@ -156,15 +156,15 @@
   },
   "active": "3d3d78a247a950a5",
   "lastOpenFiles": [
+    "blogs/Markdown/Markdown_reference.md",
+    "blogs/node/Egg/Egg_reference.md",
     "blogs/node/Egg/debug/cross-env 不是内部或外部命令，也不是可运行的程序.md",
     "blogs/node/Egg/debug/未命名.md",
     "blogs/node/Egg/egg_graphql/demo.md",
     "blogs/node/Egg/egg_graphql/egg_graphql.md",
-    "blogs/node/Egg/Egg_reference.md",
     "blogs/AI/学习参考文档.md",
     "blogs/think/001.md",
     "blogs/Linux/新手入门linux之最常用的20条命令 - 知乎 (zhihu.com).md",
-    "blogs/docker/常用命令.md",
-    "blogs/docker/配置记录.md"
+    "blogs/docker/常用命令.md"
   ]
 }
