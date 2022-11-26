@@ -25,5 +25,5 @@ node 读取环境变量
 [(39条消息) Linux系统安装Nodejs详细教程_码飞飞的博客-CSDN博客_linux 安装node](https://blog.csdn.net/weixin_43820866/article/details/103683322)
 
 
-#
+## npm
 [(42条消息) 【NPM】npm 删除卸载一个模块_Never Yu的博客-CSDN博客_npm卸载模块](https://blog.csdn.net/csdn_yudong/article/details/90417804)
