@@ -93,7 +93,7 @@ sidebar: 'auto'
 
 [用egg.js+mongodb简单实现CURDAPI - 掘金 (juejin.cn)](https://juejin.cn/post/7056369710027243533#heading-5)
 
-# 数据库操作方法
+### 数据库操作方法
 [Mongoose v6.6.0: (mongoosejs.com)](https://mongoosejs.com/docs/api/model.html)
 
 [Mongoose中常用的Model方法。 - 简书 (jianshu.com)](https://www.jianshu.com/p/4c2261e2d7ff)
