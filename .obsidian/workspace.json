@@ -26,15 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Markdown/Markdown_reference.md",
+                "file": "blogs/database/mysql/常用命令.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Markdown/Markdown_reference.md",
+                "file": "blogs/vue/Vue_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Markdown/Markdown_reference.md",
+                "file": "blogs/vue/Vue_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Markdown/Markdown_reference.md"
+                "file": "blogs/vue/Vue_reference.md"
               }
             }
           },
@@ -159,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a0fd0897a09cc351",
+  "active": "d41b21a2ca053447",
   "lastOpenFiles": [
-    "blogs/vue/Vue_reference.md",
+    "blogs/database/mysql/常用命令.md",
     "blogs/Markdown/Markdown_reference.md",
+    "blogs/vue/Vue_reference.md",
     "blogs/docker/Docker_reference.md",
     "blogs/database/Mongodb/Mongo_reference.md",
     "blogs/graphql/Graphql_reference.md",
     "blogs/技术综合/技术部学习文档.md",
     "blogs/技术综合/工具篇.md",
     "blogs/技术综合/工具类.md",
-    "blogs/Git/git.md",
-    "blogs/Git/github同步到gitee.md"
+    "blogs/Git/git.md"
   ]
 }
