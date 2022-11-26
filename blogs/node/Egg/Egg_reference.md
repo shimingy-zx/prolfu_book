@@ -114,5 +114,9 @@ https://github.com/Imfdj/egg-beehive
 
 [db.collection.insertMany（）_MonogDB 中文网 (mongodb.net.cn)](https://mongodb.net.cn/manual/reference/method/db.collection.insertMany/)
 
-egg_qin
+## egg_qiniu
 [egg-full-qiniu-plus - npm (npmjs.com)](https://www.npmjs.com/package/egg-full-qiniu-plus)
+
+
+## egg_redis
+[(43条消息) egg+egg-redis操作redis_kyyius的博客-CSDN博客_egg-redis](https://blog.csdn.net/kyyius/article/details/115368387)
