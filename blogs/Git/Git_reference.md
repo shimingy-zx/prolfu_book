@@ -8,7 +8,8 @@ tags:
 sidebar: 'auto'
 ---
 
-## githua
+## github访问速度加快
+
 GitHub镜像网址  
 https://github.com.cnpmjs.org  
 https://hub.fastgit.org  
@@ -23,3 +24,12 @@ https://github.zhlh6.cn
 IP查找网址  
 http://github.global.ssl.fastly.net.ipaddress.com/#ipinfo  
 https://github.com.ipaddress.com/#ipinfo
+
+## github同步到gitee
+
+[Github Actions自动部署Hugo到Gitee同时刷新Gitee Pages - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/367339276)
+
+
+可视化工具
+
+[Sourcetree | Free Git GUI for Mac and Windows (sourcetreeapp.com)](https://www.sourcetreeapp.com/)https://www.sourcetreeapp.com/
