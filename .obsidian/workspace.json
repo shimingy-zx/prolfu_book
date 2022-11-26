@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Flutter/Flutter学习参考.md",
+                "file": "blogs/Flutter/Flutter_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Flutter/Flutter学习参考.md",
+                "file": "blogs/Flutter/Flutter_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Flutter/Flutter学习参考.md",
+                "file": "blogs/Flutter/Flutter_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Flutter/Flutter学习参考.md"
+                "file": "blogs/Flutter/Flutter_reference.md"
               }
             }
           },
@@ -183,8 +183,8 @@
   },
   "active": "7057f04189061f83",
   "lastOpenFiles": [
-    "blogs/Flutter/Flutter_reference.md",
     "blogs/Flutter/Flutter学习参考.md",
+    "blogs/Flutter/Flutter_reference.md",
     "blogs/Flutter/参考例子.md",
     "blogs/Flutter/其他.md",
     "blogs/Flutter/工具篇.md",
