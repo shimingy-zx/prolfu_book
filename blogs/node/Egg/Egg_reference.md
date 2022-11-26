@@ -55,6 +55,22 @@ sidebar: 'auto'
 
 [开源Egg通用的前后端分离的权限管理系统 - 简书 (jianshu.com)](https://www.jianshu.com/p/68f7f26e4ce1)
 
+[tanwei0425/rbac-egg: 基于node-js的前后端分离权限管理系统后端代码 易读易懂、代码优雅。 核心技术采用egg-js、JWT、mysql、redis、socket、node-rsa (github.com)](https://github.com/tanwei0425/rbac-egg)
+
+[qqzhxl/egg-admin - 码云 - 开源中国 (gitee.com)](https://gitee.com/qqzhxl/egg-admin/tree/master)
+
+[base-admin-api-egg: Egg.js后台管理api (gitee.com)](https://gitee.com/menglingyue/base-admin-api-egg)
+
+[SUWENHAO/eggcms - 码云 - 开源中国 (gitee.com)](https://gitee.com/suwenhao/eggcms)
+
+https://github.com/Imfdj/egg-beehive
+
+
+[GitHub - edwardxyt/edward-egg-gateway: eggJS框架、nodeJS、rbac权限、restfulAPI](https://github.com/edwardxyt/edward-egg-gateway)
+
+
+[Egg.js 异常处理、中间件、jwt，实现接口权限控制 - 掘金 (juejin.cn)](https://juejin.cn/post/6993559990610952199#heading-8)
+
 ## egg-mongo
 [如何用Egg.js+Mongodb完成jwt登录和一套增删查改 - 掘金 (juejin.cn)](https://juejin.cn/post/7089580845786202125#heading-12)
 
