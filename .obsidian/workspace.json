@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/node/短信.md",
+                "file": "blogs/node/随机数生成.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/node/短信.md",
+                "file": "blogs/node/随机数生成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/node/短信.md",
+                "file": "blogs/node/随机数生成.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/node/短信.md"
+                "file": "blogs/node/随机数生成.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "69efeaf6b77a1405",
   "lastOpenFiles": [
+    "blogs/node/启动环境变量.md",
+    "blogs/node/环境配置.md",
+    "blogs/node/短信.md",
     "blogs/node/参考例子.md",
     "blogs/node/debug/WARN notsup SKIPPING OPTIONAL DEPENDENCY.md",
-    "blogs/node/短信.md",
     "blogs/node/debug/System limit for number of file watchers reached.md",
     "blogs/other/1.md",
     "blogs/other/通过Git同步Obsidian与IOS.md",
     "blogs/other/手动部署LNMP环境（CentOS 8）.md",
-    "blogs/docker/常用命令.md",
-    "blogs/docker/配置记录.md",
-    "blogs/node/随机数生成.md"
+    "blogs/docker/常用命令.md"
   ]
 }
