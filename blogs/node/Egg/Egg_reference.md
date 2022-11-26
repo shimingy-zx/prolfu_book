@@ -48,7 +48,7 @@ sidebar: 'auto'
 [egg.js集成Socket.io实现推送和即时通信 - 简书 (jianshu.com)](https://www.jianshu.com/p/9f79fd9c81f6)
 
 
-egg-jwt
+## egg-jwt
 [Egg.js 异常处理、中间件、jwt，实现接口权限控制 - 掘金 (juejin.cn)](https://juejin.cn/post/6993559990610952199)
 
 [Egg.js 异常处理、中间件、jwt，实现接口权限控制 - 掘金 (juejin.cn)](https://juejin.cn/post/6993559990610952199#heading-5)
