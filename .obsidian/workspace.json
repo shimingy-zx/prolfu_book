@@ -8,12 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "451f003d992cc4dd",
+            "id": "09af5f774e7d976e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/docker/docker_centos.md",
+                "file": "blogs/docker/reference.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "696061f33204072f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/vue/reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/docker/docker_centos.md",
+                "file": "blogs/docker/reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/docker/docker_centos.md",
+                "file": "blogs/docker/reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/docker/docker_centos.md"
+                "file": "blogs/docker/reference.md"
               }
             }
           },
@@ -145,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "451f003d992cc4dd",
+  "active": "09af5f774e7d976e",
   "lastOpenFiles": [
-    "blogs/docker/demo.md",
+    "blogs/vue/reference.md",
+    "blogs/docker/reference.md",
+    "blogs/docker/配置记录.md",
     "blogs/docker/常用命令.md",
+    "blogs/docker/demo.md",
+    "blogs/docker/docker_centos.md",
     "blogs/docker/Portainer安装.md",
+    "blogs/docker/docker_es.md",
     "blogs/Flutter/混合开发/语音识别，合成.md",
-    "blogs/Flutter/插件整理/实用第三方库.md",
-    "blogs/Flutter/插件整理/插件整理.md",
-    "blogs/Flutter/教程合集/未命名.md",
-    "blogs/Flutter/教程合集/语音识别.md",
-    "blogs/think/001.md",
-    "blogs/Flutter/组件合集/Wrap.md"
+    "blogs/Flutter/插件整理/实用第三方库.md"
   ]
 }
