@@ -9,6 +9,7 @@ sidebar: 'auto'
 ---
 
 ## demo
+
 [[rbac]]
 [lqsong/lqsblog-backend-nodejs-eggjs: 是一个Node.js API后端服务，它基于 Egg 实现（Egg + Sequelize + RBAC + Jwt（+ 自动刷新） + Restful）。 (github.com)](https://github.com/lqsong/lqsblog-backend-nodejs-eggjs)
 
@@ -20,11 +21,10 @@ sidebar: 'auto'
 
 [api-egg-mysql-sever: 一个使用 `Node.js` 开发的，基于 `Egg.js`、`Sequelize`、`jwt`、`redis`、`RBAC`、`RESTful API`、等实现的基础服务端项目。 实现了用户注册登陆、用户管理、商品管理、文章管理、订单管理、等...更多功能的API (gitee.com)](https://gitee.com/china-quanda/api-egg-mysql-sever?_from=gitee_search)
 
-
 [lqsblog-backend-nodejs-eggjs: 是一个Node.js API后端服务，它基于 Egg 实现（Egg + Sequelize + RBAC + Jwt（+ 自动刷新） + Restful）。 (gitee.com)](https://gitee.com/lqsong/lqsblog-backend-nodejs-eggjs?_from=gitee_search)
 
-
 ## egg_email
+
 [(42条消息) eggjs 使用nodemailer发送邮件_jakysing的博客-CSDN博客](https://blog.csdn.net/yueyezhongpaihuai/article/details/86626875)
 
 [egg-email - npm (npmjs.com)](https://www.npmjs.com/package/egg-email)
@@ -45,8 +45,8 @@ sidebar: 'auto'
 
 [egg.js集成Socket.io实现推送和即时通信 - 简书 (jianshu.com)](https://www.jianshu.com/p/9f79fd9c81f6)
 
-
 ## egg-jwt
+
 [Egg.js 异常处理、中间件、jwt，实现接口权限控制 - 掘金 (juejin.cn)](https://juejin.cn/post/6993559990610952199)
 
 [(41条消息) egg-graphql鉴权中间件_plia的博客-CSDN博客_egg 鉴权中间件](https://blog.csdn.net/ligaoming_123/article/details/108866719)
@@ -63,13 +63,14 @@ sidebar: 'auto'
 
 [SUWENHAO/eggcms - 码云 - 开源中国 (gitee.com)](https://gitee.com/suwenhao/eggcms)
 
-https://github.com/Imfdj/egg-beehive
+<https://github.com/Imfdj/egg-beehive>
 
 [GitHub - edwardxyt/edward-egg-gateway: eggJS框架、nodeJS、rbac权限、restfulAPI](https://github.com/edwardxyt/edward-egg-gateway)
 
 [Egg.js 异常处理、中间件、jwt，实现接口权限控制 - 掘金 (juejin.cn)](https://juejin.cn/post/6993559990610952199#heading-8)
 
 ## egg-mongo
+
 [如何用Egg.js+Mongodb完成jwt登录和一套增删查改 - 掘金 (juejin.cn)](https://juejin.cn/post/7089580845786202125#heading-12)
 
 [小试牛刀：egg.js + mongodb - 掘金 (juejin.cn)](https://juejin.cn/post/6844903917533282312)
@@ -88,9 +89,7 @@ https://github.com/Imfdj/egg-beehive
 
 [egg-mongoose使用总结 - 简书 (jianshu.com)](https://www.jianshu.com/p/eaf51d9e3630)
 
-
 [egg-mongoose 使用指南 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/440693602)
-
 
 [Egg中使用egg-mongoose和常用的Mongoose 方法 - 掘金 (juejin.cn)](https://juejin.cn/post/6844903772775268366#heading-6)
 
@@ -105,6 +104,7 @@ https://github.com/Imfdj/egg-beehive
 [用egg.js+mongodb简单实现CURDAPI - 掘金 (juejin.cn)](https://juejin.cn/post/7056369710027243533#heading-5)
 
 ### 数据库操作方法
+
 [Mongoose v6.6.0: (mongoosejs.com)](https://mongoosejs.com/docs/api/model.html)
 
 [Mongoose中常用的Model方法。 - 简书 (jianshu.com)](https://www.jianshu.com/p/4c2261e2d7ff)
@@ -112,14 +112,15 @@ https://github.com/Imfdj/egg-beehive
 [db.collection.insertMany（）_MonogDB 中文网 (mongodb.net.cn)](https://mongodb.net.cn/manual/reference/method/db.collection.insertMany/)
 
 ## egg_qiniu
+
 [egg-full-qiniu-plus - npm (npmjs.com)](https://www.npmjs.com/package/egg-full-qiniu-plus)
 
-
 ## egg_redis
+
 [(43条消息) egg+egg-redis操作redis_kyyius的博客-CSDN博客_egg-redis](https://blog.csdn.net/kyyius/article/details/115368387)
 
-
 ## egg.js
+
 - [官网](https://eggjs.org/zh-cn/intro/)
 
 - [小试牛刀：egg.js + mongodb](https://juejin.cn/post/6844903917533282312)
@@ -140,6 +141,16 @@ https://github.com/Imfdj/egg-beehive
   
 - [web全栈必备后端框架，Egg.js框架教程](https://www.bilibili.com/video/BV1EV411m7wu?from=search&seid=6388376983263460943&spm_id_from=333.337.0.0)
 
-
 ## 短信
+
 [(45条消息) egg(99)--egg之注册 发送手机短信验证码 以及验证当前ip、手机号发送验证码的次数..._普通网友的博客-CSDN博客](https://blog.csdn.net/weixin_33974433/article/details/88673592)
+
+## other
+
+[安全机制_使用指南_对象存储 - 七牛开发者中心 (qiniu.com)](https://developer.qiniu.com/kodo/1644/security)
+
+[Flutter 计算两个日期的时间差_卜大爷的博客-CSDN博客_flutter 计算时间差](https://blog.csdn.net/u011578734/article/details/111997600)
+
+[Flutter&Dart日期格式化及时间戳转换 (feizhaojun.com)](https://feizhaojun.com/?p=3472)
+
+[caiheping/egg-cms: egg-cms是一个中后台管理系统，后端主要由node(egg.js)，MySQL，JWT，Sequelize，前端主要由vue全家桶，elementUI编写的通用后台管理系统，暂时功能包括用户鉴权，用户管理，角色管理，菜单管理，博客管理等等。 (github.com)](https://github.com/caiheping/egg-cms)
