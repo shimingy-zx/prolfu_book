@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/技术综合/webIDE.md",
+                "file": "blogs/node/启动环境变量.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/技术综合/webIDE.md",
+                "file": "blogs/node/启动环境变量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/技术综合/webIDE.md",
+                "file": "blogs/node/启动环境变量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/技术综合/webIDE.md"
+                "file": "blogs/node/启动环境变量.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "69efeaf6b77a1405",
   "lastOpenFiles": [
+    "blogs/node/环境配置.md",
+    "blogs/node/短信.md",
+    "blogs/node/参考例子.md",
+    "blogs/技术综合/JWT.md",
+    "blogs/技术综合/rbac.md",
     "blogs/技术综合/token.md",
+    "blogs/技术综合/webIDE.md",
     "blogs/技术综合/订单号生成.md",
     "blogs/技术综合/短信服务商对比.md",
-    "blogs/技术综合/工具类.md",
-    "blogs/技术综合/工具篇.md",
-    "blogs/vue/Vue_reference.md",
-    "blogs/database/mysql/常用命令.md",
-    "blogs/Markdown/Markdown_reference.md",
-    "blogs/docker/Docker_reference.md",
-    "blogs/database/Mongodb/Mongo_reference.md"
+    "blogs/技术综合/工具类.md"
   ]
 }
