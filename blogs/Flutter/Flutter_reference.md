@@ -47,7 +47,7 @@ sidebar: 'auto'
 - [Flutter Tips](https://medium.com/@diegoveloper) - 开发中的文章，提示和技巧 由[Diego Velásquez](https://twitter.com/diegoveloper)提供。
 - [FilledStacks](https://www.filledstacks.com/) - 开发教程和指南 by [Dane Mackier](https://www.instagram.com/filledstacks/)提供。
 - [persilee's Blog - 李少颖的博客 (lishaoy.net)](https://h.lishaoy.net/)
-### 平台专栏
+#### 其他
 
 [Flutter - Flutter技术,学习,经验文章 - 掘金 (juejin.cn)](https://juejin.cn/tag/Flutter)
 
