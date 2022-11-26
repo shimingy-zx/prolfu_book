@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Flutter/debug/无法获取插件.md",
+                "file": "blogs/Flutter/插件整理/实用第三方库.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Flutter/debug/无法获取插件.md",
+                "file": "blogs/Flutter/插件整理/实用第三方库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Flutter/debug/无法获取插件.md",
+                "file": "blogs/Flutter/插件整理/实用第三方库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Flutter/debug/无法获取插件.md"
+                "file": "blogs/Flutter/插件整理/实用第三方库.md"
               }
             }
           },
@@ -175,6 +175,7 @@
   "active": "7057f04189061f83",
   "lastOpenFiles": [
     "blogs/Flutter/Flutter_reference.md",
+    "blogs/Flutter/debug/无法获取插件.md",
     "blogs/Flutter/Flutter学习参考.md",
     "blogs/Flutter/插件整理/实用第三方库.md",
     "blogs/Flutter/学习资源/书籍.md",
@@ -182,7 +183,6 @@
     "blogs/Flutter/学习资源/知识点.md",
     "blogs/Flutter/学习资源/个人博客.md",
     "blogs/Flutter/教程合集/语音识别.md",
-    "blogs/Flutter/插件整理/插件整理.md",
-    "blogs/database/mysql/debug.md"
+    "blogs/Flutter/插件整理/插件整理.md"
   ]
 }
