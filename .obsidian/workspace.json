@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Flutter/Flutter_reference.md",
+                "file": "blogs/Git/Git_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Flutter/Flutter_reference.md",
+                "file": "blogs/Git/Git_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Flutter/Flutter_reference.md",
+                "file": "blogs/Git/Git_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Flutter/Flutter_reference.md"
+                "file": "blogs/Git/Git_reference.md"
               }
             }
           },
@@ -187,8 +187,8 @@
   },
   "active": "d896b635b6bd4eac",
   "lastOpenFiles": [
-    "blogs/Flutter/Flutter学习参考.md",
     "blogs/Flutter/Flutter_reference.md",
+    "blogs/Flutter/Flutter学习参考.md",
     "blogs/Flutter/语音识别.md",
     "blogs/Flutter/实用第三方库.md",
     "blogs/other/1.md",
