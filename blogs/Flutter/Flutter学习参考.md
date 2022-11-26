@@ -27,21 +27,6 @@
 
 [Flutter | 老孟 (laomengit.com)](http://laomengit.com/)
 
-### 平台专栏
-
-[Flutter - Flutter技术,学习,经验文章 - 掘金 (juejin.cn)](https://juejin.cn/tag/Flutter)
-
-[Maojunhao - 简书 (jianshu.com)](https://www.jianshu.com/u/b4119d75f4bf)
-
-[Carson_Ho - 简书 (jianshu.com)](https://www.jianshu.com/u/383970bef0a0)
-
-[ZeroFlutter 的个人主页 - 文章 - 掘金 (juejin.cn)](https://juejin.cn/user/764915820276439/posts)
-
-[若数 - 简书 (jianshu.com)](https://www.jianshu.com/u/3552acd414ac)
-
-[老孟 Flutter - 知乎 (zhihu.com)](https://www.zhihu.com/column/c_1213471760525783040)
-
-[Flutter教程网 - 最专业，最全面的Flutter实用项目代码及教程网站 (flutterj.com)](http://www.flutterj.com/)
 
 ## 开源项目
 
