@@ -163,6 +163,14 @@ sidebar: 'auto'
 
 [(41条消息) egg-graphql鉴权中间件_plia的博客-CSDN博客_egg 鉴权中间件](https://blog.csdn.net/ligaoming_123/article/details/108866719?spm=1001.2101.3001.6650.14&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-14-108866719-blog-89134031.pc_relevant_multi_platform_featuressortv2dupreplace&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-14-108866719-blog-89134031.pc_relevant_multi_platform_featuressortv2dupreplace&utm_relevant_index=15)
 
+### demo
+
+[GoatherdNaN/egg-graphql-kit: egg与GraphQL上手体验，实现简单后台逻辑 (github.com)](https://github.com/GoatherdNaN/egg-graphql-kit)
+
+[ddzyan/egg-graphql-mongodb: 将 mongodb schema 转换为 GraphQL Schema 并且提供 GraphQL API (github.com)](https://github.com/ddzyan/egg-graphql-mongodb)
+
+[cklwblove/egg-graphql: 基于eggjs和graphql编写的简单示例 (github.com)](https://github.com/cklwblove/egg-graphql)
+
 
 
 ## other
