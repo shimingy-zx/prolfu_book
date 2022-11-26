@@ -8,6 +8,6 @@ tags:
 sidebar: 'auto'
 ---
 
-[[]]
+[[Node_reference]]
 
 
