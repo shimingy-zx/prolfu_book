@@ -45,22 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "98beb1f02e436772",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/node/随机数生成.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/node/随机数生成.md",
+                "file": "blogs/node/启动环境变量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/node/随机数生成.md",
+                "file": "blogs/node/启动环境变量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/node/随机数生成.md"
+                "file": "blogs/node/启动环境变量.md"
               }
             }
           },
@@ -185,14 +172,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "98beb1f02e436772",
+  "active": "56385db440b0f302",
   "lastOpenFiles": [
-    "blogs/node/启动环境变量.md",
     "blogs/node/环境配置.md",
+    "blogs/node/随机数生成.md",
+    "blogs/node/启动环境变量.md",
     "blogs/Flutter/参考例子.md",
     "blogs/node/Egg.js/短信.md",
     "blogs/node/Node_reference.md",
-    "blogs/node/随机数生成.md",
     "blogs/database/mysql/常用命令.md",
     "blogs/Git/Git_reference.md",
     "blogs/node/debug/WARN notsup SKIPPING OPTIONAL DEPENDENCY.md",
