@@ -115,6 +115,8 @@ sidebar: 'auto'
 
 [egg-full-qiniu-plus - npm (npmjs.com)](https://www.npmjs.com/package/egg-full-qiniu-plus)
 
+[安全机制_使用指南_对象存储 - 七牛开发者中心 (qiniu.com)](https://developer.qiniu.com/kodo/1644/security)
+
 ## egg_redis
 
 [(43条消息) egg+egg-redis操作redis_kyyius的博客-CSDN博客_egg-redis](https://blog.csdn.net/kyyius/article/details/115368387)
@@ -147,7 +149,6 @@ sidebar: 'auto'
 
 ## other
 
-[安全机制_使用指南_对象存储 - 七牛开发者中心 (qiniu.com)](https://developer.qiniu.com/kodo/1644/security)
 
 [Flutter 计算两个日期的时间差_卜大爷的博客-CSDN博客_flutter 计算时间差](https://blog.csdn.net/u011578734/article/details/111997600)
 
