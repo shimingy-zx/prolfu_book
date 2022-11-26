@@ -8,16 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "09af5f774e7d976e",
+            "id": "69efeaf6b77a1405",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/docker/reference.md",
+                "file": "blogs/database/数据库设计.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
+            }
+          },
+          {
+            "id": "09af5f774e7d976e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -99,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/docker/reference.md",
+                "file": "blogs/database/数据库设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/docker/reference.md",
+                "file": "blogs/database/数据库设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/docker/reference.md"
+                "file": "blogs/database/数据库设计.md"
               }
             }
           },
@@ -158,17 +166,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "09af5f774e7d976e",
+  "active": "69efeaf6b77a1405",
   "lastOpenFiles": [
+    "blogs/database/数据库设计参考.md",
+    "blogs/database/database.md",
+    "blogs/docker/常用命令.md",
+    "blogs/docker/配置记录.md",
     "blogs/vue/reference.md",
     "blogs/docker/reference.md",
-    "blogs/docker/配置记录.md",
-    "blogs/docker/常用命令.md",
     "blogs/docker/demo.md",
     "blogs/docker/docker_centos.md",
-    "blogs/docker/Portainer安装.md",
     "blogs/docker/docker_es.md",
-    "blogs/Flutter/混合开发/语音识别，合成.md",
-    "blogs/Flutter/插件整理/实用第三方库.md"
+    "blogs/docker/Portainer安装.md"
   ]
 }
