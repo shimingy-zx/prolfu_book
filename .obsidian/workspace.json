@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/AI/学习参考文档.md",
+                "file": "blogs/node/Egg/Egg_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/AI/学习参考文档.md",
+                "file": "blogs/node/Egg/Egg_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/AI/学习参考文档.md",
+                "file": "blogs/node/Egg/Egg_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/AI/学习参考文档.md"
+                "file": "blogs/node/Egg/Egg_reference.md"
               }
             }
           },
@@ -148,6 +148,7 @@
   },
   "active": "3d3d78a247a950a5",
   "lastOpenFiles": [
+    "blogs/AI/学习参考文档.md",
     "blogs/think/001.md",
     "blogs/Linux/新手入门linux之最常用的20条命令 - 知乎 (zhihu.com).md",
     "blogs/docker/常用命令.md",
@@ -156,7 +157,6 @@
     "blogs/javascript/three.md",
     "blogs/javascript/one.md",
     "blogs/javascript/two.md",
-    "blogs/javascript/4.md",
-    "blogs/node/Egg/Egg_reference.md"
+    "blogs/javascript/4.md"
   ]
 }
