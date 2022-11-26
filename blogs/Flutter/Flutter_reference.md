@@ -490,6 +490,21 @@ flutter --version
 
 - [Sentry](https://sentry.io/) [351⭐] - Sentry提供基于云的自托管错误监控，可帮助所有软件团队实时发现，分类和确定错误的优先级，由[Flutter](https://github.com/flutter/sentry)。
 
+### 其他
+
+
+#### 下拉刷新
+
+1. [flutter pulltorefresh](https://link.juejin.cn/?target=https%3A%2F%2Fgithub.com%2Fpeng8350%2Fflutter_pulltorefresh "https://github.com/peng8350/flutter_pulltorefresh") - 一个提供上拉加载和下拉刷新的组件
+
+2. [frefresh](https://link.juejin.cn/?target=https%3A%2F%2Fpub.dev%2Fpackages%2Ffrefresh "https://pub.dev/packages/frefresh") - 支持局部更新刷新区域和加载区域视图,阿里飞猪团队作品
+3. [pull_to_refresh | Flutter Package (flutter-io.cn)](https://pub.flutter-io.cn/packages/pull_to_refresh)
+
+#### 飞猪团队插件合集
+
+[Fliggy Mobile (github.com)](https://github.com/Fliggy-Mobile)
+
+
 ## 框架
 
 ### 状态管理
