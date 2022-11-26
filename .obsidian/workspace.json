@@ -26,6 +26,32 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "blogs/node/环境配置.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56385db440b0f302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/node/启动环境变量.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98beb1f02e436772",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "blogs/node/随机数生成.md",
                 "mode": "source",
                 "backlinks": true,
@@ -33,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/node/Node_reference.md",
+                "file": "blogs/node/随机数生成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/node/Node_reference.md",
+                "file": "blogs/node/随机数生成.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/node/Node_reference.md"
+                "file": "blogs/node/随机数生成.md"
               }
             }
           },
@@ -158,16 +185,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69efeaf6b77a1405",
+  "active": "98beb1f02e436772",
   "lastOpenFiles": [
+    "blogs/node/启动环境变量.md",
+    "blogs/node/环境配置.md",
+    "blogs/Flutter/参考例子.md",
+    "blogs/node/Egg.js/短信.md",
+    "blogs/node/Node_reference.md",
     "blogs/node/随机数生成.md",
     "blogs/database/mysql/常用命令.md",
-    "blogs/node/Node_reference.md",
-    "blogs/node/启动环境变量.md",
     "blogs/Git/Git_reference.md",
-    "blogs/node/环境配置.md",
-    "blogs/node/短信.md",
-    "blogs/node/参考例子.md",
     "blogs/node/debug/WARN notsup SKIPPING OPTIONAL DEPENDENCY.md",
     "blogs/node/debug/System limit for number of file watchers reached.md"
   ]
