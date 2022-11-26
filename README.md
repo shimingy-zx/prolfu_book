@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 杨仕明的博客
+heroText: Good artists copy, great artists steal
 tagline: 偶尔写点儿东西,自己的博客
 bgImageStyle: {
   height: '850px'
