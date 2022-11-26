@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/node/Egg/npm.md",
+                "file": "blogs/node/Egg/学习文档.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/node/Egg/Egg_reference.md",
+                "file": "blogs/node/Egg/学习文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/node/Egg/Egg_reference.md",
+                "file": "blogs/node/Egg/学习文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/node/Egg/Egg_reference.md"
+                "file": "blogs/node/Egg/学习文档.md"
               }
             }
           },
@@ -159,16 +160,16 @@
     "width": 342.5,
     "collapsed": true
   },
-  "active": "3d3d78a247a950a5",
+  "active": "d41b21a2ca053447",
   "lastOpenFiles": [
-    "blogs/node/Egg/学习文档.md",
+    "blogs/node/Egg/npm.md",
     "blogs/node/Egg/Egg_reference.md",
+    "blogs/node/Egg/学习文档.md",
     "blogs/node/Egg/demo.md",
     "blogs/node/Egg/egg-email.md",
     "blogs/node/Egg/登录注册.md",
     "blogs/node/Node_reference.md",
     "2022-11-22.md",
-    "blogs/node/Egg/npm.md",
     "blogs/node/Egg/egg.js.md",
     "blogs/node/debug/WARN notsup SKIPPING OPTIONAL DEPENDENCY.md"
   ]
