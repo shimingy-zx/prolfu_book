@@ -41,22 +41,22 @@ sidebar: 'auto'
 
 [Egg.js视频教程_Eggjs入门实战视频教程-2021年更新的egg.js教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ct411e7zG?p=5)
 
-
-
-
-
-
-
-
-
-
-
-
-[[Node_reference]]
-
-
-
+## egg_io
 
 [使用egg-socket.io创建websocket服务 - 掘金 (juejin.cn)](https://juejin.cn/post/7019966367709265928)
 
 [egg.js集成Socket.io实现推送和即时通信 - 简书 (jianshu.com)](https://www.jianshu.com/p/9f79fd9c81f6)
+
+[Egg.js 异常处理、中间件、jwt，实现接口权限控制 - 掘金 (juejin.cn)](https://juejin.cn/post/6993559990610952199)
+
+[Egg.js 异常处理、中间件、jwt，实现接口权限控制 - 掘金 (juejin.cn)](https://juejin.cn/post/6993559990610952199#heading-5)
+
+
+[(41条消息) egg-graphql鉴权中间件_plia的博客-CSDN博客_egg 鉴权中间件](https://blog.csdn.net/ligaoming_123/article/details/108866719)
+
+
+[(41条消息) egg-graphql+egg-oauth2-server 权限校验_zdluoa的博客-CSDN博客](https://blog.csdn.net/zdluoa/article/details/81191081?spm=1001.2101.3001.6650.11&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-11-81191081-blog-108866719.pc_relevant_multi_platform_whitelistv5&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-11-81191081-blog-108866719.pc_relevant_multi_platform_whitelistv5&utm_relevant_index=17)
+
+
+
+[开源Egg通用的前后端分离的权限管理系统 - 简书 (jianshu.com)](https://www.jianshu.com/p/68f7f26e4ce1)
