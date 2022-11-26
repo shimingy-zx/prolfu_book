@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Flutter/插件整理/插件整理.md",
+                "file": "blogs/Flutter/学习资源/书籍.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Flutter/Flutter_reference.md",
+                "file": "blogs/Flutter/学习资源/书籍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Flutter/Flutter_reference.md",
+                "file": "blogs/Flutter/学习资源/书籍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Flutter/Flutter_reference.md"
+                "file": "blogs/Flutter/学习资源/书籍.md"
               }
             }
           },
@@ -158,17 +159,17 @@
     "direction": "horizontal",
     "width": 337.5
   },
-  "active": "b6a973ec5c2b1a25",
+  "active": "7057f04189061f83",
   "lastOpenFiles": [
+    "blogs/Flutter/学习资源/个人博客.md",
+    "blogs/Flutter/学习资源/知识点.md",
+    "blogs/Flutter/学习资源/学习网站.md",
+    "blogs/Flutter/学习资源/书籍.md",
+    "blogs/Flutter/教程合集/语音识别.md",
+    "blogs/Flutter/插件整理/实用第三方库.md",
     "blogs/Flutter/插件整理/插件整理.md",
     "blogs/Flutter/Flutter_reference.md",
-    "blogs/Flutter/教程合集/语音识别.md",
     "blogs/Flutter/Flutter学习参考.md",
-    "blogs/database/mysql/debug.md",
-    "blogs/Flutter/学习文章/Graphql使用POST请求.md",
-    "blogs/Flutter/例子/mp3例子测试.md",
-    "blogs/Flutter/例子/flutter使用阿里巴巴矢量图标库.md",
-    "blogs/Flutter/例子/Flutter——头像上传功能，实现照片选择及裁剪.md",
-    "blogs/Flutter/例子/Flutter 无线真机调试.md"
+    "blogs/database/mysql/debug.md"
   ]
 }
