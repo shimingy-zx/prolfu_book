@@ -37,7 +37,8 @@ sidebar: 'auto'
 
 ### 网站/博客
 
-* [Flutter技术专栏](http://www.devio.org/tags/#Flutter)![ new](http://www.devio.org/img/ico/ico_new.gif)
+- [Flutter技术专栏](http://www.devio.org/tags/#Flutter)![ new](http://www.devio.org/img/ico/ico_new.gif)
+
 - [Welcome to Flutter](https://didierboelens.com) - 英文和法文博客，致力于为Ditter Boelens提出的有关Flutter的最常见问题提供实用的解决方案。
 - [SZAŁKO-BLOG](https://marcinszalek.pl/) - 渐进式高级设计，由[Marcin Szalek](https://marcinszalek.pl/)提供。
 - [Flutter by Example](https://flutterbyexample.com/) - 基于Redux，Firebase，自定义动画和UI的教程。
@@ -49,10 +50,10 @@ sidebar: 'auto'
 
 ### 教程
 
-* [Flutter高级进阶实战 仿哔哩哔哩APP](https://coding.imooc.com/class/487.html)![ new](http://www.devio.org/img/ico/ico_new.gif) - 一次性深度掌握Flutter高阶技能+商业级复杂项目架构设计与开发方案
-* [Flutter从入门到进阶](https://coding.imooc.com/class/321.html) - 解锁Flutter开发新姿势，一网打尽Flutter核心技术。
-* [Flutter2重磅发布支持Web和桌面应用](https://www.imooc.com/article/315453) - Flutter正式迎来了它的的第二个大版本，增加了对桌面和Web 应用程序的支持。
-* [革命性移动端开发框架-Flutter时间简史](http://www.imooc.com/article/281683) - 一文读懂Flutter前世今生。
+- [Flutter高级进阶实战 仿哔哩哔哩APP](https://coding.imooc.com/class/487.html)![ new](http://www.devio.org/img/ico/ico_new.gif) - 一次性深度掌握Flutter高阶技能+商业级复杂项目架构设计与开发方案
+- [Flutter从入门到进阶](https://coding.imooc.com/class/321.html) - 解锁Flutter开发新姿势，一网打尽Flutter核心技术。
+- [Flutter2重磅发布支持Web和桌面应用](https://www.imooc.com/article/315453) - Flutter正式迎来了它的的第二个大版本，增加了对桌面和Web 应用程序的支持。
+- [革命性移动端开发框架-Flutter时间简史](http://www.imooc.com/article/281683) - 一文读懂Flutter前世今生。
 
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - 通过Google Code Labs构建漂亮的用户界面。
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Google Code Labs整合Firebase。
@@ -86,6 +87,7 @@ sidebar: 'auto'
 - [Build Flavor](https://medium.com/@angeloavv/easily-build-flavors-in-flutter-android-and-ios-with-flutter-flavorizr-d48cbf956e4) - 在Flutter中使用flutter_flavorizr来轻松构建flavors，由[Angelo Cassano](https://medium.com/@angeloavv)。
 
 ### Flutter图标库
+
 在Flutter中我们可以通过 Icon组件来加载图标，但是Flutter中有很多的图标，如果我们想知道每个图标具体叫什么名字，这个时候就可以参考下面地址.
 
 **Flutter Icons图标库地址1：**
@@ -100,8 +102,8 @@ sidebar: 'auto'
 Flutter 使用阿里巴巴icon库
 [Flutter 使用阿里巴巴icon库【图文】_mob604756f3c518_51CTO博客](https://blog.51cto.com/u_15127585/2783210)
 
-
 ### JSON 转为 Model
+
 [Instantly parse JSON in any language | quicktype](https://app.quicktype.io/)（需要翻墙）
 
 [JSON 转 Dart 互联网技术圈 互联网技术圈 (baiked.com)](https://it.baiked.com/tools/jsondart.html)
@@ -109,6 +111,7 @@ Flutter 使用阿里巴巴icon库
 [Dart packages (flutter-io.cn)](https://pub.flutter-io.cn/)
 
 ### 在线开发平台
+
 [AppBuilder 2 20180529-19:35 (flutterstudio.app)](https://flutterstudio.app/)
 
 ### 查看flutter sdk版本以及dart sdk版本
@@ -117,6 +120,7 @@ flutter --version
 [(40条消息) Flutter指定包名创建项目_动哒APP的博客-CSDN博客_flutter 创建项目指定包名](https://blog.csdn.net/weixin_29003023/article/details/120855724)
 
 ### 其他
+
 [Hello from Ferry Graphql | Ferry Graphql](https://ferrygraphql.com/)
 
 [Strapi Developer Documentation](https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html)
@@ -127,7 +131,7 @@ flutter --version
 
 ## 视频
 
-* [Flutter从入门到进阶实战携程网App](https://coding.imooc.com/class/321.html) - 一门涵盖入门 -> 进阶 -> 实战 -> 拔高拓展的视频教程![ new](http://www.devio.org/img/ico/ico_new.gif)。
+- [Flutter从入门到进阶实战携程网App](https://coding.imooc.com/class/321.html) - 一门涵盖入门 -> 进阶 -> 实战 -> 拔高拓展的视频教程![ new](http://www.devio.org/img/ico/ico_new.gif)。
 
 - [Boring Show](https://www.youtube.com/watch?v=CPmN4-i9zC8&list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK) - 与Flutter团队一起探索。
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) [86🎬] - 非常丰富的Dart Flutter 教程，由[Tensor Programming](http://tensor-programming.com/)提供。
@@ -686,6 +690,5 @@ flutter --version
 - [The One](https://www.youtube.com/watch?v=sIIgtClYq0s) [381👍] -  一个有趣的视频。
 
 ## MIT Licensed
-
 
 参考：[GitHub - crazycodeboy/awesome-flutter-cn: 一个很棒的Flutter学习资源，官方教程，插件，工具，文章，App，视频教程等的资源列表](https://github.com/crazycodeboy/awesome-flutter-cn)
