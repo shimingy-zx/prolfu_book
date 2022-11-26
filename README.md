@@ -5,7 +5,7 @@ tagline: 偶尔写点儿东西,有缘相见
 bgImageStyle: {
   height: '850px'
 }
-isShowTitleInHome: false
+isShowTitleInHome: t
 features:
 - title: Yesterday
   details: 昨天在写博客
