@@ -110,6 +110,9 @@ Flutter 使用阿里巴巴icon库
 ### 在线开发平台
 [AppBuilder 2 20180529-19:35 (flutterstudio.app)](https://flutterstudio.app/)
 
+
+### qi
+
 ## 视频
 
 * [Flutter从入门到进阶实战携程网App](https://coding.imooc.com/class/321.html) - 一门涵盖入门 -> 进阶 -> 实战 -> 拔高拓展的视频教程![ new](http://www.devio.org/img/ico/ico_new.gif)。
@@ -673,4 +676,4 @@ Flutter 使用阿里巴巴icon库
 ## MIT Licensed
 
 
-参考：[GitHub - crazycodeboy/awesome-flutter-cn: 一个很棒的Flutter学习资源，官方教程，插件，工具，文章，App，视频教程等的资源列表](https://github.com/crazycodeboy/awesome-flutter-cn)
+参考：[GitHub - crazycodeboy/awesome-flutter-cn: 一个很棒的Flutter学习资源，官方教程，插件，工具，文章，App，视频教程等的资源列表](https://github.com/crazycodeboy/awesome-flutter-cn
