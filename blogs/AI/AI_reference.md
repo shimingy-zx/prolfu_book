@@ -1,10 +1,10 @@
 ---
-title: 学习参考文档
+title: AI_reference
 date: 2022-11-25
 categories:
- - vue
+ - AI
 tags:
- - vue
+ - AI
 sidebar: 'auto'
 ---
 
