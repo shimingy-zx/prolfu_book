@@ -46,6 +46,7 @@ sidebar: 'auto'
 - [Norbert](https://medium.com/@norbertkozsir) - 深度文章、特色与应用创建，由 [Norbert515](https://github.com/Norbert515)提供。
 - [Flutter Tips](https://medium.com/@diegoveloper) - 开发中的文章，提示和技巧 由[Diego Velásquez](https://twitter.com/diegoveloper)提供。
 - [FilledStacks](https://www.filledstacks.com/) - 开发教程和指南 by [Dane Mackier](https://www.instagram.com/filledstacks/)提供。
+- [persilee's Blog - 李少颖的博客 (lishaoy.net)](https://h.lishaoy.net/)
 
 ### 教程
 
@@ -510,8 +511,6 @@ flutter --version
 [jahnli/awesome-flutter-plugins: 🔥🔥 尽可能收集好用的Flutter插件以便更效率的开发 ](https://github.com/jahnli/awesome-flutter-plugins)[(github.com)](https://github.com/jahnli/awesome-flutter-plugins)
 
 [+ 0017 Flutter实用插件集录 · Issue #41 · toly1994328/FlutterUnit (github.com)](https://github.com/toly1994328/FlutterUnit/issues/41)
-
-
 
 
 ## 框架
