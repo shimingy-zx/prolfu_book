@@ -125,6 +125,11 @@ flutter --version
 
 [Strapi Developer Documentation](https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html)
 
+一个 Google Flutter 的 UI 框架
+[FLUI](https://flui.xin/)
+
+[Flutter教程网 - 最专业，最全面的Flutter实用项目代码及教程网站 (flutterj.com)](http://www.flutterj.com/)
+
 ## 例子
 
 [Flutter Web网站搭建教程 - 掘金 (juejin.cn)](https://juejin.cn/post/6844904112329326606)
