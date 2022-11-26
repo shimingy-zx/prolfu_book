@@ -8,4 +8,3 @@
 [怎么以特权模式运行容器 - 腾讯云开发者社区-腾讯云 (tencent.com)](https://cloud.tencent.com/developer/article/1549664)
 
 [(47条消息) docker-compose command多条指令,while_传智院的博客-CSDN博客_command docker-compose](https://blog.csdn.net/MEIYOUDAO_JIUSHIDAO/article/details/103325062)
-
