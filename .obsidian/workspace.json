@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Linux/Linux常用命令.md",
+                "file": "blogs/Linux/linux.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Linux/Linux常用命令.md",
+                "file": "blogs/Linux/linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Linux/Linux常用命令.md",
+                "file": "blogs/Linux/linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Linux/Linux常用命令.md"
+                "file": "blogs/Linux/linux.md"
               }
             }
           },
@@ -156,10 +156,10 @@
   },
   "active": "3d3d78a247a950a5",
   "lastOpenFiles": [
+    "blogs/Linux/Linux常用命令.md",
     "blogs/Linux/debug.md",
     "blogs/Linux/linux.md",
     "blogs/node/Egg/Egg_reference.md",
-    "blogs/Linux/Linux常用命令.md",
     "blogs/Markdown/Markdown_reference.md",
     "blogs/node/Egg/debug/cross-env 不是内部或外部命令，也不是可运行的程序.md",
     "blogs/node/Egg/debug/未命名.md",
