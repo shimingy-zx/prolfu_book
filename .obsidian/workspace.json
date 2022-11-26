@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/node/Egg/Egg_reference.md",
+                "file": "blogs/node/Egg/egg-qiniu.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/node/Egg/Egg_reference.md",
+                "file": "blogs/node/Egg/egg-qiniu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/node/Egg/Egg_reference.md",
+                "file": "blogs/node/Egg/egg-qiniu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/node/Egg/Egg_reference.md"
+                "file": "blogs/node/Egg/egg-qiniu.md"
               }
             }
           },
@@ -162,8 +162,8 @@
   },
   "active": "5040a44449842313",
   "lastOpenFiles": [
-    "blogs/node/Egg/egg-rabc.md",
     "blogs/node/Egg/Egg_reference.md",
+    "blogs/node/Egg/egg-rabc.md",
     "blogs/node/Egg/egg-mongo.md",
     "blogs/node/Egg/egg-jwt.md",
     "blogs/node/Egg/egg-io.md",

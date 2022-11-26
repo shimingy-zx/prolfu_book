@@ -65,9 +65,7 @@ sidebar: 'auto'
 
 https://github.com/Imfdj/egg-beehive
 
-
 [GitHub - edwardxyt/edward-egg-gateway: eggJS框架、nodeJS、rbac权限、restfulAPI](https://github.com/edwardxyt/edward-egg-gateway)
-
 
 [Egg.js 异常处理、中间件、jwt，实现接口权限控制 - 掘金 (juejin.cn)](https://juejin.cn/post/6993559990610952199#heading-8)
 
@@ -115,3 +113,6 @@ https://github.com/Imfdj/egg-beehive
 [Mongoose中常用的Model方法。 - 简书 (jianshu.com)](https://www.jianshu.com/p/4c2261e2d7ff)
 
 [db.collection.insertMany（）_MonogDB 中文网 (mongodb.net.cn)](https://mongodb.net.cn/manual/reference/method/db.collection.insertMany/)
+
+
+[egg-full-qiniu-plus - npm (npmjs.com)](https://www.npmjs.com/package/egg-full-qiniu-plus)
