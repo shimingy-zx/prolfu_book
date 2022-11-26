@@ -110,8 +110,15 @@ Flutter 使用阿里巴巴icon库
 ### 在线开发平台
 [AppBuilder 2 20180529-19:35 (flutterstudio.app)](https://flutterstudio.app/)
 
+### 查看flutter sdk版本以及dart sdk版本
 
-### qi
+flutter --version
+[(40条消息) Flutter指定包名创建项目_动哒APP的博客-CSDN博客_flutter 创建项目指定包名](https://blog.csdn.net/weixin_29003023/article/details/120855724)
+
+### 其他
+[Hello from Ferry Graphql | Ferry Graphql](https://ferrygraphql.com/)
+
+[Strapi Developer Documentation](https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html)
 
 ## 视频
 
@@ -676,4 +683,4 @@ Flutter 使用阿里巴巴icon库
 ## MIT Licensed
 
 
-参考：[GitHub - crazycodeboy/awesome-flutter-cn: 一个很棒的Flutter学习资源，官方教程，插件，工具，文章，App，视频教程等的资源列表](https://github.com/crazycodeboy/awesome-flutter-cn
+参考：[GitHub - crazycodeboy/awesome-flutter-cn: 一个很棒的Flutter学习资源，官方教程，插件，工具，文章，App，视频教程等的资源列表](https://github.com/crazycodeboy/awesome-flutter-cn)
