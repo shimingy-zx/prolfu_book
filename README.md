@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: Good artists copy, great artists steal
-tagline: 偶尔写点儿东西,自己的博客
+heroText: Good artists copy, Great artists steal！
+tagline: 偶尔写点儿东西,有缘相见
 bgImageStyle: {
   height: '850px'
 }
