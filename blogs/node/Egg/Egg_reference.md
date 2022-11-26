@@ -24,7 +24,7 @@ sidebar: 'auto'
 [lqsblog-backend-nodejs-eggjs: 是一个Node.js API后端服务，它基于 Egg 实现（Egg + Sequelize + RBAC + Jwt（+ 自动刷新） + Restful）。 (gitee.com)](https://gitee.com/lqsong/lqsblog-backend-nodejs-eggjs?_from=gitee_search)
 
 
-egg_email
+## egg_email
 [(42条消息) eggjs 使用nodemailer发送邮件_jakysing的博客-CSDN博客](https://blog.csdn.net/yueyezhongpaihuai/article/details/86626875)
 
 [egg-email - npm (npmjs.com)](https://www.npmjs.com/package/egg-email)
