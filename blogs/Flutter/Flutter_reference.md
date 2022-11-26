@@ -12,6 +12,7 @@ sidebar: 'auto'
 ## 目录
 
 - [文章](#文章)
+- 例子
 - [视频](#视频)
 - [组件](#组件)
 - [导航](#导航)
@@ -119,6 +120,10 @@ flutter --version
 [Hello from Ferry Graphql | Ferry Graphql](https://ferrygraphql.com/)
 
 [Strapi Developer Documentation](https://strapi.io/documentation/developer-docs/latest/getting-started/introduction.html)
+
+## 例子
+
+[Flutter Web网站搭建教程 - 掘金 (juejin.cn)](https://juejin.cn/post/6844904112329326606)
 
 ## 视频
 

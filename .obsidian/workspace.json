@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Flutter/Flutter学习参考.md",
+                "file": "blogs/Flutter/Flutter_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Flutter/Flutter学习参考.md",
+                "file": "blogs/Flutter/Flutter_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Flutter/Flutter学习参考.md",
+                "file": "blogs/Flutter/Flutter_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Flutter/Flutter学习参考.md"
+                "file": "blogs/Flutter/Flutter_reference.md"
               }
             }
           },
@@ -162,12 +162,12 @@
   },
   "active": "ce7b886661452717",
   "lastOpenFiles": [
-    "blogs/Flutter/Flutter_reference.md",
     "blogs/Flutter/参考例子.md",
+    "blogs/Flutter/Flutter学习参考.md",
+    "blogs/Flutter/Flutter_reference.md",
     "blogs/Flutter/其他.md",
     "blogs/Flutter/工具篇.md",
     "blogs/Flutter/在线开发平台.md",
-    "blogs/Flutter/Flutter学习参考.md",
     "blogs/Flutter/JSON 转为 Model.md",
     "blogs/Flutter/Flutter 使用阿里巴巴icon库.md",
     "blogs/Flutter/Flutter图标库.md",
