@@ -9,6 +9,7 @@ sidebar: 'auto'
 ---
 
 ## demo
+[[rbac]]
 [lqsong/lqsblog-backend-nodejs-eggjs: 是一个Node.js API后端服务，它基于 Egg 实现（Egg + Sequelize + RBAC + Jwt（+ 自动刷新） + Restful）。 (github.com)](https://github.com/lqsong/lqsblog-backend-nodejs-eggjs)
 
 [glh1991/eggjs-demo: eggjs demo project. 包含 mongo, redis, jwt, acl (github.com)](https://github.com/glh1991/eggjs-demo)
