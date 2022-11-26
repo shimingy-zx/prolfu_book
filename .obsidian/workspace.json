@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Flutter/Flutter_reference.md",
+                "file": "blogs/Flutter/Flutter图标库.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297
+    "width": 249
   },
   "right": {
     "id": "7e6a70072d01ad20",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Flutter/Flutter_reference.md",
+                "file": "blogs/Flutter/Flutter图标库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Flutter/Flutter_reference.md",
+                "file": "blogs/Flutter/Flutter图标库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Flutter/Flutter_reference.md"
+                "file": "blogs/Flutter/Flutter图标库.md"
               }
             }
           },
@@ -156,15 +156,15 @@
   },
   "active": "3d3d78a247a950a5",
   "lastOpenFiles": [
+    "blogs/Flutter/Flutter图标库.md",
+    "blogs/Flutter/Flutter_reference.md",
     "node_modules/_base@0.11.2@base/README.md",
     "blogs/css/001.md",
-    "blogs/Flutter/Flutter_reference.md",
     "blogs/Flutter/工具篇.md",
     "blogs/Flutter/其他.md",
     "blogs/Flutter/在线开发平台.md",
     "blogs/Linux/linux.md",
     "blogs/Linux/Linux常用命令.md",
-    "blogs/Linux/debug.md",
-    "blogs/node/Egg/Egg_reference.md"
+    "blogs/Linux/debug.md"
   ]
 }
