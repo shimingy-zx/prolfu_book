@@ -84,6 +84,8 @@ sidebar: 'auto'
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) - 定义构建配置并切换它们，由[Salvatore Giordano](https://medium.com/@salvatoregiordanoo)提供。
 - [Build Flavor](https://medium.com/@angeloavv/easily-build-flavors-in-flutter-android-and-ios-with-flutter-flavorizr-d48cbf956e4) - 在Flutter中使用flutter_flavorizr来轻松构建flavors，由[Angelo Cassano](https://medium.com/@angeloavv)。
 
+
+
 ## 视频
 
 * [Flutter从入门到进阶实战携程网App](https://coding.imooc.com/class/321.html) - 一门涵盖入门 -> 进阶 -> 实战 -> 拔高拓展的视频教程![ new](http://www.devio.org/img/ico/ico_new.gif)。
