@@ -162,6 +162,8 @@
   },
   "active": "5040a44449842313",
   "lastOpenFiles": [
+    "blogs/node/Egg/graphql-rbac.md",
+    "blogs/node/Egg/egg.js.md",
     "blogs/node/Egg/Egg_reference.md",
     "blogs/node/Egg/egg-Redis.md",
     "blogs/node/Egg/egg-qiniu.md",
@@ -169,8 +171,6 @@
     "blogs/node/Egg/egg-mongo.md",
     "blogs/node/Egg/egg-jwt.md",
     "blogs/node/Egg/egg-io.md",
-    "blogs/node/Egg/学习文档.md",
-    "blogs/node/Egg/npm.md",
-    "blogs/node/Egg/demo.md"
+    "blogs/node/Egg/学习文档.md"
   ]
 }
