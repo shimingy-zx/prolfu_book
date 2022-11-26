@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/database/Mongodb/mongodb.md",
+                "file": "blogs/database/mysql/debug.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,9 +24,12 @@
             "id": "696061f33204072f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "blogs/database/Mongodb/mongodb_advance.pdf"
+                "file": "blogs/database/Mongodb/Mongo_reference.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -43,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/database/Mongodb/mongodb_advance.pdf",
+                "file": "blogs/database/mysql/debug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/database/Mongodb/mongodb_advance.pdf",
+                "file": "blogs/database/mysql/debug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/database/Mongodb/mongodb_advance.pdf"
+                "file": "blogs/database/mysql/debug.md"
               }
             }
           },
@@ -169,17 +171,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "696061f33204072f",
+  "active": "69efeaf6b77a1405",
   "lastOpenFiles": [
-    "blogs/database/Mongodb/mongodb.md",
-    "blogs/database/Mongodb/mongo.md",
-    "blogs/database/Mongodb/综合.md",
-    "blogs/database/Mongodb/数据库导入.md",
-    "blogs/database/Mongodb/时间.md",
-    "blogs/database/mysql/常用命令.md",
-    "blogs/database/mysql/debug.md",
+    "blogs/database/Mongodb/Mongo_reference.md",
     "blogs/docker/Docker_reference.md",
-    "blogs/database/数据库设计.md",
-    "blogs/database/Database_reference.md"
+    "blogs/database/Database_reference.md",
+    "blogs/database/Mongodb/mongodb_advance.pdf",
+    "blogs/database/Mongodb/时间.md",
+    "blogs/database/Mongodb/常用命令.md",
+    "blogs/database/Mongodb/综合.md",
+    "blogs/database/Mongodb/mongo.md",
+    "blogs/database/Mongodb/mongodb.md",
+    "blogs/database/Mongodb/mongodb_base.pdf"
   ]
 }

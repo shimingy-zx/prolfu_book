@@ -4,7 +4,7 @@ date: 2022-11-26
 categories:
  - Mysql
 tags:
- - Mysql
+ - Mysql，debug
 sidebar: 'auto'
 ---
 
