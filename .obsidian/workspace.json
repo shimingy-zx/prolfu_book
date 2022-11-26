@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/node/Egg/Egg_reference.md",
+                "file": "blogs/node/Egg/egg.js.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/node/Egg/Egg_reference.md",
+                "file": "blogs/node/Egg/egg.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/node/Egg/Egg_reference.md",
+                "file": "blogs/node/Egg/egg.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/node/Egg/Egg_reference.md"
+                "file": "blogs/node/Egg/egg.js.md"
               }
             }
           },
@@ -174,8 +174,8 @@
   },
   "active": "5040a44449842313",
   "lastOpenFiles": [
-    "blogs/node/Egg/demo.md",
     "blogs/node/Egg/Egg_reference.md",
+    "blogs/node/Egg/demo.md",
     "blogs/node/Node_reference.md",
     "blogs/node/debug/WARN notsup SKIPPING OPTIONAL DEPENDENCY.md",
     "blogs/node/debug/System limit for number of file watchers reached.md",
