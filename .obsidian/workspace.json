@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Git/github访问加速.md",
+                "file": "blogs/Git/github同步到gitee.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01c33178375582df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Git/Git_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -46,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Git/github访问加速.md",
+                "file": "blogs/Git/Git_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Git/github访问加速.md",
+                "file": "blogs/Git/Git_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Git/github访问加速.md"
+                "file": "blogs/Git/Git_reference.md"
               }
             }
           },
@@ -171,17 +185,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69efeaf6b77a1405",
+  "active": "01c33178375582df",
   "lastOpenFiles": [
+    "blogs/Git/github访问加速.md",
+    "blogs/Git/Git_reference.md",
+    "blogs/docker/Docker_reference.md",
+    "blogs/Git/github同步到gitee.md",
     "blogs/Git/git.md",
     "blogs/Flutter/Dart/教程.md",
     "blogs/Flutter/debug/未命名.md",
     "blogs/Flutter/debug/无法获取插件.md",
     "blogs/Flutter/教程合集/语音识别.md",
-    "blogs/database/mysql/debug.md",
-    "blogs/database/Mongodb/Mongo_reference.md",
-    "blogs/docker/Docker_reference.md",
-    "blogs/database/Database_reference.md",
-    "blogs/database/Mongodb/mongodb_advance.pdf"
+    "blogs/database/mysql/debug.md"
   ]
 }
