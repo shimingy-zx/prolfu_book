@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Flutter/教程合集/语音识别.md",
+                "file": "blogs/Git/git.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Flutter/教程合集/语音识别.md",
+                "file": "blogs/Git/git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Flutter/教程合集/语音识别.md",
+                "file": "blogs/Git/git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Flutter/教程合集/语音识别.md"
+                "file": "blogs/Git/git.md"
               }
             }
           },
@@ -173,15 +173,15 @@
   },
   "active": "69efeaf6b77a1405",
   "lastOpenFiles": [
+    "blogs/Flutter/Dart/教程.md",
+    "blogs/Flutter/debug/未命名.md",
+    "blogs/Flutter/debug/无法获取插件.md",
+    "blogs/Flutter/教程合集/语音识别.md",
     "blogs/database/mysql/debug.md",
     "blogs/database/Mongodb/Mongo_reference.md",
     "blogs/docker/Docker_reference.md",
     "blogs/database/Database_reference.md",
     "blogs/database/Mongodb/mongodb_advance.pdf",
-    "blogs/database/Mongodb/时间.md",
-    "blogs/database/Mongodb/常用命令.md",
-    "blogs/database/Mongodb/综合.md",
-    "blogs/database/Mongodb/mongo.md",
-    "blogs/database/Mongodb/mongodb.md"
+    "blogs/database/Mongodb/时间.md"
   ]
 }
