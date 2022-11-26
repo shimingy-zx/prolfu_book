@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/node/Egg/Egg_reference.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5040a44449842313",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/node/Egg/Egg_reference.md",
+                "file": "blogs/docker/常用命令.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/node/Egg/Egg_reference.md",
+                "file": "blogs/docker/常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/node/Egg/Egg_reference.md",
+                "file": "blogs/docker/常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/node/Egg/Egg_reference.md"
+                "file": "blogs/docker/常用命令.md"
               }
             }
           },
@@ -160,17 +146,17 @@
     "width": 342.5,
     "collapsed": true
   },
-  "active": "5040a44449842313",
+  "active": "3d3d78a247a950a5",
   "lastOpenFiles": [
-    "blogs/node/Egg/egg_graphql/egg_graphql.md",
-    "blogs/node/Egg/egg_graphql/demo.md",
-    "blogs/node/Egg/npm.md",
+    "blogs/docker/配置记录.md",
+    "blogs/docker/Docker_reference.md",
+    "blogs/javascript/three.md",
+    "blogs/javascript/one.md",
+    "blogs/javascript/two.md",
+    "blogs/javascript/4.md",
     "blogs/node/Egg/Egg_reference.md",
-    "blogs/node/Egg/egg.js.md",
-    "blogs/node/Egg/graphql-rbac.md",
-    "blogs/node/Egg/egg-Redis.md",
-    "blogs/node/Egg/egg-qiniu.md",
-    "blogs/node/Egg/egg-rabc.md",
-    "blogs/node/Egg/egg-mongo.md"
+    "blogs/javascript/5.md",
+    "blogs/node/Egg/egg_graphql/egg_graphql.md",
+    "blogs/node/Egg/egg_graphql/demo.md"
   ]
 }
