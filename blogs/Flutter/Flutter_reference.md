@@ -130,6 +130,10 @@ flutter --version
 
 [Flutter教程网 - 最专业，最全面的Flutter实用项目代码及教程网站 (flutterj.com)](http://www.flutterj.com/)
 
+[【Flutter学习】之深入浅出 Key - 梁飞宇 - 博客园 (cnblogs.com)](https://www.cnblogs.com/lxlx1798/p/11171636.html)
+
+在开发 Flutter 的过程中你可能会发现，一些小部件的构造函数中都有一个可选的参数——**Key**。在这篇文章中我们会深入浅出的介绍什么是 **Key**，以及应该使用 **key** 的具体场景。
+
 ## 例子
 
 [Flutter Web网站搭建教程 - 掘金 (juejin.cn)](https://juejin.cn/post/6844904112329326606)
