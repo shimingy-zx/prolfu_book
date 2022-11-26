@@ -11,30 +11,9 @@
             "id": "69efeaf6b77a1405",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "01c33178375582df",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/技术综合/技术部学习文档.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "696061f33204072f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/database/Mongodb/Mongo_reference.md",
+                "file": "blogs/vue/Vue_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/docker/Docker_reference.md",
+                "file": "blogs/Markdown/Vue_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/技术综合/技术部学习文档.md",
+                "file": "blogs/Markdown/Vue_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/技术综合/技术部学习文档.md",
+                "file": "blogs/Markdown/Vue_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/技术综合/技术部学习文档.md"
+                "file": "blogs/Markdown/Vue_reference.md"
               }
             }
           },
@@ -180,17 +159,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "01c33178375582df",
+  "active": "a0fd0897a09cc351",
   "lastOpenFiles": [
+    "blogs/vue/Vue_reference.md",
+    "blogs/Markdown/Vue_reference.md",
+    "blogs/docker/Docker_reference.md",
+    "blogs/database/Mongodb/Mongo_reference.md",
+    "blogs/graphql/Graphql_reference.md",
+    "blogs/技术综合/技术部学习文档.md",
     "blogs/技术综合/工具篇.md",
     "blogs/技术综合/工具类.md",
     "blogs/Git/git.md",
-    "blogs/Git/github同步到gitee.md",
-    "blogs/Git/Git_reference.md",
-    "blogs/Git/github访问加速.md",
-    "blogs/docker/Docker_reference.md",
-    "blogs/Flutter/Dart/教程.md",
-    "blogs/Flutter/debug/未命名.md",
-    "blogs/Flutter/debug/无法获取插件.md"
+    "blogs/Git/github同步到gitee.md"
   ]
 }
