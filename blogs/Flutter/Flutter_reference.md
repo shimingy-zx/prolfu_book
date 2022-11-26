@@ -687,6 +687,9 @@ flutter --version
 
 - [Practical Flutter](https://www.amazon.com/Practical-Flutter-Improve-Development-Open-Source/dp/1484249712) -，由[Frank Zammetti](https://github.com/fzammetti)提供。
 
+### 其他
+[Flutter核心技术与实战 · 看云 (kancloud.cn)](https://www.kancloud.cn/alex_wsc/flutter_demo)
+
 ## 社区
 
 ### 演讲材料
