@@ -84,7 +84,20 @@ sidebar: 'auto'
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) - 定义构建配置并切换它们，由[Salvatore Giordano](https://medium.com/@salvatoregiordanoo)提供。
 - [Build Flavor](https://medium.com/@angeloavv/easily-build-flavors-in-flutter-android-and-ios-with-flutter-flavorizr-d48cbf956e4) - 在Flutter中使用flutter_flavorizr来轻松构建flavors，由[Angelo Cassano](https://medium.com/@angeloavv)。
 
+### Flutter图标库
+在Flutter中我们可以通过 Icon组件来加载图标，但是Flutter中有很多的图标，如果我们想知道每个图标具体叫什么名字，这个时候就可以参考下面地址.
 
+**Flutter Icons图标库地址1：**
+[https://flutter.github.io/cupertino_icons/](https://flutter.github.io/cupertino_icons/)
+
+**Flutter Icons图标库地址2**
+[https://material.io/tools/icons/?icon=account_balance&amp;style=baseline](https://material.io/tools/icons/?icon=account_balance&style=baseline)
+
+**Flutter Icons图标库地址3**
+[http://fluttericon.com/](http://fluttericon.com/)
+
+Flutter 使用阿里巴巴icon库
+[Flutter 使用阿里巴巴icon库【图文】_mob604756f3c518_51CTO博客](https://blog.51cto.com/u_15127585/2783210)
 
 ## 视频
 
