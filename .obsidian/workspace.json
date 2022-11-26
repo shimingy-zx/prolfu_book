@@ -11,13 +11,8 @@
             "id": "fd280bf39775ea03",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/Flutter/参考例子.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -32,9 +27,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b6a973ec5c2b1a25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Flutter/Flutter_reference.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7057f04189061f83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Flutter/Flutter_reference.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,11 +181,11 @@
     "width": 342.5,
     "collapsed": true
   },
-  "active": "ce7b886661452717",
+  "active": "7057f04189061f83",
   "lastOpenFiles": [
     "blogs/Flutter/参考例子.md",
-    "blogs/Flutter/Flutter学习参考.md",
     "blogs/Flutter/Flutter_reference.md",
+    "blogs/Flutter/Flutter学习参考.md",
     "blogs/Flutter/其他.md",
     "blogs/Flutter/工具篇.md",
     "blogs/Flutter/在线开发平台.md",
