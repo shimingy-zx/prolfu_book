@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Markdown/Vue_reference.md",
+                "file": "blogs/Markdown/Markdown_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Markdown/Vue_reference.md",
+                "file": "blogs/Markdown/Markdown_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Markdown/Vue_reference.md",
+                "file": "blogs/Markdown/Markdown_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Markdown/Vue_reference.md"
+                "file": "blogs/Markdown/Markdown_reference.md"
               }
             }
           },
@@ -162,7 +162,7 @@
   "active": "a0fd0897a09cc351",
   "lastOpenFiles": [
     "blogs/vue/Vue_reference.md",
-    "blogs/Markdown/Vue_reference.md",
+    "blogs/Markdown/Markdown_reference.md",
     "blogs/docker/Docker_reference.md",
     "blogs/database/Mongodb/Mongo_reference.md",
     "blogs/graphql/Graphql_reference.md",
