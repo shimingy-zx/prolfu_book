@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Git/git.md",
+                "file": "blogs/Git/github访问加速.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Git/git.md",
+                "file": "blogs/Git/github访问加速.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Git/git.md",
+                "file": "blogs/Git/github访问加速.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Git/git.md"
+                "file": "blogs/Git/github访问加速.md"
               }
             }
           },
@@ -173,6 +173,7 @@
   },
   "active": "69efeaf6b77a1405",
   "lastOpenFiles": [
+    "blogs/Git/git.md",
     "blogs/Flutter/Dart/教程.md",
     "blogs/Flutter/debug/未命名.md",
     "blogs/Flutter/debug/无法获取插件.md",
@@ -181,7 +182,6 @@
     "blogs/database/Mongodb/Mongo_reference.md",
     "blogs/docker/Docker_reference.md",
     "blogs/database/Database_reference.md",
-    "blogs/database/Mongodb/mongodb_advance.pdf",
-    "blogs/database/Mongodb/时间.md"
+    "blogs/database/Mongodb/mongodb_advance.pdf"
   ]
 }
