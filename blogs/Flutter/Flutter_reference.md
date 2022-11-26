@@ -507,6 +507,11 @@ flutter --version
 
 #### other
 
+[jahnli/awesome-flutter-plugins: 🔥🔥 尽可能收集好用的Flutter插件以便更效率的开发 ](https://github.com/jahnli/awesome-flutter-plugins)[(github.com)](https://github.com/jahnli/awesome-flutter-plugins)
+
+[+ 0017 Flutter实用插件集录 · Issue #41 · toly1994328/FlutterUnit (github.com)](https://github.com/toly1994328/FlutterUnit/issues/41)
+
+
 
 
 ## 框架

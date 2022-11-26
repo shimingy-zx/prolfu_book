@@ -61,7 +61,6 @@ github
 ## 开源项目
 
 [Flutter中国开源项目 (github.com)](https://github.com/flutterchina)
-
 [CoderTitan/mahuaPet: Flutter跨平台开发的完整项目---麻花宠物, 一款记录宠物生活的APP (github.com)](https://github.com/CoderTitan/mahuaPet)
 
 ### awesome-flutter-cn
@@ -111,9 +110,3 @@ github
 ## 第三方库
 
 [Dart packages (flutter-io.cn)](https://pub.flutter-io.cn/)
-
-### 实用插件
-
-[jahnli/awesome-flutter-plugins: 🔥🔥 尽可能收集好用的Flutter插件以便更效率的开发 ](https://github.com/jahnli/awesome-flutter-plugins)[(github.com)](https://github.com/jahnli/awesome-flutter-plugins)
-
-[+ 0017 Flutter实用插件集录 · Issue #41 · toly1994328/FlutterUnit (github.com)](https://github.com/toly1994328/FlutterUnit/issues/41)
