@@ -103,6 +103,13 @@ Flutter 使用阿里巴巴icon库
 ### JSON 转为 Model
 [Instantly parse JSON in any language | quicktype](https://app.quicktype.io/)（需要翻墙）
 
+[JSON 转 Dart 互联网技术圈 互联网技术圈 (baiked.com)](https://it.baiked.com/tools/jsondart.html)
+
+[Dart packages (flutter-io.cn)](https://pub.flutter-io.cn/)
+
+### 在线开发平台
+[AppBuilder 2 20180529-19:35 (flutterstudio.app)](https://flutterstudio.app/)
+
 ## 视频
 
 * [Flutter从入门到进阶实战携程网App](https://coding.imooc.com/class/321.html) - 一门涵盖入门 -> 进阶 -> 实战 -> 拔高拓展的视频教程![ new](http://www.devio.org/img/ico/ico_new.gif)。
