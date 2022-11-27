@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "7057f04189061f83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/Flutter/Flutter_reference.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d896b635b6bd4eac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Git/Git_reference.md",
+                "file": "blogs/技术综合/调试工具.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -52,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Flutter/Flutter学习参考.md",
+                "file": "blogs/技术综合/订单号生成.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 253.5
   },
   "right": {
     "id": "7e6a70072d01ad20",
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Git/Git_reference.md",
+                "file": "blogs/技术综合/订单号生成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Git/Git_reference.md",
+                "file": "blogs/技术综合/订单号生成.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Git/Git_reference.md"
+                "file": "blogs/技术综合/订单号生成.md"
               }
             }
           },
@@ -183,19 +170,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 219.5
   },
-  "active": "d896b635b6bd4eac",
+  "active": "770adb8065e20d6a",
   "lastOpenFiles": [
-    "blogs/Flutter/Flutter_reference.md",
     "blogs/Flutter/Flutter学习参考.md",
+    "blogs/技术综合/调试工具.md",
+    "blogs/技术综合/案例参考.md",
+    "blogs/Git/Git_reference.md",
+    "blogs/Flutter/Flutter_reference.md",
     "blogs/Flutter/语音识别.md",
     "blogs/Flutter/实用第三方库.md",
     "blogs/other/1.md",
     "blogs/技术综合/技术部学习文档.md",
-    "blogs/技术综合/教程收集.md",
-    "blogs/技术综合/工具篇.md",
-    "blogs/技术综合/短信服务商对比.md",
-    "blogs/技术综合/订单号生成.md"
+    "blogs/技术综合/教程收集.md"
   ]
 }
