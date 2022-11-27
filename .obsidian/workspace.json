@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/Frp/Frp_reference.md",
+                "file": "blogs/views/messageBoard.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/Frp/Frp_reference.md",
+                "file": "blogs/views/messageBoard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/Frp/Frp_reference.md",
+                "file": "blogs/views/messageBoard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/Frp/Frp_reference.md"
+                "file": "blogs/views/messageBoard.md"
               }
             }
           },
@@ -145,14 +145,14 @@
     "direction": "horizontal",
     "width": 219.5
   },
-  "active": "d41b21a2ca053447",
+  "active": "efd3d5dd3bf2ae38",
   "lastOpenFiles": [
+    "blogs/CS/Frp/Frp_reference.md",
     "blogs/other/内网穿透.md",
     "blogs/other/1.md",
     "blogs/other/案例参考.md",
     "blogs/CS/Git/Git_reference.md",
     "blogs/CS/Frp/配置文件.md",
-    "blogs/CS/Frp/Frp_reference.md",
     "blogs/CS/Linux/Linux_reference.md",
     "blogs/CS/Linux/debug.md",
     "blogs/CS/node/Egg/Egg_reference.md",
