@@ -25,7 +25,7 @@
 
 效果：  
 
-![](floder/Pasted%20image%2020211211204400.png)
+![](Pasted%20image%2020211211204400.png)
 
 > 终于还是对`TextField`下手了，这个属性最多、功能点最多的Widget。
 

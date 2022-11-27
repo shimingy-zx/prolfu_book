@@ -110,6 +110,6 @@ class MyText extends StatelessWidget {
 
   
 
-![](floder/Pasted%20image%2020211211142244.png)
+![](Pasted%20image%2020211211142244.png)
 
 本文转自 [https://www.jianshu.com/p/c8628d41b6b7](https://www.jianshu.com/p/c8628d41b6b7)，如有侵权，请联系删除。

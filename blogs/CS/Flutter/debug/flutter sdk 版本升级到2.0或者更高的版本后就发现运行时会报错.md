@@ -30,4 +30,4 @@ flutter run --no-sound-null-safety
 flutter build apk --no-sound-null-safety
 
 
-![enter description here](images/屏幕截图_2021-06-23_222531.png)
+![enter description here](屏幕截图_2021-06-23_222531.png)

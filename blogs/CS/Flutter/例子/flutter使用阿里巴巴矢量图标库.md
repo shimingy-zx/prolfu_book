@@ -4,30 +4,30 @@
 
 - 登录阿里图标网站，选择合适图标，点添加入库（如下图）
 
-![](image/flutter使用阿里巴巴矢量图标库/1632464312786.png)
+![](1632464312786.png)
 
 
 - 也可把相应的icon添加至项目后再统一下载
 
-![img](image/flutter使用阿里巴巴矢量图标库/1632464485802.png)
+![img](1632464485802.png)
 
 
 
 - 选择自己所需要的icon图标加入购物车，点击购物车，点击下载代码。
 
-![img](image/flutter使用阿里巴巴矢量图标库/1632465051099.png)
+![img](1632465051099.png)
 
 
 项目icon下载
 
-![img](image/flutter使用阿里巴巴矢量图标库/1632465009464.png)
+![img](1632465009464.png)
 
 
 解压下载的压缩包,会得到如下文件，找到.ttf结尾的文件
 
 
 
-![](image/flutter使用阿里巴巴矢量图标库/1632465206261.png)
+![](1632465206261.png)
 
 
 
@@ -43,7 +43,7 @@
 
 添加后如下图：
 
-![](image/flutter使用阿里巴巴矢量图标库/1632466423250.png)
+![](1632466423250.png)
 
 复制iconfont.ttf文件到项目中
 我的存放路径是：
@@ -61,7 +61,7 @@ lib/assets/icons/iconfont.ttf
 
 在该文件编写如下：
 
-![](image/flutter使用阿里巴巴矢量图标库/1632467825137.png)
+![](1632467825137.png)
 
 代码如下：
 
@@ -89,7 +89,7 @@ class MyIcon {
 
 第二种引入方式，先引入"import 'myIcon.dart';"，再调用icon
 
-![img](image/flutter使用阿里巴巴矢量图标库/1632467496841.png)实例代码如下：
+![img](1632467496841.png)实例代码如下：
 
 ```
 import 'package:flutter/material.dart';
@@ -127,7 +127,7 @@ class MyApp extends StatelessWidget {
 
 效果如图
 
-![](image/flutter使用阿里巴巴矢量图标库/1632467586479.png)
+![](1632467586479.png)
 
 
 iconfont.css 快速生成 myIcon.dart 在线小工具[https://xwrite.gitee.io/blog/](https://xwrite.gitee.io/blog/)
@@ -135,9 +135,9 @@ iconfont.css 快速生成 myIcon.dart 在线小工具[https://xwrite.gitee.io/bl
 方法：
 找到从阿里图标库下载的压缩包，打开压缩包后找到iconfont.css文件，在浏览器中打开https://xwrite.gitee.io/blog/，将iconfont.css文件拖入至改网页中。复制生成的代码到自己创建的字体图标文件中，更改该文件中的_family的值为自己在pubspec.yaml文件中的family值。
 
-![](image/flutter使用阿里巴巴矢量图标库/1632468110327.png)
+![](1632468110327.png)
 
-![](image/flutter使用阿里巴巴矢量图标库/1632468136411.png)
+![](1632468136411.png)
 
 
 

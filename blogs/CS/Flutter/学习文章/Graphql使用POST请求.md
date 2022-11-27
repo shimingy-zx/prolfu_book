@@ -1,9 +1,9 @@
 近期项目正在用Apifox做接口测试，可是不幸的问题在于项目当中用的是Graphql做数据请求，Graphql有专门的调试工具。
-![](folder/Pasted%20image%2020220608013017.png)
+![](Pasted%20image%2020220608013017.png)
 
 而Apifox又没有特定的请求方式去支持Graphql数据请求，那前后端应该如何更统一地管理项目的接口呢？
 
-![](folder/Pasted%20image%2020220608013231.png)
+![](Pasted%20image%2020220608013231.png)
 
 遇到问题找官方说明文档，好在Grabphql支持Get、Post请求。
 参考该链接：[通过 HTTP 提供服务 | GraphQL](https://graphql.cn/learn/serving-over-http/)
@@ -40,7 +40,7 @@ query ($skip: Int!, $limit: Int!) {
 
 ```
 如图
-![](folder/Pasted%20image%2020220608020825.png)
+![](Pasted%20image%2020220608020825.png)
 
 
 那么在Apifox中如何请求呢？
@@ -56,9 +56,9 @@ query ($skip: Int!, $limit: Int!) {
 该请求等效于上方的graphql请求
 
 还是一样，直接上图
-![](folder/Pasted%20image%2020220608021241.png)
-![](folder/Pasted%20image%2020220608021222.png)
+![](Pasted%20image%2020220608021241.png)
+![](Pasted%20image%2020220608021222.png)
 
 数据可以正常响应，成功！
 
-![](folder/Pasted%20image%2020220608021444.png)
+![](Pasted%20image%2020220608021444.png)
