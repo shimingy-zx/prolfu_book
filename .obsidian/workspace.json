@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Git/替换分支.md",
+                "file": "blogs/Git/Git_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Git/替换分支.md",
+                "file": "blogs/Git/Git_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Git/替换分支.md"
+                "file": "blogs/Git/Git_reference.md"
               }
             }
           },
@@ -167,17 +167,17 @@
     "direction": "horizontal",
     "width": 219.5
   },
-  "active": "d41b21a2ca053447",
+  "active": "770adb8065e20d6a",
   "lastOpenFiles": [
+    "blogs/Flutter/Flutter学习参考.md",
+    "blogs/Git/替换分支.md",
     "node_modules/_got@9.6.0@got/readme.md",
     "blogs/docker/常用命令.md",
     "blogs/技术综合/技术部学习文档.md",
     "blogs/技术综合/工具篇.md",
     "blogs/Git/常用命令.md",
     "blogs/技术综合/教程收集.md",
-    "blogs/Git/替换分支.md",
     "blogs/Git/Git_reference.md",
-    "blogs/技术综合/订单号生成.md",
-    "blogs/Flutter/Flutter学习参考.md"
+    "blogs/技术综合/订单号生成.md"
   ]
 }
