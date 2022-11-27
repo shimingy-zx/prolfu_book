@@ -1,3 +1,14 @@
+---
+title: JWT
+date: 2021-01-27
+categories:
+ - jwt
+tags:
+ - jwt
+sidebar: 'auto'
+---
+
+
 ## jwt主动失效问题
 
 [SpringCloud Alibaba 实战 - 如何让 jwt token 主动失效？ - 掘金 (juejin.cn)](https://juejin.cn/post/7052873223477657630)
@@ -21,3 +32,9 @@
 [【SSO单点登录】JWT续签问题 && OAuth2.0 中的refreshToken刷新机制 - 掘金 (juejin.cn)](https://juejin.cn/post/7151033800577777694)
 
 [Access Token & Refresh Token 详解以及使用原则 - 掘金 (juejin.cn)](https://juejin.cn/post/6859572307505971213)
+
+## 参考文档
+
+[http://t.csdn.cn/CTOBY](http://t.csdn.cn/CTOBY)
+
+[http://t.csdn.cn/L5lZp](http://t.csdn.cn/L5lZp)
