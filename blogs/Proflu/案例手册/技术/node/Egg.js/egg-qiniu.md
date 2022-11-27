@@ -1,1 +1,0 @@
-[egg-full-qiniu-plus - npm (npmjs.com)](https://www.npmjs.com/package/egg-full-qiniu-plus)

@@ -1,1 +1,0 @@
-[flutter运行报错：your app to be migrated to the Android embedding v2 - 简书 (jianshu.com)](https://www.jianshu.com/p/ecd9dc1bfa9f)
