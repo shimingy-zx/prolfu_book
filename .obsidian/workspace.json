@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/other/Frp_reference.md",
+                "file": "blogs/Frp/Frp_reference.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19ddb021cb6a0b49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Frp/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/other/Frp_reference.md",
+                "file": "blogs/Frp/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/other/Frp_reference.md",
+                "file": "blogs/Frp/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/other/Frp_reference.md"
+                "file": "blogs/Frp/未命名.md"
               }
             }
           },
@@ -198,10 +211,10 @@
     "direction": "horizontal",
     "width": 219.5
   },
-  "active": "c45c063c982b65bd",
+  "active": "19ddb021cb6a0b49",
   "lastOpenFiles": [
+    "blogs/Frp/Frp_reference.md",
     "blogs/Linux/Linux_reference.md",
-    "blogs/other/Frp_reference.md",
     "blogs/Linux/debug.md",
     "blogs/node/Egg/Egg_reference.md",
     "blogs/Linux/linux.md",
