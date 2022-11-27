@@ -11,8 +11,13 @@
             "id": "efd3d5dd3bf2ae38",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blogs/other/内网穿透.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blogs/other/内网穿透.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blogs/other/内网穿透.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blogs/other/内网穿透.md"
+              }
             }
           },
           {
@@ -138,6 +147,8 @@
   },
   "active": "efd3d5dd3bf2ae38",
   "lastOpenFiles": [
+    "blogs/other/1.md",
+    "blogs/other/案例参考.md",
     "blogs/Git/Git_reference.md",
     "blogs/Frp/配置文件.md",
     "blogs/Frp/Frp_reference.md",
@@ -145,8 +156,6 @@
     "blogs/Linux/debug.md",
     "blogs/node/Egg/Egg_reference.md",
     "blogs/Linux/linux.md",
-    "blogs/Linux/Linux常用命令.md",
-    "blogs/other/工具篇.md",
-    "blogs/other/短信服务商对比.md"
+    "blogs/Linux/Linux常用命令.md"
   ]
 }
