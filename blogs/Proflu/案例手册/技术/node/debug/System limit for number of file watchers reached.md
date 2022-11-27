@@ -1,0 +1,2 @@
+Error: ENOSPC: System limit for number of file watchers reached, watch '/www/wwwroot/lulab_backend/app/extend'
+[如何修复“达到文件观察者数量的系统限制”错误 - 它的 Linux FOSS (itslinuxfoss.com)](https://itslinuxfoss.com/fix-system-limit-watchers-reached-error/)

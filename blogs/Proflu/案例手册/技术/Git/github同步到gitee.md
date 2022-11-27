@@ -1,0 +1,1 @@
+[Github Actions自动部署Hugo到Gitee同时刷新Gitee Pages - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/367339276)
