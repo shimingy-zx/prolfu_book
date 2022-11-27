@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/views/messageBoard.md",
+                "file": "blogs/Proflu/商业计划书/4产品服务/教育理念.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/views/messageBoard.md",
+                "file": "blogs/Proflu/商业计划书/4产品服务/教育理念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/views/messageBoard.md",
+                "file": "blogs/Proflu/商业计划书/4产品服务/教育理念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/views/messageBoard.md"
+                "file": "blogs/Proflu/商业计划书/4产品服务/教育理念.md"
               }
             }
           },
@@ -147,15 +147,15 @@
   },
   "active": "efd3d5dd3bf2ae38",
   "lastOpenFiles": [
-    "blogs/CS/Frp/Frp_reference.md",
-    "blogs/other/内网穿透.md",
-    "blogs/other/1.md",
-    "blogs/other/案例参考.md",
-    "blogs/CS/Git/Git_reference.md",
-    "blogs/CS/Frp/配置文件.md",
-    "blogs/CS/Linux/Linux_reference.md",
-    "blogs/CS/Linux/debug.md",
-    "blogs/CS/node/Egg/Egg_reference.md",
-    "blogs/CS/Linux/linux.md"
+    "blogs/Proflu/商业计划书/4产品服务/目标客户.md",
+    "blogs/Proflu/商业计划书/4产品服务/教育理念.md",
+    "blogs/Proflu/商业计划书/4产品服务/技术研发.md",
+    "blogs/Proflu/商业计划书/4产品服务/固定资产.md",
+    "blogs/Proflu/商业计划书/4产品服务/4.1产品介绍.md",
+    "blogs/Proflu/商业计划书/3市场分析/3.5商业模式.md",
+    "blogs/Proflu/商业计划书/3市场分析/3.4政策导向.md",
+    "blogs/Proflu/商业计划书/3市场分析/3.3行业趋势.md",
+    "blogs/Proflu/商业计划书/3市场分析/3.2竞争分析.md",
+    "blogs/Proflu/商业计划书/3市场分析/3.1行业现状.md"
   ]
 }
