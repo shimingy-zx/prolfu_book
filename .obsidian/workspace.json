@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "c45c063c982b65bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/other/Frp_reference.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "770adb8065e20d6a",
             "type": "leaf",
             "state": {
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Linux/Linux_reference.md",
+                "file": "blogs/other/Frp_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Linux/Linux_reference.md",
+                "file": "blogs/other/Frp_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Linux/Linux_reference.md"
+                "file": "blogs/other/Frp_reference.md"
               }
             }
           },
@@ -185,17 +198,17 @@
     "direction": "horizontal",
     "width": 219.5
   },
-  "active": "13a836c5fc52619f",
+  "active": "c45c063c982b65bd",
   "lastOpenFiles": [
+    "blogs/Linux/Linux_reference.md",
+    "blogs/other/Frp_reference.md",
     "blogs/Linux/debug.md",
     "blogs/node/Egg/Egg_reference.md",
-    "blogs/Linux/Linux_reference.md",
     "blogs/Linux/linux.md",
     "blogs/Linux/Linux常用命令.md",
     "blogs/other/工具篇.md",
     "blogs/other/短信服务商对比.md",
     "blogs/other/订单号生成.md",
-    "blogs/other/调试工具.md",
-    "blogs/other/案例参考.md"
+    "blogs/other/调试工具.md"
   ]
 }
