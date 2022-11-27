@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/other/内网穿透.md",
+                "file": "blogs/Frp/Frp_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/other/内网穿透.md",
+                "file": "blogs/Frp/Frp_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/other/内网穿透.md",
+                "file": "blogs/Frp/Frp_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/other/内网穿透.md"
+                "file": "blogs/Frp/Frp_reference.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "efd3d5dd3bf2ae38",
   "lastOpenFiles": [
+    "blogs/other/内网穿透.md",
     "blogs/other/1.md",
     "blogs/other/案例参考.md",
     "blogs/Git/Git_reference.md",
@@ -155,7 +156,6 @@
     "blogs/Linux/Linux_reference.md",
     "blogs/Linux/debug.md",
     "blogs/node/Egg/Egg_reference.md",
-    "blogs/Linux/linux.md",
-    "blogs/Linux/Linux常用命令.md"
+    "blogs/Linux/linux.md"
   ]
 }
