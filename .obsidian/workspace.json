@@ -19,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e67eef06bf0d9048",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/Proflu/Theory/陆老师课程介绍.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -159,7 +145,7 @@
     "direction": "horizontal",
     "width": 219.5
   },
-  "active": "e67eef06bf0d9048",
+  "active": "d41b21a2ca053447",
   "lastOpenFiles": [
     "blogs/Proflu/Theory/来的越玩，道路越窄.md",
     "blogs/Proflu/综合.md",
