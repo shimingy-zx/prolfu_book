@@ -24,8 +24,13 @@
             "id": "e67eef06bf0d9048",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Proflu/Theory/Course/Q&A.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -95,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blogs/Proflu/Theory/Course/Q&A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blogs/Proflu/Theory/Course/Q&A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blogs/Proflu/Theory/Course/Q&A.md"
+              }
             }
           },
           {
@@ -152,6 +161,7 @@
   },
   "active": "e67eef06bf0d9048",
   "lastOpenFiles": [
+    "blogs/Proflu/Theory/Course/最佳实现路径.md",
     "blogs/Proflu/Theory/金句.md",
     "blogs/Proflu/案例手册/案例分析/访谈案例/往期嘉宾.md",
     "blogs/Proflu/案例手册/案例分析/访谈案例/往期部分案例嘉宾.md",
@@ -160,7 +170,6 @@
     "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/中国动向陈义红：品牌奇才的对赌体验.md",
     "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/创新工场李开复：第四波创业高潮来到了.md",
     "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/爱尔眼科陈邦：资本运营超对手.md",
-    "blogs/Proflu/案例手册/案例分析/访谈案例/folder/Pasted image 20211220231308.png",
-    "blogs/Proflu/商业计划书/4产品服务/学员等级.md"
+    "blogs/Proflu/案例手册/案例分析/访谈案例/folder/Pasted image 20211220231308.png"
   ]
 }
