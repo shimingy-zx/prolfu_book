@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/Theory/眼高和手高哪个更重要？.md",
+                "file": "blogs/Proflu/综合.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/Theory/眼高和手高哪个更重要？.md",
+                "file": "blogs/Proflu/综合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/Theory/眼高和手高哪个更重要？.md",
+                "file": "blogs/Proflu/综合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/Theory/眼高和手高哪个更重要？.md"
+                "file": "blogs/Proflu/综合.md"
               }
             }
           },
@@ -161,6 +161,7 @@
   },
   "active": "e67eef06bf0d9048",
   "lastOpenFiles": [
+    "blogs/Proflu/Theory/眼高和手高哪个更重要？.md",
     "blogs/Proflu/Theory/学习原则.md",
     "blogs/Proflu/Theory/谈判原则.md",
     "blogs/Proflu/Theory/谈判的智慧.md",
@@ -169,7 +170,6 @@
     "blogs/Proflu/Theory/论同理心的重要性.md",
     "blogs/Proflu/Theory/陆老师课程介绍.md",
     "blogs/Proflu/Theory/来的越玩，道路越窄.md",
-    "blogs/Proflu/Theory/金句.md",
-    "blogs/Proflu/Theory/教育.md"
+    "blogs/Proflu/Theory/金句.md"
   ]
 }
