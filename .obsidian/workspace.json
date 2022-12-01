@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/views/messageBoard.md",
+                "file": "blogs/Proflu/Theory/金句.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4445fa89c4fc2a50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Proflu/Theory/如何授权.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/views/messageBoard.md",
+                "file": "blogs/Proflu/Theory/如何授权.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/views/messageBoard.md",
+                "file": "blogs/Proflu/Theory/如何授权.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/views/messageBoard.md"
+                "file": "blogs/Proflu/Theory/如何授权.md"
               }
             }
           },
@@ -145,17 +159,17 @@
     "direction": "horizontal",
     "width": 219.5
   },
-  "active": "efd3d5dd3bf2ae38",
+  "active": "4445fa89c4fc2a50",
   "lastOpenFiles": [
+    "blogs/Proflu/Theory/金句.md",
+    "blogs/Proflu/Theory/如何授权.md",
+    "blogs/Proflu/Theory/结合面的优势.md",
+    "blogs/Proflu/Theory/教育.md",
+    "blogs/Proflu/Theory/国字培养方案.md",
+    "blogs/views/messageBoard.md",
     "blogs/Think/001.md",
     "blogs/other/如何为你的开源项目选择一个合适的开源协议？/1640431424035.png",
     "blogs/other/如何为你的开源项目选择一个合适的开源协议？/1640431385486.png",
-    "blogs/other/如何为你的开源项目选择一个合适的开源协议？/1635420482984.png",
-    "blogs/CS/AI/AI_reference.md",
-    "blogs/CS/docker/Docker_reference.md",
-    "blogs/CS/database/Mongodb/Mongo_reference.md",
-    "blogs/Proflu/Theory/陆老师课程介绍.md",
-    "blogs/Proflu/Theory/来的越玩，道路越窄.md",
-    "blogs/Proflu/综合.md"
+    "blogs/other/如何为你的开源项目选择一个合适的开源协议？/1635420482984.png"
   ]
 }
