@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/Theory/授权，赋能的意义何在？.md",
+                "file": "blogs/Proflu/Theory/谈判原则.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/Theory/授权，赋能的意义何在？.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/Theory/授权，赋能的意义何在？.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "blogs/Proflu/Theory/授权，赋能的意义何在？.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,17 +155,17 @@
     "direction": "horizontal",
     "width": 219.5
   },
-  "active": "4445fa89c4fc2a50",
+  "active": "d41b21a2ca053447",
   "lastOpenFiles": [
-    "blogs/Proflu/Theory/金句.md",
+    "blogs/Proflu/Theory/谈判原则.md",
+    "blogs/Proflu/Theory/谈判的智慧.md",
     "blogs/Proflu/Theory/授权，赋能的意义何在？.md",
+    "blogs/Proflu/Theory/金句.md",
     "blogs/Proflu/Theory/结合面的优势.md",
     "blogs/Proflu/Theory/教育.md",
     "blogs/Proflu/Theory/国字培养方案.md",
     "blogs/views/messageBoard.md",
     "blogs/Think/001.md",
-    "blogs/other/如何为你的开源项目选择一个合适的开源协议？/1640431424035.png",
-    "blogs/other/如何为你的开源项目选择一个合适的开源协议？/1640431385486.png",
-    "blogs/other/如何为你的开源项目选择一个合适的开源协议？/1635420482984.png"
+    "blogs/other/如何为你的开源项目选择一个合适的开源协议？/1640431424035.png"
   ]
 }
