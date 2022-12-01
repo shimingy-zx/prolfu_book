@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/docker/Docker_reference.md",
+                "file": "blogs/CS/AI/AI_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/docker/Docker_reference.md",
+                "file": "blogs/CS/AI/AI_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/docker/Docker_reference.md",
+                "file": "blogs/CS/AI/AI_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/docker/Docker_reference.md"
+                "file": "blogs/CS/AI/AI_reference.md"
               }
             }
           },
@@ -147,6 +147,7 @@
   },
   "active": "efd3d5dd3bf2ae38",
   "lastOpenFiles": [
+    "blogs/CS/docker/Docker_reference.md",
     "blogs/CS/database/Mongodb/Mongo_reference.md",
     "blogs/Proflu/Theory/陆老师课程介绍.md",
     "blogs/Proflu/Theory/来的越玩，道路越窄.md",
@@ -155,7 +156,6 @@
     "blogs/Proflu/Theory/学习原则.md",
     "blogs/Proflu/Theory/谈判原则.md",
     "blogs/Proflu/Theory/谈判的智慧.md",
-    "blogs/Proflu/Theory/什么时候开始研究公司.md",
-    "blogs/Proflu/Theory/凭什么让别人给你股份.md"
+    "blogs/Proflu/Theory/什么时候开始研究公司.md"
   ]
 }
