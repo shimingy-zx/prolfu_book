@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
     "direction": "horizontal",
     "width": 219.5
   },
-  "active": "be74ba0ca0b0969a",
+  "active": "f04b19918e3895e8",
   "lastOpenFiles": [
     "blogs/CS/vue/Vue_reference.md",
     "blogs/CS/node/Egg/debug/未命名.md",
