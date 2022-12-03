@@ -35,4 +35,5 @@ https://github.com.ipaddress.com/#ipinfo
 [Sourcetree | Free Git GUI for Mac and Windows (sourcetreeapp.com)](https://www.sourcetreeapp.com/)https://www.sourcetreeapp.com/
 
 
-## git clonez'd
+## git clone指定分支
+[(48条消息) git 克隆指定分支代码_wudinaniya的博客-CSDN博客_git 克隆指定分支](https://blog.csdn.net/wudinaniya/article/details/104125961)
