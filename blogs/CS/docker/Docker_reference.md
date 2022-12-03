@@ -42,3 +42,7 @@ sidebar: 'auto'
 ## docker配置node项目
 
 [把一个 Node.js web 应用程序给 Docker 化 | Node.js (nodejs.org)](https://nodejs.org/zh-cn/docs/guides/nodejs-docker-webapp/)
+
+[docker部署nodejs项目应用 - 掘金 (juejin.cn)](https://juejin.cn/post/7027021464033296397)
+
+[Docker 搭建你的第一个 Node 项目到服务器(完整版) - 掘金 (juejin.cn)](https://juejin.cn/post/6844904035053486087)
