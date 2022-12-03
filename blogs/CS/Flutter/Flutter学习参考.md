@@ -91,3 +91,9 @@ sidebar: 'auto'
 ## 第三方库
 
 [Dart packages (flutter-io.cn)](https://pub.flutter-io.cn/)
+
+
+## 其他
+
+老项目升级处理
+https://juejin.cn/post/7061965800185266190
