@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/node/Egg/Egg_reference.md",
+                "file": "blogs/CS/Git/Git_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -77,7 +77,7 @@
               "type": "search",
               "state": {
                 "query": "docker",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -93,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/node/Egg/Egg_reference.md",
+                "file": "blogs/CS/Git/Git_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/node/Egg/Egg_reference.md",
+                "file": "blogs/CS/Git/Git_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/node/Egg/Egg_reference.md"
+                "file": "blogs/CS/Git/Git_reference.md"
               }
             }
           },
@@ -165,22 +164,30 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "16cdc8996207443b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 219.5
   },
-  "active": "f04b19918e3895e8",
+  "active": "be74ba0ca0b0969a",
   "lastOpenFiles": [
+    "blogs/CS/node/Egg/Egg_reference.md",
     "blogs/CS/vue/Vue_reference.md",
     "blogs/CS/node/Egg/debug/未命名.md",
     "node_modules/_prismjs@1.29.0@prismjs/CHANGELOG.md",
     "blogs/CS/node/Egg/debug/egg.js npm run dev的时候没有问题但是npm start报错如何解决 ？.md",
     "blogs/CS/node/Egg/debug/cross-env 不是内部或外部命令，也不是可运行的程序.md",
-    "blogs/CS/node/Egg/Egg_reference.md",
     "blogs/CS/node/Egg/debug/WARN notsup SKIPPING OPTIONAL DEPENDENCY.md",
     "blogs/CS/docker/Docker_reference.md",
     "blogs/Proflu/Theory/父母的自我修养.md",
