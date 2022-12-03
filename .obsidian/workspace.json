@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/Flutter/实用第三方库.md",
+                "file": "blogs/CS/Flutter/Flutter_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/Flutter/实用第三方库.md",
+                "file": "blogs/CS/Flutter/Flutter_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/Flutter/实用第三方库.md",
+                "file": "blogs/CS/Flutter/Flutter_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/Flutter/实用第三方库.md"
+                "file": "blogs/CS/Flutter/Flutter_reference.md"
               }
             }
           },
@@ -160,6 +160,7 @@
   },
   "active": "efd3d5dd3bf2ae38",
   "lastOpenFiles": [
+    "blogs/CS/Flutter/实用第三方库.md",
     "blogs/CS/Flutter/Flutter_reference.md",
     "blogs/CS/Flutter/Flutter学习参考.md",
     "blogs/Proflu/Theory/金句.md",
@@ -168,7 +169,6 @@
     "blogs/Proflu/Theory/结合面的优势.md",
     "blogs/Proflu/Theory/与其让别人当面认错，不如让他自己意识到自己的错误.md",
     "blogs/Proflu/Theory/眼高和手高哪个更重要？.md",
-    "blogs/Proflu/Theory/学习原则.md",
-    "blogs/Proflu/Theory/谈判智慧.md"
+    "blogs/Proflu/Theory/学习原则.md"
   ]
 }
