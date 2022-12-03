@@ -39,7 +39,7 @@ sidebar: 'auto'
 
 [(47条消息) docker-compose command多条指令,while_传智院的博客-CSDN博客_command docker-compose](https://blog.csdn.net/MEIYOUDAO_JIUSHIDAO/article/details/103325062)
 
-## docker配置node项目
+## docker配置node项目 
 
 [把一个 Node.js web 应用程序给 Docker 化 | Node.js (nodejs.org)](https://nodejs.org/zh-cn/docs/guides/nodejs-docker-webapp/)
 

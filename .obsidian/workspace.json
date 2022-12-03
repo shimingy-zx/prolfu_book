@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/docker/Docker_reference.md",
+                "file": "blogs/CS/Linux/Linux常用命令.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/docker/Docker_reference.md",
+                "file": "blogs/CS/Linux/Linux常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/docker/Docker_reference.md",
+                "file": "blogs/CS/Linux/Linux常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/docker/Docker_reference.md"
+                "file": "blogs/CS/Linux/Linux常用命令.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "be74ba0ca0b0969a",
   "lastOpenFiles": [
+    "blogs/CS/docker/Docker_reference.md",
     "blogs/CS/node/Node_reference.md",
     "blogs/CS/Linux/Linux常用命令.md",
     "blogs/CS/Git/Git_reference.md",
@@ -176,7 +177,6 @@
     "blogs/CS/node/Egg/Egg_reference.md",
     "blogs/CS/vue/Vue_reference.md",
     "blogs/CS/node/Egg/debug/未命名.md",
-    "node_modules/_prismjs@1.29.0@prismjs/CHANGELOG.md",
-    "blogs/CS/node/Egg/debug/egg.js npm run dev的时候没有问题但是npm start报错如何解决 ？.md"
+    "node_modules/_prismjs@1.29.0@prismjs/CHANGELOG.md"
   ]
 }
