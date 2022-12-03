@@ -46,3 +46,5 @@ sidebar: 'auto'
 [docker部署nodejs项目应用 - 掘金 (juejin.cn)](https://juejin.cn/post/7027021464033296397)
 
 [Docker 搭建你的第一个 Node 项目到服务器(完整版) - 掘金 (juejin.cn)](https://juejin.cn/post/6844904035053486087)
+
+[一份为 Node.js 应用准备的 Dockerfile 指南 - 掘金 (juejin.cn)](https://juejin.cn/post/6844903567942221837)
