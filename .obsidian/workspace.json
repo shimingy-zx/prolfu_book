@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/Flutter/语音识别.md",
+                "file": "blogs/CS/Flutter/debug/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/Flutter/语音识别.md",
+                "file": "blogs/CS/Flutter/debug/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/Flutter/语音识别.md",
+                "file": "blogs/CS/Flutter/debug/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/Flutter/语音识别.md"
+                "file": "blogs/CS/Flutter/debug/未命名.md"
               }
             }
           },
@@ -160,15 +160,15 @@
   },
   "active": "efd3d5dd3bf2ae38",
   "lastOpenFiles": [
+    "blogs/CS/Flutter/debug/无法获取插件.md",
+    "blogs/CS/Flutter/debug/Build failed due to use of deprecated Android v1 embedding..md",
+    "blogs/CS/Flutter/debug/debag查询.md",
+    "blogs/CS/Flutter/语音识别.md",
     "blogs/CS/Flutter/Flutter学习参考.md",
     "blogs/CS/Flutter/Flutter_reference.md",
     "blogs/CS/Flutter/实用第三方库.md",
     "blogs/Proflu/Theory/金句.md",
     "blogs/Proflu/Theory/国字培养方案.md",
-    "blogs/Proflu/Theory/教育.md",
-    "blogs/Proflu/Theory/结合面的优势.md",
-    "blogs/Proflu/Theory/与其让别人当面认错，不如让他自己意识到自己的错误.md",
-    "blogs/Proflu/Theory/眼高和手高哪个更重要？.md",
-    "blogs/Proflu/Theory/学习原则.md"
+    "blogs/Proflu/Theory/教育.md"
   ]
 }
