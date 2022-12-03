@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/Linux/Linux常用命令.md",
+                "file": "blogs/CS/docker/Docker_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/Linux/Linux常用命令.md",
+                "file": "blogs/CS/docker/Docker_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/Linux/Linux常用命令.md",
+                "file": "blogs/CS/docker/Docker_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/Linux/Linux常用命令.md"
+                "file": "blogs/CS/docker/Docker_reference.md"
               }
             }
           },
@@ -168,6 +168,8 @@
   },
   "active": "be74ba0ca0b0969a",
   "lastOpenFiles": [
+    "blogs/CS/node/Node_reference.md",
+    "blogs/CS/Linux/Linux常用命令.md",
     "blogs/CS/Git/Git_reference.md",
     "blogs/CS/Flutter/debug/未命名.md",
     "blogs/Proflu/Theory/成功的人从后头往前想.md",
@@ -175,8 +177,6 @@
     "blogs/CS/vue/Vue_reference.md",
     "blogs/CS/node/Egg/debug/未命名.md",
     "node_modules/_prismjs@1.29.0@prismjs/CHANGELOG.md",
-    "blogs/CS/node/Egg/debug/egg.js npm run dev的时候没有问题但是npm start报错如何解决 ？.md",
-    "blogs/CS/node/Egg/debug/cross-env 不是内部或外部命令，也不是可运行的程序.md",
-    "blogs/CS/node/Egg/debug/WARN notsup SKIPPING OPTIONAL DEPENDENCY.md"
+    "blogs/CS/node/Egg/debug/egg.js npm run dev的时候没有问题但是npm start报错如何解决 ？.md"
   ]
 }
