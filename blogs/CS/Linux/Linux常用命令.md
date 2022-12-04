@@ -1,6 +1,6 @@
 **Linux常用命令大全（非常全！！！）**
 
-**系统信息**   
+## **系统信息**   
 arch 显示机器的处理器架构  
 uname -m 显示机器的处理器架构  
 uname -r 显示正在使用的内核版本   
@@ -23,7 +23,7 @@ clock -w 将时间修改保存到 BIOS 
   
   
   
-**关机 (系统的关机、重启以及登出 )**   
+## **关机 (系统的关机、重启以及登出 )**   
 shutdown -h now 关闭系统  
 init 0 关闭系统  
 telinit 0 关闭系统  
@@ -35,7 +35,7 @@ logout 注销 
   
   
   
-**文件和目录**   
+## **文件和目录**   
 cd /home 进入 '/ home' 目录'   
 cd .. 返回上一级目录   
 cd ../.. 返回上两级目录   
@@ -72,7 +72,7 @@ find . -maxdepth 1 -name *.jpg -print -exec convert "{}" -resize 80x60 "thumbs/{
   
   
   
-**文件搜索**   
+## **文件搜索**   
 find / -name file1 从 '/' 开始进入根文件系统搜索文件和目录   
 find / -user user1 搜索属于用户 'user1' 的文件和目录   
 find /home/user1 -name \*.bin 在目录 '/ home/user1' 中搜索带有'.bin' 结尾的文件   
