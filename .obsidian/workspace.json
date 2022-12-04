@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/Frp/未命名.md",
+                "file": "blogs/CS/Frp/Frp_debug.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/Frp/未命名.md",
+                "file": "blogs/CS/Frp/Frp_debug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/Frp/未命名.md",
+                "file": "blogs/CS/Frp/Frp_debug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/Frp/未命名.md"
+                "file": "blogs/CS/Frp/Frp_debug.md"
               }
             }
           },
@@ -209,7 +209,7 @@
   "active": "9f05585d8deabffc",
   "lastOpenFiles": [
     "blogs/CS/Frp/Frp_reference.md",
-    "blogs/CS/Frp/未命名.md",
+    "blogs/CS/Frp/Frp_debug.md",
     "blogs/CS/Frp/配置文件.md",
     "blogs/CS/docker/Docker-compose.md",
     "blogs/CS/docker/Docker_reference.md",
