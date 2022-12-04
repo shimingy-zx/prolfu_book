@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,9 +191,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 321.5
   },
-  "active": "4445fa89c4fc2a50",
+  "active": "c05916050ffba9d4",
   "lastOpenFiles": [
     "blogs/CS/docker/Docker_reference.md",
     "blogs/CS/docker/Docker-compose.md",
