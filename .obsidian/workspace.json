@@ -164,19 +164,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 367.5
   },
   "active": "be74ba0ca0b0969a",
   "lastOpenFiles": [
+    "blogs/CS/Linux/Linux_reference.md",
     "blogs/CS/Linux/Linux常用命令.md",
+    "blogs/CS/Linux/linux.md",
     "blogs/CS/docker/Docker_reference.md",
     "blogs/CS/docker/配置记录.md",
     "blogs/CS/docker/常用命令.md",
     "blogs/CS/node/Node_reference.md",
     "blogs/CS/Git/Git_reference.md",
     "blogs/CS/Flutter/debug/未命名.md",
-    "blogs/Proflu/Theory/成功的人从后头往前想.md",
-    "blogs/CS/node/Egg/Egg_reference.md",
-    "blogs/CS/vue/Vue_reference.md"
+    "blogs/Proflu/Theory/成功的人从后头往前想.md"
   ]
 }

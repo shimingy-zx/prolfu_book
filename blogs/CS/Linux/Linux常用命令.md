@@ -1,3 +1,14 @@
+---
+title: Linux常用命令
+date: 2022-11-26
+categories:
+ - Linux
+tags:
+ - Linux
+ - 
+sidebar: 'auto'
+---
+
 Linux常用命令大全（非常全！！！）
 
 ## 系统信息   
