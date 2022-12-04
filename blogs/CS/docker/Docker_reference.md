@@ -2,10 +2,9 @@
 title: Docker_reference
 date: 2022-11-26
 categories:
- - docker
+ - Docker
 tags:
- - docker
- - 67
+ - Docker
 sidebar: 'auto'
 ---
 
