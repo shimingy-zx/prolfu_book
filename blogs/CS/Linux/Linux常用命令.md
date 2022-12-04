@@ -1,6 +1,6 @@
 ---
 title: Linux常用命令
-date: 2022-11-26
+date: 2022-12-04
 categories:
  - Linux
 tags:
