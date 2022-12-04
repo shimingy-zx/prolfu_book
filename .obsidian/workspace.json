@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/Linux/debug.md",
+                "file": "blogs/CS/Linux/Linux_debug.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/Linux/debug.md",
+                "file": "blogs/CS/Linux/Linux_debug.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/Linux/debug.md",
+                "file": "blogs/CS/Linux/Linux_debug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/Linux/debug.md"
+                "file": "blogs/CS/Linux/Linux_debug.md"
               }
             }
           },
@@ -169,7 +169,7 @@
   "active": "be74ba0ca0b0969a",
   "lastOpenFiles": [
     "blogs/CS/Linux/Linux_reference.md",
-    "blogs/CS/Linux/debug.md",
+    "blogs/CS/Linux/Linux_debug.md",
     "blogs/CS/Linux/Linux常用命令.md",
     "blogs/CS/Linux/linux.md",
     "blogs/CS/docker/Docker_reference.md",
