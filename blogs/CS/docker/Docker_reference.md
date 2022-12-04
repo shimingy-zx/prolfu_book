@@ -53,3 +53,6 @@ sidebar: 'auto'
 [群晖Nas拉取Docker映像加速及关闭docviewer的容器 | 511遇见 (511yj.com)](http://www.511yj.com/nas-synology-docker.html)
 
 [(48条消息) 群晖docker镜像源更换为阿里云镜像源_MoFalleaves的博客-CSDN博客_群晖docker国内源](https://blog.csdn.net/Falleaves_Yu/article/details/120316411)
+
+
+[docker完全卸载与安装 - 简书 (jianshu.com)](https://www.jianshu.com/p/8e4b06434ccb)
