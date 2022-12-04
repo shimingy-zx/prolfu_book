@@ -274,7 +274,7 @@ tail -f /var/log/messages 实时查看被添加到一个文件中的内容 
   
   
   
-文本处理   
+## 文本处理   
 cat file1 file2 ... | command <> file1_in.txt_or_file1_out.txt general syntax for text manipulation using PIPE, STDIN and STDOUT   
 cat file1 | command( sed, grep, awk, grep, etc...) > result.txt 合并一个文件的详细说明文本，并将简介写入一个新文件中   
 cat file1 | command( sed, grep, awk, grep, etc...) >> result.txt 合并一个文件的详细说明文本，并将简介写入一个已有的文件中   
@@ -310,7 +310,7 @@ comm -3 file1 file2 比较两个文件的内容只删除两个文件共有的部
   
   
   
-字符设置和文件格式转换   
+## 字符设置和文件格式转换   
 dos2unix filedos.txt fileunix.txt 将一个文本文件的格式从MSDOS转换成UNIX   
 unix2dos fileunix.txt filedos.txt 将一个文本文件的格式从UNIX转换成MSDOS   
 recode ..HTML < page.txt > page.html 将一个文本文件转换成html   
@@ -318,7 +318,7 @@ recode -l | more 显示所有允许的转换格式 
   
   
   
-文件系统分析   
+## 文件系统分析   
 badblocks -v /dev/hda1 检查磁盘hda1上的坏磁块   
 fsck /dev/hda1 修复/检查hda1磁盘上linux文件系统的完整性   
 fsck.ext2 /dev/hda1 修复/检查hda1磁盘上ext2文件系统的完整性   
@@ -331,7 +331,7 @@ dosfsck /dev/hda1 修复/检查hda1磁盘上dos文件系统的完整性 
   
   
   
-初始化一个文件系统   
+## 初始化一个文件系统   
 mkfs /dev/hda1 在hda1分区创建一个文件系统   
 mke2fs /dev/hda1 在hda1分区创建一个linux ext2的文件系统   
 mke2fs -j /dev/hda1 在hda1分区创建一个linux ext3(日志型)的文件系统   
@@ -341,14 +341,14 @@ mkswap /dev/hda3 创建一个swap文件系统 
   
   
   
-SWAP文件系统   
+## SWAP文件系统   
 mkswap /dev/hda3 创建一个swap文件系统   
 swapon /dev/hda3 启用一个新的swap文件系统   
 swapon /dev/hda2 /dev/hdb3 启用两个swap分区   
   
   
   
-备份   
+## 备份   
 dump -0aj -f /tmp/home0.bak /home 制作一个 '/home' 目录的完整备份   
 dump -1aj -f /tmp/home0.bak /home 制作一个 '/home' 目录的交互式备份   
 restore -if /tmp/home0.bak 还原一个交互式备份   
@@ -369,7 +369,7 @@ dd if=/dev/fd0 of=/dev/hda bs=512 count=1 从已经保存到软盘的备份中�
   
   
   
-光盘   
+## 光盘   
 cdrecord -v gracetime=2 dev=/dev/cdrom -eject blank=fast -force 清空一个可复写的光盘内容   
 mkisofs /dev/cdrom > cd.iso 在磁盘上创建一个光盘的iso镜像文件   
 mkisofs /dev/cdrom | gzip > cd_iso.gz 在磁盘上创建一个压缩了的光盘iso镜像文件   
@@ -384,7 +384,7 @@ dd if=/dev/hdc | md5sum 校验一个设备的md5sum编码，例如一张 CD 
   
   
   
-网络 - （以太网和WIFI无线）   
+## 网络 - （以太网和WIFI无线）   
 ifconfig eth0 显示一个以太网卡的配置   
 ifup eth0 启用一个 'eth0' 网络设备   
 ifdown eth0 禁用一个 'eth0' 网络设备   
@@ -428,7 +428,7 @@ $> jps
 23651 Resin
 
   
-比较常用的参数：
+## 比较常用的参数：
 
 -q 只显示pid，不显示class名称,jar文件名和传递给main 方法的参数  
 $>  jps -q  
