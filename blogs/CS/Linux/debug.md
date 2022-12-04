@@ -1,3 +1,14 @@
+---
+title: Linux_reference
+date: 2022-11-26
+categories:
+ - Linux
+tags:
+ - Linux
+ - debug
+sidebar: 'auto'
+---
+
 ## 问题：
 node: /lib64/libm.so.6: version `GLIBC_2.27' not found (required by node)
 node: /lib64/libc.so.6: version `GLIBC_2.25' not found (required by node)
