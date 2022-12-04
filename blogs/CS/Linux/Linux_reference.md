@@ -8,6 +8,7 @@ tags:
 sidebar: 'auto'
 ---
 
+## linux
 [(48条消息) linux停止nginx服务_s清晨的博客-CSDN博客_linux 关闭nginx](https://blog.csdn.net/shenshulong/article/details/88767328)
 
 [Linux 查看端口占用情况 | 菜鸟教程 (runoob.com)](https://www.runoob.com/w3cnote/linux-check-port-usage.html)
