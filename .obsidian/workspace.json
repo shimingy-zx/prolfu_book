@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/Git/Git_reference.md",
+                "file": "blogs/Proflu/综合.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/Git/Git_reference.md",
+                "file": "blogs/Proflu/综合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/Git/Git_reference.md",
+                "file": "blogs/Proflu/综合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/Git/Git_reference.md"
+                "file": "blogs/Proflu/综合.md"
               }
             }
           },
@@ -208,6 +208,7 @@
   },
   "active": "9f05585d8deabffc",
   "lastOpenFiles": [
+    "blogs/CS/Git/Git_reference.md",
     "blogs/CS/Git/替换分支.md",
     "blogs/CS/Git/常用命令.md",
     "blogs/CS/docker/Docker-compose.md",
@@ -215,7 +216,6 @@
     "blogs/CS/docker/Docker_reference.md",
     "blogs/CS/docker/Docker_debug.md",
     "blogs/CS/docker/常用命令.md",
-    "blogs/CS/Git/Git_reference.md",
     "blogs/CS/Linux/Linux_reference.md",
     "blogs/CS/Linux/Linux常用命令.md"
   ]
