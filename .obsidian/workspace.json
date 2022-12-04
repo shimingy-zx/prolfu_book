@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/Theory/成功的人从后头往前想.md",
+                "file": "blogs/CS/docker/docker-compose.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/Theory/成功的人从后头往前想.md",
+                "file": "blogs/CS/docker/docker-compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/Theory/成功的人从后头往前想.md",
+                "file": "blogs/CS/docker/docker-compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/Theory/成功的人从后头往前想.md"
+                "file": "blogs/CS/docker/docker-compose.md"
               }
             }
           },
@@ -195,15 +195,15 @@
   },
   "active": "4445fa89c4fc2a50",
   "lastOpenFiles": [
+    "blogs/CS/docker/Docker_reference.md",
     "blogs/CS/docker/docker-compose.md",
     "blogs/CS/docker/Docker_debug.md",
-    "blogs/CS/docker/Docker_reference.md",
     "blogs/CS/docker/常用命令.md",
+    "blogs/Proflu/Theory/成功的人从后头往前想.md",
     "blogs/CS/Linux/Linux_debug.md",
     "blogs/CS/Linux/Linux_reference.md",
     "blogs/CS/Linux/Linux常用命令.md",
     "blogs/CS/Linux/linux.md",
-    "blogs/CS/docker/配置记录.md",
-    "blogs/CS/node/Node_reference.md"
+    "blogs/CS/docker/配置记录.md"
   ]
 }
