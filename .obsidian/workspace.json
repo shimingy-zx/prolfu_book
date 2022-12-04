@@ -11,13 +11,8 @@
             "id": "be74ba0ca0b0969a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/CS/Linux/Linux常用命令.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -99,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/Linux/Linux常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/Linux/Linux常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "blogs/CS/Linux/Linux常用命令.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,13 +157,13 @@
     "direction": "horizontal",
     "width": 219.5
   },
-  "active": "e8edea76730cc754",
+  "active": "be74ba0ca0b0969a",
   "lastOpenFiles": [
+    "blogs/CS/Linux/Linux常用命令.md",
     "blogs/CS/docker/Docker_reference.md",
     "blogs/CS/docker/配置记录.md",
     "blogs/CS/docker/常用命令.md",
     "blogs/CS/node/Node_reference.md",
-    "blogs/CS/Linux/Linux常用命令.md",
     "blogs/CS/Git/Git_reference.md",
     "blogs/CS/Flutter/debug/未命名.md",
     "blogs/Proflu/Theory/成功的人从后头往前想.md",
