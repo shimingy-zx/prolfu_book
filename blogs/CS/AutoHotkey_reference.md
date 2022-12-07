@@ -13,3 +13,5 @@ sidebar: 'auto'
 [AutoHotKey：取色器 - 简书 (jianshu.com)](https://www.jianshu.com/p/30af28c59734)
 
 [AHK进制转换 - 旅途的风景 - 博客园 (cnblogs.com)](https://www.cnblogs.com/easysky/p/8669006.html)
+
+[AutoHotkey (sourceforge.net)](https://ahkcn.sourceforge.net/docs/AutoHotkey.htm)
