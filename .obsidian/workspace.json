@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/虚拟号码.md",
+                "file": "blogs/CS/AI/AI_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/虚拟号码.md",
+                "file": "blogs/CS/AI/AI_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/虚拟号码.md",
+                "file": "blogs/CS/AI/AI_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/虚拟号码.md"
+                "file": "blogs/CS/AI/AI_reference.md"
               }
             }
           },
@@ -195,6 +195,7 @@
   },
   "active": "316df872ce23d9fa",
   "lastOpenFiles": [
+    "blogs/CS/虚拟号码.md",
     "blogs/Think/论组织的进化.md",
     "blogs/CS/AutoHotkey_reference.md",
     "blogs/Proflu/Theory/企业管理/团队管理/OKR杂谈.md",
@@ -203,7 +204,6 @@
     "blogs/Proflu/Theory/企业管理/团队管理/先做后说.md",
     "blogs/Proflu/Theory/金句.md",
     "blogs/CS/vue/Vue_reference.md",
-    "blogs/other/1.md",
-    "blogs/CS/node/Egg/Egg_mongodb.md"
+    "blogs/other/1.md"
   ]
 }
