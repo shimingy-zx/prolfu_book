@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/database/Mongodb/Mongo_reference.md",
+                "file": "blogs/CS/node/Node_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/database/Mongodb/Mongo_reference.md",
+                "file": "blogs/CS/node/Node_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/database/Mongodb/Mongo_reference.md",
+                "file": "blogs/CS/node/Node_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/database/Mongodb/Mongo_reference.md"
+                "file": "blogs/CS/node/Node_reference.md"
               }
             }
           },
@@ -194,15 +194,15 @@
   },
   "active": "89d25728a2da5308",
   "lastOpenFiles": [
+    "blogs/CS/node/Egg/Egg_reference.md",
     "blogs/CS/AutoHotkey_reference.md",
+    "blogs/CS/database/Mongodb/Mongo_reference.md",
     "blogs/Proflu/Theory/最小位势理论.md",
     "blogs/Think/论组织的进化.md",
     "blogs/Think/001.md",
     "blogs/CS/AI/AI_reference.md",
     "blogs/CS/虚拟号码.md",
     "blogs/Proflu/Theory/企业管理/团队管理/OKR杂谈.md",
-    "blogs/Proflu/Theory/企业管理/OKR管理方法.md",
-    "blogs/Proflu/Theory/企业管理/团队管理/先做后说.md",
-    "blogs/Proflu/Theory/金句.md"
+    "blogs/Proflu/Theory/企业管理/OKR管理方法.md"
   ]
 }

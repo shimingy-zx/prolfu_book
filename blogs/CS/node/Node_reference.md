@@ -33,3 +33,6 @@ node 读取环境变量
 ## npm
 
 [(42条消息) 【NPM】npm 删除卸载一个模块_Never Yu的博客-CSDN博客_npm卸载模块](https://blog.csdn.net/csdn_yudong/article/details/90417804)
+
+## egg 微信公众号开发之，接收text/xml数据
+[(48条消息) egg 微信公众号开发之，接收text/xml数据_夏天的一朵云的博客-CSDN博客](https://blog.csdn.net/ximenxiafeng/article/details/110294754?spm=1001.2101.3001.6661.1&depth_1-utm_relevant_index=1)
