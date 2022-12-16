@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/AutoHotkey_reference.md",
+                "file": "blogs/CS/database/Mongodb/Mongo_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AutoHotkey_reference.md",
+                "file": "blogs/CS/database/Mongodb/Mongo_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AutoHotkey_reference.md",
+                "file": "blogs/CS/database/Mongodb/Mongo_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/AutoHotkey_reference.md"
+                "file": "blogs/CS/database/Mongodb/Mongo_reference.md"
               }
             }
           },
@@ -192,10 +192,10 @@
     "direction": "horizontal",
     "width": 263.5
   },
-  "active": "d41b21a2ca053447",
+  "active": "89d25728a2da5308",
   "lastOpenFiles": [
-    "blogs/Proflu/Theory/最小位势理论.md",
     "blogs/CS/AutoHotkey_reference.md",
+    "blogs/Proflu/Theory/最小位势理论.md",
     "blogs/Think/论组织的进化.md",
     "blogs/Think/001.md",
     "blogs/CS/AI/AI_reference.md",
