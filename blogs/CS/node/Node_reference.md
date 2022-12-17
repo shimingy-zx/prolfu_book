@@ -36,3 +36,4 @@ node 读取环境变量
 
 ## egg 微信公众号开发之，接收text/xml数据
 [(48条消息) egg 微信公众号开发之，接收text/xml数据_夏天的一朵云的博客-CSDN博客](https://blog.csdn.net/ximenxiafeng/article/details/110294754?spm=1001.2101.3001.6661.1&depth_1-utm_relevant_index=1)
+
