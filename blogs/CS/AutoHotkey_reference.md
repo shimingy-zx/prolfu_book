@@ -15,3 +15,7 @@ sidebar: 'auto'
 [AHK进制转换 - 旅途的风景 - 博客园 (cnblogs.com)](https://www.cnblogs.com/easysky/p/8669006.html)
 
 [AutoHotkey (sourceforge.net)](https://ahkcn.sourceforge.net/docs/AutoHotkey.htm)
+
+
+# 接互联网请求
+[(48条消息) Autohotkey实现粘贴板图片用百度OCR识别_开开心心写Bug的博客-CSDN博客_autohotkey 识别](https://blog.csdn.net/qq_34407846/article/details/110924155)
