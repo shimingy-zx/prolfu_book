@@ -39,5 +39,9 @@ sidebar: 'auto'
 
 [(48条消息) command listCollections requires authentication和Failed: error connecting to db server: server return_yq612的博客-CSDN博客_command listcollections](https://blog.csdn.net/qq_20794095/article/details/103082230)
 
-导入命令参考
+## 导入命令参考
 mongorestore -h 127.0.0.1 --port 27017 -u root -p shiming -d xiaomi --drop /data/backup_data/eggxiaomi --authenticationDatabase admin
+
+
+## node model
+[Mongoose ODM v6.8.0 (mongoosejs.com)](https://mongoosejs.com/)
