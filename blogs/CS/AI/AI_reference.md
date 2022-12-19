@@ -22,3 +22,6 @@ sidebar: 'auto'
 
 ## ChatGPT
 [(48条消息) 一看就会！超详细【ChatGPT】注册与使用教程_QiuDi666的博客-CSDN博客](https://blog.csdn.net/qd1813100174/article/details/128218538)
+
+## 
+[开始使用_飞桨-源于产业实践的开源深度学习平台 (paddlepaddle.org.cn)](https://www.paddlepaddle.org.cn/install/quick?docurl=/documentation/docs/zh/install/docker/linux-docker.html)
