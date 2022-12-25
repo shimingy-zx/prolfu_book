@@ -45,3 +45,7 @@ mongorestore -h 127.0.0.1 --port 27017 -u root -p shiming -d xiaomi --drop /data
 
 ## node model
 [Mongoose ODM v6.8.0 (mongoosejs.com)](https://mongoosejs.com/)
+
+
+## mongo同步
+[第一次使用，如何进行配置？ · alibaba/MongoShake Wiki (github.com)](https://github.com/alibaba/MongoShake/wiki/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8%EF%BC%8C%E5%A6%82%E4%BD%95%E8%BF%9B%E8%A1%8C%E9%85%8D%E7%BD%AE%EF%BC%9F)
