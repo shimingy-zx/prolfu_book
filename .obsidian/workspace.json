@@ -4,63 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c8d777bc06cd02e",
+        "id": "160046638989ac8b",
         "type": "tabs",
         "children": [
           {
-            "id": "89d25728a2da5308",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/CS/Linux/linux.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "20cb0665dc13bbbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/CS/Linux/linux修改文件夹下所有文件的权限（常用）.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "afbe3d5036e717b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/CS/node/Egg/debug/debug合集.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d64060acd7f515b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/Think/论组织的进化.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3239063295bcac48",
+            "id": "2d39d48092698850",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -71,22 +19,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "316df872ce23d9fa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/CS/AutoHotkey_reference.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "-al",
+                "query": "端口",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 356.5
   },
   "right": {
     "id": "7e6a70072d01ad20",
@@ -152,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/node/Egg/debug/debug合集.md",
+                "file": "blogs/CS/Linux/Linux常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/node/Egg/debug/debug合集.md",
+                "file": "blogs/CS/Linux/Linux常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/node/Egg/debug/debug合集.md"
+                "file": "blogs/CS/Linux/Linux常用命令.md"
               }
             }
           },
@@ -230,17 +164,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "afbe3d5036e717b7",
+  "active": "2d39d48092698850",
   "lastOpenFiles": [
-    "blogs/CS/node/Egg/debug/egg脚手架搭建的项目无法使用start启动问题.md",
     "blogs/CS/Linux/linux修改文件夹下所有文件的权限（常用）.md",
+    "blogs/other/相关技术文档.md",
     "blogs/CS/Linux/linux.md",
+    "blogs/CS/node/Egg/debug/debug合集.md",
+    "blogs/CS/node/Egg/debug/egg脚手架搭建的项目无法使用start启动问题.md",
     "blogs/CS/database/Mongodb/Mongo_reference.md",
     "blogs/CS/Linux/Linux常用命令.md",
     "blogs/CS/Linux/Linux_reference.md",
     "blogs/CS/Linux/Linux_debug.md",
-    "blogs/CS/AI/AI_reference.md",
-    "blogs/CS/database/Mongodb/常用命令.md",
-    "blogs/CS/database/Database_reference.md"
+    "blogs/CS/AI/AI_reference.md"
   ]
 }
