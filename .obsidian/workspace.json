@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "端口",
+                "query": "tag:#",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,7 +164,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2d39d48092698850",
+  "active": "d41b21a2ca053447",
   "lastOpenFiles": [
     "blogs/CS/Linux/linux修改文件夹下所有文件的权限（常用）.md",
     "blogs/other/相关技术文档.md",
