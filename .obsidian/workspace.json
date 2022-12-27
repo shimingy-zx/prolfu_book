@@ -19,8 +19,35 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "7b6e3dd55c3bed55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/CS/Frp/Frp_reference.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e240177ca9735e84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/CS/NGINX/Nginx_reference.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/Linux/Linux常用命令.md",
+                "file": "blogs/CS/NGINX/Nginx_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/Linux/Linux常用命令.md",
+                "file": "blogs/CS/NGINX/Nginx_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/Linux/Linux常用命令.md"
+                "file": "blogs/CS/NGINX/Nginx_reference.md"
               }
             }
           },
@@ -164,17 +191,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d41b21a2ca053447",
+  "active": "e240177ca9735e84",
   "lastOpenFiles": [
+    "blogs/CS/NGINX/未命名.md",
+    "blogs/CS/NGINX/Nginx_reference.md",
+    "blogs/CS/Frp/Frp_reference.md",
+    "blogs/CS/Linux/Linux常用命令.md",
     "blogs/CS/Linux/linux修改文件夹下所有文件的权限（常用）.md",
     "blogs/other/相关技术文档.md",
     "blogs/CS/Linux/linux.md",
     "blogs/CS/node/Egg/debug/debug合集.md",
     "blogs/CS/node/Egg/debug/egg脚手架搭建的项目无法使用start启动问题.md",
-    "blogs/CS/database/Mongodb/Mongo_reference.md",
-    "blogs/CS/Linux/Linux常用命令.md",
-    "blogs/CS/Linux/Linux_reference.md",
-    "blogs/CS/Linux/Linux_debug.md",
-    "blogs/CS/AI/AI_reference.md"
+    "blogs/CS/database/Mongodb/Mongo_reference.md"
   ]
 }
