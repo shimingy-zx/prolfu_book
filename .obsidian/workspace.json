@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/other/短信服务商对比.md",
+                "file": "blogs/other/webIDE.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/other/如何为你的开源项目选择一个合适的开源协议？.md",
+                "file": "blogs/design/综述.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/other/短信服务商对比.md",
+                "file": "blogs/design/综述.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/other/短信服务商对比.md",
+                "file": "blogs/design/综述.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/other/短信服务商对比.md"
+                "file": "blogs/design/综述.md"
               }
             }
           },
@@ -164,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 205.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,17 +178,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "87ff2fee1cb217ee",
+  "active": "58c80f24dcd803b8",
   "lastOpenFiles": [
+    "blogs/other/如何为你的开源项目选择一个合适的开源协议？.md",
+    "blogs/other/webIDE.md",
     "blogs/other/工具篇.md",
     "blogs/other/订单号生成.md",
     "blogs/other/调试工具.md",
     "blogs/other/案例参考.md",
+    "blogs/other/短信服务商对比.md",
     "blogs/other/排序.md",
     "blogs/CS/backEnd/001.md",
-    "blogs/other/1.md",
-    "blogs/other/如何为你的开源项目选择一个合适的开源协议？.md",
-    "blogs/other/文档网站搭建.md",
-    "blogs/other/相关技术文档.md"
+    "blogs/other/1.md"
   ]
 }
