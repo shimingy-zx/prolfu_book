@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/NGINX/Nginx_reference.md",
+                "file": "blogs/CS/Linux/Linux常用命令.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/NGINX/Nginx_reference.md",
+                "file": "blogs/CS/Linux/Linux常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/NGINX/Nginx_reference.md"
+                "file": "blogs/CS/Linux/Linux常用命令.md"
               }
             }
           },
@@ -174,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,11 +190,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e240177ca9735e84",
+  "active": "e8edea76730cc754",
   "lastOpenFiles": [
-    "blogs/CS/NGINX/未命名.md",
     "blogs/CS/NGINX/Nginx_reference.md",
     "blogs/CS/Frp/Frp_reference.md",
+    "blogs/CS/NGINX/未命名.md",
     "blogs/CS/Linux/Linux常用命令.md",
     "blogs/CS/Linux/linux修改文件夹下所有文件的权限（常用）.md",
     "blogs/other/相关技术文档.md",
