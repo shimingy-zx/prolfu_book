@@ -25,3 +25,6 @@ sidebar: 'auto'
 
 ## 
 [开始使用_飞桨-源于产业实践的开源深度学习平台 (paddlepaddle.org.cn)](https://www.paddlepaddle.org.cn/install/quick?docurl=/documentation/docs/zh/install/docker/linux-docker.html)
+
+## 虚拟人
+[(1) The TWIML AI Podcast with Sam Charrington - YouTube](https://www.youtube.com/channel/UC7kjWIK1H8tfmFlzZO-wHMw)

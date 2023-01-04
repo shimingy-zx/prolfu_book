@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/Nginx/Nginx_reference.md",
+                "file": "blogs/CS/AI/AI_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/Nginx/Nginx_reference.md",
+                "file": "blogs/CS/AI/AI_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/Nginx/Nginx_reference.md",
+                "file": "blogs/CS/AI/AI_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/Nginx/Nginx_reference.md"
+                "file": "blogs/CS/AI/AI_reference.md"
               }
             }
           },
@@ -193,6 +193,7 @@
   },
   "active": "fcecb90dd0eb00fa",
   "lastOpenFiles": [
+    "blogs/CS/Nginx/Nginx_reference.md",
     "blogs/afflatus/未命名.md",
     "blogs/design/综述.md",
     "blogs/other/webIDE.md",
@@ -201,7 +202,6 @@
     "blogs/other/订单号生成.md",
     "blogs/other/调试工具.md",
     "blogs/other/案例参考.md",
-    "blogs/other/短信服务商对比.md",
-    "blogs/other/排序.md"
+    "blogs/other/短信服务商对比.md"
   ]
 }
