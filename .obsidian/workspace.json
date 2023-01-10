@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/Linux/Linux_reference.md",
+                "file": "blogs/info/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/Linux/Linux_reference.md",
+                "file": "blogs/info/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/Linux/Linux_reference.md",
+                "file": "blogs/info/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/Linux/Linux_reference.md"
+                "file": "blogs/info/未命名.md"
               }
             }
           },
@@ -245,6 +245,7 @@
   },
   "active": "8fba60d5ac54c8f9",
   "lastOpenFiles": [
+    "blogs/CS/Linux/Linux_reference.md",
     "blogs/CS/Linux/linux.md",
     "blogs/CS/Linux/ubuntu/未命名.md",
     "blogs/CS/Storage/未命名.md",
@@ -253,7 +254,6 @@
     "blogs/other/webIDE.md",
     "blogs/CS/AI/AI_reference.md",
     "blogs/CS/Nginx/Nginx_reference.md",
-    "blogs/afflatus/未命名.md",
-    "blogs/design/综述.md"
+    "blogs/afflatus/未命名.md"
   ]
 }
