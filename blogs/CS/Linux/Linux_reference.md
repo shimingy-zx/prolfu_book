@@ -22,3 +22,6 @@ sidebar: 'auto'
 
 ## Linux 查看端口占用情况
 [Linux 查看端口占用情况 | 菜鸟教程 (runoob.com)](https://www.runoob.com/w3cnote/linux-check-port-usage.html)
+
+## ubuntu重新获取IP（刷新IP
+[(51条消息) ubuntu重新获取IP（刷新IP）_星汉空兮的博客-CSDN博客_ubuntu刷新ip地址](https://blog.csdn.net/WU2629409421perfect/article/details/109126409)
