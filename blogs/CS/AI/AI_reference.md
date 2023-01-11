@@ -28,3 +28,7 @@ sidebar: 'auto'
 
 ## 虚拟人
 [(1) The TWIML AI Podcast with Sam Charrington - YouTube](https://www.youtube.com/channel/UC7kjWIK1H8tfmFlzZO-wHMw)
+
+
+## AidLux智能物联网(AIoT)应用开发和部署平台
+[AidLux智能物联网(AIoT)应用开发和部署平台-阿加犀智能科技](https://aidlux.com/)
