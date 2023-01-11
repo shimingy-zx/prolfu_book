@@ -25,3 +25,6 @@ sidebar: 'auto'
 
 ## ubuntu重新获取IP（刷新IP
 [(51条消息) ubuntu重新获取IP（刷新IP）_星汉空兮的博客-CSDN博客_ubuntu刷新ip地址](https://blog.csdn.net/WU2629409421perfect/article/details/109126409)
+
+## Ubuntu 20.04修改静态固定IP - 简书 
+[Ubuntu 20.04修改静态固定IP - 简书 (jianshu.com)](https://www.jianshu.com/p/872e2e2e502d)
