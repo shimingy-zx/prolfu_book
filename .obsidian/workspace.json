@@ -91,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/info/未命名.md",
+                "file": "blogs/CS/Linux/Linux_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/info/未命名.md",
+                "file": "blogs/CS/Linux/Linux_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/info/未命名.md",
+                "file": "blogs/CS/Linux/Linux_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/info/未命名.md"
+                "file": "blogs/CS/Linux/Linux_reference.md"
               }
             }
           },
@@ -245,11 +245,11 @@
   },
   "active": "8fba60d5ac54c8f9",
   "lastOpenFiles": [
+    "blogs/CS/Linux/ubuntu/未命名.md",
+    "blogs/info/未命名.md",
     "blogs/CS/Linux/Linux_reference.md",
     "blogs/CS/Linux/linux.md",
-    "blogs/CS/Linux/ubuntu/未命名.md",
     "blogs/CS/Storage/未命名.md",
-    "blogs/info/未命名.md",
     "blogs/Proflu/案例手册/CRM/未命名.md",
     "blogs/other/webIDE.md",
     "blogs/CS/AI/AI_reference.md",
