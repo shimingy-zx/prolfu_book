@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "833abab571139c84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/CS/AI/HuaWei.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AI/AI_reference.md",
+                "file": "blogs/CS/AI/HuaWei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AI/AI_reference.md",
+                "file": "blogs/CS/AI/HuaWei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/AI/AI_reference.md"
+                "file": "blogs/CS/AI/HuaWei.md"
               }
             }
           },
@@ -164,12 +178,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f5ddcb54a3262895",
+  "active": "833abab571139c84",
   "lastOpenFiles": [
+    "blogs/CS/AI/AI_reference.md",
     "blogs/CS/Storage/未命名.md",
     "blogs/info/未命名.md",
     "blogs/Proflu/案例手册/CRM/未命名.md",
-    "blogs/CS/AI/AI_reference.md",
     "blogs/other/webIDE.md",
     "blogs/CS/Linux/Linux_reference.md",
     "blogs/CS/Linux/ubuntu/未命名.md",
