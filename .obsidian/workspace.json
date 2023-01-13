@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/AI/AI_reference.md",
+                "file": "blogs/CS/database/Mongodb/文档关联设计.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -33,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AI/HuaWei.md",
+                "file": "blogs/CS/database/Mongodb/文档关联设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AI/HuaWei.md",
+                "file": "blogs/CS/database/Mongodb/文档关联设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/AI/HuaWei.md"
+                "file": "blogs/CS/database/Mongodb/文档关联设计.md"
               }
             }
           },
@@ -178,17 +177,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "833abab571139c84",
+  "active": "f5ddcb54a3262895",
   "lastOpenFiles": [
     "blogs/CS/AI/AI_reference.md",
+    "blogs/CS/AI/HuaWei.md",
+    "blogs/CS/database/Mongodb/文档关联设计.md",
     "blogs/CS/Storage/未命名.md",
     "blogs/info/未命名.md",
     "blogs/Proflu/案例手册/CRM/未命名.md",
     "blogs/other/webIDE.md",
     "blogs/CS/Linux/Linux_reference.md",
     "blogs/CS/Linux/ubuntu/未命名.md",
-    "blogs/CS/Linux/linux.md",
-    "blogs/CS/Nginx/Nginx_reference.md",
-    "blogs/afflatus/未命名.md"
+    "blogs/CS/Linux/linux.md"
   ]
 }
