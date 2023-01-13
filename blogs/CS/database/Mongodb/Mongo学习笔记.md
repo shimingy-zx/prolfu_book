@@ -1,3 +1,14 @@
+---
+title: Mongo_reference
+date: 2023-1-13
+categories:
+ - Mongo
+tags:
+ - 笔记
+sidebar: 'auto'
+---
+
+
 
 ## 参考
 [cbbgs/mongodb_practice (gitee.com)](https://gitee.com/cbbgs/mongodb_practice)
