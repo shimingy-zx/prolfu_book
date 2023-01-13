@@ -338,12 +338,17 @@ db.category.insert([
 db.course.insert([
 	{
 		_id:1000,
-		name:'xiao',
+		name:'大课1',
 		tech_ids:[100,101]
 	},
 	{
 		_id:1001,
-		name:'xiao2',
+		name:'大课2',
+		tech_ids:[102]
+	},
+	{
+		_id:1001,
+		name:'大课3',
 		tech_ids:[102]
 	}
 ])
