@@ -10,8 +10,7 @@ sidebar: 'auto'
 
 
 
-## 参考
-[cbbgs/mongodb_practice (gitee.com)](https://gitee.com/cbbgs/mongodb_practice)
+
 
 ## 安装：
 
@@ -319,7 +318,36 @@ db.students.insert([
 ])
 ```
 
+```shell
+#分类与课程
+db.category.insert([
+    {
+        _id:100,
+        name:'推荐课程'
+    },
+    {
+        _id:101,
+        name:'liu2'
+    },
+    {
+    	_id:102,
+    	name:'liu3'
+    }
+])
 
+db.students.insert([
+	{
+		_id:1000,
+		name:'xiao',
+		tech_ids:[100,101]
+	},
+	{
+		_id:1001,
+		name:'xiao2',
+		tech_ids:[102]
+	}
+])
+```
 
 
 
@@ -549,7 +577,9 @@ UserModel.find({}, function (err, data) {
   });
   ```
 
-  
+
+## 参考资料
+[cbbgs/mongodb_practice (gitee.com)](https://gitee.com/cbbgs/mongodb_practice)
 
 
 
