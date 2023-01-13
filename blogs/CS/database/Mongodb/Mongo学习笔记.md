@@ -327,15 +327,15 @@ db.category.insert([
     },
     {
         _id:101,
-        name:'liu2'
+        name:'理论课程'
     },
     {
     	_id:102,
-    	name:'liu3'
+    	name:'实践课程'
     }
 ])
 
-db.students.insert([
+db.course.insert([
 	{
 		_id:1000,
 		name:'xiao',
