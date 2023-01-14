@@ -17,3 +17,6 @@ sidebar: 'auto'
 
 ## 更方便的200DK合设环境搭建方法——dd镜像_Atlas 200 DK_昇腾_华为云论坛 
 [更方便的200DK合设环境搭建方法——dd镜像_Atlas 200 DK_昇腾_华为云论坛 (huaweicloud.com)](https://bbs.huaweicloud.com/forum/thread-139685-1-1.html)
+
+## 尚硅谷_MongoDB入门_文档间的关系_哔哩哔哩
+[12.尚硅谷_MongoDB入门_文档间的关系_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV18s411E78K/?p=12&vd_source=d5dcd9ecea5f54eff2a20a9e2ccc0fa0)

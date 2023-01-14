@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Hardware/未命名.md",
+                "file": "blogs/CS/AI/HuaWei.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Hardware/未命名.md",
+                "file": "blogs/CS/AI/HuaWei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Hardware/未命名.md",
+                "file": "blogs/CS/AI/HuaWei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Hardware/未命名.md"
+                "file": "blogs/CS/AI/HuaWei.md"
               }
             }
           },
@@ -193,6 +193,7 @@
   },
   "active": "7d0b7371b4d89a1a",
   "lastOpenFiles": [
+    "blogs/Hardware/未命名.md",
     "blogs/CS/database/Mongodb/Mongo学习笔记.md",
     "blogs/CS/database/Mongodb/文档关联设计.md",
     "blogs/CS/database/Mongodb/Mongo_reference.md",
@@ -201,7 +202,6 @@
     "blogs/CS/Storage/未命名.md",
     "blogs/info/未命名.md",
     "blogs/Proflu/案例手册/CRM/未命名.md",
-    "blogs/other/webIDE.md",
-    "blogs/CS/Linux/Linux_reference.md"
+    "blogs/other/webIDE.md"
   ]
 }
