@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/案例参考/未命名.md",
+                "file": "blogs/Proflu/Theory/论同理心的重要性.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/案例参考/未命名.md",
+                "file": "blogs/Proflu/Theory/论同理心的重要性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/案例参考/未命名.md",
+                "file": "blogs/Proflu/Theory/论同理心的重要性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/案例参考/未命名.md"
+                "file": "blogs/Proflu/Theory/论同理心的重要性.md"
               }
             }
           },
@@ -206,6 +206,7 @@
   },
   "active": "ec77cc3a135fa82b",
   "lastOpenFiles": [
+    "blogs/Proflu/案例参考/未命名.md",
     "blogs/CS/AI/HuaWei.md",
     "blogs/Hardware/未命名.md",
     "blogs/CS/database/Mongodb/Mongo学习笔记.md",
@@ -214,7 +215,6 @@
     "blogs/CS/AI/AI_reference.md",
     "blogs/CS/Storage/未命名.md",
     "blogs/info/未命名.md",
-    "blogs/Proflu/案例手册/CRM/未命名.md",
-    "blogs/other/webIDE.md"
+    "blogs/Proflu/案例手册/CRM/未命名.md"
   ]
 }
