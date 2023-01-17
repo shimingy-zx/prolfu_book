@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/Theory/论同理心的重要性.md",
+                "file": "blogs/CS/javascript/one.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a2d7ddfa770dd9aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/CS/javascript/框架/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/Theory/论同理心的重要性.md",
+                "file": "blogs/CS/javascript/框架/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/Theory/论同理心的重要性.md",
+                "file": "blogs/CS/javascript/框架/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/Theory/论同理心的重要性.md"
+                "file": "blogs/CS/javascript/框架/未命名.md"
               }
             }
           },
@@ -204,17 +217,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ec77cc3a135fa82b",
+  "active": "a2d7ddfa770dd9aa",
   "lastOpenFiles": [
+    "blogs/CS/javascript/one.md",
+    "blogs/CS/javascript/框架/未命名.md",
+    "blogs/Proflu/Theory/论同理心的重要性.md",
     "blogs/Proflu/案例参考/未命名.md",
     "blogs/CS/AI/HuaWei.md",
     "blogs/Hardware/未命名.md",
     "blogs/CS/database/Mongodb/Mongo学习笔记.md",
     "blogs/CS/database/Mongodb/文档关联设计.md",
     "blogs/CS/database/Mongodb/Mongo_reference.md",
-    "blogs/CS/AI/AI_reference.md",
-    "blogs/CS/Storage/未命名.md",
-    "blogs/info/未命名.md",
-    "blogs/Proflu/案例手册/CRM/未命名.md"
+    "blogs/CS/AI/AI_reference.md"
   ]
 }
