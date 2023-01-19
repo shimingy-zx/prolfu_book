@@ -3,3 +3,6 @@
 [(54条消息) SCRAPY框架执行爬虫无法进入pipeline管道问题_强小锅的博客-CSDN博客](https://blog.csdn.net/weixin_43967586/article/details/100540019)
 
 [(54条消息) TypeError: ‘Collection‘ object is not callable. If you meant to call the ‘insert‘ method on a ......_Yy_Rose的博客-CSDN博客](https://blog.csdn.net/Yy_Rose/article/details/123754021)
+
+
+[TypeError: 'Collection' object is not callable. If you meant to call the 'authenticate' method on a 'Database' object it is failing because no such method exists. - BlackManZhang - 博客园 (cnblogs.com)](https://www.cnblogs.com/blackmanzhang/p/15630020.html)
