@@ -39,20 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/node/Node_reference.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "99aa9c3fa5d82bcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/CS/IP/debug.md",
+                "file": "blogs/CS/other/suface pro6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -71,9 +58,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d1621c18fa716ed4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/CS/other/suface pro6.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/IP/ipv6.md",
+                "file": "blogs/CS/other/suface pro6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/IP/ipv6.md",
+                "file": "blogs/CS/other/suface pro6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/IP/ipv6.md"
+                "file": "blogs/CS/other/suface pro6.md"
               }
             }
           },
@@ -217,17 +217,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a935db9a35d37c3f",
+  "active": "7402de98ba5db532",
   "lastOpenFiles": [
-    "blogs/CS/IP/debug.md",
     "blogs/CS/node/Node_reference.md",
+    "blogs/CS/IP/debug.md",
+    "blogs/CS/other/suface pro6.md",
+    "blogs/CS/IP/ipv6.md",
     "blogs/CS/other/正则表达式.md",
     "blogs/CS/python/debug.md",
     "blogs/CS/python/spider.md",
     "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/HuaWei.md",
-    "blogs/CS/database/Mongodb/Mongo学习笔记.md",
-    "blogs/CS/javascript/one.md",
-    "blogs/CS/docker/常用命令.md"
+    "blogs/CS/database/Mongodb/Mongo学习笔记.md"
   ]
 }
