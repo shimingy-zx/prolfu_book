@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "c1164345b530a6d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/CS/基础/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "818e2c77a82e4602",
             "type": "leaf",
             "state": {
@@ -54,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/python/spider.md",
+                "file": "blogs/CS/基础/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/python/spider.md",
+                "file": "blogs/CS/基础/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/python/spider.md"
+                "file": "blogs/CS/基础/未命名.md"
               }
             }
           },
@@ -198,15 +212,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7d0b7371b4d89a1a",
+  "active": "c1164345b530a6d6",
   "lastOpenFiles": [
+    "blogs/CS/python/spider.md",
     "blogs/CS/python/debug.md",
     "blogs/CS/IP/ipv6.md",
     "blogs/CS/other/suface pro6.md",
     "blogs/CS/node/Node_reference.md",
     "blogs/CS/IP/debug.md",
     "blogs/CS/other/正则表达式.md",
-    "blogs/CS/python/spider.md",
     "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/HuaWei.md",
     "blogs/CS/database/Mongodb/Mongo学习笔记.md"
