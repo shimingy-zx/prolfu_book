@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/python/spider.md",
+                "file": "blogs/info/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -62,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#",
+                "query": "gold",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/python/spider.md",
+                "file": "blogs/info/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/python/spider.md",
+                "file": "blogs/info/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/python/spider.md"
+                "file": "blogs/info/未命名.md"
               }
             }
           },
@@ -177,11 +177,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7d0b7371b4d89a1a",
+  "active": "d41b21a2ca053447",
   "lastOpenFiles": [
+    "blogs/CS/python/spider.md",
     "blogs/CS/基础/未命名.md",
     "blogs/CS/数据可视化/现有平台.md",
-    "blogs/CS/python/spider.md",
     "blogs/CS/python/debug.md",
     "blogs/CS/IP/ipv6.md",
     "blogs/CS/other/suface pro6.md",
