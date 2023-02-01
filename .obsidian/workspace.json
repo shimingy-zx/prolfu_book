@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "fc4a83bf243a11b3",
+            "id": "1bf0e0a796b36019",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/AI/vioce_AI.md",
+                "file": "blogs/CS/roblox/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/数据可视化/现有平台.md",
+                "file": "blogs/CS/roblox/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AI/vioce_AI.md",
+                "file": "blogs/CS/roblox/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AI/vioce_AI.md",
+                "file": "blogs/CS/roblox/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/AI/vioce_AI.md"
+                "file": "blogs/CS/roblox/未命名.md"
               }
             }
           },
@@ -191,17 +191,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fc4a83bf243a11b3",
+  "active": "a6e6e666819ec72e",
   "lastOpenFiles": [
+    "blogs/CS/数据可视化/现有平台.md",
+    "blogs/CS/roblox/未命名.md",
     "blogs/CS/AI/HuaWei.md",
-    "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/vioce_AI.md",
+    "blogs/CS/AI/AI_reference.md",
     "blogs/info/未命名.md",
     "blogs/CS/python/spider.md",
     "blogs/CS/基础/未命名.md",
-    "blogs/CS/数据可视化/现有平台.md",
     "blogs/CS/python/debug.md",
-    "blogs/CS/IP/ipv6.md",
-    "blogs/CS/other/suface pro6.md"
+    "blogs/CS/IP/ipv6.md"
   ]
 }
