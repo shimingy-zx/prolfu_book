@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/roblox/相关教程.md",
+                "file": "blogs/CS/AI/HuaWei.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/roblox/相关教程.md",
+                "file": "blogs/CS/AI/HuaWei.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/roblox/相关教程.md"
+                "file": "blogs/CS/AI/HuaWei.md"
               }
             }
           },
@@ -204,17 +203,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "052b0413eecc1722",
+  "active": "7d0b7371b4d89a1a",
   "lastOpenFiles": [
+    "blogs/CS/roblox/相关教程.md",
+    "blogs/CS/python/spider.md",
+    "blogs/CS/python/debug.md",
     "blogs/CS/info/未命名.md",
     "blogs/info/未命名.md",
-    "blogs/CS/roblox/相关教程.md",
     "blogs/CS/数据可视化/现有平台.md",
     "blogs/CS/AI/HuaWei.md",
     "blogs/CS/AI/vioce_AI.md",
     "blogs/CS/AI/AI_reference.md",
-    "blogs/CS/python/spider.md",
-    "blogs/CS/基础/未命名.md",
-    "blogs/CS/python/debug.md"
+    "blogs/CS/基础/未命名.md"
   ]
 }
