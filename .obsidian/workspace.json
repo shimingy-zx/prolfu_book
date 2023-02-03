@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/AI/相关公司.md",
+                "file": "blogs/CS/AI/记录.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AI/相关公司.md",
+                "file": "blogs/CS/AI/记录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AI/相关公司.md",
+                "file": "blogs/CS/AI/记录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/AI/相关公司.md"
+                "file": "blogs/CS/AI/记录.md"
               }
             }
           },
@@ -191,12 +191,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "a3a59ced220abb02",
+  "active": "d41b21a2ca053447",
   "lastOpenFiles": [
+    "blogs/CS/AI/相关公司.md",
     "blogs/CS/AI/HuaWei.md",
     "blogs/CS/AI/vioce_AI.md",
     "blogs/CS/AI/AI_reference.md",
-    "blogs/CS/AI/相关公司.md",
     "blogs/CS/AI/记录.md",
     "blogs/CS/AI/folder/Pasted image 20230203143755.png",
     "blogs/CS/roblox/相关教程.md",
