@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/info/未命名.md",
+                "file": "blogs/CS/IP/ipv6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gold",
+                "query": "ipv6",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/info/未命名.md",
+                "file": "blogs/CS/IP/ipv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/info/未命名.md",
+                "file": "blogs/CS/IP/ipv6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/info/未命名.md"
+                "file": "blogs/CS/IP/ipv6.md"
               }
             }
           },
@@ -166,15 +167,15 @@
   },
   "active": "d2b8c62a05197d27",
   "lastOpenFiles": [
+    "blogs/CS/IP/debug.md",
+    "blogs/info/未命名.md",
     "blogs/Think/论组织的进化.md",
     "blogs/Think/001.md",
-    "blogs/info/未命名.md",
     "blogs/CS/AI/HuaWei.md",
     "blogs/CS/AI/记录.md",
     "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/Related_company.md",
     "blogs/CS/AI/vioce_AI.md",
-    "blogs/CS/roblox/相关教程.md",
-    "blogs/CS/AI/folder/Pasted image 20230203143755.png"
+    "blogs/CS/roblox/相关教程.md"
   ]
 }
