@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 263.5
   },
   "right": {
     "id": "7e6a70072d01ad20",
@@ -166,15 +166,15 @@
   },
   "active": "d2b8c62a05197d27",
   "lastOpenFiles": [
+    "blogs/Think/论组织的进化.md",
+    "blogs/Think/001.md",
+    "blogs/info/未命名.md",
     "blogs/CS/AI/HuaWei.md",
     "blogs/CS/AI/记录.md",
     "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/Related_company.md",
     "blogs/CS/AI/vioce_AI.md",
     "blogs/CS/roblox/相关教程.md",
-    "blogs/CS/AI/folder/Pasted image 20230203143755.png",
-    "README.md",
-    "blogs/info/未命名.md",
-    "blogs/CS/python/spider.md"
+    "blogs/CS/AI/folder/Pasted image 20230203143755.png"
   ]
 }
