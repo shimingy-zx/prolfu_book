@@ -36,3 +36,6 @@ sidebar: 'auto'
 
 ## Bloom
 [bigscience/bloom · Hugging Face](https://huggingface.co/bigscience/bloom)
+
+## 相关项目
+[AutumnWhj/ChatGPT-wechat-bot: ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot)
