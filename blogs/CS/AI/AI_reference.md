@@ -32,3 +32,7 @@ sidebar: 'auto'
 
 ## AidLux智能物联网(AIoT)应用开发和部署平台
 [AidLux智能物联网(AIoT)应用开发和部署平台-阿加犀智能科技](https://aidlux.com/)
+
+
+## Bloom
+[bigscience/bloom · Hugging Face](https://huggingface.co/bigscience/bloom)
