@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/AI/openai.md",
+                "file": "blogs/CS/AI/AI_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AI/openai.md",
+                "file": "blogs/CS/AI/AI_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AI/openai.md",
+                "file": "blogs/CS/AI/AI_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/AI/openai.md"
+                "file": "blogs/CS/AI/AI_reference.md"
               }
             }
           },
@@ -166,15 +166,15 @@
   },
   "active": "d2b8c62a05197d27",
   "lastOpenFiles": [
+    "blogs/CS/AI/HuaWei.md",
+    "blogs/CS/AI/openai.md",
+    "blogs/CS/AI/Related_company.md",
+    "blogs/CS/AI/vioce_AI.md",
     "blogs/CS/AI/AI_reference.md",
     "blogs/CS/IP/ipv6.md",
     "blogs/CS/IP/debug.md",
     "blogs/CS/roblox/相关教程.md",
     "blogs/afflatus/未命名.md",
-    "blogs/design/综述.md",
-    "blogs/CS/AI/openai.md",
-    "blogs/info/未命名.md",
-    "blogs/Think/论组织的进化.md",
-    "blogs/Think/001.md"
+    "blogs/design/综述.md"
   ]
 }
