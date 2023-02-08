@@ -3,3 +3,7 @@
 
 ## 国内版本
 [ChatGPT国内版-OpenAI (aitalk.fun)](http://chat-ai.aitalk.fun/)
+
+
+## 相关项目
+[chatGpt（公众号接入）: 为你的公众号接入最近火爆的AI -- chatGPT (gitee.com)](https://gitee.com/lmuiotctf/chat_wxmp)
