@@ -39,3 +39,6 @@ sidebar: 'auto'
 
 ## 相关项目
 [AutumnWhj/ChatGPT-wechat-bot: ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot)
+
+
+![[Pasted image 20230213030052.png]]
