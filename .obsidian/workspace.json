@@ -97,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 200
   },
   "right": {
     "id": "7e6a70072d01ad20",
@@ -178,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +191,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9faaeb6d6b2638af",
+  "active": "e8edea76730cc754",
   "lastOpenFiles": [
     "blogs/Think/论组织的进化.md",
     "blogs/Think/001.md",
