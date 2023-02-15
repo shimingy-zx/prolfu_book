@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/AutoHotkey/未命名.md",
+                "file": "blogs/CS/AI/openai.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AutoHotkey/未命名.md",
+                "file": "blogs/CS/AI/openai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AutoHotkey/未命名.md",
+                "file": "blogs/CS/AI/openai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/AutoHotkey/未命名.md"
+                "file": "blogs/CS/AI/openai.md"
               }
             }
           },
@@ -180,15 +180,15 @@
   },
   "active": "3bf8224754717f4b",
   "lastOpenFiles": [
-    "blogs/CS/openwrt/未命名.md",
-    "blogs/CS/AI/AI_reference.md",
-    "blogs/CS/roblox/相关教程.md",
-    "blogs/CS/Flutter/学习文章/Graphql使用POST请求.md",
-    "blogs/CS/Flutter/组件合集/TextField.md",
-    "blogs/CS/graphql/Graphql_reference.md",
-    "blogs/CS/AutoHotkey/未命名.md",
+    "blogs/CS/AI/Related_company.md",
+    "blogs/CS/AI/vioce_AI.md",
     "blogs/CS/AI/HuaWei.md",
     "blogs/CS/AI/openai.md",
-    "blogs/CS/AI/Related_company.md"
+    "blogs/CS/AI/AI_reference.md",
+    "blogs/CS/AI/记录.md",
+    "blogs/CS/AutoHotkey/未命名.md",
+    "blogs/CS/openwrt/未命名.md",
+    "blogs/CS/roblox/相关教程.md",
+    "blogs/CS/Flutter/学习文章/Graphql使用POST请求.md"
   ]
 }
