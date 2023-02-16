@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ccba6068b5550280",
+        "id": "d7128c8c90901f9c",
         "type": "tabs",
         "children": [
           {
-            "id": "d2b8c62a05197d27",
+            "id": "76739fd711ea7ae8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/AI/AI_reference.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3bf8224754717f4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/Think/论组织的进化.md",
+                "file": "blogs/info/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -34,51 +21,12 @@
             }
           },
           {
-            "id": "9faaeb6d6b2638af",
+            "id": "ea030ac292752369",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Think/路径.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "da2492ed48b1f0a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/Think/一个人在后天该如何提升自身的内在自信.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8715acc0f2ee7089",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/Think/创业的过程就是一个不断解决新问题的过程.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ba50555ab88f94cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/Think/在面试中的两个灵魂拷问.md",
+                "file": "blogs/info/meta/相关公司.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -152,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Think/在面试中的两个灵魂拷问.md",
+                "file": "blogs/info/meta/相关公司.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Think/在面试中的两个灵魂拷问.md",
+                "file": "blogs/info/meta/相关公司.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Think/在面试中的两个灵魂拷问.md"
+                "file": "blogs/info/meta/相关公司.md"
               }
             }
           },
@@ -230,17 +178,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ba50555ab88f94cb",
+  "active": "ea030ac292752369",
   "lastOpenFiles": [
-    "blogs/Think/创业的过程就是一个不断解决新问题的过程.md",
-    "blogs/Think/一个人在后天该如何提升自身的内在自信.md",
+    "blogs/info/未命名.md",
     "blogs/Think/路径.md",
     "blogs/Think/论组织的进化.md",
-    "blogs/CS/AI/AI_reference.md",
+    "blogs/Think/一个人在后天该如何提升自身的内在自信.md",
     "blogs/Think/对于人类现在智慧的思考.md",
+    "blogs/CS/AI/AI_reference.md",
+    "blogs/Think/创业的过程就是一个不断解决新问题的过程.md",
+    "blogs/Think/在面试中的两个灵魂拷问.md",
     "blogs/Think/001.md",
-    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/已没落/1号店于刚：从零做到二十.md",
-    "blogs/CS/openwrt/未命名.md",
-    "blogs/CS/AI/openai.md"
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/已没落/1号店于刚：从零做到二十.md"
   ]
 }
