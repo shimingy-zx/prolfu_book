@@ -65,7 +65,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/info/经济数据分析.md",
+                "file": "blogs/CS/基础/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f59c3d9fb2d4f32e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/CS/基础/登录逻辑.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/info/经济数据分析.md",
+                "file": "blogs/CS/基础/登录逻辑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/info/经济数据分析.md",
+                "file": "blogs/CS/基础/登录逻辑.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/info/经济数据分析.md"
+                "file": "blogs/CS/基础/登录逻辑.md"
               }
             }
           },
@@ -217,8 +230,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5616cef4e198ed4",
+  "active": "f59c3d9fb2d4f32e",
   "lastOpenFiles": [
+    "blogs/CS/基础/未命名.md",
+    "blogs/info/经济数据分析.md",
     "blogs/info/meta/相关公司.md",
     "blogs/CS/game/游戏引擎.md",
     "blogs/info/课程平台/未命名.md",
@@ -226,8 +241,6 @@
     "blogs/Think/一个人在后天该如何提升自身的内在自信.md",
     "blogs/Think/在面试中的两个灵魂拷问.md",
     "blogs/Think/论组织的进化.md",
-    "blogs/Think/路径.md",
-    "blogs/Think/对于人类现在智慧的思考.md",
-    "blogs/Think/创业的过程就是一个不断解决新问题的过程.md"
+    "blogs/Think/路径.md"
   ]
 }
