@@ -4,50 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d7128c8c90901f9c",
+        "id": "90bedd875f91fc04",
         "type": "tabs",
         "children": [
           {
-            "id": "76739fd711ea7ae8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/info/经济数据分析.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ea030ac292752369",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/info/meta/相关公司.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "88eba99d598ec897",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/CS/game/游戏引擎.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6c6d9f05861a0d70",
+            "id": "dd6db625eb537467",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,38 +21,12 @@
             }
           },
           {
-            "id": "c5616cef4e198ed4",
+            "id": "2ed6fed8997a9438",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/基础/未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f59c3d9fb2d4f32e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/CS/基础/登录逻辑.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e24cd630d36d854c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/CS/内网穿透/参考技术.md",
+                "file": "blogs/info/教育平台信息/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -99,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/内网穿透/参考技术.md",
+                "file": "blogs/info/教育平台信息/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/内网穿透/参考技术.md",
+                "file": "blogs/info/教育平台信息/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/内网穿透/参考技术.md"
+                "file": "blogs/info/教育平台信息/未命名.md"
               }
             }
           },
@@ -243,17 +178,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e24cd630d36d854c",
+  "active": "2ed6fed8997a9438",
   "lastOpenFiles": [
-    "blogs/CS/基础/登录逻辑.md",
-    "blogs/CS/基础/未命名.md",
-    "blogs/info/经济数据分析.md",
-    "blogs/info/meta/相关公司.md",
-    "blogs/CS/game/游戏引擎.md",
     "blogs/info/课程平台/未命名.md",
+    "blogs/info/meta/相关公司.md",
+    "blogs/CS/内网穿透/参考技术.md",
+    "blogs/CS/基础/登录逻辑.md",
+    "blogs/info/经济数据分析.md",
+    "blogs/CS/game/游戏引擎.md",
+    "blogs/CS/基础/未命名.md",
     "blogs/交流/宋老师.md",
     "blogs/Think/一个人在后天该如何提升自身的内在自信.md",
-    "blogs/Think/在面试中的两个灵魂拷问.md",
-    "blogs/Think/论组织的进化.md"
+    "blogs/Think/在面试中的两个灵魂拷问.md"
   ]
 }
