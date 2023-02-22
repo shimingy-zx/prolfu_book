@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/info/movies/精彩电影.md",
+                "file": "blogs/CS/IP/ipv6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -76,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ipv6",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/info/movies/精彩电影.md",
+                "file": "blogs/CS/IP/ipv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/info/movies/精彩电影.md",
+                "file": "blogs/CS/IP/ipv6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/info/movies/精彩电影.md"
+                "file": "blogs/CS/IP/ipv6.md"
               }
             }
           },
@@ -193,6 +194,7 @@
   },
   "active": "0cb55d2fc14836d2",
   "lastOpenFiles": [
+    "blogs/info/movies/精彩电影.md",
     "blogs/info/课程平台/未命名.md",
     "blogs/info/教育平台信息/未命名.md",
     "blogs/info/meta/相关公司.md",
@@ -201,7 +203,6 @@
     "blogs/info/经济数据分析.md",
     "blogs/CS/game/游戏引擎.md",
     "blogs/CS/基础/未命名.md",
-    "blogs/交流/宋老师.md",
-    "blogs/Think/一个人在后天该如何提升自身的内在自信.md"
+    "blogs/交流/宋老师.md"
   ]
 }
