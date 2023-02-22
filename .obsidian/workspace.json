@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd6db625eb537467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/info/课程平台/未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2ed6fed8997a9438",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/info/教育平台信息/未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "0cb55d2fc14836d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/IP/ipv6.md",
+                "file": "blogs/CS/AI/AI_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -73,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Think/做局思维.md",
+                "file": "blogs/Think/不用管以物质激励为孩子设立目标.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Think/做局思维.md",
+                "file": "blogs/Think/不用管以物质激励为孩子设立目标.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Think/做局思维.md"
+                "file": "blogs/Think/不用管以物质激励为孩子设立目标.md"
               }
             }
           },
@@ -217,17 +191,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "968339e29d7dcab9",
+  "active": "0538364d7d5ddceb",
   "lastOpenFiles": [
+    "blogs/Think/做局思维.md",
     "blogs/Think/不用管以物质激励为孩子设立目标.md",
+    "blogs/CS/AI/AI_reference.md",
+    "blogs/CS/AI/HuaWei.md",
+    "blogs/CS/AI/openai.md",
+    "blogs/CS/AI/Related_company.md",
+    "blogs/CS/AI/vioce_AI.md",
     "blogs/CS/IP/ipv6.md",
-    "blogs/info/movies/精彩电影.md",
     "blogs/info/课程平台/未命名.md",
-    "blogs/info/教育平台信息/未命名.md",
-    "blogs/info/meta/相关公司.md",
-    "blogs/CS/内网穿透/参考技术.md",
-    "blogs/CS/基础/登录逻辑.md",
-    "blogs/info/经济数据分析.md",
-    "blogs/CS/game/游戏引擎.md"
+    "blogs/info/教育平台信息/未命名.md"
   ]
 }
