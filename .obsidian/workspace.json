@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Think/未命名.md",
+                "file": "blogs/Think/做局思维.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Think/未命名.md",
+                "file": "blogs/Think/做局思维.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Think/未命名.md",
+                "file": "blogs/Think/做局思维.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Think/未命名.md"
+                "file": "blogs/Think/做局思维.md"
               }
             }
           },
@@ -180,8 +180,10 @@
   },
   "active": "438a0e26740a41fb",
   "lastOpenFiles": [
-    "blogs/交流/宋老师.md",
+    "blogs/CS/AutoHotkey/未命名.md",
+    "blogs/CS/backEnd/001.md",
     "blogs/Think/未命名.md",
+    "blogs/交流/宋老师.md",
     "blogs/CS/AI/AI_reference.md",
     "blogs/Think/不用管以物质激励为孩子设立目标.md",
     "blogs/Think/做局思维.md",
