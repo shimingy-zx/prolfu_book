@@ -32,9 +32,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "03462b0d347e6a79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/CS/auto/流程自动化.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AI/AI_reference.md",
+                "file": "blogs/CS/auto/流程自动化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AI/AI_reference.md",
+                "file": "blogs/CS/auto/流程自动化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/AI/AI_reference.md"
+                "file": "blogs/CS/auto/流程自动化.md"
               }
             }
           },
@@ -178,8 +191,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "438a0e26740a41fb",
+  "active": "03462b0d347e6a79",
   "lastOpenFiles": [
+    "blogs/CS/AI/AI_reference.md",
+    "blogs/CS/auto/流程自动化.md",
+    "blogs/CS/auto",
     "blogs/CS/AI/HuaWei.md",
     "blogs/CS/AI/openai.md",
     "blogs/CS/AI/Related_company.md",
@@ -189,7 +205,6 @@
     "blogs/CS/backEnd/001.md",
     "blogs/Think/未命名.md",
     "blogs/交流/宋老师.md",
-    "blogs/CS/AI/AI_reference.md",
     "blogs/Think/不用管以物质激励为孩子设立目标.md",
     "blogs/CS/IP/ipv6.md",
     "blogs/info/课程平台/未命名.md",
