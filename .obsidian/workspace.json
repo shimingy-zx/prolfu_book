@@ -52,15 +52,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/info/github/github.md",
+                "file": "blogs/info/github/github优秀作者.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/info/github/github.md",
+                "file": "blogs/交流/宋老师.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/info/github/github.md",
+                "file": "blogs/交流/宋老师.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/info/github/github.md"
+                "file": "blogs/交流/宋老师.md"
               }
             }
           },
@@ -204,12 +203,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d2dbb1e11882d969",
+  "active": "0cb55d2fc14836d2",
   "lastOpenFiles": [
-    "blogs/CS/auto/流程自动化.md",
-    "blogs/info/github/github.md",
-    "blogs/info/github",
     "blogs/CS/AI/AI_reference.md",
+    "blogs/CS/auto/流程自动化.md",
+    "blogs/info/github/github优秀作者.md",
+    "blogs/info/github",
     "blogs/CS/auto",
     "blogs/CS/AI/HuaWei.md",
     "blogs/CS/AI/openai.md",
