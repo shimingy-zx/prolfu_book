@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/info/如何看待孩子的叛逆.md",
+                "file": "blogs/info/github/github优秀作者.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/info/如何看待孩子的叛逆.md",
+                "file": "blogs/info/github/github优秀作者.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/info/如何看待孩子的叛逆.md"
+                "file": "blogs/info/github/github优秀作者.md"
               }
             }
           },
@@ -217,12 +217,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d0c0d26fa2a6f6e",
+  "active": "d2dbb1e11882d969",
   "lastOpenFiles": [
-    "blogs/交流/宋老师.md",
+    "blogs/CS/auto/流程自动化.md",
     "blogs/info/如何看待孩子的叛逆.md",
     "blogs/CS/AI/AI_reference.md",
-    "blogs/CS/auto/流程自动化.md",
+    "blogs/交流/宋老师.md",
     "blogs/info/github/github优秀作者.md",
     "blogs/info/github",
     "blogs/CS/auto",
