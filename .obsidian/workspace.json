@@ -21,6 +21,19 @@
             }
           },
           {
+            "id": "8d0c0d26fa2a6f6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/info/如何看待孩子的叛逆.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
             "id": "438a0e26740a41fb",
             "type": "leaf",
             "state": {
@@ -59,7 +72,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/交流/宋老师.md",
+                "file": "blogs/info/如何看待孩子的叛逆.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/交流/宋老师.md",
+                "file": "blogs/info/如何看待孩子的叛逆.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/交流/宋老师.md"
+                "file": "blogs/info/如何看待孩子的叛逆.md"
               }
             }
           },
@@ -203,8 +217,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0cb55d2fc14836d2",
+  "active": "8d0c0d26fa2a6f6e",
   "lastOpenFiles": [
+    "blogs/交流/宋老师.md",
+    "blogs/info/如何看待孩子的叛逆.md",
     "blogs/CS/AI/AI_reference.md",
     "blogs/CS/auto/流程自动化.md",
     "blogs/info/github/github优秀作者.md",
@@ -218,7 +234,6 @@
     "blogs/CS/AutoHotkey/未命名.md",
     "blogs/CS/backEnd/001.md",
     "blogs/Think/未命名.md",
-    "blogs/交流/宋老师.md",
     "blogs/Think/不用管以物质激励为孩子设立目标.md",
     "blogs/CS/IP/ipv6.md",
     "blogs/info/课程平台/未命名.md",
