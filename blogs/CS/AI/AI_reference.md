@@ -12,6 +12,8 @@ sidebar: 'auto'
 
 [OpenAI API](https://beta.openai.com/docs/introduction)
 
+[Adept: Useful General Intelligence](https://www.adept.ai/)
+
 ## 语音转文字
 [Speech to Text Demo (bluemix.net)](https://speech-to-text-demo.ng.bluemix.net/)
 

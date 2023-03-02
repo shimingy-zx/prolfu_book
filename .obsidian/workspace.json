@@ -65,7 +65,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/info/github/github优秀作者.md",
+                "file": "blogs/CS/AI/AI_reference.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a8fa0f9c516e6905",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/info/Rpa/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -73,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/info/github/github优秀作者.md",
+                "file": "blogs/info/Rpa/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/info/github/github优秀作者.md",
+                "file": "blogs/info/Rpa/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/info/github/github优秀作者.md"
+                "file": "blogs/info/Rpa/未命名.md"
               }
             }
           },
@@ -217,19 +230,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d2dbb1e11882d969",
+  "active": "a8fa0f9c516e6905",
   "lastOpenFiles": [
-    "blogs/CS/auto/流程自动化.md",
-    "blogs/info/如何看待孩子的叛逆.md",
     "blogs/CS/AI/AI_reference.md",
-    "blogs/交流/宋老师.md",
-    "blogs/info/github/github优秀作者.md",
-    "blogs/info/github",
-    "blogs/CS/auto",
+    "blogs/info/Rpa/未命名.md",
+    "blogs/info/Rpa",
     "blogs/CS/AI/HuaWei.md",
     "blogs/CS/AI/openai.md",
     "blogs/CS/AI/Related_company.md",
     "blogs/CS/AI/vioce_AI.md",
+    "blogs/info/github/github优秀作者.md",
+    "blogs/info/未命名",
+    "blogs/CS/auto/流程自动化.md",
+    "blogs/info/如何看待孩子的叛逆.md",
+    "blogs/交流/宋老师.md",
+    "blogs/info/github",
+    "blogs/CS/auto",
     "blogs/Think/做局思维.md",
     "blogs/CS/AutoHotkey/未命名.md",
     "blogs/CS/backEnd/001.md",
