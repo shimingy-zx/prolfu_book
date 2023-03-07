@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/info/财务/相关平台.md",
+                "file": "blogs/info/API自动化/相关平台.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/info/财务/相关平台.md",
+                "file": "blogs/info/API自动化/相关平台.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/info/财务/相关平台.md",
+                "file": "blogs/info/API自动化/相关平台.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/info/财务/相关平台.md"
+                "file": "blogs/info/API自动化/相关平台.md"
               }
             }
           },
@@ -247,6 +247,7 @@
   "active": "0acdeb024eebc653",
   "lastOpenFiles": [
     "blogs/info/课程平台/未命名.md",
+    "blogs/info/教育平台信息/未命名.md",
     "blogs/info/财务/相关平台.md",
     "blogs/info/财务",
     "blogs/info/API自动化/相关平台.md",
@@ -279,7 +280,6 @@
     "blogs/CS/auto",
     "blogs/Think/做局思维.md",
     "blogs/CS/AutoHotkey/未命名.md",
-    "blogs/CS/backEnd/001.md",
-    "blogs/Think/未命名.md"
+    "blogs/CS/backEnd/001.md"
   ]
 }
