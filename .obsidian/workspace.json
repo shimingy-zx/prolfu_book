@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/info/API自动化/相关平台.md",
+                "file": "blogs/info/erp/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -165,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/info/API自动化/相关平台.md",
+                "file": "blogs/info/erp/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/info/API自动化/相关平台.md",
+                "file": "blogs/info/erp/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/info/API自动化/相关平台.md"
+                "file": "blogs/info/erp/未命名.md"
               }
             }
           },
@@ -246,11 +246,11 @@
   },
   "active": "0acdeb024eebc653",
   "lastOpenFiles": [
+    "blogs/info/API自动化/相关平台.md",
     "blogs/info/课程平台/未命名.md",
     "blogs/info/教育平台信息/未命名.md",
     "blogs/info/财务/相关平台.md",
     "blogs/info/财务",
-    "blogs/info/API自动化/相关平台.md",
     "blogs/info/erp/未命名.md",
     "blogs/info/未命名.md",
     "blogs/info/erp",
