@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/info/API自动化/相关平台.md",
+                "file": "blogs/CS/AI/openai.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3be2ae4812668ff0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/CS/AI/唤醒词/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 425.5
   },
   "right": {
     "id": "7e6a70072d01ad20",
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/info/API自动化/相关平台.md",
+                "file": "blogs/CS/AI/唤醒词/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/info/API自动化/相关平台.md",
+                "file": "blogs/CS/AI/唤醒词/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/info/API自动化/相关平台.md"
+                "file": "blogs/CS/AI/唤醒词/未命名.md"
               }
             }
           },
@@ -165,13 +179,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0acdeb024eebc653",
+  "active": "3be2ae4812668ff0",
   "lastOpenFiles": [
+    "blogs/CS/AI/openai.md",
+    "blogs/CS/AI/唤醒词/未命名.md",
+    "blogs/CS/AI/唤醒词",
+    "blogs/CS/AI/Related_company.md",
+    "blogs/CS/AI/vioce_AI.md",
+    "blogs/CS/AI/AI_reference.md",
+    "blogs/CS/AI/记录.md",
+    "blogs/CS/AI/HuaWei.md",
+    "blogs/info/API自动化/相关平台.md",
     "blogs/info/课程平台/未命名.md",
     "blogs/info/教育平台信息/未命名.md",
     "blogs/info/财务/相关平台.md",
     "blogs/info/erp/未命名.md",
-    "blogs/info/API自动化/相关平台.md",
     "blogs/info/财务",
     "blogs/info/未命名.md",
     "blogs/info/erp",
@@ -190,17 +212,10 @@
     "blogs/info/如何看待孩子的叛逆.md",
     "blogs/CS/auto/流程自动化.md",
     "blogs/info/Rpa/未命名.md",
-    "blogs/CS/AI/AI_reference.md",
     "blogs/info/Rpa",
-    "blogs/CS/AI/HuaWei.md",
-    "blogs/CS/AI/openai.md",
-    "blogs/CS/AI/Related_company.md",
-    "blogs/CS/AI/vioce_AI.md",
     "blogs/info/github/github优秀作者.md",
     "blogs/info/github",
     "blogs/CS/auto",
-    "blogs/Think/做局思维.md",
-    "blogs/CS/AutoHotkey/未命名.md",
-    "blogs/CS/backEnd/001.md"
+    "blogs/Think/做局思维.md"
   ]
 }
