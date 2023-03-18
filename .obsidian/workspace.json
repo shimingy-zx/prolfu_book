@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/AI/唤醒词/未命名.md",
+                "file": "blogs/info/API自动化/相关平台.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AI/唤醒词/未命名.md",
+                "file": "blogs/info/API自动化/相关平台.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AI/唤醒词/未命名.md",
+                "file": "blogs/info/API自动化/相关平台.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/AI/唤醒词/未命名.md"
+                "file": "blogs/info/API自动化/相关平台.md"
               }
             }
           },
@@ -194,8 +194,9 @@
   },
   "active": "3e257c5cce257ed3",
   "lastOpenFiles": [
-    "blogs/CS/动画/未命名.md",
+    "blogs/CS/auto/流程自动化.md",
     "blogs/CS/AI/唤醒词/未命名.md",
+    "blogs/CS/动画/未命名.md",
     "blogs/CS/动画",
     "blogs/CS/AI/openai.md",
     "blogs/CS/AI/唤醒词",
@@ -225,7 +226,6 @@
     "blogs/CS/video",
     "blogs/交流/宋老师.md",
     "blogs/info/如何看待孩子的叛逆.md",
-    "blogs/CS/auto/流程自动化.md",
     "blogs/info/Rpa/未命名.md",
     "blogs/info/Rpa",
     "blogs/info/github/github优秀作者.md",
