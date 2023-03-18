@@ -44,3 +44,7 @@ sidebar: 'auto'
 
 
 ![[Pasted image 20230213030052.png]]
+
+
+一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目
+[wukong-robot (hahack.com)](https://wukong.hahack.com/#/)
