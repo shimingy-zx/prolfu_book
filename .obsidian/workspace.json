@@ -4,76 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "0d322ef0e62f2ac4",
+        "id": "3e96e38eddf88d4f",
         "type": "tabs",
         "children": [
           {
-            "id": "0acdeb024eebc653",
+            "id": "7c218b4c62e0cd28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/AI/openai.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3be2ae4812668ff0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/CS/AI/唤醒词/未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3e257c5cce257ed3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/info/API自动化/相关平台.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6a04f4bb1909e9ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/CS/AI/AI_reference.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5b0b8edc03d755cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/CS/AI/唤醒词/未命名.md",
+                "file": "blogs/CS/Flutter/例子/开源项目.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "类",
+                "query": "开源",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -119,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -139,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AI/唤醒词/未命名.md",
+                "file": "blogs/CS/Flutter/例子/开源项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AI/唤醒词/未命名.md",
+                "file": "blogs/CS/Flutter/例子/开源项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/AI/唤醒词/未命名.md"
+                "file": "blogs/CS/Flutter/例子/开源项目.md"
               }
             }
           },
@@ -218,20 +166,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b0b8edc03d755cb",
+  "active": "7c218b4c62e0cd28",
   "lastOpenFiles": [
+    "blogs/other/如何为你的开源项目选择一个合适的开源协议？.md",
     "blogs/CS/AI/AI_reference.md",
+    "blogs/info/API自动化/相关平台.md",
     "blogs/CS/AI/唤醒词/未命名.md",
+    "blogs/CS/AI/openai.md",
+    "blogs/CS/Flutter/例子/例子合集.md",
     "blogs/CS/AI/vioce_AI.md",
     "blogs/CS/AI/文字转语音/未命名.md",
     "blogs/CS/AI/文字转语音",
     "blogs/CS/AI/Chat_GPT/代理访问.md",
-    "blogs/info/API自动化/相关平台.md",
     "blogs/CS/AI/Chat_GPT",
     "blogs/CS/auto/流程自动化.md",
     "blogs/CS/动画/未命名.md",
     "blogs/CS/动画",
-    "blogs/CS/AI/openai.md",
     "blogs/CS/AI/唤醒词",
     "blogs/CS/AI/Related_company.md",
     "blogs/CS/AI/记录.md",
@@ -253,8 +203,6 @@
     "blogs/CS/video/未命名.md",
     "blogs/CS/python/NumPy.md",
     "blogs/CS/video/未命名",
-    "blogs/CS/video",
-    "blogs/交流/宋老师.md",
-    "blogs/info/如何看待孩子的叛逆.md"
+    "blogs/CS/video"
   ]
 }
