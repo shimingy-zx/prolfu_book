@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "4245c2a57fa42d79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/CS/AI/图片生成.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,8 +80,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AI/AI_reference.md",
+                "file": "blogs/CS/AI/图片生成.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AI/AI_reference.md",
+                "file": "blogs/CS/AI/图片生成.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/AI/AI_reference.md"
+                "file": "blogs/CS/AI/图片生成.md"
               }
             }
           },
@@ -166,12 +179,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7c218b4c62e0cd28",
+  "active": "4245c2a57fa42d79",
   "lastOpenFiles": [
+    "blogs/CS/AI/AI_reference.md",
+    "blogs/CS/AI/图片生成.md",
     "blogs/CS/roblox/相关教程.md",
     "blogs/CS/Flutter/例子/开源项目.md",
     "blogs/other/如何为你的开源项目选择一个合适的开源协议？.md",
-    "blogs/CS/AI/AI_reference.md",
     "blogs/info/API自动化/相关平台.md",
     "blogs/CS/AI/唤醒词/未命名.md",
     "blogs/CS/AI/openai.md",
@@ -201,7 +215,6 @@
     "blogs/CS/OMS/未命名.md",
     "blogs/CS/Flutter/Flutter学习参考.md",
     "blogs/CS/OMS",
-    "blogs/CS/video/未命名.md",
     "blogs/CS/video/未命名",
     "blogs/CS/video"
   ]
