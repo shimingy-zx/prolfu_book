@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/AI/图片生成.md",
+                "file": "blogs/info/API自动化/相关平台.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AI/图片生成.md",
+                "file": "blogs/info/API自动化/相关平台.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AI/图片生成.md",
+                "file": "blogs/info/API自动化/相关平台.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/AI/图片生成.md"
+                "file": "blogs/info/API自动化/相关平台.md"
               }
             }
           },
@@ -181,8 +181,8 @@
   },
   "active": "4245c2a57fa42d79",
   "lastOpenFiles": [
-    "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/图片生成.md",
+    "blogs/CS/AI/AI_reference.md",
     "blogs/CS/roblox/相关教程.md",
     "blogs/CS/Flutter/例子/开源项目.md",
     "blogs/other/如何为你的开源项目选择一个合适的开源协议？.md",
