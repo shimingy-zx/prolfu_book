@@ -8,59 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7c218b4c62e0cd28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/CS/AI/AI_reference.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "4245c2a57fa42d79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/CS/AI/AI_reference.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "250bfaac365bdc0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/CS/AI/AI_reference.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "292dde9a2da88239",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/AI/工具.md",
+                "file": "blogs/CS/IP/ipv6.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bloom",
+                "query": "ipv6",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -126,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AI/工具.md",
+                "file": "blogs/CS/IP/ipv6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AI/工具.md",
+                "file": "blogs/CS/IP/ipv6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/AI/工具.md"
+                "file": "blogs/CS/IP/ipv6.md"
               }
             }
           },
@@ -207,8 +168,8 @@
   },
   "active": "292dde9a2da88239",
   "lastOpenFiles": [
-    "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/工具.md",
+    "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/使用平台.md",
     "blogs/info/API自动化/相关平台.md",
     "blogs/CS/AI/图片生成.md",
