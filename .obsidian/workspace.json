@@ -26,7 +26,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/activity/20230402/key.md",
+                "file": "blogs/CS/AI/AI_reference.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "73d3e04d17be4a9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/CS/AI/社区/AI社区.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -34,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/activity/20230402/key.md",
+                "file": "blogs/CS/AI/社区/AI社区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/activity/20230402/key.md",
+                "file": "blogs/CS/AI/社区/AI社区.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/activity/20230402/key.md"
+                "file": "blogs/CS/AI/社区/AI社区.md"
               }
             }
           },
@@ -179,30 +192,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7833d706f72fd1e1",
+  "active": "73d3e04d17be4a9d",
   "lastOpenFiles": [
-    "blogs/activity/20230402/20230402.md",
+    "blogs/CS/AI/AI_reference.md",
+    "blogs/CS/AI/社区/AI社区.md",
+    "blogs/CS/AI/vioce_AI.md",
+    "blogs/CS/AI/Related_company.md",
+    "blogs/CS/AI/openai.md",
+    "blogs/CS/AI/HuaWei.md",
+    "blogs/CS/AI/图片生成.md",
+    "blogs/CS/AI/使用平台.md",
+    "blogs/CS/AI/文字转语音/未命名.md",
+    "blogs/CS/AI/社区",
     "blogs/activity/20230402/key.md",
+    "blogs/activity/20230402/20230402.md",
     "blogs/activity/20230402",
     "blogs/activity",
-    "blogs/CS/AI/使用平台.md",
     "blogs/Think/如何做出最好的选择.md",
     "blogs/CS/IP/debug.md",
     "blogs/Think/未命名 1.md",
     "blogs/Think/未命名.md",
     "blogs/CS/IP/ipv6.md",
     "blogs/CS/AI/工具.md",
-    "blogs/CS/AI/AI_reference.md",
     "blogs/info/API自动化/相关平台.md",
-    "blogs/CS/AI/图片生成.md",
     "blogs/CS/roblox/相关教程.md",
     "blogs/CS/Flutter/例子/开源项目.md",
     "blogs/other/如何为你的开源项目选择一个合适的开源协议？.md",
     "blogs/CS/AI/唤醒词/未命名.md",
-    "blogs/CS/AI/openai.md",
     "blogs/CS/Flutter/例子/例子合集.md",
-    "blogs/CS/AI/vioce_AI.md",
-    "blogs/CS/AI/文字转语音/未命名.md",
     "blogs/CS/AI/文字转语音",
     "blogs/CS/AI/Chat_GPT/代理访问.md",
     "blogs/CS/AI/Chat_GPT",
@@ -210,11 +227,8 @@
     "blogs/CS/动画/未命名.md",
     "blogs/CS/动画",
     "blogs/CS/AI/唤醒词",
-    "blogs/CS/AI/Related_company.md",
-    "blogs/CS/AI/记录.md",
     "blogs/info/财务",
     "blogs/info/erp",
-    "blogs/info/API自动化",
-    "blogs/CS/OMS"
+    "blogs/info/API自动化"
   ]
 }
