@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/IP/ip检查.md",
+                "file": "blogs/CS/AI/openai/openai.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/IP/ip检查.md",
+                "file": "blogs/CS/AI/openai/openai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/IP/ip检查.md",
+                "file": "blogs/CS/AI/openai/openai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/IP/ip检查.md"
+                "file": "blogs/CS/AI/openai/openai.md"
               }
             }
           },
@@ -205,15 +205,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1d371de285139501",
+  "active": "d41b21a2ca053447",
   "lastOpenFiles": [
-    "blogs/activity/20230402/20230402.md",
+    "blogs/CS/AI/openai",
     "blogs/CS/IP/ip检查.md",
+    "blogs/activity/20230402/20230402.md",
     "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/社区/AI社区.md",
     "blogs/CS/AI/vioce_AI.md",
     "blogs/CS/AI/Related_company.md",
-    "blogs/CS/AI/openai.md",
+    "blogs/CS/AI/openai/openai.md",
     "blogs/CS/AI/HuaWei.md",
     "blogs/CS/AI/图片生成.md",
     "blogs/CS/AI/使用平台.md",
@@ -237,7 +238,6 @@
     "blogs/CS/AI/文字转语音",
     "blogs/CS/AI/Chat_GPT/代理访问.md",
     "blogs/CS/AI/Chat_GPT",
-    "blogs/CS/auto/流程自动化.md",
     "blogs/CS/动画",
     "blogs/CS/AI/唤醒词",
     "blogs/info/财务",
