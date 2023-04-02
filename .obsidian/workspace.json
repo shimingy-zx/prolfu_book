@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AI/社区/AI社区.md",
+                "file": "blogs/activity/20230402/20230402.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AI/社区/AI社区.md",
+                "file": "blogs/activity/20230402/20230402.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/AI/社区/AI社区.md"
+                "file": "blogs/activity/20230402/20230402.md"
               }
             }
           },
@@ -192,7 +191,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "73d3e04d17be4a9d",
+  "active": "47187dd50225f9b5",
   "lastOpenFiles": [
     "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/社区/AI社区.md",
