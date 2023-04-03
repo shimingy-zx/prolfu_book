@@ -52,7 +52,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/托管服务/托管服务.md",
+                "file": "blogs/CS/AI/使用平台.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a938c6ce5e1c8449",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/CS/视频下载/国外视频平台下载方式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/托管服务/托管服务.md",
+                "file": "blogs/CS/视频下载/国外视频平台下载方式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/托管服务/托管服务.md",
+                "file": "blogs/CS/视频下载/国外视频平台下载方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/托管服务/托管服务.md"
+                "file": "blogs/CS/视频下载/国外视频平台下载方式.md"
               }
             }
           },
@@ -205,18 +218,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de7d0cb791356ba3",
+  "active": "a938c6ce5e1c8449",
   "lastOpenFiles": [
-    "blogs/Proflu/Theory/教育.md",
+    "blogs/CS/AI/使用平台.md",
+    "blogs/CS/视频下载/国外视频平台下载方式.md",
+    "blogs/CS/视频下载",
+    "blogs/CS/AI/AI_reference.md",
+    "blogs/CS/AI/工具.md",
     "blogs/CS/托管服务/托管服务.md",
+    "blogs/Proflu/Theory/教育.md",
     "blogs/CS/托管服务",
     "blogs/Proflu/Theory/授权，赋能的意义何在？.md",
     "blogs/Proflu/Theory/最小位势理论.md",
     "blogs/other/webIDE.md",
     "blogs/交流/宋老师.md",
     "blogs/CS/AI/图片生成.md",
-    "blogs/CS/AI/使用平台.md",
-    "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/openai/代理访问.md",
     "blogs/CS/AI/openai/ChatGPT 使用方法.md",
     "blogs/CS/AI/社区/AI社区.md",
@@ -236,12 +252,9 @@
     "blogs/Think/如何做出最好的选择.md",
     "blogs/Think/未命名 1.md",
     "blogs/Think/未命名.md",
-    "blogs/CS/IP/ipv6.md",
-    "blogs/CS/AI/工具.md",
     "blogs/CS/AI/文字转语音",
     "blogs/CS/AI/openai/Chat_GPT",
     "blogs/CS/动画",
-    "blogs/CS/AI/唤醒词",
-    "blogs/info/财务"
+    "blogs/CS/AI/唤醒词"
   ]
 }
