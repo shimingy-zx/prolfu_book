@@ -71,9 +71,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "07933d59ee21b624",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -139,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/视频下载/国外视频平台下载方式.md",
+                "file": "blogs/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/视频下载/国外视频平台下载方式.md",
+                "file": "blogs/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/视频下载/国外视频平台下载方式.md"
+                "file": "blogs/未命名.md"
               }
             }
           },
@@ -218,10 +231,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a938c6ce5e1c8449",
+  "active": "07933d59ee21b624",
   "lastOpenFiles": [
-    "blogs/CS/AI/使用平台.md",
     "blogs/CS/视频下载/国外视频平台下载方式.md",
+    "blogs/未命名.md",
+    "blogs/CS/AI/使用平台.md",
     "blogs/CS/视频下载",
     "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/工具.md",
@@ -251,7 +265,6 @@
     "blogs/activity",
     "blogs/Think/如何做出最好的选择.md",
     "blogs/Think/未命名 1.md",
-    "blogs/Think/未命名.md",
     "blogs/CS/AI/文字转语音",
     "blogs/CS/AI/openai/Chat_GPT",
     "blogs/CS/动画",
