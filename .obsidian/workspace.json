@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47187dd50225f9b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/交流/宋老师.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "7833d706f72fd1e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/AI/AI_reference.md",
+                "file": "blogs/活动/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -78,15 +65,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/AI/使用平台.md",
+                "file": "blogs/CS/视频下载/国外视频平台下载方式.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AI/使用平台.md",
+                "file": "blogs/活动/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AI/使用平台.md",
+                "file": "blogs/活动/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/AI/使用平台.md"
+                "file": "blogs/活动/未命名.md"
               }
             }
           },
@@ -231,23 +217,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07933d59ee21b624",
+  "active": "7833d706f72fd1e1",
   "lastOpenFiles": [
+    "blogs/未命名.md",
+    "blogs/活动/未命名.md",
+    "blogs/活动",
+    "blogs/交流/宋老师.md",
+    "blogs/CS/AI/AI_reference.md",
+    "blogs/Proflu/Theory/教育.md",
+    "blogs/CS/AI/使用平台.md",
+    "blogs/CS/视频下载/国外视频平台下载方式.md",
+    "blogs/CS/数据可视化/现有平台.md",
     "blogs/CS/node/Egg/Egg_mongodb.md",
     "blogs/CS/Flutter/Flutter_reference.md",
-    "blogs/未命名.md",
-    "blogs/CS/视频下载/国外视频平台下载方式.md",
-    "blogs/CS/AI/使用平台.md",
     "blogs/CS/视频下载",
-    "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/工具.md",
     "blogs/CS/托管服务/托管服务.md",
-    "blogs/Proflu/Theory/教育.md",
     "blogs/CS/托管服务",
     "blogs/Proflu/Theory/授权，赋能的意义何在？.md",
     "blogs/Proflu/Theory/最小位势理论.md",
     "blogs/other/webIDE.md",
-    "blogs/交流/宋老师.md",
     "blogs/CS/AI/图片生成.md",
     "blogs/CS/AI/openai/代理访问.md",
     "blogs/CS/AI/openai/ChatGPT 使用方法.md",
@@ -260,14 +249,11 @@
     "blogs/CS/AI/vioce_AI.md",
     "blogs/CS/AI/Related_company.md",
     "blogs/CS/AI/HuaWei.md",
-    "blogs/CS/AI/文字转语音/未命名.md",
     "blogs/CS/AI/社区",
-    "blogs/activity/20230402/key.md",
     "blogs/activity/20230402",
     "blogs/activity",
     "blogs/CS/AI/文字转语音",
     "blogs/CS/AI/openai/Chat_GPT",
-    "blogs/CS/动画",
-    "blogs/CS/AI/唤醒词"
+    "blogs/CS/动画"
   ]
 }
