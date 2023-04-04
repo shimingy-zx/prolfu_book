@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/未命名.md",
+                "file": "blogs/CS/AI/使用平台.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "自动",
+                "query": "对象",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/未命名.md",
+                "file": "blogs/CS/AI/使用平台.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/未命名.md",
+                "file": "blogs/CS/AI/使用平台.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/未命名.md"
+                "file": "blogs/CS/AI/使用平台.md"
               }
             }
           },
@@ -233,8 +233,10 @@
   },
   "active": "07933d59ee21b624",
   "lastOpenFiles": [
-    "blogs/CS/视频下载/国外视频平台下载方式.md",
+    "blogs/CS/node/Egg/Egg_mongodb.md",
+    "blogs/CS/Flutter/Flutter_reference.md",
     "blogs/未命名.md",
+    "blogs/CS/视频下载/国外视频平台下载方式.md",
     "blogs/CS/AI/使用平台.md",
     "blogs/CS/视频下载",
     "blogs/CS/AI/AI_reference.md",
@@ -263,8 +265,6 @@
     "blogs/activity/20230402/key.md",
     "blogs/activity/20230402",
     "blogs/activity",
-    "blogs/Think/如何做出最好的选择.md",
-    "blogs/Think/未命名 1.md",
     "blogs/CS/AI/文字转语音",
     "blogs/CS/AI/openai/Chat_GPT",
     "blogs/CS/动画",
