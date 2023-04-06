@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "841e5ac67fe0552e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/CS/AI/语音交流.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AI/使用平台.md",
+                "file": "blogs/CS/AI/语音交流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AI/使用平台.md",
+                "file": "blogs/CS/AI/语音交流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/AI/使用平台.md"
+                "file": "blogs/CS/AI/语音交流.md"
               }
             }
           },
@@ -165,13 +179,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3baff39b5438abad",
+  "active": "841e5ac67fe0552e",
   "lastOpenFiles": [
+    "blogs/CS/AI/使用平台.md",
+    "blogs/CS/AI/语音交流.md",
     "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/HuaWei.md",
     "blogs/CS/AI/Related_company.md",
     "blogs/CS/AI/vioce_AI.md",
-    "blogs/CS/AI/使用平台.md",
     "blogs/CS/AI/图片生成.md",
     "blogs/CS/AI/工具.md",
     "blogs/CS/AI/记录.md",
@@ -195,7 +210,6 @@
     "blogs/CS/AI/社区/AI社区.md",
     "blogs/activity/20230402/20230402.md",
     "blogs/CS/IP/debug.md",
-    "blogs/CS/AI/openai/openai.md",
     "blogs/CS/AI/openai",
     "blogs/CS/AI/社区",
     "blogs/activity/20230402",
