@@ -11,8 +11,13 @@
             "id": "d86b1ce3e7fd8c29",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blogs/CS/AI/语音交流.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blogs/CS/AI/语音交流.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blogs/CS/AI/语音交流.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blogs/CS/AI/语音交流.md"
+              }
             }
           },
           {
@@ -156,8 +165,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d41b21a2ca053447",
+  "active": "d86b1ce3e7fd8c29",
   "lastOpenFiles": [
+    "blogs/CS/roblox/相关教程.md",
     "blogs/CS/动画/未命名.md",
     "blogs/CS/AI/使用平台.md",
     "blogs/CS/AI/社区/AI社区.md",
@@ -186,7 +196,6 @@
     "blogs/other/webIDE.md",
     "blogs/CS/AI/openai/代理访问.md",
     "blogs/CS/AI/openai/ChatGPT 使用方法.md",
-    "blogs/activity/20230402/20230402.md",
     "blogs/CS/AI/openai",
     "blogs/CS/AI/社区",
     "blogs/activity/20230402",
