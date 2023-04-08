@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b9bb797fba55f882",
+        "id": "c1f2563f18082e9b",
         "type": "tabs",
         "children": [
           {
-            "id": "3baff39b5438abad",
+            "id": "d86b1ce3e7fd8c29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/CS/AI/使用平台.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "841e5ac67fe0552e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/CS/AI/社区/AI社区.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 213.5
   },
   "right": {
     "id": "7e6a70072d01ad20",
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AI/社区/AI社区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AI/社区/AI社区.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "blogs/CS/AI/社区/AI社区.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,10 +156,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "841e5ac67fe0552e",
+  "active": "d41b21a2ca053447",
   "lastOpenFiles": [
-    "blogs/CS/AI/语音交流.md",
+    "blogs/CS/动画/未命名.md",
     "blogs/CS/AI/使用平台.md",
+    "blogs/CS/AI/社区/AI社区.md",
+    "blogs/CS/AI/语音交流.md",
     "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/HuaWei.md",
     "blogs/CS/AI/Related_company.md",
@@ -207,9 +186,7 @@
     "blogs/other/webIDE.md",
     "blogs/CS/AI/openai/代理访问.md",
     "blogs/CS/AI/openai/ChatGPT 使用方法.md",
-    "blogs/CS/AI/社区/AI社区.md",
     "blogs/activity/20230402/20230402.md",
-    "blogs/CS/IP/debug.md",
     "blogs/CS/AI/openai",
     "blogs/CS/AI/社区",
     "blogs/activity/20230402",
