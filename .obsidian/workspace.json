@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b49926c963ba6d34",
+        "id": "8a79cd24229fc135",
         "type": "tabs",
         "children": [
           {
-            "id": "79ee7c0a293d38bd",
+            "id": "05608f8fcc162e29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/活动/未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "49e8a8db4b377312",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "未命名.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,8 +156,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "49e8a8db4b377312",
+  "active": "05608f8fcc162e29",
   "lastOpenFiles": [
+    "未命名.canvas",
     "blogs/活动/未命名.md",
     "未命名.md",
     "blogs/CS/roblox/相关教程.md",
@@ -209,7 +187,6 @@
     "blogs/Proflu/Theory/授权，赋能的意义何在？.md",
     "blogs/Proflu/Theory/最小位势理论.md",
     "blogs/other/webIDE.md",
-    "blogs/CS/AI/openai/代理访问.md",
     "blogs/CS/AI/openai",
     "blogs/CS/AI/社区",
     "blogs/activity/20230402",
