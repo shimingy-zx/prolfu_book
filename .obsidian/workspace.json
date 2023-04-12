@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/AI/AI_reference.md",
+                "file": "blogs/CS/database/Mongodb/Mongo_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AI/AI_reference.md",
+                "file": "blogs/CS/database/Mongodb/Mongo_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AI/AI_reference.md",
+                "file": "blogs/CS/database/Mongodb/Mongo_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/AI/AI_reference.md"
+                "file": "blogs/CS/database/Mongodb/Mongo_reference.md"
               }
             }
           }
@@ -172,6 +172,10 @@
   },
   "active": "88a301b16d956e50",
   "lastOpenFiles": [
+    "blogs/CS/视频下载/国外视频平台下载方式.md",
+    "blogs/CS/AutoHotkey_reference.md",
+    "blogs/CS/AutoHotkey/未命名.md",
+    "blogs/CS/AI/AI_reference.md",
     "blogs/Proflu/案例参考/未命名.md",
     "blogs/Proflu/陆向谦实验室/6公司治理/内部控制.md",
     "blogs/Proflu/陆向谦实验室/6公司治理/人力资源.md",
@@ -194,10 +198,6 @@
     "blogs/Proflu/陆向谦实验室/4产品服务/4.1产品介绍.md",
     "blogs/Proflu/陆向谦实验室/4产品服务/主营业务.md",
     "blogs/Proflu/陆向谦实验室/4产品服务/固定资产.md",
-    "blogs/Proflu/陆向谦实验室/4产品服务/学员等级.md",
-    "blogs/Proflu/陆向谦实验室/1名词解释/未命名.md",
-    "blogs/Proflu/陆向谦实验室/1名词解释/专业释义/国字培养.md",
-    "blogs/Proflu/陆向谦实验室/1名词解释/普通术语/领域知识.md",
     "logo.jpg",
     "avatar.jpg",
     "未命名 1.canvas"
