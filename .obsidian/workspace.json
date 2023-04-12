@@ -11,6 +11,7 @@
             "id": "31854fc431d1b665",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "canvas",
               "state": {
                 "file": "未命名 1.canvas",
@@ -19,6 +20,14 @@
                   "y": 232.5,
                   "zoom": 0
                 }
+=======
+              "type": "markdown",
+              "state": {
+                "file": "blogs/views/messageBoard.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+>>>>>>> 2cedf23314ba31a7f7514a8449c0e7880153d33f
               }
             }
           }
@@ -88,7 +97,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "未命名 1.canvas",
+=======
+                "file": "blogs/views/messageBoard.md",
+>>>>>>> 2cedf23314ba31a7f7514a8449c0e7880153d33f
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "未命名 1.canvas",
+=======
+                "file": "blogs/views/messageBoard.md",
+>>>>>>> 2cedf23314ba31a7f7514a8449c0e7880153d33f
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +145,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "未命名 1.canvas"
+=======
+                "file": "blogs/views/messageBoard.md"
+>>>>>>> 2cedf23314ba31a7f7514a8449c0e7880153d33f
               }
             }
           },
@@ -158,22 +179,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:新建白板": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+<<<<<<< HEAD
   "active": "31854fc431d1b665",
   "lastOpenFiles": [
     "未命名 1.canvas",
     "未命名.canvas",
     "avatar.jpg",
     "logo.jpg",
+=======
+  "active": "d41b21a2ca053447",
+  "lastOpenFiles": [
+    "blogs/activity/20230402.md",
+    "blogs/activity/20230402/key.md",
+    "blogs/think/创业的过程就是一个不断解决新问题的过程.md",
+    "blogs/think/001.md",
+    "blogs/views/messageBoard.md",
+>>>>>>> 2cedf23314ba31a7f7514a8449c0e7880153d33f
     "blogs/活动/未命名.md",
+    "未命名.canvas",
+    "blogs/交流/宋老师.md",
     "未命名.md",
     "blogs/CS/roblox/相关教程.md",
     "blogs/CS/AI/使用平台.md",
@@ -191,16 +224,11 @@
     "blogs/Proflu/Theory/教育.md",
     "blogs/未命名.md",
     "blogs/活动",
-    "blogs/交流/宋老师.md",
     "blogs/CS/数据可视化/现有平台.md",
     "blogs/CS/node/Egg/Egg_mongodb.md",
     "blogs/CS/Flutter/Flutter_reference.md",
     "blogs/CS/视频下载",
-    "blogs/CS/托管服务/托管服务.md",
     "blogs/CS/托管服务",
-    "blogs/Proflu/Theory/授权，赋能的意义何在？.md",
-    "blogs/Proflu/Theory/最小位势理论.md",
-    "blogs/other/webIDE.md",
     "blogs/CS/AI/openai",
     "blogs/CS/AI/社区",
     "blogs/activity/20230402",
