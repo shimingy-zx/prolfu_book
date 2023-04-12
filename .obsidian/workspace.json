@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "c1f2563f18082e9b",
+        "id": "b49926c963ba6d34",
         "type": "tabs",
         "children": [
           {
-            "id": "d86b1ce3e7fd8c29",
+            "id": "79ee7c0a293d38bd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/AI/使用平台.md",
+                "file": "blogs/活动/未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "49e8a8db4b377312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AI/使用平台.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AI/使用平台.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/AI/使用平台.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -165,12 +179,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d86b1ce3e7fd8c29",
+  "active": "49e8a8db4b377312",
   "lastOpenFiles": [
-    "blogs/CS/AI/语音交流.md",
+    "blogs/活动/未命名.md",
+    "未命名.md",
     "blogs/CS/roblox/相关教程.md",
-    "blogs/CS/动画/未命名.md",
     "blogs/CS/AI/使用平台.md",
+    "blogs/CS/AI/语音交流.md",
+    "blogs/CS/动画/未命名.md",
     "blogs/CS/AI/社区/AI社区.md",
     "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/HuaWei.md",
@@ -181,7 +197,6 @@
     "blogs/CS/AI/记录.md",
     "blogs/CS/视频下载/国外视频平台下载方式.md",
     "blogs/Proflu/Theory/教育.md",
-    "blogs/活动/未命名.md",
     "blogs/未命名.md",
     "blogs/活动",
     "blogs/交流/宋老师.md",
@@ -195,7 +210,6 @@
     "blogs/Proflu/Theory/最小位势理论.md",
     "blogs/other/webIDE.md",
     "blogs/CS/AI/openai/代理访问.md",
-    "blogs/CS/AI/openai/ChatGPT 使用方法.md",
     "blogs/CS/AI/openai",
     "blogs/CS/AI/社区",
     "blogs/activity/20230402",
