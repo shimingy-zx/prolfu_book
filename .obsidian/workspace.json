@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a79cd24229fc135",
+        "id": "121beeab9aeeb334",
         "type": "tabs",
         "children": [
           {
-            "id": "05608f8fcc162e29",
+            "id": "31854fc431d1b665",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -156,9 +156,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "05608f8fcc162e29",
+  "active": "31854fc431d1b665",
   "lastOpenFiles": [
     "未命名.canvas",
+    "avatar.jpg",
+    "logo.jpg",
+    "未命名 1.canvas",
     "blogs/活动/未命名.md",
     "未命名.md",
     "blogs/CS/roblox/相关教程.md",
