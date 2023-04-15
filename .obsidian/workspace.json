@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/docker/docker-compose.md",
+                "file": "blogs/think/对于人类现在智慧的思考.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/docker/docker-compose.md",
+                "file": "blogs/think/对于人类现在智慧的思考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/docker/docker-compose.md",
+                "file": "blogs/think/对于人类现在智慧的思考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/docker/docker-compose.md"
+                "file": "blogs/think/对于人类现在智慧的思考.md"
               }
             }
           }
@@ -158,6 +158,11 @@
   },
   "active": "2f7cfac8a0949d01",
   "lastOpenFiles": [
+    "blogs/think/不用管以物质激励为孩子设立目标.md",
+    "blogs/think/folder/Pasted image 20230216070156.png",
+    "avatar.jpg",
+    "README.md",
+    "blogs/CS/docker/docker-compose.md",
     "blogs/CS/docker/Docker_reference.md",
     "blogs/CS/docker/Docker_debug.md",
     "blogs/CS/docker/配置记录.md",
@@ -181,11 +186,7 @@
     "blogs/Proflu/陆向谦实验室/5营销策略/价格策略.md",
     "blogs/Proflu/陆向谦实验室/3市场分析/3.5商业模式.md",
     "blogs/Proflu/陆向谦实验室/3市场分析/3.4政策导向.md",
-    "blogs/Proflu/陆向谦实验室/3市场分析/3.3行业趋势.md",
-    "blogs/Proflu/陆向谦实验室/3市场分析/3.2竞争分析.md",
-    "blogs/Proflu/陆向谦实验室/3市场分析/3.1行业现状.md",
     "logo.jpg",
-    "avatar.jpg",
     "未命名 1.canvas"
   ]
 }
