@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7a76d82769dd2012",
+        "id": "33b012ad5b9561e3",
         "type": "tabs",
         "children": [
           {
-            "id": "2f7cfac8a0949d01",
+            "id": "6c8397919ed1ceed",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/爱尔眼科陈邦：资本运营超对手.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ecee2bf235bf3700",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/CS/AI/应用案例/Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AI/应用案例/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AI/应用案例/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "blogs/CS/AI/应用案例/Untitled.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -170,9 +147,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ecee2bf235bf3700",
+  "active": "6c8397919ed1ceed",
   "lastOpenFiles": [
     "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/爱尔眼科陈邦：资本运营超对手.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/探路者盛发强和王静：探路创业板成功上市之道.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/京东商城刘强东：京东现在不差钱，用户体验是关键.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/创新工场李开复：第四波创业高潮来到了.md",
     "blogs/CS/AI/应用案例/Untitled.md",
     "blogs/CS/AI/应用案例",
     "blogs/Proflu/案例手册/案例部分总述.md",
@@ -198,9 +178,6 @@
     "blogs/Proflu/陆向谦实验室/6公司治理/人力资源.md",
     "blogs/Proflu/陆向谦实验室/6公司治理/6.2公司管理.md",
     "blogs/Proflu/陆向谦实验室/6公司治理/6.1公司战略.md",
-    "blogs/Proflu/陆向谦实验室/5营销策略/事件营销.md",
-    "blogs/Proflu/陆向谦实验室/5营销策略/渠道策略.md",
-    "blogs/Proflu/陆向谦实验室/5营销策略/数据营销.md",
     "logo.jpg",
     "未命名 1.canvas"
   ]
