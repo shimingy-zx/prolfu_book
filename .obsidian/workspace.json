@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "33b012ad5b9561e3",
+        "id": "913f2f8b53aa037e",
         "type": "tabs",
         "children": [
           {
-            "id": "6c8397919ed1ceed",
+            "id": "c4c3df5ec010c3c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Proflu/案例手册/案例分析/访谈案例/往期嘉宾.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
             }
           }
         ]
@@ -65,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 436.5
   },
   "right": {
     "id": "615da28e01c352e1",
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blogs/Proflu/案例手册/案例分析/访谈案例/往期嘉宾.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blogs/Proflu/案例手册/案例分析/访谈案例/往期嘉宾.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blogs/Proflu/案例手册/案例分析/访谈案例/往期嘉宾.md"
+              }
             }
           }
         ]
@@ -147,37 +156,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c8397919ed1ceed",
+  "active": "c4c3df5ec010c3c7",
   "lastOpenFiles": [
-    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/爱尔眼科陈邦：资本运营超对手.md",
-    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/探路者盛发强和王静：探路创业板成功上市之道.md",
-    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/京东商城刘强东：京东现在不差钱，用户体验是关键.md",
-    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/创新工场李开复：第四波创业高潮来到了.md",
-    "blogs/CS/AI/应用案例/Untitled.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/往期部分案例嘉宾.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/已没落/展讯通信陈大同：反击做空有绝招.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/已没落/学而思曹允东：不怕钱多，不怕上市合规难.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/已没落/无锡尚德施正荣：科技创业+资本运营.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/已没落/文思陈淑宁：建设开放性人才平台和资本平台.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/已没落/世纪佳缘龚海燕：淡泊地创业与融资.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/已没落/赛维彭小峰：双重成功有诀窍.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/已没落/去哪儿网庄辰超：去哪儿拿3亿美元.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/已没落/空中网杨宁：神奇的空中网速度.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/已没落/环球雅思张永琪和张晓东：股权激励留人才.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/已没落/安博黄劲：投资者不会被感动，只会看事实.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/已没落/1号店于刚：从零做到二十.md",
+    "blogs/Proflu/Theory/陆老师课程介绍.md",
+    "blogs/Proflu/Theory/金句.md",
+    "blogs/Proflu/Theory/结合面的优势.md",
+    "blogs/Proflu/Theory/教育.md",
+    "blogs/Proflu/Theory/国字培养方案.md",
+    "blogs/Proflu/Theory/父母的自我修养.md",
+    "blogs/Proflu/Theory/成功的人从后头往前想.md",
+    "blogs/Proflu/Theory/Course/先导课.md",
+    "blogs/Proflu/Theory/Course/最佳实现路径.md",
+    "blogs/Proflu/Theory/Course/教育理念.md",
+    "blogs/Proflu/Theory/Course/非常规自我实现.md",
+    "blogs/Proflu/Theory/Course/颠覆式创新.md",
+    "blogs/Proflu/Theory/Course/创新时代最佳发展路径.md",
+    "blogs/Proflu/Theory/Course/21世纪创新公司共性.md",
     "blogs/CS/AI/应用案例",
-    "blogs/Proflu/案例手册/案例部分总述.md",
-    "blogs/think/对于人类现在智慧的思考.md",
-    "blogs/think/不用管以物质激励为孩子设立目标.md",
     "blogs/think/folder/Pasted image 20230216070156.png",
     "avatar.jpg",
-    "README.md",
-    "blogs/CS/docker/docker-compose.md",
-    "blogs/CS/docker/Docker_reference.md",
-    "blogs/CS/docker/Docker_debug.md",
-    "blogs/CS/docker/配置记录.md",
-    "blogs/CS/docker/常用命令.md",
-    "blogs/Untitl.md",
-    "blogs/CS/roblox/相关教程.md",
-    "blogs/CS/database/Mongodb/Mongo_reference.md",
-    "blogs/CS/视频下载/国外视频平台下载方式.md",
-    "blogs/CS/AutoHotkey_reference.md",
-    "blogs/CS/AutoHotkey/未命名.md",
-    "blogs/CS/AI/AI_reference.md",
-    "blogs/Proflu/案例参考/未命名.md",
-    "blogs/Proflu/陆向谦实验室/6公司治理/内部控制.md",
-    "blogs/Proflu/陆向谦实验室/6公司治理/人力资源.md",
-    "blogs/Proflu/陆向谦实验室/6公司治理/6.2公司管理.md",
-    "blogs/Proflu/陆向谦实验室/6公司治理/6.1公司战略.md",
     "logo.jpg",
     "未命名 1.canvas"
   ]
