@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/docker/docker-compose.md",
+                "file": "blogs/CS/Linux/linux修改文件夹下所有文件的权限（常用）.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/docker/docker-compose.md",
+                "file": "blogs/CS/Linux/linux修改文件夹下所有文件的权限（常用）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/docker/docker-compose.md",
+                "file": "blogs/CS/Linux/linux修改文件夹下所有文件的权限（常用）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/docker/docker-compose.md"
+                "file": "blogs/CS/Linux/linux修改文件夹下所有文件的权限（常用）.md"
               }
             }
           }
@@ -158,6 +158,11 @@
   },
   "active": "c4c3df5ec010c3c7",
   "lastOpenFiles": [
+    "blogs/CS/Linux/linux.md",
+    "blogs/CS/Linux/Linux_debug.md",
+    "blogs/CS/Linux/Linux常用命令.md",
+    "blogs/CS/Linux/linux修改文件夹下所有文件的权限（常用）.md",
+    "blogs/CS/docker/docker-compose.md",
     "blogs/Proflu/案例手册/案例分析/访谈案例/往期部分案例嘉宾.md",
     "blogs/Proflu/案例手册/案例分析/访谈案例/大尤.md",
     "blogs/Proflu/案例手册/案例分析/论滴滴为什么没有赚钱.md",
@@ -179,11 +184,6 @@
     "blogs/Proflu/案例手册/场景.md",
     "blogs/Proflu/案例手册/财务/分账规则.md",
     "blogs/Proflu/案例手册/案例分析/访谈案例/张俊熹.md",
-    "blogs/Proflu/案例手册/案例分析/访谈案例/往期嘉宾.md",
-    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/已没落/展讯通信陈大同：反击做空有绝招.md",
-    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/已没落/学而思曹允东：不怕钱多，不怕上市合规难.md",
-    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/已没落/无锡尚德施正荣：科技创业+资本运营.md",
-    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/已没落/文思陈淑宁：建设开放性人才平台和资本平台.md",
     "blogs/CS/AI/应用案例",
     "blogs/think/folder/Pasted image 20230216070156.png",
     "avatar.jpg",
