@@ -45,9 +45,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c207cdb0e051039b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/CS/NGINX/Flutter随笔（二）——使用Flutter Web + Docker + Nginx打造一个简单的Web项目.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/Linux/Linux 查看端口占用情况.md",
+                "file": "blogs/CS/NGINX/Flutter随笔（二）——使用Flutter Web + Docker + Nginx打造一个简单的Web项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/Linux/Linux 查看端口占用情况.md",
+                "file": "blogs/CS/NGINX/Flutter随笔（二）——使用Flutter Web + Docker + Nginx打造一个简单的Web项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/Linux/Linux 查看端口占用情况.md"
+                "file": "blogs/CS/NGINX/Flutter随笔（二）——使用Flutter Web + Docker + Nginx打造一个简单的Web项目.md"
               }
             }
           }
@@ -183,10 +196,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f7b08f98f19ea7f",
+  "active": "c207cdb0e051039b",
   "lastOpenFiles": [
-    "blogs/CS/NGINX/命令大全.md",
     "blogs/CS/Linux/Linux 查看端口占用情况.md",
+    "blogs/CS/NGINX/Flutter随笔（二）——使用Flutter Web + Docker + Nginx打造一个简单的Web项目.md",
+    "blogs/CS/NGINX/命令大全.md",
     "blogs/CS/Linux/Linux常用命令.md",
     "blogs/CS/Linux/linux修改文件夹下所有文件的权限（常用）.md",
     "blogs/CS/Linux/Linux_debug.md",
@@ -210,7 +224,6 @@
     "blogs/Proflu/陆向谦实验室/8风险管理/财务风险.md",
     "blogs/Proflu/陆向谦实验室/9资金运用/资金运用.md",
     "blogs/Proflu/陆向谦实验室/9资金运用/资金来源.md",
-    "blogs/Proflu/陆向谦实验室/10发展规划/发展规划.md",
     "blogs/CS/AI/应用案例",
     "blogs/think/folder/Pasted image 20230216070156.png",
     "avatar.jpg",
