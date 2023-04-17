@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/案例手册/案例分析/访谈案例/往期部分案例嘉宾.md",
+                "file": "blogs/CS/docker/docker-compose.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/案例手册/案例分析/访谈案例/往期部分案例嘉宾.md",
+                "file": "blogs/CS/docker/docker-compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/案例手册/案例分析/访谈案例/往期部分案例嘉宾.md",
+                "file": "blogs/CS/docker/docker-compose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/案例手册/案例分析/访谈案例/往期部分案例嘉宾.md"
+                "file": "blogs/CS/docker/docker-compose.md"
               }
             }
           }
@@ -158,6 +158,7 @@
   },
   "active": "c4c3df5ec010c3c7",
   "lastOpenFiles": [
+    "blogs/Proflu/案例手册/案例分析/访谈案例/往期部分案例嘉宾.md",
     "blogs/Proflu/案例手册/案例分析/访谈案例/大尤.md",
     "blogs/Proflu/案例手册/案例分析/论滴滴为什么没有赚钱.md",
     "blogs/Proflu/陆向谦实验室/4产品服务/4.1产品介绍.md",
@@ -177,7 +178,6 @@
     "blogs/Proflu/陆向谦实验室/10发展规划/发展规划.md",
     "blogs/Proflu/案例手册/场景.md",
     "blogs/Proflu/案例手册/财务/分账规则.md",
-    "blogs/Proflu/案例手册/案例分析/访谈案例/往期部分案例嘉宾.md",
     "blogs/Proflu/案例手册/案例分析/访谈案例/张俊熹.md",
     "blogs/Proflu/案例手册/案例分析/访谈案例/往期嘉宾.md",
     "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/已没落/展讯通信陈大同：反击做空有绝招.md",
