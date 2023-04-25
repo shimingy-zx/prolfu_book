@@ -19,8 +19,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "96c6816374ab5aa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/CS/hasura.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/education/Untitled.md",
+                "file": "blogs/CS/hasura.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/education/Untitled.md",
+                "file": "blogs/CS/hasura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/education/Untitled.md"
+                "file": "blogs/CS/hasura.md"
               }
             }
           }
@@ -156,9 +170,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2375c72d3b815a75",
+  "active": "96c6816374ab5aa8",
   "lastOpenFiles": [
     "blogs/education/Untitled.md",
+    "blogs/CS/hasura.md",
     "blogs/马克思主义法治理论中国化时成.md",
     "blogs/education",
     "blogs/马克思主义法治理论中国化时成 1.md",
@@ -185,7 +200,6 @@
     "blogs/Proflu/陆向谦实验室/4产品服务/学员等级.md",
     "blogs/Proflu/陆向谦实验室/4产品服务/主营业务.md",
     "blogs/Proflu/陆向谦实验室/5营销策略/名人策略.md",
-    "blogs/Proflu/陆向谦实验室/5营销策略/价格策略.md",
     "blogs/CS/AI/应用案例",
     "blogs/think/folder/Pasted image 20230216070156.png",
     "avatar.jpg",
