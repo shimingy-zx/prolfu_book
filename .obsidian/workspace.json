@@ -32,9 +32,22 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "cfa5cff6f1d9ec22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/CS/AI/openai/案例参考.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/hasura.md",
+                "file": "blogs/CS/AI/openai/案例参考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/hasura.md",
+                "file": "blogs/CS/AI/openai/案例参考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/hasura.md"
+                "file": "blogs/CS/AI/openai/案例参考.md"
               }
             }
           }
@@ -170,10 +183,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "96c6816374ab5aa8",
+  "active": "cfa5cff6f1d9ec22",
   "lastOpenFiles": [
-    "blogs/education/Untitled.md",
     "blogs/CS/hasura.md",
+    "blogs/CS/AI/openai/案例参考.md",
+    "blogs/education/Untitled.md",
     "blogs/马克思主义法治理论中国化时成.md",
     "blogs/education",
     "blogs/马克思主义法治理论中国化时成 1.md",
@@ -199,7 +213,6 @@
     "blogs/Proflu/陆向谦实验室/4产品服务/教育理念.md",
     "blogs/Proflu/陆向谦实验室/4产品服务/学员等级.md",
     "blogs/Proflu/陆向谦实验室/4产品服务/主营业务.md",
-    "blogs/Proflu/陆向谦实验室/5营销策略/名人策略.md",
     "blogs/CS/AI/应用案例",
     "blogs/think/folder/Pasted image 20230216070156.png",
     "avatar.jpg",
