@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Untitled.md",
+                "file": "blogs/Proflu/综合.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "43c483b1d0aff0d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Proflu/人员招募.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Untitled.md",
+                "file": "blogs/Proflu/人员招募.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Untitled.md",
+                "file": "blogs/Proflu/人员招募.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Untitled.md"
+                "file": "blogs/Proflu/人员招募.md"
               }
             }
           }
@@ -156,10 +170,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "afcdea6fd4745f99",
+  "active": "43c483b1d0aff0d0",
   "lastOpenFiles": [
-    "blogs/CS/docker/亚马逊云安装.md",
+    "blogs/Proflu/综合.md",
+    "blogs/Proflu/人员招募.md",
     "blogs/Untitled.md",
+    "blogs/CS/docker/亚马逊云安装.md",
     "blogs/CS/Linux/Linux 查看端口占用情况.md",
     "blogs/CS/Linux/Linux常用命令.md",
     "blogs/education/Untitled.md",
@@ -184,8 +200,6 @@
     "blogs/Proflu/案例手册/案例分析/访谈案例/大尤.md",
     "blogs/Proflu/案例手册/案例分析/论滴滴为什么没有赚钱.md",
     "blogs/Proflu/陆向谦实验室/4产品服务/4.1产品介绍.md",
-    "blogs/Proflu/陆向谦实验室/4产品服务/固定资产.md",
-    "blogs/Proflu/陆向谦实验室/4产品服务/技术研发.md",
     "blogs/CS/AI/应用案例",
     "blogs/think/folder/Pasted image 20230216070156.png",
     "avatar.jpg",
