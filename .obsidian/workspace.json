@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/AI/vioce_AI.md",
+                "file": "blogs/CS/AI/社区/AI社区.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/AI/vioce_AI.md",
+                "file": "blogs/CS/AI/社区/AI社区.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/AI/vioce_AI.md",
+                "file": "blogs/CS/AI/社区/AI社区.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/AI/vioce_AI.md"
+                "file": "blogs/CS/AI/社区/AI社区.md"
               }
             }
           }
@@ -172,6 +172,7 @@
   },
   "active": "43c483b1d0aff0d0",
   "lastOpenFiles": [
+    "blogs/CS/AI/vioce_AI.md",
     "blogs/实验室时间调整通知.md",
     "blogs/Proflu/人员招募.md",
     "blogs/Proflu/综合.md",
@@ -199,7 +200,6 @@
     "blogs/Proflu/案例手册/案例分析/访谈案例/往期部分案例嘉宾.md",
     "blogs/Proflu/案例手册/案例分析/访谈案例/大尤.md",
     "blogs/Proflu/案例手册/案例分析/论滴滴为什么没有赚钱.md",
-    "blogs/Proflu/陆向谦实验室/4产品服务/4.1产品介绍.md",
     "blogs/CS/AI/应用案例",
     "blogs/think/folder/Pasted image 20230216070156.png",
     "avatar.jpg",
