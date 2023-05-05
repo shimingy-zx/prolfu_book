@@ -1,84 +1,34 @@
 {
   "main": {
-    "id": "5e67530830cbda35",
+    "id": "f733795a2ddb839d",
     "type": "split",
     "children": [
       {
-        "id": "ccba6068b5550280",
+        "id": "5a0eac1a0d9a85d7",
         "type": "tabs",
         "children": [
           {
-            "id": "d2b8c62a05197d27",
+            "id": "c031cf948ead47ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "blogs/CS/AI/AI_reference.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": true
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           },
           {
-            "id": "3bf8224754717f4b",
+            "id": "3d9aac3e839b4038",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Think/论组织的进化.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "9faaeb6d6b2638af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/Think/路径.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "da2492ed48b1f0a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/Think/一个人在后天该如何提升自身的内在自信.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8715acc0f2ee7089",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/Think/创业的过程就是一个不断解决新问题的过程.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ba50555ab88f94cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/Think/在面试中的两个灵魂拷问.md",
+                "file": "blogs/CS/pay/stripe.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -86,21 +36,21 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b05bc202da243cc1",
+    "id": "734cee97ab8d2d65",
     "type": "split",
     "children": [
       {
-        "id": "03b4c18c7c2246f1",
+        "id": "4e885cd16dd29c60",
         "type": "tabs",
         "children": [
           {
-            "id": "d41b21a2ca053447",
+            "id": "4c9f8f94f522e565",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -110,13 +60,13 @@
             }
           },
           {
-            "id": "f04b19918e3895e8",
+            "id": "0318c9980ab2fcd5",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": true,
+                "query": "集简",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -125,7 +75,7 @@
             }
           },
           {
-            "id": "a007555367a5d349",
+            "id": "95d2256a42bac67e",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -136,23 +86,31 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 254.5
   },
   "right": {
-    "id": "7e6a70072d01ad20",
+    "id": "615da28e01c352e1",
     "type": "split",
     "children": [
       {
-        "id": "6fdd3b25679fa7f2",
+        "id": "5de5119f6b619768",
         "type": "tabs",
         "children": [
           {
-            "id": "8e1fe43c07653c8a",
+            "id": "e7fb451b80d6ffaf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "afd3e97bebd84b52",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Think/在面试中的两个灵魂拷问.md",
+                "file": "blogs/CS/pay/stripe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,83 +122,91 @@
             }
           },
           {
-            "id": "aba407e7bd515892",
+            "id": "8910a2fc69f6de65",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Think/在面试中的两个灵魂拷问.md",
+                "file": "blogs/CS/pay/stripe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "056181abe0c4bb0c",
+            "id": "bcb96d7bd3eac8ed",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "e8edea76730cc754",
+            "id": "699f66ac9af4685e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Think/在面试中的两个灵魂拷问.md"
+                "file": "blogs/CS/pay/stripe.md"
               }
             }
-          },
-          {
-            "id": "0b9f202495dabc5d",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "16cdc8996207443b",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ba50555ab88f94cb",
+  "active": "3d9aac3e839b4038",
   "lastOpenFiles": [
-    "blogs/Think/创业的过程就是一个不断解决新问题的过程.md",
-    "blogs/Think/一个人在后天该如何提升自身的内在自信.md",
-    "blogs/Think/路径.md",
-    "blogs/Think/论组织的进化.md",
-    "blogs/CS/AI/AI_reference.md",
-    "blogs/Think/对于人类现在智慧的思考.md",
-    "blogs/Think/001.md",
-    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/已没落/1号店于刚：从零做到二十.md",
-    "blogs/CS/openwrt/未命名.md",
-    "blogs/CS/AI/openai.md"
+    "blogs/CS/pay",
+    "Untitled.canvas",
+    "blogs/CS/pay/stripe.md",
+    "blogs/info/API自动化/相关平台.md",
+    "blogs/Soure/Untitled.md",
+    "blogs/think/Untitled.md",
+    "blogs/Proflu/综合.md",
+    "blogs/CS/AI/社区/AI社区.md",
+    "blogs/CS/AI/vioce_AI.md",
+    "blogs/实验室时间调整通知.md",
+    "blogs/Proflu/人员招募.md",
+    "blogs/CS/docker/亚马逊云安装.md",
+    "blogs/CS/Linux/Linux 查看端口占用情况.md",
+    "blogs/CS/Linux/Linux常用命令.md",
+    "blogs/education/Untitled.md",
+    "blogs/CS/hasura.md",
+    "blogs/CS/AI/openai/案例参考.md",
+    "blogs/CS/AI/text to speech.md",
+    "blogs/马克思主义法治理论中国化时成.md",
+    "blogs/education",
+    "blogs/马克思主义法治理论中国化时成 1.md",
+    "blogs/CS/roblox/相关教程.md",
+    "blogs/CS/NGINX/命令大全.md",
+    "blogs/Soure/Untitled 1.md",
+    "blogs/Soure",
+    "blogs/CS/NGINX/Flutter随笔（二）——使用Flutter Web + Docker + Nginx打造一个简单的Web项目.md",
+    "blogs/CS/Linux/linux修改文件夹下所有文件的权限（常用）.md",
+    "blogs/CS/Linux/Linux_debug.md",
+    "blogs/CS/Linux/Linux_reference.md",
+    "blogs/CS/AI/应用案例",
+    "blogs/think/folder/Pasted image 20230216070156.png",
+    "avatar.jpg",
+    "logo.jpg",
+    "未命名 1.canvas"
   ]
 }

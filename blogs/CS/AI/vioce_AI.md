@@ -3,3 +3,6 @@
 [About | Inflection](https://inflection.ai/about/)
 
 [ACT-1: Transformer for Actions (adept.ai)](https://www.adept.ai/act)
+
+项目
+[MyShell](https://app.myshell.ai/)
