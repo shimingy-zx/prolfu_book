@@ -15,5 +15,6 @@
   "useCustomShortcut": false,
   "highlightFormat": "\nPage:{{page}}\n<span style=\"color:rgb({{color}})\">■</span>:{{highlightText}}\nComment:{{comment}}\n[📌]({{link}})\n^{{id}}\n",
   "setup": 1683365132778,
-  "openProtocol": 1
+  "openProtocol": 1,
+  "uid": "00p01001200r00r01001000o013013012013013"
 }

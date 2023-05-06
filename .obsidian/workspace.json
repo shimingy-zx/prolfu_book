@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6b9f97bee2e552b1",
+        "id": "15e55597a23158b1",
         "type": "tabs",
         "children": [
           {
-            "id": "3dee681ca0f0b81f",
+            "id": "d3372f9a202ea64d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "blogs/活动/AI_voice.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
+                "file": "blogs/活动/AI_voice.md"
               }
             }
           }
@@ -66,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,10 +162,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3dee681ca0f0b81f",
+  "active": "d3372f9a202ea64d",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "blogs/education/Untitled.md",
     "blogs/活动/AI_voice.md",
+    "Untitled.canvas",
     "blogs/info/API自动化/相关平台.md",
     "blogs/CS/AI/讯飞/相关信息.md",
     "blogs/CS/AI/讯飞",
@@ -185,7 +182,6 @@
     "blogs/CS/docker/亚马逊云安装.md",
     "blogs/CS/Linux/Linux 查看端口占用情况.md",
     "blogs/CS/Linux/Linux常用命令.md",
-    "blogs/education/Untitled.md",
     "blogs/CS/hasura.md",
     "blogs/CS/AI/openai/案例参考.md",
     "blogs/CS/AI/text to speech.md",
