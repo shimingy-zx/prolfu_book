@@ -12,7 +12,7 @@ display-mode: outline
 - 会议形式
     - 有什么问题大家随时可以打岔
 - 我们要做什么项目？
-- 这个项目有什么目的？
+- 项目目的
     - 学习编程语言
     - 融入AI时代
         - 我们要接入的GPT3.5
@@ -44,7 +44,7 @@ display-mode: outline
             - [facebook/fastspeech2-en-ljspeech · Hugging Face](https://huggingface.co/facebook/fastspeech2-en-ljspeech)
             - 如何使用GTP3.0帮我们开发的例子
                 - 在roblox中，我如何用lua语言实现文字转语音？并给我举一个完整的代码例子。
-- 如何参与到这个项目当中来？
+- 项目实践
     - 先学习基础部分的知识！
         - lua基础
     - 跟着我们一块做项目。
