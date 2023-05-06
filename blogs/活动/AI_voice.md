@@ -3,9 +3,7 @@
 
     - 会议形式  
 
-      - 有什么问题大家随时可以打岔，  
-
-      -
+      - 有什么问题大家随时可以打岔
 
     - 我们要做什么项目？  
 
@@ -62,7 +60,7 @@
           - [facebook/fastspeech2-en-ljspeech · Hugging Face](https://huggingface.co/facebook/fastspeech2-en-ljspeech)  
 
           - 如何使用GTP3.0帮我们开发的例子  
-            - 在roblox中，我如何用lua语言实现文字转语音？并给我举一个完整的代码例子。  
+            - 在roblox中，我如何用lua语言实现文字转语音？并给我举一个完整的代码例子。
 
     - 如何参与到这个项目当中来？  
 
