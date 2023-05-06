@@ -13,7 +13,7 @@
             "state": {
               "type": "mindmapview",
               "state": {
-                "file": "blogs/活动/AI_voice.md"
+                "file": "blogs/项目/AI_voice.md"
               }
             }
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/活动/AI_voice.md",
+                "file": "blogs/项目/AI_voice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/活动/AI_voice.md",
+                "file": "blogs/项目/AI_voice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/活动/AI_voice.md"
+                "file": "blogs/项目/AI_voice.md"
               }
             }
           },
@@ -162,10 +162,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d3372f9a202ea64d",
+  "active": "4c9f8f94f522e565",
   "lastOpenFiles": [
     "blogs/education/Untitled.md",
-    "blogs/活动/AI_voice.md",
+    "blogs/项目/AI_voice.md",
     "Untitled.canvas",
     "blogs/info/API自动化/相关平台.md",
     "blogs/CS/AI/讯飞/相关信息.md",
