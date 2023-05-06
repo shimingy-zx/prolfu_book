@@ -1,4 +1,9 @@
+--- 
 
+mindmap-plugin: basic 
+display-mode: outline 
+
+---
 
 - 分享会  
 

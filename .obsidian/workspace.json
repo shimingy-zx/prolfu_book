@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +166,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0318c9980ab2fcd5",
+  "active": "3dee681ca0f0b81f",
   "lastOpenFiles": [
     "Untitled.canvas",
     "blogs/活动/AI_voice.md",
