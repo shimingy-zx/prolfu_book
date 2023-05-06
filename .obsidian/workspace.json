@@ -62,6 +62,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "dc7330b9844edfff",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -153,19 +161,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c9f8f94f522e565",
+  "active": "d3372f9a202ea64d",
   "lastOpenFiles": [
-    "blogs/education/Untitled.md",
+    "blogs/活动/AI_voice.md",
     "blogs/项目/AI_voice.md",
+    "blogs/项目",
+    "blogs/education/Untitled.md",
     "Untitled.canvas",
     "blogs/info/API自动化/相关平台.md",
     "blogs/CS/AI/讯飞/相关信息.md",
