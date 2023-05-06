@@ -4,26 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5a0eac1a0d9a85d7",
+        "id": "6b9f97bee2e552b1",
         "type": "tabs",
         "children": [
           {
-            "id": "c031cf948ead47ff",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
-            "id": "3d9aac3e839b4038",
+            "id": "3dee681ca0f0b81f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,8 +137,17 @@
                 "file": "blogs/活动/AI_voice.md"
               }
             }
+          },
+          {
+            "id": "0a5980a199fcc525",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -172,15 +165,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3d9aac3e839b4038",
+  "active": "3dee681ca0f0b81f",
   "lastOpenFiles": [
-    "blogs/info/API自动化/相关平台.md",
     "blogs/活动/AI_voice.md",
+    "Untitled.canvas",
+    "blogs/info/API自动化/相关平台.md",
     "blogs/CS/AI/讯飞/相关信息.md",
     "blogs/CS/AI/讯飞",
     "blogs/CS/pay/stripe.md",
     "blogs/CS/pay",
-    "Untitled.canvas",
     "blogs/Soure/Untitled.md",
     "blogs/think/Untitled.md",
     "blogs/Proflu/综合.md",
@@ -204,7 +197,6 @@
     "blogs/Soure",
     "blogs/CS/NGINX/Flutter随笔（二）——使用Flutter Web + Docker + Nginx打造一个简单的Web项目.md",
     "blogs/CS/Linux/linux修改文件夹下所有文件的权限（常用）.md",
-    "blogs/CS/Linux/Linux_debug.md",
     "blogs/CS/AI/应用案例",
     "blogs/think/folder/Pasted image 20230216070156.png",
     "avatar.jpg",
