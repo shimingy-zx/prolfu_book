@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/pay/stripe.md",
+                "file": "blogs/活动/AI_voice.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/pay/stripe.md",
+                "file": "blogs/活动/AI_voice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/pay/stripe.md",
+                "file": "blogs/活动/AI_voice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/pay/stripe.md"
+                "file": "blogs/活动/AI_voice.md"
               }
             }
           }
@@ -174,10 +174,13 @@
   },
   "active": "3d9aac3e839b4038",
   "lastOpenFiles": [
+    "blogs/info/API自动化/相关平台.md",
+    "blogs/活动/AI_voice.md",
+    "blogs/CS/AI/讯飞/相关信息.md",
+    "blogs/CS/AI/讯飞",
+    "blogs/CS/pay/stripe.md",
     "blogs/CS/pay",
     "Untitled.canvas",
-    "blogs/CS/pay/stripe.md",
-    "blogs/info/API自动化/相关平台.md",
     "blogs/Soure/Untitled.md",
     "blogs/think/Untitled.md",
     "blogs/Proflu/综合.md",
@@ -202,7 +205,6 @@
     "blogs/CS/NGINX/Flutter随笔（二）——使用Flutter Web + Docker + Nginx打造一个简单的Web项目.md",
     "blogs/CS/Linux/linux修改文件夹下所有文件的权限（常用）.md",
     "blogs/CS/Linux/Linux_debug.md",
-    "blogs/CS/Linux/Linux_reference.md",
     "blogs/CS/AI/应用案例",
     "blogs/think/folder/Pasted image 20230216070156.png",
     "avatar.jpg",
