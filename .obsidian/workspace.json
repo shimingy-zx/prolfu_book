@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d3372f9a202ea64d",
-            "type": "leaf",
-            "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "blogs/项目/AI_voice.md"
-              }
-            }
-          },
-          {
             "id": "414cc2eacf16c0fb",
             "type": "leaf",
             "state": {
@@ -112,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/项目/AI_voice.md",
+                "file": "blogs/info/API自动化/相关平台.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/项目/AI_voice.md",
+                "file": "blogs/info/API自动化/相关平台.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/项目/AI_voice.md"
+                "file": "blogs/info/API自动化/相关平台.md"
               }
             }
           },
@@ -183,10 +173,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d3372f9a202ea64d",
+  "active": "414cc2eacf16c0fb",
   "lastOpenFiles": [
-    "blogs/info/API自动化/相关平台.md",
+    "blogs/十项综合素质.md",
     "blogs/项目/AI_voice.md",
+    "blogs/info/API自动化/相关平台.md",
     "blogs/活动/AI_voice.md",
     "blogs/项目",
     "blogs/education/Untitled.md",
@@ -216,7 +207,6 @@
     "blogs/Soure/Untitled 1.md",
     "blogs/Soure",
     "blogs/CS/NGINX/Flutter随笔（二）——使用Flutter Web + Docker + Nginx打造一个简单的Web项目.md",
-    "blogs/CS/Linux/linux修改文件夹下所有文件的权限（常用）.md",
     "blogs/CS/AI/应用案例",
     "blogs/think/folder/Pasted image 20230216070156.png",
     "avatar.jpg",
