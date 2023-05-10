@@ -50,3 +50,6 @@ sidebar: 'auto'
 [wukong-robot (hahack.com)](https://wukong.hahack.com/#/)
 
 
+[Mycroft Chat (mattermost.com)](https://mycroft.cloud.mattermost.com/login)
+
+

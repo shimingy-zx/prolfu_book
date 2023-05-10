@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/人员招募.md",
+                "file": "blogs/CS/AI/AI_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/人员招募.md",
+                "file": "blogs/CS/AI/AI_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/人员招募.md",
+                "file": "blogs/CS/AI/AI_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/人员招募.md"
+                "file": "blogs/CS/AI/AI_reference.md"
               }
             }
           },
@@ -186,6 +186,8 @@
   },
   "active": "0f3592bdbd23cb77",
   "lastOpenFiles": [
+    "blogs/CS/AI/使用平台.md",
+    "blogs/Proflu/人员招募.md",
     "blogs/think/未命名 1.md",
     "blogs/think/一个人在后天该如何提升自身的内在自信.md",
     "blogs/think/在面试中的两个灵魂拷问.md",
@@ -209,13 +211,11 @@
     "blogs/Proflu/综合.md",
     "blogs/CS/AI/社区/AI社区.md",
     "blogs/CS/AI/vioce_AI.md",
-    "blogs/Proflu/人员招募.md",
     "blogs/CS/docker/亚马逊云安装.md",
     "blogs/CS/Linux/Linux 查看端口占用情况.md",
     "blogs/CS/Linux/Linux常用命令.md",
     "blogs/CS/hasura.md",
     "blogs/CS/AI/openai/案例参考.md",
-    "blogs/CS/AI/text to speech.md",
     "blogs/education",
     "blogs/Soure",
     "blogs/CS/AI/应用案例",
