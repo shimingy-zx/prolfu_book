@@ -40,8 +40,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/项目/AI_voice.md",
+                "file": "blogs/做事十项基本原则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/项目/AI_voice.md",
+                "file": "blogs/做事十项基本原则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/项目/AI_voice.md"
+                "file": "blogs/做事十项基本原则.md"
               }
             }
           },
@@ -194,10 +193,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c9f8f94f522e565",
+  "active": "79a9518414e4ff8c",
   "lastOpenFiles": [
-    "blogs/CS/AI/AI_reference.md",
     "blogs/项目/AI_voice.md",
+    "blogs/CS/AI/AI_reference.md",
     "blogs/做事十项基本原则.md",
     "blogs/CS/AI/使用平台.md",
     "blogs/Proflu/人员招募.md",

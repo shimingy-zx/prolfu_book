@@ -91,5 +91,7 @@ display-mode: outline
                 - 多轮训练
                 - 角色定义
         - Sub title
+    - flutter
+    - 数字人
     - 思考原则
         - 非必要不深入
