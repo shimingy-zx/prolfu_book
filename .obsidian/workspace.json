@@ -13,7 +13,7 @@
             "state": {
               "type": "mindmapview",
               "state": {
-                "file": "blogs/做事十项基本原则.md"
+                "file": "blogs/项目/AI_voice.md"
               }
             }
           },
@@ -23,7 +23,7 @@
             "state": {
               "type": "mindmapview",
               "state": {
-                "file": "blogs/项目/AI_voice.md"
+                "file": "blogs/做事十项基本原则.md"
               }
             }
           },
@@ -40,7 +40,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,11 +194,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79a9518414e4ff8c",
+  "active": "0f3592bdbd23cb77",
   "lastOpenFiles": [
     "blogs/项目/AI_voice.md",
-    "blogs/CS/AI/AI_reference.md",
+    "blogs/info/API自动化/相关平台.md",
+    "blogs/CS/info/未命名.md",
     "blogs/做事十项基本原则.md",
+    "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/使用平台.md",
     "blogs/Proflu/人员招募.md",
     "blogs/think/未命名 1.md",
@@ -207,7 +210,6 @@
     "blogs/think/Untitled.md",
     "blogs/views/messageBoard.md",
     "blogs/实验室时间调整通知.md",
-    "blogs/info/API自动化/相关平台.md",
     "blogs/十项综合素质.md",
     "blogs/活动/AI_voice.md",
     "blogs/项目",
@@ -224,7 +226,6 @@
     "blogs/CS/docker/亚马逊云安装.md",
     "blogs/CS/Linux/Linux 查看端口占用情况.md",
     "blogs/CS/Linux/Linux常用命令.md",
-    "blogs/CS/hasura.md",
     "blogs/education",
     "blogs/Soure",
     "blogs/CS/AI/应用案例",
