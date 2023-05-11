@@ -48,6 +48,7 @@ display-mode: outline
                 - 与Discord通信
                     - 教程
                         - [(41) Roblox Tutorial - How to send discord webhooks from Roblox - YouTube](https://www.youtube.com/watch?v=ebVwwYvtSqY)
+                        - https://www.youtube.com/watch?app=desktop&v=eRqC9N27svc
                 - 连接企业微信机器人
                     - 机器人webhook
                     - document
