@@ -53,6 +53,8 @@ display-mode: outline
     - lua拓展基础
         - http
             - 连接roblox
+            - 官方文档
+                - https://create.roblox.com/docs/reference/engine/classes/HttpService#RequestInternal
     - 思考原则
         - 飞必要不深入
     - 跟着我们一块做项目。
