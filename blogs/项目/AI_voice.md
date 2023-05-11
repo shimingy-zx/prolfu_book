@@ -38,6 +38,9 @@ display-mode: outline
             - [https://www.douyin.com/search/Voice%20Control%20for%20ChatGPT?source=normal_search&aid=d2041869-2631-42ab-9682-5ec3e6221825&enter_from=live_detail&focus_method=](https://www.douyin.com/search/Voice%20Control%20for%20ChatGPT?source=normal_search&aid=d2041869-2631-42ab-9682-5ec3e6221825&enter_from=live_detail&focus_method=)
     - 能力维度
         - 搜索能力
+            - google
+            - GPT
+        - 阅读能力
 - 项目实践
     - Roblox
         - lua基础
@@ -56,7 +59,11 @@ display-mode: outline
                     - document
                 - 调用GPT3.5API
                     - document
-            - Sub title
+                        - https://platform.openai.com/docs/api-reference/chat
+            - Sound
+                - 声音转化
+                - document
+                    - https://create.roblox.com/docs/reference/engine/classes/Sound#IsPlaying
         - Sub title
         - Text to speech
             - api
@@ -73,5 +80,11 @@ display-mode: outline
                 - [openai/whisper-tiny.en · Hugging Face](https://huggingface.co/openai/whisper-tiny.en)
                 - google
                 - 亚马逊
+    - AI
+        - Openai
+            - 模型训练
+                - 多轮训练
+                - 角色定义
+        - Sub title
     - 思考原则
         - 非必要不深入
