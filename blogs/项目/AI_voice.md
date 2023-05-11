@@ -48,19 +48,23 @@ display-mode: outline
                 - [(41) Roblox How To Code - How To Script On Roblox - Episode 1 - YouTube](https://www.youtube.com/watch?v=BfLUt3mfJiY&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf)
         - lua基础拓展
             - 接口调用
-                - 与Discord通信
-                    - 教程
-                        - [(41) Roblox Tutorial - How to send discord webhooks from Roblox - YouTube](https://www.youtube.com/watch?v=ebVwwYvtSqY)
-                        - https://www.youtube.com/watch?app=desktop&v=eRqC9N27svc
-                - 官方文档案例
-                    - https://create.roblox.com/docs/reference/engine/classes/HttpService#RequestInternal
-                - 连接企业微信机器人
-                    - 机器人webhook
-                    - document
-                        - https://developer.work.weixin.qq.com/document/path/90236
-                - 调用GPT3.5API
-                    - document
-                        - https://platform.openai.com/docs/api-reference/chat
+                - 案例
+                    - 与Discord通信
+                        - 教程
+                            - [(41) Roblox Tutorial - How to send discord webhooks from Roblox - YouTube](https://www.youtube.com/watch?v=ebVwwYvtSqY)
+                            - https://www.youtube.com/watch?app=desktop&v=eRqC9N27svc
+                    - 官方文档案例
+                        - https://create.roblox.com/docs/reference/engine/classes/HttpService#RequestInternal
+                    - 连接企业微信机器人
+                        - 机器人webhook
+                        - document
+                            - https://developer.work.weixin.qq.com/document/path/90236
+                    - 调用GPT3.5API
+                        - document
+                            - https://platform.openai.com/docs/api-reference/chat
+                - 相关工具
+                    - Apifox
+                    - postman
             - Sound
                 - 声音转化
                 - document
