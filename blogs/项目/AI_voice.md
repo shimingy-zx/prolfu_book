@@ -57,6 +57,7 @@ display-mode: outline
                 - 连接企业微信机器人
                     - 机器人webhook
                     - document
+                        - https://developer.work.weixin.qq.com/document/path/90236
                 - 调用GPT3.5API
                     - document
                         - https://platform.openai.com/docs/api-reference/chat
