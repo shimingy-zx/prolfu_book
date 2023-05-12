@@ -21,9 +21,12 @@
             "id": "0f3592bdbd23cb77",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "blogs/做事十项基本原则.md"
+                "file": "blogs/info/知识点.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           },
@@ -70,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mp3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/做事十项基本原则.md",
+                "file": "blogs/info/知识点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/做事十项基本原则.md",
+                "file": "blogs/info/知识点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/做事十项基本原则.md"
+                "file": "blogs/info/知识点.md"
               }
             }
           },
@@ -196,10 +199,14 @@
   },
   "active": "0f3592bdbd23cb77",
   "lastOpenFiles": [
+    "blogs/CS/好产品/Untitled.md",
+    "blogs/info/知识点.md",
+    "blogs/CS/info/未命名.md",
+    "blogs/CS/好产品",
+    "blogs/CS/Flutter/例子/例子合集.md",
+    "blogs/做事十项基本原则.md",
     "blogs/项目/AI_voice.md",
     "blogs/info/API自动化/相关平台.md",
-    "blogs/CS/info/未命名.md",
-    "blogs/做事十项基本原则.md",
     "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/使用平台.md",
     "blogs/Proflu/人员招募.md",
@@ -223,9 +230,6 @@
     "blogs/Proflu/综合.md",
     "blogs/CS/AI/社区/AI社区.md",
     "blogs/CS/AI/vioce_AI.md",
-    "blogs/CS/docker/亚马逊云安装.md",
-    "blogs/CS/Linux/Linux 查看端口占用情况.md",
-    "blogs/CS/Linux/Linux常用命令.md",
     "blogs/education",
     "blogs/Soure",
     "blogs/CS/AI/应用案例",
