@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/项目/AI_voice.md",
+                "file": "blogs/Proflu/SOP/师傅交接.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/info/知识点.md",
+                "file": "blogs/Proflu/SOP/师傅交接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/info/知识点.md",
+                "file": "blogs/Proflu/SOP/师傅交接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/info/知识点.md"
+                "file": "blogs/Proflu/SOP/师傅交接.md"
               }
             }
           },
@@ -188,24 +188,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f3592bdbd23cb77",
+  "active": "a7293ed304a67eb0",
   "lastOpenFiles": [
-    "blogs/CS/好产品/Untitled.md",
+    "blogs/项目/AI_voice.md",
+    "blogs/Proflu/SOP/师傅交接.md",
+    "blogs/Proflu/SOP",
     "blogs/info/知识点.md",
+    "blogs/CS/好产品/Untitled.md",
     "blogs/CS/info/未命名.md",
     "blogs/CS/好产品",
     "blogs/CS/Flutter/例子/例子合集.md",
     "blogs/做事十项基本原则.md",
-    "blogs/项目/AI_voice.md",
     "blogs/info/API自动化/相关平台.md",
     "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/使用平台.md",
@@ -229,7 +231,6 @@
     "blogs/Soure/Untitled.md",
     "blogs/Proflu/综合.md",
     "blogs/CS/AI/社区/AI社区.md",
-    "blogs/CS/AI/vioce_AI.md",
     "blogs/education",
     "blogs/Soure",
     "blogs/CS/AI/应用案例",
