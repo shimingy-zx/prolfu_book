@@ -21,24 +21,35 @@
             "id": "1889e68aa4355e06",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
-          },
-          {
-            "id": "a7293ed304a67eb0",
-            "type": "leaf",
-            "state": {
               "type": "mindmapview",
               "state": {
                 "file": "blogs/项目/AI_voice.md"
               }
             }
+          },
+          {
+            "id": "a843bda29639c61e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "4335764de6f36952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/交流/20230514Tiger.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/项目/AI_voice.md",
+                "file": "blogs/交流/20230514Tiger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/项目/AI_voice.md",
+                "file": "blogs/交流/20230514Tiger.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/项目/AI_voice.md"
+                "file": "blogs/交流/20230514Tiger.md"
               }
             }
           },
@@ -191,8 +202,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1889e68aa4355e06",
+  "active": "4335764de6f36952",
   "lastOpenFiles": [
+    "blogs/CS/AI/Untitled.md",
+    "blogs/交流/20230514Tiger.md",
+    "blogs/项目/AI_voice.md",
     "blogs/info/知识点.md",
     "blogs/Proflu/SOP/师傅交接.md",
     "blogs/Proflu/SOP",
@@ -201,7 +215,6 @@
     "blogs/CS/好产品",
     "blogs/CS/Flutter/例子/例子合集.md",
     "blogs/做事十项基本原则.md",
-    "blogs/项目/AI_voice.md",
     "blogs/info/API自动化/相关平台.md",
     "blogs/CS/AI/AI_reference.md",
     "blogs/CS/AI/使用平台.md",
@@ -223,8 +236,6 @@
     "blogs/CS/pay/stripe.md",
     "blogs/CS/pay",
     "blogs/Soure/Untitled.md",
-    "blogs/Proflu/综合.md",
-    "blogs/CS/AI/社区/AI社区.md",
     "blogs/education",
     "blogs/Soure",
     "blogs/CS/AI/应用案例",
