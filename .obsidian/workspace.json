@@ -11,9 +11,12 @@
             "id": "4335764de6f36952",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "blogs/项目/AI_voice.md"
+                "file": "blogs/交流/深度咨询/20230521荣轩深度咨询.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -99,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/项目/AI_voice.md",
+                "file": "blogs/交流/深度咨询/20230521荣轩深度咨询.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/项目/AI_voice.md",
+                "file": "blogs/交流/深度咨询/20230521荣轩深度咨询.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/项目/AI_voice.md"
+                "file": "blogs/交流/深度咨询/20230521荣轩深度咨询.md"
               }
             }
           },
@@ -173,6 +176,8 @@
   "active": "4335764de6f36952",
   "lastOpenFiles": [
     "blogs/项目/AI_voice.md",
+    "blogs/交流/深度咨询/20230521荣轩深度咨询.md",
+    "blogs/交流/深度咨询",
     "blogs/交流/20230514Tiger.md",
     "blogs/CS/AI/Untitled.md",
     "blogs/info/知识点.md",
@@ -203,7 +208,6 @@
     "blogs/CS/AI/讯飞",
     "blogs/CS/pay/stripe.md",
     "blogs/CS/pay",
-    "blogs/Soure/Untitled.md",
     "blogs/education",
     "blogs/Soure",
     "blogs/CS/AI/应用案例",
