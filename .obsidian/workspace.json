@@ -13,19 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/人事/Untitled.md",
+                "file": "blogs/Proflu/人事/各岗位要求.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
-            }
-          },
-          {
-            "id": "48c1680aac6997b2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -110,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/人事/Untitled.md",
+                "file": "blogs/Proflu/人事/各岗位要求.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/人事/Untitled.md",
+                "file": "blogs/Proflu/人事/各岗位要求.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/人事/Untitled.md"
+                "file": "blogs/Proflu/人事/各岗位要求.md"
               }
             }
           },
@@ -183,8 +175,8 @@
   },
   "active": "4335764de6f36952",
   "lastOpenFiles": [
+    "blogs/Proflu/人事/各岗位要求.md",
     "blogs/Proflu/人事/BOSS招聘/岗位分类/根据BOSS招聘案例整理.md",
-    "blogs/Proflu/人事/Untitled.md",
     "blogs/Proflu/人事/BOSS招聘/岗位分类",
     "blogs/Proflu/人事/BOSS招聘",
     "blogs/CS/AI/AI_reference.md",
