@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/交流/场长.md",
+                "file": "blogs/Proflu/人事/各岗位要求.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/交流/场长.md",
+                "file": "blogs/Proflu/人事/各岗位要求.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/交流/场长.md",
+                "file": "blogs/Proflu/人事/各岗位要求.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/交流/场长.md"
+                "file": "blogs/Proflu/人事/各岗位要求.md"
               }
             }
           },
@@ -175,18 +175,20 @@
   },
   "active": "4335764de6f36952",
   "lastOpenFiles": [
-    "blogs/Proflu/人事/各岗位要求.md",
+    "blogs/Proflu/人事/人员招募.md",
+    "blogs/项目/AI_voice.md",
+    "blogs/交流/宋老师.md",
     "blogs/交流/场长.md",
+    "blogs/交流/20230514Tiger.md",
+    "blogs/Proflu/人事/各岗位要求.md",
     "blogs/Proflu/人事/BOSS招聘/岗位分类/根据BOSS招聘案例整理.md",
     "blogs/Proflu/人事/BOSS招聘/岗位分类",
     "blogs/Proflu/人事/BOSS招聘",
     "blogs/CS/AI/AI_reference.md",
     "blogs/Proflu/人事",
-    "blogs/项目/AI_voice.md",
     "blogs/交流/深度咨询/20230515沙宇轩深度咨询.md",
     "blogs/交流/深度咨询/20230521荣轩深度咨询.md",
     "blogs/交流/深度咨询",
-    "blogs/交流/20230514Tiger.md",
     "blogs/CS/AI/Untitled.md",
     "blogs/info/知识点.md",
     "blogs/Proflu/SOP/师傅交接.md",
@@ -198,7 +200,6 @@
     "blogs/做事十项基本原则.md",
     "blogs/info/API自动化/相关平台.md",
     "blogs/CS/AI/使用平台.md",
-    "blogs/Proflu/人事/人员招募.md",
     "blogs/think/未命名 1.md",
     "blogs/think/一个人在后天该如何提升自身的内在自信.md",
     "blogs/think/在面试中的两个灵魂拷问.md",
@@ -206,7 +207,6 @@
     "blogs/think/Untitled.md",
     "blogs/views/messageBoard.md",
     "blogs/实验室时间调整通知.md",
-    "blogs/十项综合素质.md",
     "blogs/项目",
     "Untitled.canvas",
     "blogs/CS/AI/讯飞",
