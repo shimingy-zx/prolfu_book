@@ -93,13 +93,19 @@ display-mode: outline
          - 参考游戏
             - GPT-3 SayCan NPC
             - ROBLOX NPCs are becoming smart! NEW PEACHES ENDING
--
+         - 基本技术要点
+            - 特定范围内行走
+            - 文本交流
+            - 交流激活（距离激活，打招呼激活）
+            - NPC外观设计
+            - 场景布置
    - AI
       - Openai
          - 模型训练
             - 多轮训练
             - 角色定义
          - 如何使用
+      - 其他AI model
    - 数字人
    - 思考原则
       - 非必要不深入
