@@ -91,6 +91,8 @@ display-mode: outline
             - 亚马逊
       - NPC
          - 参考游戏
+            - GPT-3 SayCan NPC
+            - ROBLOX NPCs are becoming smart! NEW PEACHES ENDING
 -
    - AI
       - Openai
