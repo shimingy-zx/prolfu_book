@@ -24,9 +24,12 @@
             "id": "f6789d1865cf3ed7",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "blogs/项目/AI_Robolx.md"
+                "file": "blogs/交流/腾讯直播商务总监小Q.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -113,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/项目/AI_Robolx.md",
+                "file": "blogs/交流/腾讯直播商务总监小Q.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/项目/AI_Robolx.md",
+                "file": "blogs/交流/腾讯直播商务总监小Q.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/项目/AI_Robolx.md"
+                "file": "blogs/交流/腾讯直播商务总监小Q.md"
               }
             }
           },
@@ -186,8 +189,9 @@
   },
   "active": "f6789d1865cf3ed7",
   "lastOpenFiles": [
-    "blogs/Proflu/人事/人员招募.md",
     "blogs/项目/AI_Robolx.md",
+    "blogs/交流/腾讯直播商务总监小Q.md",
+    "blogs/Proflu/人事/人员招募.md",
     "blogs/交流/宋老师.md",
     "blogs/交流/场长.md",
     "blogs/交流/20230514Tiger.md",
@@ -217,7 +221,6 @@
     "blogs/think/做局思维.md",
     "blogs/think/Untitled.md",
     "blogs/views/messageBoard.md",
-    "blogs/实验室时间调整通知.md",
     "blogs/项目",
     "Untitled.canvas",
     "blogs/CS/AI/讯飞",
