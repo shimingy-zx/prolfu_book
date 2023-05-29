@@ -47,6 +47,7 @@ display-mode: outline
          - 教程
             - 英文教程
                - [(41) Roblox How To Code - How To Script On Roblox - Episode 1 - YouTube](https://www.youtube.com/watch?v=BfLUt3mfJiY&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf)
+               - https://www.bilibili.com/video/BV1iG41177Rx/?p=1&vd_source=d5dcd9ecea5f54eff2a20a9e2ccc0fa0
             - 中文教程
       - lua基础拓展
          - 接口调用
