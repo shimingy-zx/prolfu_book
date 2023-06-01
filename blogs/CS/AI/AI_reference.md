@@ -53,3 +53,6 @@ sidebar: 'auto'
 [Mycroft Chat (mattermost.com)](https://mycroft.cloud.mattermost.com/login)
 
 
+[免费的 ChatGPT 网站收集 · Issue #4 · lblblong/mossgpt-utools (github.com)](https://github.com/lblblong/mossgpt-utools/issues/4)
+
+
