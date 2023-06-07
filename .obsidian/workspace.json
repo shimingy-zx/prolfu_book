@@ -16,19 +16,8 @@
                 "file": "blogs/项目/AI_Robolx.md"
               }
             }
-          },
-          {
-            "id": "f9fdfc90307cbb60",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +170,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f9fdfc90307cbb60",
+  "active": "4335764de6f36952",
   "lastOpenFiles": [
     "blogs/CS/云函数/Untitled.md",
     "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/爱尔眼科陈邦：资本运营超对手.md",
