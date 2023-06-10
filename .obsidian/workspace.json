@@ -16,6 +16,14 @@
                 "file": "blogs/项目/AI_Robolx.md"
               }
             }
+          },
+          {
+            "id": "f6bc4f20633f5d8e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ]
       }
@@ -172,6 +180,7 @@
   },
   "active": "4335764de6f36952",
   "lastOpenFiles": [
+    "blogs/项目/AI_Robolx.md",
     "blogs/CS/云函数/Untitled.md",
     "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/爱尔眼科陈邦：资本运营超对手.md",
     "blogs/CS/云函数",
@@ -198,7 +207,6 @@
     "blogs/Proflu/Theory/什么时候开始研究公司.md",
     "blogs/Proflu/Theory/授权，赋能的意义何在？.md",
     "blogs/Proflu/Theory/谈判智慧.md",
-    "blogs/Proflu/Theory/学习原则.md",
     "blogs/Proflu/人事/BOSS招聘/岗位分类",
     "blogs/Proflu/人事/BOSS招聘",
     "blogs/Proflu/人事",
