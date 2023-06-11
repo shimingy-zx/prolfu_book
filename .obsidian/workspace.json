@@ -11,18 +11,13 @@
             "id": "4335764de6f36952",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "blogs/项目/AI_Robolx.md"
+                "file": "blogs/项目/AI_Robolx.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
-            }
-          },
-          {
-            "id": "f6bc4f20633f5d8e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
