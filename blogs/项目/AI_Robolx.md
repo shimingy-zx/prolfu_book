@@ -73,10 +73,32 @@ display-mode: outline
             - 声音转化
             - document
                - https://create.roblox.com/docs/reference/engine/classes/Sound#IsPlaying
-      - 游戏案例
-         - 自动生成迷宫
-            - [(79) How to Auto Generate Mazes in Roblox - YouTube](https://www.youtube.com/watch?v=PQGqUWizOeo)
 -
+      - Text to speech
+         - api
+            - Microsoft
+               - Document
+                  - https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/rest-text-to-speech?tabs=streaming#get-a-list-of-voices
+            - huggingface
+               - https://huggingface.co/facebook/fastspeech2-en-ljspeech
+         - 参考材料
+            - roblox
+               - https://devforum.roblox.com/t/text-to-speech-support/2025613/1
+      - speech to text
+         - 相关平台
+            - [openai/whisper-tiny.en · Hugging Face](https://huggingface.co/openai/whisper-tiny.en)
+            - google
+            - 亚马逊
+      - NPC
+         - 参考游戏
+            - GPT-3 SayCan NPC
+            - ROBLOX NPCs are becoming smart! NEW PEACHES ENDING
+         - 基本技术要点
+            - 文本交流
+            - 交流激活（距离激活，打招呼激活）
+            - 特定范围内行走
+            - NPC外观设计-交给小朋友
+            - 场景布置--交给小朋友
    - AI
       - Openai
          - 模型训练
