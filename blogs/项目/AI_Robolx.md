@@ -55,7 +55,6 @@ display-mode: outline
                - 与Discord通信
                   - 教程
                      - [(41) Roblox Tutorial - How to send discord webhooks from Roblox - YouTube](https://www.youtube.com/watch?v=ebVwwYvtSqY)
-                     - https://www.youtube.com/watch?app=desktop&v=eRqC9N27svc
                      - https://www.youtube.com/watch?v=eRqC9N27svc
                - 官方文档案例
                   - https://create.roblox.com/docs/reference/engine/classes/HttpService#RequestInternal
@@ -74,6 +73,7 @@ display-mode: outline
             - 声音转化
             - document
                - https://create.roblox.com/docs/reference/engine/classes/Sound#IsPlaying
+-
       - Text to speech
          - api
             - Microsoft

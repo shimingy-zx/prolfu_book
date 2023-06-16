@@ -11,9 +11,12 @@
             "id": "4335764de6f36952",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "blogs/交流/腾讯直播商务总监小Q-近期视频号流量变小原因探讨.md"
+                "file": "blogs/Proflu/APP/产品文档.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           }
@@ -56,18 +59,18 @@
             }
           },
           {
-            "id": "95d2256a42bac67e",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
-            }
-          },
-          {
             "id": "dc7330b9844edfff",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "95d2256a42bac67e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
               "state": {}
             }
           }
@@ -75,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 285.5
   },
   "right": {
     "id": "615da28e01c352e1",
@@ -99,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/交流/腾讯直播商务总监小Q-近期视频号流量变小原因探讨.md",
+                "file": "blogs/Proflu/APP/产品文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/交流/腾讯直播商务总监小Q-近期视频号流量变小原因探讨.md",
+                "file": "blogs/Proflu/APP/产品文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/交流/腾讯直播商务总监小Q-近期视频号流量变小原因探讨.md"
+                "file": "blogs/Proflu/APP/产品文档.md"
               }
             }
           },
@@ -172,43 +175,43 @@
   },
   "active": "4335764de6f36952",
   "lastOpenFiles": [
+    "blogs/Proflu/APP/产品文档~.md",
+    "blogs/Proflu/APP/Untitled.md",
+    "blogs/Proflu/APP/产品文档.md",
     "blogs/项目/AI_Robolx.md",
-    "blogs/交流/腾讯直播商务总监小Q-近期视频号流量变小原因探讨.md",
-    "blogs/Proflu/人事/各岗位要求.md",
-    "blogs/交流/宋老师.md",
-    "blogs/Proflu/人事/人员招募.md",
-    "blogs/交流/场长.md",
-    "blogs/交流/20230514Tiger.md",
-    "blogs/Proflu/人事/BOSS招聘/岗位分类/根据BOSS招聘案例整理.md",
+    "blogs/Proflu/APP",
+    "blogs/info/API自动化/相关平台.md",
+    "blogs/CS/云函数/Untitled.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/爱尔眼科陈邦：资本运营超对手.md",
+    "blogs/CS/云函数",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/创新工场李开复：第四波创业高潮来到了.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/京东商城刘强东：京东现在不差钱，用户体验是关键.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/搜房莫天全：成功企业三要素是节约成本、高速成长、和资本市场结合1.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/探路者盛发强和王静：探路创业板成功上市之道.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/新东方俞敏洪：我始终有一个信念.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/新浪王志东：新浪模式有风险，不做风险会更大.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/用友软件王文京：上市融资助力公司业务华丽转型.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/中国动向陈义红：品牌奇才的对赌体验.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/往期嘉宾.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/张俊熹.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/往期部分案例嘉宾.md",
+    "blogs/Proflu/案例手册/案例分析/访谈案例/大尤.md",
+    "blogs/Proflu/案例参考/未命名.md",
+    "blogs/Proflu/Theory/企业管理/OKR管理方法.md",
+    "blogs/Proflu/综合.md",
+    "blogs/Proflu/Theory/结合面的优势.md",
+    "blogs/Proflu/Theory/金句.md",
+    "blogs/Proflu/Theory/陆老师课程介绍.md",
+    "blogs/Proflu/Theory/论同理心的重要性.md",
     "blogs/Proflu/人事/BOSS招聘/岗位分类",
     "blogs/Proflu/人事/BOSS招聘",
-    "blogs/CS/AI/AI_reference.md",
     "blogs/Proflu/人事",
-    "blogs/交流/深度咨询/20230515沙宇轩深度咨询.md",
-    "blogs/交流/深度咨询/20230521荣轩深度咨询.md",
     "blogs/交流/深度咨询",
-    "blogs/CS/AI/Untitled.md",
-    "blogs/info/知识点.md",
-    "blogs/Proflu/SOP/师傅交接.md",
     "blogs/Proflu/SOP",
-    "blogs/CS/好产品/Untitled.md",
-    "blogs/CS/info/未命名.md",
     "blogs/CS/好产品",
-    "blogs/CS/Flutter/例子/例子合集.md",
-    "blogs/做事十项基本原则.md",
-    "blogs/info/API自动化/相关平台.md",
-    "blogs/CS/AI/使用平台.md",
-    "blogs/think/未命名 1.md",
-    "blogs/think/一个人在后天该如何提升自身的内在自信.md",
-    "blogs/think/在面试中的两个灵魂拷问.md",
-    "blogs/think/做局思维.md",
-    "blogs/think/Untitled.md",
-    "blogs/views/messageBoard.md",
     "blogs/项目",
     "Untitled.canvas",
     "blogs/CS/AI/讯飞",
-    "blogs/CS/pay",
-    "blogs/education",
     "blogs/think/folder/Pasted image 20230216070156.png",
     "avatar.jpg",
     "logo.jpg",
