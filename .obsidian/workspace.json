@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "15e55597a23158b1",
+        "id": "51625bd7b9dc35a4",
         "type": "tabs",
         "children": [
           {
-            "id": "4335764de6f36952",
+            "id": "088d8dd41916591f",
             "type": "leaf",
             "state": {
               "type": "mindmapview",
               "state": {
-                "file": "blogs/项目/AI_Robolx.md"
+                "file": "blogs/Proflu/项目/AI_Robolx.md"
               }
             }
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/项目/AI_Robolx.md",
+                "file": "blogs/Proflu/项目/AI_Robolx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/项目/AI_Robolx.md",
+                "file": "blogs/Proflu/项目/AI_Robolx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/项目/AI_Robolx.md"
+                "file": "blogs/Proflu/项目/AI_Robolx.md"
               }
             }
           },
@@ -170,15 +170,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4335764de6f36952",
+  "active": "088d8dd41916591f",
   "lastOpenFiles": [
+    "blogs/Proflu/项目/APP/产品文档.md",
+    "blogs/Proflu/APP/产品文档.md",
+    "blogs/Proflu/项目/APP",
+    "blogs/Proflu/项目/AI_Robolx.md",
+    "blogs/Proflu/项目",
+    "blogs/项目/AI_Robolx.md",
     "blogs/Proflu/合同/refer.md",
     "blogs/Proflu/合同",
     "blogs/Proflu/refer.md",
-    "blogs/Proflu/APP/产品文档.md",
     "blogs/Proflu/APP/产品文档~.md",
     "blogs/Proflu/APP/Untitled.md",
-    "blogs/项目/AI_Robolx.md",
     "blogs/Proflu/APP",
     "blogs/info/API自动化/相关平台.md",
     "blogs/CS/云函数/Untitled.md",
@@ -199,15 +203,11 @@
     "blogs/Proflu/案例参考/未命名.md",
     "blogs/Proflu/Theory/企业管理/OKR管理方法.md",
     "blogs/Proflu/综合.md",
-    "blogs/Proflu/Theory/结合面的优势.md",
-    "blogs/Proflu/Theory/金句.md",
     "blogs/Proflu/人事/BOSS招聘/岗位分类",
     "blogs/Proflu/人事/BOSS招聘",
     "blogs/Proflu/人事",
     "blogs/交流/深度咨询",
     "blogs/Proflu/SOP",
-    "blogs/CS/好产品",
-    "blogs/项目",
     "Untitled.canvas",
     "blogs/think/folder/Pasted image 20230216070156.png",
     "avatar.jpg",
