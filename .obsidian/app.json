@@ -1,7 +1,7 @@
 {
   "attachmentFolderPath": "./folder",
   "defaultViewMode": "source",
-  "livePreview": false,
+  "livePreview": true,
   "showFrontmatter": true,
   "pdfExportSettings": {
     "pageSize": "Letter",

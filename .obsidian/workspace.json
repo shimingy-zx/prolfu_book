@@ -11,9 +11,12 @@
             "id": "088d8dd41916591f",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/项目/AI_Robolx.md"
+                "file": "blogs/Proflu/项目/APP/产品文档.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -99,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/AI_Robolx.md",
+                "file": "blogs/Proflu/项目/APP/产品文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/AI_Robolx.md",
+                "file": "blogs/Proflu/项目/APP/产品文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/AI_Robolx.md"
+                "file": "blogs/Proflu/项目/APP/产品文档.md"
               }
             }
           },
@@ -172,10 +175,10 @@
   },
   "active": "088d8dd41916591f",
   "lastOpenFiles": [
+    "blogs/Proflu/项目/AI_Robolx.md",
     "blogs/Proflu/项目/APP/产品文档.md",
     "blogs/Proflu/APP/产品文档.md",
     "blogs/Proflu/项目/APP",
-    "blogs/Proflu/项目/AI_Robolx.md",
     "blogs/Proflu/项目",
     "blogs/项目/AI_Robolx.md",
     "blogs/Proflu/合同/refer.md",
