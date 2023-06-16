@@ -73,7 +73,9 @@ display-mode: outline
             - 声音转化
             - document
                - https://create.roblox.com/docs/reference/engine/classes/Sound#IsPlaying
--
+         - 游戏案例
+            - 自动生成迷宫
+                - [(79) How to Auto Generate Mazes in Roblox - YouTube](https://www.youtube.com/watch?v=PQGqUWizOeo)
       - Text to speech
          - api
             - Microsoft
