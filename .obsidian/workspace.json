@@ -11,9 +11,12 @@
             "id": "4c3f33143a9f628e",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/项目/AI_Robolx.md"
+                "file": "blogs/CS/graphql/Graphql_reference.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -107,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/AI_Robolx.md",
+                "file": "blogs/CS/graphql/Graphql_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/AI_Robolx.md",
+                "file": "blogs/CS/graphql/Graphql_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/AI_Robolx.md"
+                "file": "blogs/CS/graphql/Graphql_reference.md"
               }
             }
           },
@@ -180,9 +183,9 @@
   },
   "active": "4c3f33143a9f628e",
   "lastOpenFiles": [
+    "blogs/Proflu/项目/AI_Robolx.md",
     "blogs/Proflu/项目/APP/功能模块.md",
     "blogs/Proflu/项目/APP/产品文档.md",
-    "blogs/Proflu/项目/AI_Robolx.md",
     "blogs/Proflu/APP/产品文档.md",
     "blogs/Proflu/项目/APP",
     "blogs/Proflu/项目",
