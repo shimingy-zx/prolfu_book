@@ -43,8 +43,10 @@ sidebar: 'auto'
 [Apollo Graphql 优雅权限管理 - 简书 (jianshu.com)](https://www.jianshu.com/p/7a0669f3b87d)
 
 
-## 
+## 相关软件
 
 [Altair GraphQL Client](https://altairgraphql.dev/)
+
+## 相关工具
 
 [GraphQL – The Guild (the-guild.dev)](https://the-guild.dev/)

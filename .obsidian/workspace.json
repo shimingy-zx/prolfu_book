@@ -19,14 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "13191d9ba9444364",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ]
       }
@@ -183,9 +175,10 @@
   },
   "active": "4c3f33143a9f628e",
   "lastOpenFiles": [
-    "blogs/Proflu/项目/AI_Robolx.md",
-    "blogs/Proflu/项目/APP/功能模块.md",
     "blogs/Proflu/项目/APP/产品文档.md",
+    "blogs/Proflu/项目/AI_Robolx.md",
+    "blogs/CS/graphql/Graphql_reference.md",
+    "blogs/Proflu/项目/APP/功能模块.md",
     "blogs/Proflu/APP/产品文档.md",
     "blogs/Proflu/项目/APP",
     "blogs/Proflu/项目",
@@ -213,7 +206,6 @@
     "blogs/Proflu/案例手册/案例分析/访谈案例/往期部分案例嘉宾.md",
     "blogs/Proflu/案例手册/案例分析/访谈案例/大尤.md",
     "blogs/Proflu/案例参考/未命名.md",
-    "blogs/Proflu/Theory/企业管理/OKR管理方法.md",
     "blogs/Proflu/人事/BOSS招聘/岗位分类",
     "blogs/Proflu/人事/BOSS招聘",
     "blogs/Proflu/人事",
