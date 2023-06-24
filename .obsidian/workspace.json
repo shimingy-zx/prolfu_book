@@ -11,8 +11,13 @@
             "id": "512a0ac156d0e62a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blogs/CS/graphql/Graphql_auth.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blogs/CS/graphql/Graphql_auth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blogs/CS/graphql/Graphql_auth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blogs/CS/graphql/Graphql_auth.md"
+              }
             }
           },
           {
@@ -166,6 +175,8 @@
   },
   "active": "512a0ac156d0e62a",
   "lastOpenFiles": [
+    "blogs/Proflu/人事/各岗位要求.md",
+    "blogs/CS/graphql/Graphql_auth.md",
     "blogs/info/API自动化/相关平台.md",
     "blogs/CS/graphql/Graphql_reference.md",
     "blogs/CS/graphql/GraphQL_Shield.md",
@@ -195,8 +206,6 @@
     "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/中国动向陈义红：品牌奇才的对赌体验.md",
     "blogs/Proflu/案例手册/案例分析/访谈案例/往期嘉宾.md",
     "blogs/Proflu/案例手册/案例分析/访谈案例/张俊熹.md",
-    "blogs/Proflu/案例手册/案例分析/访谈案例/往期部分案例嘉宾.md",
-    "blogs/Proflu/案例手册/案例分析/访谈案例/大尤.md",
     "blogs/Proflu/人事/BOSS招聘/岗位分类",
     "blogs/Proflu/人事/BOSS招聘",
     "blogs/Proflu/人事",
