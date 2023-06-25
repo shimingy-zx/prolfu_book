@@ -3,3 +3,5 @@
 [Graphql-中间件 | Casbin](https://casbin.org/zh/docs/graphql-middlewares)
 
 [Graphql-中间件 | Casbin](https://casbin.org/zh/docs/graphql-middlewares)
+
+[授权 |图QL (graphql.org)](https://graphql.org/learn/authorization/)
