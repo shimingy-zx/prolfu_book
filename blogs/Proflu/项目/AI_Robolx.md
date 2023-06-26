@@ -81,6 +81,7 @@ display-mode: outline
             - Microsoft
                - Document
                   - https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/rest-text-to-speech?tabs=streaming#get-a-list-of-voices
+                  - [文本转语音概述 - 语音服务 - Azure Cognitive Services | Microsoft Learn](https://learn.microsoft.com/zh-cn/azure/cognitive-services/speech-service/text-to-speech)
             - huggingface
                - https://huggingface.co/facebook/fastspeech2-en-ljspeech
          - 参考材料
