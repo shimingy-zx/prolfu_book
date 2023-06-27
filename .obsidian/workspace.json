@@ -11,9 +11,12 @@
             "id": "512a0ac156d0e62a",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "blogs/做事十项基本原则.md"
+                "file": "blogs/Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -99,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/做事十项基本原则.md",
+                "file": "blogs/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/做事十项基本原则.md",
+                "file": "blogs/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/做事十项基本原则.md"
+                "file": "blogs/Untitled.md"
               }
             }
           },
@@ -172,6 +175,8 @@
   },
   "active": "512a0ac156d0e62a",
   "lastOpenFiles": [
+    "blogs/做事十项基本原则.md",
+    "blogs/Untitled.md",
     "blogs/Proflu/项目/AI_Robolx.md",
     "blogs/Proflu/项目/APP/产品文档.md",
     "blogs/CS/graphql/Graphql_auth.md",
@@ -201,8 +206,6 @@
     "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/新东方俞敏洪：我始终有一个信念.md",
     "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/新浪王志东：新浪模式有风险，不做风险会更大.md",
     "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/用友软件王文京：上市融资助力公司业务华丽转型.md",
-    "blogs/Proflu/案例手册/案例分析/访谈案例/嘉宾案例文集/中国动向陈义红：品牌奇才的对赌体验.md",
-    "blogs/Proflu/案例手册/案例分析/访谈案例/往期嘉宾.md",
     "blogs/Proflu/人事/BOSS招聘/岗位分类",
     "blogs/Proflu/人事/BOSS招聘",
     "blogs/Proflu/人事",
