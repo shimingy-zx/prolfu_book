@@ -87,6 +87,8 @@ display-mode: outline
             - 参考案例
                 - roblox
                     - https://devforum.roblox.com/t/text-to-speech-support/2025613/1
+                - youtube
+                    - https://www.youtube.com/watch?v=cEsn2uDx0cE
         - speech to text
             - 相关平台
                 - [openai/whisper-tiny.en · Hugging Face](https://huggingface.co/openai/whisper-tiny.en)
