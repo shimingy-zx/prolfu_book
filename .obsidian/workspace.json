@@ -24,9 +24,12 @@
             "id": "d15baa0a337e10e5",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
+                "file": "blogs/Proflu/项目/English/相关录屏.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -113,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+                "file": "blogs/Proflu/项目/English/相关录屏.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+                "file": "blogs/Proflu/项目/English/相关录屏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
+                "file": "blogs/Proflu/项目/English/相关录屏.md"
               }
             }
           },
@@ -186,8 +189,10 @@
   },
   "active": "d15baa0a337e10e5",
   "lastOpenFiles": [
-    "blogs/Proflu/项目/Roblox/TTS_gui.md",
     "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+    "blogs/Proflu/项目/English/相关录屏.md",
+    "blogs/Proflu/项目/English",
+    "blogs/Proflu/项目/Roblox/TTS_gui.md",
     "blogs/Proflu/项目/Roblox/Untitled.md",
     "blogs/Proflu/项目/Roblox/TTS_gui.lua",
     "blogs/Proflu/项目/Roblox/Untitled.lua.md",
@@ -201,7 +206,6 @@
     "node_modules/@vuepress/core/node_modules/fsevents/build/Release/fse.node",
     "node_modules/@vuepress/core/node_modules/fsevents/build/Release/obj.target/fse/fsevents.o",
     "node_modules/webpack-dev-server/node_modules/fsevents/build/Release/obj.target/fse/fsevents.o",
-    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/Release/obj.target/fse/fsevents.o",
     "node_modules/prettier/README.md",
     "node_modules/core-js/stage/README.md",
     "node_modules/core-js/README.md",
@@ -221,7 +225,6 @@
     "node_modules/dayjs/CHANGELOG.md",
     "node_modules/esbuild-darwin-arm64/README.md",
     "node_modules/webpack/SECURITY.md",
-    "node_modules/webpack/README.md",
     "node_modules/renderkid/docs/images/display.png",
     "node_modules/renderkid/docs/images/usage.png",
     "node_modules/renderkid/docs/images/bullets-1.png",
