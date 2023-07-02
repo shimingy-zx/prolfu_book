@@ -64,3 +64,11 @@ sidebar: 'auto'
 
 
 [Quickstart with TypeScript &amp; SQLite (prisma.io)](https://www.prisma.io/docs/getting-started/quickstart)
+
+[Projects - Hasura Cloud](https://cloud.hasura.io/projects)
+
+[Apollo GraphQL | Supergraph: unify APIs, microservices, &amp; databases in a composable graph](https://www.apollographql.com/)
+
+[Relay](https://relay.dev/)
+
+[A complete guide to permissions in a GraphQL API - LogRocket Blog](https://blog.logrocket.com/a-complete-guide-to-permissions-in-a-graphql-api/)
