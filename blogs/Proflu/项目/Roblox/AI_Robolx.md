@@ -84,8 +84,8 @@ display-mode: outline
       - 参考案例
         - roblox
           - https://devforum.roblox.com/t/text-to-speech-support/2025613/1
-        - E
-          - https://www.youtube.com/watch?v=cEsn2uDx0cE
+        - Example
+          - video:[(133) Roblox Fe Script Showcase:Tts Gui - YouTube](https://www.youtube.com/watch?v=cEsn2uDx0cE)
           - [TTs Gui - Roblox-Scripts](https://roblox-scripts.co/tts-gui)
           - code:[TTS_gui](TTS_gui)
     - speech to text
