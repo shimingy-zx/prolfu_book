@@ -7,7 +7,6 @@ tags:
  - refer
 sidebar: 'auto'
 ---
-
 [官网：GraphQL | A query language for your API](https://graphql.cn/)
 
 ## 学习例子
@@ -21,6 +20,12 @@ sidebar: 'auto'
 [后端使用egg框架+mongoose，创建简单的注册、登录、修改密码、修改名字 - 简书 (jianshu.com)](https://www.jianshu.com/p/e0e2b89d0a6a)
 
 [java - GraphQL 的入门指南_个人文章 - SegmentFault 思否](https://segmentfault.com/a/1190000017851838)
+
+[[前端利器]一键生成增删改查接口(基于Graphql) - 掘金 (juejin.cn)](https://juejin.cn/post/7157156014226145310)
+
+[5款好用且有代表性的GraphQL工具_语言 &amp; 开发_Michal Tyszkiewicz_InfoQ精选文章](https://www.infoq.cn/article/K49aV8ZQq08439D2kbiJ)
+
+[CmsWing: 一款基于Egg.js(为企业级框架和应用而生)、Sequelize和GraphQL，功能强大的（PC端,手机端和微信公众平台）电子商务平台及CMS建站系统 (gitee.com)](https://gitee.com/cmswing/CmsWing?_from=gitee_search)
 
 ## 在线测试窗口
 
@@ -42,7 +47,6 @@ sidebar: 'auto'
 
 [Apollo Graphql 优雅权限管理 - 简书 (jianshu.com)](https://www.jianshu.com/p/7a0669f3b87d)
 
-
 ## 相关软件
 
 [Altair GraphQL Client](https://altairgraphql.dev/)
@@ -54,3 +58,9 @@ sidebar: 'auto'
 ## 相关网站
 
 [Hygraph](https://app.hygraph.com/)
+
+
+[飞布API-可视化API开发平台 (fireboom.io)](https://www.fireboom.io/)
+
+
+[Quickstart with TypeScript &amp; SQLite (prisma.io)](https://www.prisma.io/docs/getting-started/quickstart)
