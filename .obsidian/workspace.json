@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+                "file": "blogs/Proflu/项目/Roblox/TTS_gui.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+                "file": "blogs/Proflu/项目/Roblox/TTS_gui.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
+                "file": "blogs/Proflu/项目/Roblox/TTS_gui.md"
               }
             }
           },
@@ -184,10 +183,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d15baa0a337e10e5",
+  "active": "99b7e24ab10b2078",
   "lastOpenFiles": [
-    "blogs/Proflu/项目/English/相关录屏.md",
+    "blogs/Proflu/项目/Roblox/demo.lua",
     "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+    "blogs/Proflu/实验室时间调整通知.md",
+    "blogs/Proflu/项目/English/相关录屏.md",
     "blogs/Proflu/项目/English",
     "blogs/Proflu/项目/Roblox/TTS_gui.md",
     "blogs/Proflu/项目/Roblox/Untitled.md",
@@ -220,8 +221,6 @@
     "node_modules/underscore/README.md",
     "node_modules/dayjs/README.md",
     "node_modules/dayjs/CHANGELOG.md",
-    "node_modules/esbuild-darwin-arm64/README.md",
-    "node_modules/webpack/SECURITY.md",
     "node_modules/renderkid/docs/images/display.png",
     "node_modules/renderkid/docs/images/usage.png",
     "node_modules/renderkid/docs/images/bullets-1.png",
