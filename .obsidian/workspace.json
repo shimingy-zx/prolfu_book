@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/graphql/Graphql_doc.md",
+                "file": "blogs/CS/graphql/Graphql_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/graphql/Graphql_doc.md",
+                "file": "blogs/CS/graphql/Graphql_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/graphql/Graphql_doc.md",
+                "file": "blogs/CS/graphql/Graphql_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/graphql/Graphql_doc.md"
+                "file": "blogs/CS/graphql/Graphql_reference.md"
               }
             }
           },
@@ -198,8 +198,8 @@
   },
   "active": "99b7e24ab10b2078",
   "lastOpenFiles": [
-    "blogs/Proflu/项目/Roblox/AI_Robolx.md",
     "blogs/CS/graphql/Graphql_doc.md",
+    "blogs/Proflu/项目/Roblox/AI_Robolx.md",
     "blogs/Proflu/项目/Roblox/TTS_gui.md",
     "blogs/Proflu/项目/Roblox/demo.lua",
     "blogs/Proflu/实验室时间调整通知.md",
