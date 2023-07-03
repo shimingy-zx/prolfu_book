@@ -120,7 +120,17 @@ display-mode: outline
             - 官网
                 - https://chato-ai.com/
             - 机器人接口
-                - Sub title
+                - 接口
+                    - https://api.chato-ai.com/chato/api-public/domains/n081w73410rxdm2k/chat
+                - 请求方式
+                    - POST
+                - 请求参数
+                    - { "p": "向机器人提出的问题" }
+                - 返回类型
+                    - JSON
+                - 返回格式
+                    - `{ "data": { "content": "机器人的回答" } }`
+        - quickChat
         - 其他AI model
     - 数字人
     - 思考原则
