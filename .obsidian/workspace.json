@@ -11,12 +11,9 @@
             "id": "99b7e24ab10b2078",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/TTS_gui.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
               }
             }
           },
@@ -29,8 +26,22 @@
                 "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
               }
             }
+          },
+          {
+            "id": "bcdbd2ee700e2d4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Proflu/项目/Roblox/TTS_gui.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/TTS_gui.md",
+                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/TTS_gui.md",
+                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/TTS_gui.md"
+                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
               }
             }
           },
@@ -183,14 +194,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99b7e24ab10b2078",
+  "active": "d15baa0a337e10e5",
   "lastOpenFiles": [
-    "blogs/Proflu/项目/Roblox/demo.lua",
+    "blogs/Proflu/项目/Roblox/TTS_gui.md",
     "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+    "blogs/Proflu/项目/Roblox/demo.lua",
     "blogs/Proflu/实验室时间调整通知.md",
     "blogs/Proflu/项目/English/相关录屏.md",
     "blogs/Proflu/项目/English",
-    "blogs/Proflu/项目/Roblox/TTS_gui.md",
     "blogs/Proflu/项目/Roblox/Untitled.md",
     "blogs/Proflu/项目/Roblox/TTS_gui.lua",
     "blogs/Proflu/项目/Roblox/Untitled.lua.md",
@@ -203,7 +214,6 @@
     "node_modules/webpack-dev-server/node_modules/fsevents/build/Release/fse.node",
     "node_modules/@vuepress/core/node_modules/fsevents/build/Release/fse.node",
     "node_modules/@vuepress/core/node_modules/fsevents/build/Release/obj.target/fse/fsevents.o",
-    "node_modules/webpack-dev-server/node_modules/fsevents/build/Release/obj.target/fse/fsevents.o",
     "node_modules/prettier/README.md",
     "node_modules/core-js/stage/README.md",
     "node_modules/core-js/README.md",
