@@ -38,6 +38,8 @@ display-mode: outline
             - google
             - GPT
         - 阅读能力
+    - JOB
+        - https://create.roblox.com/talent/search/jobs?page=1
 - 项目实践
     - Roblox
         - lua基础
