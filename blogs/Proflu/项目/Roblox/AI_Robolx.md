@@ -91,7 +91,7 @@ display-mode: outline
             - 参考案例
                 - roblox
                     - https://devforum.roblox.com/t/text-to-speech-support/2025613/1
-                - Example
+                - Example1
                     - video:[(133) Roblox Fe Script Showcase:Tts Gui - YouTube](https://www.youtube.com/watch?v=cEsn2uDx0cE)
                     - [TTs Gui - Roblox-Scripts](https://roblox-scripts.co/tts-gui)
                     - code:[TTS_gui](TTS_gui)
@@ -116,6 +116,11 @@ display-mode: outline
                 - 多轮训练
                 - 角色定义
             - 如何使用
+        - Chato_ai
+            - 官网
+                - https://chato-ai.com/
+            - 机器人接口
+                - Sub title
         - 其他AI model
     - 数字人
     - 思考原则
