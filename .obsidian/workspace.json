@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b5ed6c0380a54e11",
+        "id": "b980b43aef585a2d",
         "type": "tabs",
         "children": [
           {
-            "id": "99b7e24ab10b2078",
+            "id": "1e16c2a63059a5d0",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
+                "file": "blogs/Proflu/人事/COO助理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -99,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+                "file": "blogs/Proflu/人事/COO助理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+                "file": "blogs/Proflu/人事/COO助理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
+                "file": "blogs/Proflu/人事/COO助理.md"
               }
             }
           },
@@ -170,15 +173,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99b7e24ab10b2078",
+  "active": "1e16c2a63059a5d0",
   "lastOpenFiles": [
+    "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+    "blogs/Proflu/人事/COO助理.md",
+    "blogs/Proflu/项目/Roblox/TTS_gui.md",
     "blogs/Proflu/项目/APP/产品文档.md",
     "blogs/Proflu/项目/APP/功能模块.md",
     "blogs/info/API自动化/相关平台.md",
     "blogs/CS/graphql/Graphql_reference.md",
     "blogs/CS/graphql/Graphql_doc.md",
-    "blogs/Proflu/项目/Roblox/AI_Robolx.md",
-    "blogs/Proflu/项目/Roblox/TTS_gui.md",
     "blogs/Proflu/项目/Roblox/demo.lua",
     "blogs/Proflu/实验室时间调整通知.md",
     "blogs/Proflu/项目/English/相关录屏.md",
@@ -207,7 +211,6 @@
     "node_modules/prismjs/README.md",
     "node_modules/prismjs/CHANGELOG.md",
     "node_modules/core-js/modules/README.md",
-    "node_modules/core-js/web/README.md",
     "node_modules/renderkid/docs/images/display.png",
     "node_modules/renderkid/docs/images/usage.png",
     "node_modules/renderkid/docs/images/bullets-1.png",
