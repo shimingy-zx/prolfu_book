@@ -155,23 +155,23 @@
             }
           },
           {
-            "id": "f818d0156eccbea3",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "708ccaeb654aacc2",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "45fde087bedd5f79",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -188,7 +188,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "83ae541fedd8fd52",
+  "active": "45fde087bedd5f79",
   "lastOpenFiles": [
     "blogs/Proflu/项目/APP/功能模块.md",
     "blogs/Proflu/项目/English/相关录屏.md",
