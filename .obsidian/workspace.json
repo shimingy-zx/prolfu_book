@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/人事/COO助理.md",
+                "file": "blogs/Proflu/项目/AI/参考文档.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/人事/COO助理.md",
+                "file": "blogs/Proflu/项目/AI/参考文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/人事/COO助理.md",
+                "file": "blogs/Proflu/项目/AI/参考文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/人事/COO助理.md"
+                "file": "blogs/Proflu/项目/AI/参考文档.md"
               }
             }
           },
@@ -155,18 +155,18 @@
             }
           },
           {
-            "id": "708ccaeb654aacc2",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "45fde087bedd5f79",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "28119b12d9725249",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -188,14 +188,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45fde087bedd5f79",
+  "active": "83ae541fedd8fd52",
   "lastOpenFiles": [
-    "blogs/Proflu/项目/APP/功能模块.md",
-    "blogs/Proflu/项目/English/相关录屏.md",
+    "blogs/Proflu/人事/各岗位要求.md",
+    "blogs/Proflu/项目/AI/参考文档.md",
+    "blogs/Proflu/项目/AI",
     "blogs/Proflu/项目/Roblox/AI_Robolx.md",
-    "blogs/Proflu/项目/Roblox/TTS_gui.md",
     "blogs/Proflu/项目/APP/产品文档.md",
     "blogs/Proflu/人事/COO助理.md",
+    "blogs/Proflu/项目/APP/功能模块.md",
+    "blogs/Proflu/项目/English/相关录屏.md",
+    "blogs/Proflu/项目/Roblox/TTS_gui.md",
     "blogs/Proflu/陆向谦实验室/2概览/1.介绍.md",
     "blogs/Proflu/项目/English/folder/Pasted image 20230718204657.png",
     "blogs/Proflu/项目/English/folder",
@@ -219,14 +222,11 @@
     "package-lock.json",
     "node_modules/watchpack-chokidar2/node_modules/fsevents/build/Release/fse.node",
     "node_modules/webpack-dev-server/node_modules/fsevents/build/Release/fse.node",
-    "node_modules/@vuepress/core/node_modules/fsevents/build/Release/fse.node",
     "node_modules/prettier/README.md",
     "node_modules/core-js/stage/README.md",
     "node_modules/core-js/README.md",
     "node_modules/es-abstract/README.md",
     "node_modules/es-abstract/CHANGELOG.md",
-    "node_modules/leancloud-realtime/README.md",
-    "node_modules/leancloud-realtime/changelog.md",
     "node_modules/renderkid/docs/images/display.png",
     "node_modules/renderkid/docs/images/usage.png",
     "node_modules/renderkid/docs/images/bullets-1.png",
