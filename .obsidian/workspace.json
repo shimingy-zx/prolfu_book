@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/项目/AI/参考文档.md",
+                "file": "blogs/think/句子合集.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/AI/参考文档.md",
+                "file": "blogs/think/句子合集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/AI/参考文档.md",
+                "file": "blogs/think/句子合集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/AI/参考文档.md"
+                "file": "blogs/think/句子合集.md"
               }
             }
           },
@@ -190,10 +190,10 @@
   },
   "active": "83ae541fedd8fd52",
   "lastOpenFiles": [
+    "blogs/Proflu/项目/AI/参考文档.md",
     "blogs/Proflu/项目/AI/Untitled.ipynb",
     "blogs/Untitled",
     "blogs/Proflu/人事/各岗位要求.md",
-    "blogs/Proflu/项目/AI/参考文档.md",
     "blogs/Proflu/项目/AI",
     "blogs/Proflu/项目/Roblox/AI_Robolx.md",
     "blogs/Proflu/项目/APP/产品文档.md",
@@ -222,7 +222,6 @@
     "blogs/Proflu/项目/AI_Robolx.md",
     "blogs/Proflu/项目/Roblox",
     "package-lock.json",
-    "node_modules/watchpack-chokidar2/node_modules/fsevents/build/Release/fse.node",
     "node_modules/prettier/README.md",
     "node_modules/core-js/stage/README.md",
     "node_modules/core-js/README.md",
