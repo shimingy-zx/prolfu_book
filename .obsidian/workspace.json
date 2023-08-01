@@ -155,7 +155,7 @@
             }
           },
           {
-            "id": "45fde087bedd5f79",
+            "id": "f8bada746ac58103",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -163,7 +163,7 @@
             }
           },
           {
-            "id": "28119b12d9725249",
+            "id": "cc4eb83e628308be",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -188,7 +188,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "83ae541fedd8fd52",
+  "active": "cc4eb83e628308be",
   "lastOpenFiles": [
     "blogs/Proflu/人事/实验室实习生招募计划.md",
     "blogs/Proflu/人事/实验室总述.md",
