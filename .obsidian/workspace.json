@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/项目/其他资料.md",
+                "file": "blogs/Proflu/项目/AI智能客服/项目概要.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/其他资料.md",
+                "file": "blogs/Proflu/项目/AI智能客服/项目概要.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/其他资料.md",
+                "file": "blogs/Proflu/项目/AI智能客服/项目概要.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/其他资料.md"
+                "file": "blogs/Proflu/项目/AI智能客服/项目概要.md"
               }
             }
           },
@@ -198,8 +198,11 @@
   },
   "active": "83ae541fedd8fd52",
   "lastOpenFiles": [
-    "blogs/Proflu/Theory/国字型培养方案.md",
     "blogs/Proflu/项目/其他资料.md",
+    "blogs/Proflu/项目/AI智能客服/项目概要.md",
+    "blogs/Proflu/项目/AI智能客服",
+    "blogs/Proflu/项目/Untitled.md",
+    "blogs/Proflu/Theory/国字型培养方案.md",
     "blogs/Proflu/项目/Roblox/AI_Robolx.md",
     "blogs/Proflu/案例参考/未命名.md",
     "blogs/think/未命名 1.md",
@@ -227,14 +230,11 @@
     "blogs/Proflu/案例手册/案例分析/功勋学员/功勋学员案例.md",
     "blogs/Proflu/案例手册/案例分析/功勋学员/张鹤.md",
     "blogs/info/API自动化/相关平台.md",
-    "blogs/CS/graphql/Graphql_reference.md",
-    "blogs/CS/graphql/Graphql_doc.md",
     "blogs/Proflu/项目/Roblox/demo.lua",
     "blogs/Proflu/项目/English",
     "blogs/Proflu/项目/Roblox/TTS_gui.lua",
     "blogs/Proflu/项目/Roblox/Untitled.lua",
     "blogs/Proflu/项目/Roblox",
-    "package-lock.json",
     "node_modules/renderkid/docs/images/display.png",
     "node_modules/renderkid/docs/images/usage.png",
     "node_modules/renderkid/docs/images/bullets-1.png",
