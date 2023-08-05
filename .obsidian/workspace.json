@@ -156,7 +156,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "bd064ea2780707e6",
+=======
+            "id": "03639bf6f4f27ab7",
+>>>>>>> 65760473e92a9ef61847c2d72d73d93c69d63388
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -164,7 +168,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "2012ed6753fc4563",
+=======
+            "id": "607aea753f9285dc",
+>>>>>>> 65760473e92a9ef61847c2d72d73d93c69d63388
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -189,10 +197,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
+<<<<<<< HEAD
   "active": "2012ed6753fc4563",
+=======
+  "active": "607aea753f9285dc",
+>>>>>>> 65760473e92a9ef61847c2d72d73d93c69d63388
   "lastOpenFiles": [
     "未命名.canvas",
     "blogs/Proflu/项目/AI智能客服/项目概要.md",
+<<<<<<< HEAD
+=======
+    "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+    "blogs/Proflu/refer.md",
+    "blogs/Proflu/合同/refer.md",
+    "blogs/Proflu/案例参考/未命名.md",
+>>>>>>> 65760473e92a9ef61847c2d72d73d93c69d63388
     "blogs/Proflu/项目/其他资料.md",
     "blogs/Proflu/项目/AI智能客服",
     "blogs/Proflu/项目/Untitled.md",
