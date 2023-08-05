@@ -1,22 +1,19 @@
 {
   "main": {
-    "id": "f733795a2ddb839d",
+    "id": "5fb97889848fd8e9",
     "type": "split",
     "children": [
       {
-        "id": "f650e556cbcac2b8",
+        "id": "888760e0e474b8f5",
         "type": "tabs",
         "children": [
           {
-            "id": "86576d0b937e4878",
+            "id": "2abcc18dd4679f6d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "blogs/Proflu/项目/AI智能客服/项目概要.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
               }
             }
           }
@@ -26,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "734cee97ab8d2d65",
+    "id": "e2ec1c96da6a4675",
     "type": "split",
     "children": [
       {
-        "id": "4e885cd16dd29c60",
+        "id": "5ac7889a9b71270e",
         "type": "tabs",
         "children": [
           {
-            "id": "4c9f8f94f522e565",
+            "id": "88e41ed72c64de81",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +41,7 @@
             }
           },
           {
-            "id": "0318c9980ab2fcd5",
+            "id": "86d245fe26b08d5b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,18 +56,10 @@
             }
           },
           {
-            "id": "dc7330b9844edfff",
+            "id": "bf0094eedf246432",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "95d2256a42bac67e",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
               "state": {}
             }
           }
@@ -78,19 +67,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "615da28e01c352e1",
+    "id": "9cab37b680999ac1",
     "type": "split",
     "children": [
       {
-        "id": "5de5119f6b619768",
+        "id": "5587c47bc468c995",
         "type": "tabs",
         "children": [
           {
-            "id": "e7fb451b80d6ffaf",
+            "id": "d7c5a63423e8dc5b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -98,12 +86,12 @@
             }
           },
           {
-            "id": "afd3e97bebd84b52",
+            "id": "df32b064a4d7485d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/AI智能客服/项目概要.md",
+                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,19 +103,19 @@
             }
           },
           {
-            "id": "8910a2fc69f6de65",
+            "id": "635f72e80dbf8814",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/AI智能客服/项目概要.md",
+                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "bcb96d7bd3eac8ed",
+            "id": "22863fc7791398d8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -138,125 +126,51 @@
             }
           },
           {
-            "id": "699f66ac9af4685e",
+            "id": "0b354729c4653d69",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/AI智能客服/项目概要.md"
+                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
               }
             }
           },
           {
-            "id": "0a5980a199fcc525",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "bd064ea2780707e6",
-=======
-            "id": "03639bf6f4f27ab7",
->>>>>>> 65760473e92a9ef61847c2d72d73d93c69d63388
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "2012ed6753fc4563",
-=======
-            "id": "607aea753f9285dc",
->>>>>>> 65760473e92a9ef61847c2d72d73d93c69d63388
+            "id": "487bc405f1588d7d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "49372134c9a03092",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-<<<<<<< HEAD
-  "active": "2012ed6753fc4563",
-=======
-  "active": "607aea753f9285dc",
->>>>>>> 65760473e92a9ef61847c2d72d73d93c69d63388
+  "active": "2abcc18dd4679f6d",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "blogs/Proflu/项目/AI智能客服/项目概要.md",
-<<<<<<< HEAD
-=======
-    "blogs/Proflu/项目/Roblox/AI_Robolx.md",
-    "blogs/Proflu/refer.md",
-    "blogs/Proflu/合同/refer.md",
-    "blogs/Proflu/案例参考/未命名.md",
->>>>>>> 65760473e92a9ef61847c2d72d73d93c69d63388
-    "blogs/Proflu/项目/其他资料.md",
-    "blogs/Proflu/项目/AI智能客服",
-    "blogs/Proflu/项目/Untitled.md",
-    "blogs/Proflu/Theory/国字型培养方案.md",
-    "blogs/Proflu/项目/Roblox/AI_Robolx.md",
-    "blogs/Proflu/案例参考/未命名.md",
-    "blogs/think/未命名 1.md",
-    "blogs/Proflu/项目/AI/LLM参考文档.md",
-    "blogs/Proflu/人事/实验室总述.md",
-    "blogs/Proflu/人事/实验室实习生招募计划.md",
-    "blogs/Proflu/人事/面试问题.md",
-    "blogs/做事十项基本原则.md",
-    "blogs/think/句子合集.md",
-    "blogs/Proflu/项目/AI/Untitled.ipynb",
-    "blogs/Untitled",
-    "blogs/Proflu/人事/各岗位要求.md",
-    "blogs/Proflu/项目/AI",
-    "blogs/Proflu/项目/APP/产品文档.md",
-    "blogs/Proflu/人事/COO助理.md",
-    "blogs/Proflu/项目/APP/功能模块.md",
-    "blogs/Proflu/项目/English/相关录屏.md",
-    "blogs/Proflu/项目/Roblox/TTS_gui.md",
-    "blogs/Proflu/陆向谦实验室/2概览/1.介绍.md",
-    "blogs/Proflu/项目/English/folder/Pasted image 20230718204657.png",
-    "blogs/Proflu/项目/English/folder",
-    "blogs/Proflu/综合.md",
-    "blogs/Proflu/refer.md",
-    "blogs/Proflu/案例手册/管理/OKR.md",
-    "blogs/Proflu/案例手册/案例分析/功勋学员/功勋学员案例.md",
-    "blogs/Proflu/案例手册/案例分析/功勋学员/张鹤.md",
-    "blogs/Proflu/项目/Roblox/demo.lua",
-    "blogs/Proflu/项目/English",
-    "blogs/Proflu/项目/Roblox/TTS_gui.lua",
-    "blogs/Proflu/项目/Roblox/Untitled.lua",
-    "blogs/Proflu/项目/Roblox",
-    "node_modules/renderkid/docs/images/display.png",
-    "node_modules/renderkid/docs/images/usage.png",
-    "node_modules/renderkid/docs/images/bullets-1.png",
-    "node_modules/highlight.js/scss/school-book.png",
-    "node_modules/highlight.js/scss/pojoaque.jpg",
-    "node_modules/highlight.js/scss/brown-papersq.png",
-    "node_modules/protobufjs/docs/fonts/OpenSans-Regular-webfont.svg",
-    "node_modules/protobufjs/docs/fonts/OpenSans-LightItalic-webfont.svg",
-    "node_modules/protobufjs/docs/fonts/OpenSans-Light-webfont.svg",
-    "Untitled.canvas",
-    "未命名 1.canvas"
+    "blogs/Proflu/项目/AI智能客服/项目概要.md"
   ]
 }
