@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3dbdecaef03d07ff",
+        "id": "f650e556cbcac2b8",
         "type": "tabs",
         "children": [
           {
-            "id": "ff18f0f59078713c",
+            "id": "86576d0b937e4878",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Proflu/项目/AI智能客服/项目概要.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blogs/Proflu/项目/AI智能客服/项目概要.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blogs/Proflu/项目/AI智能客服/项目概要.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blogs/Proflu/项目/AI智能客服/项目概要.md"
+              }
             }
           },
           {
@@ -146,7 +155,7 @@
             }
           },
           {
-            "id": "914700f2a5d7ae98",
+            "id": "03639bf6f4f27ab7",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -154,7 +163,7 @@
             }
           },
           {
-            "id": "2a35ff57243e2cee",
+            "id": "607aea753f9285dc",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -179,7 +188,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2a35ff57243e2cee",
+  "active": "607aea753f9285dc",
   "lastOpenFiles": [
     "blogs/Proflu/项目/AI智能客服/项目概要.md",
     "blogs/Proflu/项目/Roblox/AI_Robolx.md",
