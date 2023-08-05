@@ -30,7 +30,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/AI智能客服/项目概要.md",
+                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/AI智能客服/项目概要.md",
+                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/AI智能客服/项目概要.md"
+                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
               }
             }
           },
@@ -198,13 +199,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "83ae541fedd8fd52",
+  "active": "ab98d9a5417bb892",
   "lastOpenFiles": [
+    "blogs/Proflu/项目/AI智能客服/项目概要.md",
     "blogs/Proflu/refer.md",
     "blogs/Proflu/合同/refer.md",
     "blogs/Proflu/案例参考/未命名.md",
     "blogs/Proflu/项目/Roblox/AI_Robolx.md",
-    "blogs/Proflu/项目/AI智能客服/项目概要.md",
     "blogs/Proflu/项目/其他资料.md",
     "blogs/Proflu/项目/AI智能客服",
     "blogs/Proflu/项目/Untitled.md",
