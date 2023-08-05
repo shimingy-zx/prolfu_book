@@ -24,8 +24,10 @@
             "id": "ab98d9a5417bb892",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "mindmapview",
+              "state": {
+                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
+              }
             }
           }
         ]
@@ -198,13 +200,15 @@
   },
   "active": "83ae541fedd8fd52",
   "lastOpenFiles": [
-    "blogs/Proflu/项目/其他资料.md",
+    "blogs/Proflu/refer.md",
+    "blogs/Proflu/合同/refer.md",
+    "blogs/Proflu/案例参考/未命名.md",
+    "blogs/Proflu/项目/Roblox/AI_Robolx.md",
     "blogs/Proflu/项目/AI智能客服/项目概要.md",
+    "blogs/Proflu/项目/其他资料.md",
     "blogs/Proflu/项目/AI智能客服",
     "blogs/Proflu/项目/Untitled.md",
     "blogs/Proflu/Theory/国字型培养方案.md",
-    "blogs/Proflu/项目/Roblox/AI_Robolx.md",
-    "blogs/Proflu/案例参考/未命名.md",
     "blogs/think/未命名 1.md",
     "blogs/Proflu/项目/AI/LLM参考文档.md",
     "blogs/Proflu/人事/实验室总述.md",
@@ -225,11 +229,9 @@
     "blogs/Proflu/项目/English/folder/Pasted image 20230718204657.png",
     "blogs/Proflu/项目/English/folder",
     "blogs/Proflu/综合.md",
-    "blogs/Proflu/refer.md",
     "blogs/Proflu/案例手册/管理/OKR.md",
     "blogs/Proflu/案例手册/案例分析/功勋学员/功勋学员案例.md",
     "blogs/Proflu/案例手册/案例分析/功勋学员/张鹤.md",
-    "blogs/info/API自动化/相关平台.md",
     "blogs/Proflu/项目/Roblox/demo.lua",
     "blogs/Proflu/项目/English",
     "blogs/Proflu/项目/Roblox/TTS_gui.lua",
