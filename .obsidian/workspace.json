@@ -136,18 +136,18 @@
             }
           },
           {
-            "id": "49372134c9a03092",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "e9168729d48ce2b7",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "18fab9b21fda28bf",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -169,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9168729d48ce2b7",
+  "active": "18fab9b21fda28bf",
   "lastOpenFiles": [
     "blogs/Soure/Untitled.md",
     "blogs/Proflu/项目/Roblox/Untitled.md",
