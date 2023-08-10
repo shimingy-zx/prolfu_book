@@ -11,9 +11,12 @@
             "id": "2abcc18dd4679f6d",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
+                "file": "blogs/Proflu/项目/AI智能客服/项目概要.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+                "file": "blogs/Proflu/项目/AI智能客服/项目概要.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+                "file": "blogs/Proflu/项目/AI智能客服/项目概要.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
+                "file": "blogs/Proflu/项目/AI智能客服/项目概要.md"
               }
             }
           },
@@ -169,11 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bed11036b877d704",
+  "active": "2abcc18dd4679f6d",
   "lastOpenFiles": [
+    "blogs/Proflu/项目/AI/LLM参考文档.md",
+    "blogs/Proflu/项目/Roblox/AI_Robolx.md",
     "blogs/Soure/Untitled.md",
     "blogs/Proflu/项目/Roblox/Untitled.md",
-    "blogs/Proflu/项目/Roblox/AI_Robolx.md",
     "blogs/Proflu/项目/AI智能客服/项目概要.md"
   ]
 }
