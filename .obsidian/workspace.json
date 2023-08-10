@@ -136,7 +136,7 @@
             }
           },
           {
-            "id": "e9168729d48ce2b7",
+            "id": "5e18cbf8023e5bd9",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -144,7 +144,7 @@
             }
           },
           {
-            "id": "18fab9b21fda28bf",
+            "id": "bed11036b877d704",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -169,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18fab9b21fda28bf",
+  "active": "bed11036b877d704",
   "lastOpenFiles": [
     "blogs/Soure/Untitled.md",
     "blogs/Proflu/项目/Roblox/Untitled.md",
