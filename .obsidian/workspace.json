@@ -152,18 +152,18 @@
             }
           },
           {
-            "id": "5e18cbf8023e5bd9",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "bed11036b877d704",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d27aceef23dbdce",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -185,7 +185,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f4e4e5d692dd74d",
+  "active": "1d27aceef23dbdce",
   "lastOpenFiles": [
     "blogs/think/杂记合集.md",
     "blogs/other/亲子商学/20230811会议概要.md",
