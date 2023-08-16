@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/think/杂记合集.md",
+                "file": "blogs/Proflu/人事/实验室实习生流程.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/think/杂记合集.md",
+                "file": "blogs/Proflu/人事/实验室实习生流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/think/杂记合集.md",
+                "file": "blogs/Proflu/人事/实验室实习生流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,16 +148,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/think/杂记合集.md"
+                "file": "blogs/Proflu/人事/实验室实习生流程.md"
               }
-            }
-          },
-          {
-            "id": "407e677c8028a962",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
             }
           },
           {
@@ -165,6 +157,14 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "27288bd85b689cd5",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -186,10 +186,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f430ace9c6fd7b12",
+  "active": "19d499b2ff7ce82d",
   "lastOpenFiles": [
-    "blogs/other/亲子商学/20230811会议概要.md",
     "blogs/think/杂记合集.md",
+    "blogs/Proflu/人事/实验室实习生流程.md",
+    "blogs/other/亲子商学/20230811会议概要.md",
     "blogs/think/未命名 1.md",
     "blogs/other/亲子商学",
     "blogs/Proflu/项目/AI智能客服/项目概要.md",
