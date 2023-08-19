@@ -24,9 +24,12 @@
             "id": "19d499b2ff7ce82d",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
+                "file": "blogs/activity/20230819.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -105,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+                "file": "blogs/activity/20230819.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+                "file": "blogs/activity/20230819.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
+                "file": "blogs/activity/20230819.md"
               }
             }
           },
@@ -185,14 +188,18 @@
   },
   "active": "19d499b2ff7ce82d",
   "lastOpenFiles": [
-    "blogs/Proflu/人事/实验室实习生流程.md",
+    "blogs/activity/20230402.md",
+    "blogs/activity/20230819.md",
+    "blogs/Proflu/refer.md",
+    "blogs/Proflu/IP.md",
+    "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+    "blogs/Proflu/HR/实验室实习生流程.md",
     "blogs/think/杂记合集.md",
     "blogs/other/亲子商学/20230811会议概要.md",
     "blogs/think/未命名 1.md",
     "blogs/other/亲子商学",
     "blogs/Proflu/项目/AI智能客服/项目概要.md",
     "blogs/Proflu/项目/AI/LLM参考文档.md",
-    "blogs/Proflu/项目/Roblox/AI_Robolx.md",
     "blogs/Soure/Untitled.md",
     "blogs/Proflu/项目/Roblox/Untitled.md"
   ]
