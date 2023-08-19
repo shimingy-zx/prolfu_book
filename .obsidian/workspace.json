@@ -8,19 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7f4e4e5d692dd74d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/activity/20230819厂长.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "19d499b2ff7ce82d",
             "type": "leaf",
             "state": {
@@ -32,8 +19,63 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4590d1c6fa25f601",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapview",
+              "state": {
+                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
+              }
+            }
+          },
+          {
+            "id": "e8a76580dc45f2ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/activity/20230819陈厂长.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74de90ac2f62c928",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/activity/20230819陈厂长.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bc4937ce31879bc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd256ca4aeccfb97",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapview",
+              "state": {
+                "file": "blogs/activity/20230819陈厂长2.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -107,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/activity/20230819厂长.md",
+                "file": "blogs/activity/20230819陈厂长2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/activity/20230819厂长.md",
+                "file": "blogs/activity/20230819陈厂长2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/activity/20230819厂长.md"
+                "file": "blogs/activity/20230819陈厂长2.md"
               }
             }
           },
@@ -185,15 +227,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f4e4e5d692dd74d",
+  "active": "fd256ca4aeccfb97",
   "lastOpenFiles": [
-    "blogs/other/亲子商学/20230811会议概要.md",
-    "blogs/think/个人直播间.md",
-    "blogs/activity/20230819厂长.md",
+    "blogs/activity/20230819陈厂长.md",
+    "blogs/activity/20230819陈厂长2.md",
+    "blogs/Proflu/项目/Roblox/AI_Robolx.md",
     "blogs/activity/20230402.md",
+    "blogs/think/个人直播间.md",
+    "blogs/other/亲子商学/20230811会议概要.md",
     "blogs/Proflu/refer.md",
     "blogs/Proflu/IP.md",
-    "blogs/Proflu/项目/Roblox/AI_Robolx.md",
     "blogs/Proflu/HR/实验室实习生流程.md",
     "blogs/think/杂记合集.md",
     "blogs/think/未命名 1.md",
