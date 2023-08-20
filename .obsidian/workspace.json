@@ -34,12 +34,9 @@
             "id": "74de90ac2f62c928",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "blogs/activity/20230819陈厂长.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "blogs/activity/20230819陈厂长.md"
               }
             }
           },
@@ -173,18 +170,18 @@
             }
           },
           {
-            "id": "f430ace9c6fd7b12",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "27288bd85b689cd5",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f7ec61e0c2632225",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -206,7 +203,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd256ca4aeccfb97",
+  "active": "f7ec61e0c2632225",
   "lastOpenFiles": [
     "blogs/activity/20230819陈厂长.md",
     "blogs/Proflu/项目/Roblox/AI_Robolx.md",
