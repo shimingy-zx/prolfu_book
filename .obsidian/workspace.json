@@ -170,18 +170,18 @@
             }
           },
           {
-            "id": "27288bd85b689cd5",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "f7ec61e0c2632225",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "411ab6e19dc6c9d1",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -203,7 +203,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7ec61e0c2632225",
+  "active": "411ab6e19dc6c9d1",
   "lastOpenFiles": [
     "blogs/activity/20230819陈厂长.md",
     "blogs/Proflu/项目/Roblox/AI_Robolx.md",
