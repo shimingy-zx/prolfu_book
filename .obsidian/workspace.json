@@ -156,18 +156,18 @@
             }
           },
           {
-            "id": "f7ec61e0c2632225",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "411ab6e19dc6c9d1",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b81308631977a604",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -189,12 +189,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19d499b2ff7ce82d",
+  "active": "b81308631977a604",
   "lastOpenFiles": [
+    "blogs/activity/20230819陈厂长2.md",
+    "blogs/Proflu/项目/Roblox/AI_Robolx.md",
     "blogs/Proflu/项目/AI智能客服/项目概要.md",
     "blogs/think/个人直播间.md",
-    "blogs/Proflu/项目/Roblox/AI_Robolx.md",
-    "blogs/activity/20230819陈厂长2.md",
     "blogs/activity/20230819陈厂长.md",
     "blogs/activity/20230402.md",
     "blogs/other/亲子商学/20230811会议概要.md",
