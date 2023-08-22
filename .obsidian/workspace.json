@@ -11,9 +11,12 @@
             "id": "19d499b2ff7ce82d",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
+                "file": "blogs/Proflu/项目/辅导技巧.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -111,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+                "file": "blogs/Proflu/项目/辅导技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+                "file": "blogs/Proflu/项目/辅导技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,16 +154,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
+                "file": "blogs/Proflu/项目/辅导技巧.md"
               }
-            }
-          },
-          {
-            "id": "411ab6e19dc6c9d1",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
             }
           },
           {
@@ -168,6 +163,14 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "260fe028f1644527",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -189,10 +192,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b81308631977a604",
+  "active": "19d499b2ff7ce82d",
   "lastOpenFiles": [
-    "blogs/activity/20230819陈厂长2.md",
+    "blogs/Proflu/项目/辅导原则.md",
+    "blogs/Proflu/项目/辅导技巧.md",
+    "blogs/Proflu/项目/目标拆解案例.md",
     "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+    "blogs/activity/20230819陈厂长2.md",
     "blogs/Proflu/项目/AI智能客服/项目概要.md",
     "blogs/think/个人直播间.md",
     "blogs/activity/20230819陈厂长.md",
