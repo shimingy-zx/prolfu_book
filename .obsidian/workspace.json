@@ -11,12 +11,9 @@
             "id": "19d499b2ff7ce82d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "blogs/think/个人直播间.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
               }
             }
           },
@@ -31,16 +28,6 @@
             }
           },
           {
-            "id": "74de90ac2f62c928",
-            "type": "leaf",
-            "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "blogs/activity/20230819陈厂长.md"
-              }
-            }
-          },
-          {
             "id": "fd256ca4aeccfb97",
             "type": "leaf",
             "state": {
@@ -50,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/activity/20230819陈厂长2.md",
+                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/activity/20230819陈厂长2.md",
+                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/activity/20230819陈厂长2.md"
+                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
               }
             }
           },
@@ -203,13 +189,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "411ab6e19dc6c9d1",
+  "active": "19d499b2ff7ce82d",
   "lastOpenFiles": [
-    "blogs/activity/20230819陈厂长.md",
+    "blogs/Proflu/项目/AI智能客服/项目概要.md",
+    "blogs/think/个人直播间.md",
     "blogs/Proflu/项目/Roblox/AI_Robolx.md",
     "blogs/activity/20230819陈厂长2.md",
+    "blogs/activity/20230819陈厂长.md",
     "blogs/activity/20230402.md",
-    "blogs/think/个人直播间.md",
     "blogs/other/亲子商学/20230811会议概要.md",
     "blogs/Proflu/refer.md",
     "blogs/Proflu/IP.md",
@@ -217,7 +204,6 @@
     "blogs/think/杂记合集.md",
     "blogs/think/未命名 1.md",
     "blogs/other/亲子商学",
-    "blogs/Proflu/项目/AI智能客服/项目概要.md",
     "blogs/Proflu/项目/AI/LLM参考文档.md",
     "blogs/Soure/Untitled.md",
     "blogs/Proflu/项目/Roblox/Untitled.md"
