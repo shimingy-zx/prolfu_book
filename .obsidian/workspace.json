@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/项目/辅导技巧.md",
+                "file": "blogs/Proflu/项目/其他.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/辅导技巧.md",
+                "file": "blogs/Proflu/项目/其他.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/辅导技巧.md",
+                "file": "blogs/Proflu/项目/其他.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/辅导技巧.md"
+                "file": "blogs/Proflu/项目/其他.md"
               }
             }
           },
@@ -194,8 +194,9 @@
   },
   "active": "19d499b2ff7ce82d",
   "lastOpenFiles": [
-    "blogs/Proflu/项目/辅导原则.md",
     "blogs/Proflu/项目/辅导技巧.md",
+    "blogs/Proflu/项目/其他.md",
+    "blogs/Proflu/项目/辅导原则.md",
     "blogs/Proflu/项目/目标拆解案例.md",
     "blogs/Proflu/项目/Roblox/AI_Robolx.md",
     "blogs/activity/20230819陈厂长2.md",
