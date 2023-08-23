@@ -29,16 +29,6 @@
                 "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
               }
             }
-          },
-          {
-            "id": "fd256ca4aeccfb97",
-            "type": "leaf",
-            "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "blogs/activity/20230819陈厂长2.md"
-              }
-            }
           }
         ]
       }
@@ -159,18 +149,18 @@
             }
           },
           {
-            "id": "b81308631977a604",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "260fe028f1644527",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6ba21302fe54040",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -192,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19d499b2ff7ce82d",
+  "active": "d6ba21302fe54040",
   "lastOpenFiles": [
     "blogs/Proflu/项目/辅导技巧.md",
     "blogs/Proflu/项目/其他.md",
