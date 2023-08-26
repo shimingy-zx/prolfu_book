@@ -149,7 +149,7 @@
             }
           },
           {
-            "id": "260fe028f1644527",
+            "id": "2a2d116d17002d6f",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -157,7 +157,7 @@
             }
           },
           {
-            "id": "d6ba21302fe54040",
+            "id": "c1af2e63f442363e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -182,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6ba21302fe54040",
+  "active": "c1af2e63f442363e",
   "lastOpenFiles": [
     "blogs/Proflu/项目/辅导技巧.md",
     "blogs/Proflu/项目/其他.md",
