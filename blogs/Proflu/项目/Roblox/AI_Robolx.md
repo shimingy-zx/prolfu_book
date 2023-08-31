@@ -52,7 +52,13 @@ display-mode: outline
                             - https://www.interhelp.net/letsvpn-world/en/articles/2780068-%E5%A6%82%E4%BD%95%E4%B8%8B%E8%BD%BD%E5%BE%97%E5%88%B0%E5%BF%AB%E8%BF%9E-vpn
                     - Outline
                 - 其他备注
-                    - Sub title
+                    - 由于各个VPV软件不稳定，不建议一次性购买某个软件长达一年的会员
+            - 企业微信
+                - https://work.weixin.qq.com/
+            - Discord
+                - https://discord.com/
+            - Roblox
+                - https://www.roblox.com/home
         - lua基础
             - 英文教程
                 - [(41) Roblox How To Code - How To Script On Roblox - Episode 1 - YouTube](https://www.youtube.com/watch?v=BfLUt3mfJiY&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf)
