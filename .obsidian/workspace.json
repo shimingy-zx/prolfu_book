@@ -30,8 +30,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cb56c2504e6d7ef",
+  "active": "4590d1c6fa25f601",
   "lastOpenFiles": [
     "blogs/Proflu/项目/Roblox/AI_Robolx.md",
     "blogs/Proflu/项目/Roblox/基础.md",
