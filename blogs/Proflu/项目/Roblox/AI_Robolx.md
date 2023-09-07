@@ -8,9 +8,11 @@ display-mode: outline
 ## 思维导图
 - 讨论会
    - 会议形式
-      - 有什么问题大家随时可以打岔
-      - 有问题一定要主动发言
+      - 
    - 流程
+   - 会议原则
+      - 在尊重其他同学发言的情况下，有什么问题大家随时可以打岔。
+      - 有问题一定要主动发言，家长得不断鼓励孩子主动讨论。
 - 项目说明
    - 我们要做什么项目？
    - 学习编程语言
@@ -69,10 +71,16 @@ display-mode: outline
          - Roblox
             - https://www.roblox.com/home
       - lua基础
-         - 英文教程
-            - [(41) Roblox How To Code - How To Script On Roblox - Episode 1 - YouTube](https://www.youtube.com/watch?v=BfLUt3mfJiY&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf)
-            - https://www.bilibili.com/video/BV1iG41177Rx/?p=1&vd_source=d5dcd9ecea5f54eff2a20a9e2ccc0fa0
-         - 中文教程
+         - 目标
+            - 了解LUA语言基础
+            - 熟悉Roblox Studio基本操作
+         - 教程
+            - 英文版
+               - [(41) Roblox How To Code - How To Script On Roblox - Episode 1 - YouTube](https://www.youtube.com/watch?v=BfLUt3mfJiY&list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf)
+            - 中文字幕版
+               - https://www.bilibili.com/video/BV1iG41177Rx/?p=1&vd_source=d5dcd9ecea5f54eff2a20a9e2ccc0fa0
+         - 官方文档
+            - [Documentation - Roblox Creator Hub](https://create.roblox.com/docs/)
       - lua基础拓展
          - 接口调用
             - 基础案例
@@ -81,7 +89,7 @@ display-mode: outline
                   - 教程
                      - https://www.youtube.com/watch?v=eRqC9N27svc
                      - [(41) Roblox Tutorial - How to send discord webhooks from Roblox - YouTube](https://www.youtube.com/watch?v=ebVwwYvtSqY)
-               - 官方文档案例
+               - 官方文档# HttpService案例
                   - https://create.roblox.com/docs/reference/engine/classes/HttpService#RequestInternal
                - 连接企业微信机器人
                   - 机器人webhook
