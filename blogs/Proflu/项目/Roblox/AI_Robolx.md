@@ -9,10 +9,13 @@ display-mode: outline
 - 讨论会
    - 会议形式
       - 有什么问题大家随时可以打岔
+      - 有问题一定要主动发言
    - 流程
 - 项目说明
    - 我们要做什么项目？
    - 学习编程语言
+   - 对父母的要求
+      - 在孩子诚意正心之前需要父母陪同孩子一块
    - 融入AI时代
       - 接入的GPT3.5
    - 在做好这个项目之后通过AI学习英语
@@ -36,10 +39,15 @@ display-mode: outline
       - 搜索能力
          - google
          - GPT
+         - 其他语言大模型
       - 阅读能力
-         - 阅读技术文档
-   - JOB
-      - https://create.roblox.com/talent/search/jobs?page=1
+         - 阅读文档
+            - 例子
+               - 英文技术文档
+                  - 
+               - 中文技术文档
+      - 目标拆分
+      - 协作能力
 - 项目实践
    - Roblox
       - 软件环境
@@ -124,7 +132,7 @@ display-mode: outline
          - 参考游戏
             - GPT-3 SayCan NPC
             - ROBLOX NPCs are becoming smart! NEW PEACHES ENDING
-         - 基本技术要点
+         - 目标拆分
             - 文本交流
             - 交流激活
                - 特定距离激活
@@ -132,8 +140,10 @@ display-mode: outline
             - 特定范围内行走
             - NPC外观设计
             - 场景布置
+            - Model设计
+               - 软件：[3DF Zephyr - photogrammetry software - 3d models from photos (3dflow.net)](https://www.3dflow.net/3df-zephyr-photogrammetry-software/)
       - 智能寻址案例
-         - Advanced Roblox Scripting Tutorial #21 - Pathfinding (Beginner to Pro 2019) - YouTube
+         - [(249) Advanced Roblox Scripting Tutorial #21 - Pathfinding (Beginner to Pro 2019) - YouTube](https://www.youtube.com/watch?v=VWKNtqjPKn0&t=922s)
    - AI
       - Openai
          - 模型训练
@@ -146,17 +156,12 @@ display-mode: outline
          - 机器人接口
             - 接口
                - https://api.chato-ai.com/chato/api-public/domains/n081w73410rxdm2k/chat
-            - 请求方式
-               - POST
-            - 请求参数
-               - { "p": "向机器人提出的问题" }
-            - 返回类型
-               - JSON
-            - 返回格式
-               - `{ "data": { "content": "机器人的回答" } }`
       - quickChat
       - 句子互动
       - 其他AI model
    - 数字人
    - 思考原则
       - 非必要不深入
+- JOB
+	- 网址：[Jobs - Talent Hub (roblox.com)](https://create.roblox.com/talent/search/jobs?page=1
+	- 如何在Robox中赚R币
