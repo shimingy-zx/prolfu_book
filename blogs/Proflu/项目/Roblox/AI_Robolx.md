@@ -88,10 +88,13 @@ display-mode: outline
                   - 教程
                      - https://www.youtube.com/watch?v=eRqC9N27svc
                      - [(41) Roblox Tutorial - How to send discord webhooks from Roblox - YouTube](https://www.youtube.com/watch?v=ebVwwYvtSqY)
-               - 官方文档# HttpService案例
+               - 官方文档 HttpService案例
                   - https://create.roblox.com/docs/reference/engine/classes/HttpService#RequestInternal
                - 连接企业微信群机器人
                   - 机器人webhook
+                  - 教程
+                     - 实验室同学录制
+                        - 令先：[(249) Send messages from Roblox Studio to WeCom - YouTube](https://www.youtube.com/watch?v=RNC0ZApB_1E)
                   - document
                      - https://developer.work.weixin.qq.com/document/path/90236
                   - 视频教程
@@ -100,6 +103,8 @@ display-mode: outline
                - 调用GPT3.5API
                   - document
                      - https://platform.openai.com/docs/api-reference/chat
+                  - 视频教程
+                     - 
             - 调试软件
                - Apifox
                   - 接口案例教程
