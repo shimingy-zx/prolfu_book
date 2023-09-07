@@ -6,7 +6,7 @@ display-mode: outline
 # AI_vioce项目
 
 ## 思维导图
-- 分享会
+- 讨论会
    - 会议形式
       - 有什么问题大家随时可以打岔
    - 流程
@@ -14,7 +14,7 @@ display-mode: outline
    - 我们要做什么项目？
    - 学习编程语言
    - 融入AI时代
-      - 我们要接入的GPT3.5
+      - 接入的GPT3.5
    - 在做好这个项目之后通过AI学习英语
       - 展示roblox接入chat-GPT3.5
          - 展示问题
@@ -37,6 +37,7 @@ display-mode: outline
          - google
          - GPT
       - 阅读能力
+         - 阅读技术文档
    - JOB
       - https://create.roblox.com/talent/search/jobs?page=1
 - 项目实践
@@ -98,6 +99,7 @@ display-mode: outline
                - [(79) How to Auto Generate Mazes in Roblox - YouTube](https://www.youtube.com/watch?v=PQGqUWizOeo)
             - Ordering Around NPCs
                - https://www.youtube.com/watch?v=r0K6Kzqu0wE
+            - 
       - Text to speech
          - api
             - Microsoft
@@ -128,8 +130,8 @@ display-mode: outline
                - 特定距离激活
                - 打招呼激活
             - 特定范围内行走
-            - NPC外观设计-交给小朋友
-            - 场景布置--交给小朋友
+            - NPC外观设计
+            - 场景布置
       - 智能寻址案例
          - Advanced Roblox Scripting Tutorial #21 - Pathfinding (Beginner to Pro 2019) - YouTube
    - AI
@@ -153,6 +155,7 @@ display-mode: outline
             - 返回格式
                - `{ "data": { "content": "机器人的回答" } }`
       - quickChat
+      - 句子互动
       - 其他AI model
    - 数字人
    - 思考原则

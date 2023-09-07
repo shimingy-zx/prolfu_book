@@ -21,13 +21,17 @@
             "id": "0cb56c2504e6d7ef",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
+                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +183,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4590d1c6fa25f601",
+  "active": "0cb56c2504e6d7ef",
   "lastOpenFiles": [
     "blogs/Proflu/合同/refer.md",
     "blogs/Proflu/项目/Roblox/AI_Robolx.md",
