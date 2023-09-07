@@ -8,7 +8,6 @@ display-mode: outline
 ## 思维导图
 - 讨论会
    - 会议形式
-      - 
    - 流程
    - 会议原则
       - 在尊重其他同学发言的情况下，有什么问题大家随时可以打岔。
@@ -81,7 +80,7 @@ display-mode: outline
                - https://www.bilibili.com/video/BV1iG41177Rx/?p=1&vd_source=d5dcd9ecea5f54eff2a20a9e2ccc0fa0
          - 官方文档
             - [Documentation - Roblox Creator Hub](https://create.roblox.com/docs/)
-      - lua基础拓展
+      - lua基础拓展小案例
          - 接口调用
             - 基础案例
                - 与Discord通信
@@ -91,10 +90,13 @@ display-mode: outline
                      - [(41) Roblox Tutorial - How to send discord webhooks from Roblox - YouTube](https://www.youtube.com/watch?v=ebVwwYvtSqY)
                - 官方文档# HttpService案例
                   - https://create.roblox.com/docs/reference/engine/classes/HttpService#RequestInternal
-               - 连接企业微信机器人
+               - 连接企业微信群机器人
                   - 机器人webhook
                   - document
                      - https://developer.work.weixin.qq.com/document/path/90236
+                  - 视频教程
+                     - 实验室同学录制
+                        - 
                - 调用GPT3.5API
                   - document
                      - https://platform.openai.com/docs/api-reference/chat
