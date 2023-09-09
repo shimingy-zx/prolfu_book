@@ -21,10 +21,8 @@
             "id": "0cb56c2504e6d7ef",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -102,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,16 +137,6 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
-              }
-            }
-          },
-          {
-            "id": "e88eb55e5bf6eed9",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
               "state": {}
             }
           },
@@ -159,6 +145,14 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d516247d6f8dc566",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -180,10 +174,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2c535aebdd988fea",
+  "active": "0cb56c2504e6d7ef",
   "lastOpenFiles": [
-    "blogs/Proflu/合同/refer.md",
+    "blogs/Proflu/项目/辅导原则.md",
     "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+    "blogs/Proflu/合同/refer.md",
     "blogs/Proflu/项目/Roblox/基础.md",
     "blogs/Proflu/项目/Roblox/TTS_gui.md",
     "blogs/Proflu/项目/Roblox/folder/Pasted image 20230831083633.png",
@@ -191,7 +186,6 @@
     "blogs/Proflu/项目/目标拆解案例.md",
     "blogs/Proflu/项目/其他.md",
     "blogs/Proflu/项目/辅导技巧.md",
-    "blogs/Proflu/项目/辅导原则.md",
     "blogs/activity/20230819陈厂长2.md",
     "blogs/Proflu/项目/AI智能客服/项目概要.md",
     "blogs/think/个人直播间.md",
