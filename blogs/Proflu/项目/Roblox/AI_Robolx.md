@@ -180,3 +180,4 @@ display-mode: outline
 - JOB
 	- 网址：[Jobs - Talent Hub (roblox.com)](https://create.roblox.com/talent/search/jobs?page=1
 	- 如何在Robox中赚R币
+	- [(249) Advanced Roblox Scripting Tutorial #21 - Pathfinding (Beginner to Pro 2019) - YouTube](https://www.youtube.com/watch?v=VWKNtqjPKn0&t=922s)
