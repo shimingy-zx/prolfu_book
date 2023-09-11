@@ -104,7 +104,7 @@ display-mode: outline
                   - document
                      - https://platform.openai.com/docs/api-reference/chat
                   - 视频教程
-                     - 
+                     - https://youtu.be/RNC0ZApB_1E
             - 调试软件
                - Apifox
                   - 接口案例教程
