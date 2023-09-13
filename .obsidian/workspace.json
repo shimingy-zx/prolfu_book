@@ -31,9 +31,12 @@
             "id": "9154844c19dc4d87",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.5"
+                "file": "blogs/CS/低代码/低代码参考网站.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -112,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+                "file": "blogs/CS/低代码/低代码参考网站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
+                "file": "blogs/CS/低代码/低代码参考网站.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
+                "file": "blogs/CS/低代码/低代码参考网站.md"
               }
             }
           },
@@ -190,8 +193,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88e41ed72c64de81",
+  "active": "9154844c19dc4d87",
   "lastOpenFiles": [
+    "blogs/CS/低代码/低代码参考网站.md",
+    "blogs/CS/低代码",
+    "blogs/Proflu/自媒体实操手册/运营之道.md",
+    "blogs/Proflu/自媒体实操手册",
     "blogs/Proflu/项目/亲自项目对于家长的要求,md",
     "blogs/Proflu/项目/Roblox/项目说明文档.md",
     "blogs/Proflu/合同/refer.md",
