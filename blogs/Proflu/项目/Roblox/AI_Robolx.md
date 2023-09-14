@@ -80,6 +80,8 @@ display-mode: outline
                - https://www.bilibili.com/video/BV1iG41177Rx/?p=1&vd_source=d5dcd9ecea5f54eff2a20a9e2ccc0fa0
          - 官方文档
             - [Documentation - Roblox Creator Hub](https://create.roblox.com/docs/)
+         - 其他版本
+            - https://www.bilibili.com/read/cv7807257/
       - lua基础拓展小案例
          - 接口调用
             - 基础案例
@@ -144,6 +146,8 @@ display-mode: outline
             - google
             - 亚马逊
       - NPC
+         - Model生成
+            - https://hub.avaturn.me/
          - 参考游戏
             - GPT-3 SayCan NPC
             - ROBLOX NPCs are becoming smart! NEW PEACHES ENDING
