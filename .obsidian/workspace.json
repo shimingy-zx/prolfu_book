@@ -4,33 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "51acf5675d4443f8",
+        "id": "6d303fbf03ea33e0",
         "type": "tabs",
         "children": [
           {
-            "id": "4590d1c6fa25f601",
+            "id": "2e6a455e390e2a93",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "9154844c19dc4d87",
+            "id": "2d3b86bdf26d54a1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "blogs/CS/低代码/低代码参考网站.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "currentVersion": "1.4.13"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,16 +137,6 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "blogs/Proflu/项目/Roblox/AI_Robolx.md"
-              }
-            }
-          },
-          {
-            "id": "d574bbc8af1f78d6",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
               "state": {}
             }
           },
@@ -163,9 +147,27 @@
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "a558b270cd05f97d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "13184596771a723e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -182,9 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a8097a292cb31eb",
+  "active": "13184596771a723e",
   "lastOpenFiles": [
+    "blogs/Proflu/项目/Roblox/AI_Robolx.md",
     "blogs/CS/低代码/低代码参考网站.md",
+    "blogs/Proflu/项目/潜在项目.md",
+    "blogs/Proflu/项目/所有的人员架构.md",
     "blogs/Proflu/项目/能力维度剖析.md",
     "blogs/Proflu/项目/亲子项目对于家长的要求.md",
     "blogs/Proflu/项目/讨论原则.md",
@@ -199,7 +204,6 @@
     "blogs/Proflu/项目/亲自项目对于家长的要求,md",
     "blogs/Proflu/项目/Roblox/项目说明文档.md",
     "blogs/Proflu/合同/refer.md",
-    "blogs/Proflu/项目/Roblox/AI_Robolx.md",
     "blogs/Proflu/项目/Roblox/基础.md",
     "blogs/Proflu/项目/Roblox/TTS_gui.md",
     "blogs/Proflu/项目/Roblox/folder/Pasted image 20230831083633.png",
@@ -213,8 +217,6 @@
     "blogs/think/个人直播间.md",
     "blogs/activity/20230819陈厂长.md",
     "blogs/activity/20230402.md",
-    "blogs/other/亲子商学/20230811会议概要.md",
-    "blogs/Proflu/refer.md",
     "blogs/other/亲子商学"
   ]
 }
