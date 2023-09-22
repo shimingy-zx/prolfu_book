@@ -158,18 +158,18 @@
             }
           },
           {
-            "id": "13184596771a723e",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "669dbd1a3c0562ae",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ee1e82826086f109",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -191,7 +191,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d3b86bdf26d54a1",
+  "active": "ee1e82826086f109",
   "lastOpenFiles": [
     "blogs/Proflu/项目/Roblox/基础案例.md",
     "blogs/Proflu/项目/Roblox/对接说明文档.md",
