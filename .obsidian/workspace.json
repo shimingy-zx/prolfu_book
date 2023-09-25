@@ -158,7 +158,7 @@
             }
           },
           {
-            "id": "669dbd1a3c0562ae",
+            "id": "42e8d1338a218946",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -166,7 +166,7 @@
             }
           },
           {
-            "id": "ee1e82826086f109",
+            "id": "7705f7d74a79bca9",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -191,7 +191,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ee1e82826086f109",
+  "active": "7705f7d74a79bca9",
   "lastOpenFiles": [
     "blogs/Proflu/项目/Roblox/基础案例.md",
     "blogs/Proflu/项目/Roblox/对接说明文档.md",
