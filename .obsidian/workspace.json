@@ -27,9 +27,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "64ddbe53dacfe1c0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,18 +168,18 @@
             }
           },
           {
-            "id": "7705f7d74a79bca9",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "48dbd4ae615f1f90",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "28674d4efbd5e8c2",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -191,7 +201,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d3b86bdf26d54a1",
+  "active": "28674d4efbd5e8c2",
   "lastOpenFiles": [
     "blogs/Proflu/项目/Roblox/基础案例.md",
     "blogs/Proflu/项目/Roblox/对接说明文档.md",
