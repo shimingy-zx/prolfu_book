@@ -8,14 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e6a455e390e2a93",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "2d3b86bdf26d54a1",
             "type": "leaf",
             "state": {
@@ -27,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "64ddbe53dacfe1c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/Proflu/招生/Untitled.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/招生/Untitled.md",
+                "file": "blogs/Proflu/项目/Roblox/项目说明文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/招生/Untitled.md",
+                "file": "blogs/Proflu/项目/Roblox/项目说明文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/招生/Untitled.md"
+                "file": "blogs/Proflu/项目/Roblox/项目说明文档.md"
               }
             }
           },
@@ -171,18 +149,18 @@
             }
           },
           {
-            "id": "28674d4efbd5e8c2",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "c49e4de94bb35c2a",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "87126085fd6a5b71",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -204,8 +182,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64ddbe53dacfe1c0",
+  "active": "87126085fd6a5b71",
   "lastOpenFiles": [
+    "blogs/Proflu/项目/Roblox/项目说明文档.md",
     "blogs/Proflu/招生/Untitled.md",
     "blogs/Proflu/招生",
     "blogs/Proflu/项目/Roblox/基础案例.md",
@@ -225,7 +204,6 @@
     "blogs/Proflu/自媒体实操手册/运营之道.md",
     "blogs/Proflu/自媒体实操手册",
     "blogs/Proflu/项目/亲自项目对于家长的要求,md",
-    "blogs/Proflu/项目/Roblox/项目说明文档.md",
     "blogs/Proflu/合同/refer.md",
     "blogs/Proflu/项目/Roblox/基础.md",
     "blogs/Proflu/项目/Roblox/TTS_gui.md",
