@@ -149,18 +149,18 @@
             }
           },
           {
-            "id": "a36c0afcd20547de",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "905a753e55f4a7db",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7241991ec2257d48",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -182,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "905a753e55f4a7db",
+  "active": "7241991ec2257d48",
   "lastOpenFiles": [
     "blogs/Proflu/项目/Roblox/项目说明文档.md",
     "blogs/Proflu/招生/Untitled.md",
