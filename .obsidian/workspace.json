@@ -149,18 +149,18 @@
             }
           },
           {
-            "id": "7241991ec2257d48",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "28bc3e503100de4a",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8eff38e0fc433cf3",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -182,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d3b86bdf26d54a1",
+  "active": "8eff38e0fc433cf3",
   "lastOpenFiles": [
     "blogs/Proflu/项目/Roblox/TTS_gui.md",
     "blogs/Proflu/项目/Roblox/Untitled.md",
