@@ -90,7 +90,6 @@ display-mode: outline
             - 目标：通过roblox向discord发送信息
             - 教程
               - https://www.youtube.com/watch?v=eRqC9N27svc
-              - [(41) Roblox Tutorial - How to send discord webhooks from Roblox - YouTube](https://www.youtube.com/watch?v=ebVwwYvtSqY)
           - 官方文档 HttpService案例
             - https://create.roblox.com/docs/reference/engine/classes/HttpService#RequestInternal
           - 连接企业微信群机器人
@@ -102,7 +101,6 @@ display-mode: outline
               - https://developer.work.weixin.qq.com/document/path/90236
             - 视频教程
               - 实验室同学录制
-                --------------
           - 调用GPT3.5API
             - document
               - https://platform.openai.com/docs/api-reference/chat
