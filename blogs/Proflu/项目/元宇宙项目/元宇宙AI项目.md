@@ -2,6 +2,7 @@
 mindmap-plugin: basic
 display-mode: outline
 ---
+
 # AI_vioce项目
 
 ## 思维导图
@@ -45,7 +46,6 @@ display-mode: outline
       - 阅读文档
         - 例子
           - 英文技术文档
-            ------------
           - 中文技术文档
     - 目标拆分
     - 协作能力
@@ -138,7 +138,7 @@ display-mode: outline
         - Example1
           - video:[(133) Roblox Fe Script Showcase:Tts Gui - YouTube](https://www.youtube.com/watch?v=cEsn2uDx0cE)
           - [TTs Gui - Roblox-Scripts](https://roblox-scripts.co/tts-gui)
-          - code:[TTS_gui](TTS_gui)
+          - code:[TTS_gui](TTS_gui.md)
     - speech to text
       - 相关平台
         - [openai/whisper-tiny.en · Hugging Face](https://huggingface.co/openai/whisper-tiny.en)
