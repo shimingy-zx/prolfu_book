@@ -11,12 +11,9 @@
             "id": "747a277b749adcce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "blogs/Proflu/项目/其他.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "blogs/做事十项基本原则.md"
               }
             }
           }
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/其他.md",
+                "file": "blogs/做事十项基本原则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/其他.md",
+                "file": "blogs/做事十项基本原则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/其他.md"
+                "file": "blogs/做事十项基本原则.md"
               }
             }
           },
@@ -149,7 +146,7 @@
             }
           },
           {
-            "id": "f6a08f8412c596ce",
+            "id": "980c820ff79dfb91",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -157,7 +154,7 @@
             }
           },
           {
-            "id": "2e0dcee6a19f1c01",
+            "id": "1558508076fe4f87",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -182,8 +179,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "747a277b749adcce",
+  "active": "1558508076fe4f87",
   "lastOpenFiles": [
+    "blogs/Proflu/SOP/师傅交接.md",
+    "blogs/Proflu/Theory/教育.md",
+    "blogs/Proflu/Theory/国字型培养方案.md",
+    "blogs/Proflu/Theory/国字培养方案.md",
+    "blogs/Proflu/案例参考/未命名.md",
+    "blogs/views/messageBoard.md",
+    "blogs/做事十项基本原则.md",
+    "blogs/Proflu/综合.md",
+    "blogs/Proflu/项目/所有的人员架构.md",
+    "blogs/Proflu/项目/亲子项目对于家长的要求.md",
+    "blogs/Proflu/项目/潜在项目.md",
+    "blogs/Proflu/项目/其他资料.md",
+    "blogs/Proflu/项目/其他.md",
     "blogs/Proflu/项目/目标拆解案例.md",
     "blogs/Proflu/项目/电脑配置.md",
     "blogs/Proflu/项目/AI/LLM参考文档.md",
@@ -197,25 +207,12 @@
     "blogs/Proflu/项目/元宇宙项目/元宇宙AI项目.md",
     "blogs/Proflu/项目/元宇宙项目/TTS_gui.md",
     "blogs/Proflu/项目/项目能力维度剖析.md",
-    "blogs/Proflu/项目/其他.md",
-    "blogs/Proflu/项目/潜在项目.md",
-    "blogs/Proflu/项目/AI智能客服/项目概要.md",
-    "blogs/Proflu/项目/Roblox/对接说明文档.md",
-    "blogs/CS/Flutter/flutter_web/学习参考案例.md",
     "blogs/CS/Flutter/flutter_web",
-    "blogs/Proflu/招生/Untitled.md",
     "blogs/Proflu/招生",
     "未命名.canvas",
-    "blogs/CS/低代码/低代码参考网站.md",
-    "blogs/Proflu/项目/所有的人员架构.md",
-    "blogs/Proflu/项目/亲子项目对于家长的要求.md",
-    "blogs/Proflu/项目/讨论原则.md",
-    "blogs/Proflu/项目/亲自项目对于家长的要求.md",
     "blogs/CS/低代码",
-    "blogs/Proflu/自媒体实操手册/运营之道.md",
-    "blogs/Proflu/自媒体实操手册",
+    "blogs/Proflu/自媒体",
     "blogs/Proflu/项目/亲自项目对于家长的要求,md",
-    "blogs/Proflu/合同/refer.md",
     "blogs/Proflu/项目/Roblox/folder/Pasted image 20230831083633.png",
     "blogs/Proflu/项目/Roblox/folder",
     "blogs/other/亲子商学"
