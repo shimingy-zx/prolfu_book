@@ -11,9 +11,12 @@
             "id": "747a277b749adcce",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "blogs/做事十项基本原则.md"
+                "file": "blogs/CS/Flutter/flutter全局管理/Provider.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/做事十项基本原则.md",
+                "file": "blogs/CS/Flutter/flutter全局管理/Provider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/做事十项基本原则.md",
+                "file": "blogs/CS/Flutter/flutter全局管理/Provider.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/做事十项基本原则.md"
+                "file": "blogs/CS/Flutter/flutter全局管理/Provider.md"
               }
             }
           },
@@ -179,15 +182,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1558508076fe4f87",
+  "active": "747a277b749adcce",
   "lastOpenFiles": [
+    "blogs/做事十项基本原则.md",
+    "blogs/CS/Flutter/flutter全局管理/Provider.md",
+    "blogs/CS/Flutter/flutter全局管理",
     "blogs/Proflu/SOP/师傅交接.md",
     "blogs/Proflu/Theory/教育.md",
     "blogs/Proflu/Theory/国字型培养方案.md",
     "blogs/Proflu/Theory/国字培养方案.md",
     "blogs/Proflu/案例参考/未命名.md",
     "blogs/views/messageBoard.md",
-    "blogs/做事十项基本原则.md",
     "blogs/Proflu/综合.md",
     "blogs/Proflu/项目/所有的人员架构.md",
     "blogs/Proflu/项目/亲子项目对于家长的要求.md",
@@ -206,7 +211,6 @@
     "blogs/Proflu/项目/元宇宙项目/家长误区.md",
     "blogs/Proflu/项目/元宇宙项目/元宇宙AI项目.md",
     "blogs/Proflu/项目/元宇宙项目/TTS_gui.md",
-    "blogs/Proflu/项目/项目能力维度剖析.md",
     "blogs/CS/Flutter/flutter_web",
     "blogs/Proflu/招生",
     "未命名.canvas",
