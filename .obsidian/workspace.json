@@ -149,18 +149,18 @@
             }
           },
           {
-            "id": "980c820ff79dfb91",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "1558508076fe4f87",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "69bccf61e9a98634",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -182,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "747a277b749adcce",
+  "active": "69bccf61e9a98634",
   "lastOpenFiles": [
     "blogs/做事十项基本原则.md",
     "blogs/CS/Flutter/flutter全局管理/Provider.md",
