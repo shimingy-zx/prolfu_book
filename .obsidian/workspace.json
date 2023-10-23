@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/graphql/Graphql_reference.md",
+                "file": "blogs/CS/Flutter/flutter_web/flutter url.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "graphql",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/graphql/Graphql_reference.md",
+                "file": "blogs/CS/Flutter/flutter_web/flutter url.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/graphql/Graphql_reference.md",
+                "file": "blogs/CS/Flutter/flutter_web/flutter url.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/graphql/Graphql_reference.md"
+                "file": "blogs/CS/Flutter/flutter_web/flutter url.md"
               }
             }
           },
@@ -150,18 +149,18 @@
             }
           },
           {
-            "id": "e0b18373bfc55918",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "f1a63cd0d08fb510",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7569995b82773a39",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -183,8 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1a63cd0d08fb510",
+  "active": "747a277b749adcce",
   "lastOpenFiles": [
+    "blogs/CS/Flutter/flutter_web/学习参考案例.md",
+    "blogs/CS/Flutter/flutter_web/flutter url.md",
+    "blogs/CS/graphql/Graphql_reference.md",
     "blogs/CS/Flutter/例子/学习案例（第三方）.md",
     "blogs/CS/Flutter/例子/开源项目.md",
     "blogs/other/技术部学习文档.md",
@@ -209,9 +211,6 @@
     "blogs/Proflu/项目/元宇宙项目/俱乐部介绍.md",
     "blogs/Proflu/项目/元宇宙项目/对接文档.md",
     "blogs/Proflu/项目/元宇宙项目/科学上网.md",
-    "blogs/Proflu/项目/元宇宙项目/同学项目.md",
-    "blogs/Proflu/项目/元宇宙项目/基础案例.md",
-    "blogs/Proflu/项目/元宇宙项目/AI_Robolx.md",
     "blogs/CS/Flutter/flutter_web",
     "blogs/Proflu/招生",
     "未命名.canvas",
