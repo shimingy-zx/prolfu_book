@@ -149,7 +149,7 @@
             }
           },
           {
-            "id": "31801e7e300a30f3",
+            "id": "68fc31e8f66098b3",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -157,7 +157,7 @@
             }
           },
           {
-            "id": "f91c1653c73403f4",
+            "id": "5364d8273716832c",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -182,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f91c1653c73403f4",
+  "active": "5364d8273716832c",
   "lastOpenFiles": [
     "blogs/CS/Flutter/flutter_web/学习参考案例.md",
     "blogs/CS/Flutter/flutter_web/flutter url.md",
