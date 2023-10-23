@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/Flutter/flutter全局管理/Provider.md",
+                "file": "blogs/CS/graphql/Graphql_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "天人",
+                "query": "graphql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/Flutter/flutter全局管理/Provider.md",
+                "file": "blogs/CS/graphql/Graphql_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/Flutter/flutter全局管理/Provider.md",
+                "file": "blogs/CS/graphql/Graphql_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/Flutter/flutter全局管理/Provider.md"
+                "file": "blogs/CS/graphql/Graphql_reference.md"
               }
             }
           },
@@ -149,7 +150,7 @@
             }
           },
           {
-            "id": "1558508076fe4f87",
+            "id": "e0b18373bfc55918",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -157,7 +158,7 @@
             }
           },
           {
-            "id": "69bccf61e9a98634",
+            "id": "f1a63cd0d08fb510",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -182,10 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69bccf61e9a98634",
+  "active": "f1a63cd0d08fb510",
   "lastOpenFiles": [
-    "blogs/做事十项基本原则.md",
+    "blogs/CS/Flutter/例子/学习案例（第三方）.md",
+    "blogs/CS/Flutter/例子/开源项目.md",
+    "blogs/other/技术部学习文档.md",
     "blogs/CS/Flutter/flutter全局管理/Provider.md",
+    "blogs/做事十项基本原则.md",
     "blogs/CS/Flutter/flutter全局管理",
     "blogs/Proflu/SOP/师傅交接.md",
     "blogs/Proflu/Theory/教育.md",
@@ -208,9 +212,6 @@
     "blogs/Proflu/项目/元宇宙项目/同学项目.md",
     "blogs/Proflu/项目/元宇宙项目/基础案例.md",
     "blogs/Proflu/项目/元宇宙项目/AI_Robolx.md",
-    "blogs/Proflu/项目/元宇宙项目/家长误区.md",
-    "blogs/Proflu/项目/元宇宙项目/元宇宙AI项目.md",
-    "blogs/Proflu/项目/元宇宙项目/TTS_gui.md",
     "blogs/CS/Flutter/flutter_web",
     "blogs/Proflu/招生",
     "未命名.canvas",
