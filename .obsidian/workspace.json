@@ -149,18 +149,18 @@
             }
           },
           {
-            "id": "5f39814364cc3607",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "211b85f1cb0da63e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "57e2e8f160172840",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -182,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "747a277b749adcce",
+  "active": "57e2e8f160172840",
   "lastOpenFiles": [
     "blogs/Proflu/项目/元宇宙项目/基础案例.md",
     "blogs/Proflu/项目/元宇宙项目/对接文档.md",
