@@ -6,6 +6,7 @@
       {
         "id": "4549607912b44a71",
         "type": "tabs",
+        "dimension": 51.78571428571429,
         "children": [
           {
             "id": "747a277b749adcce",
@@ -13,32 +14,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "b7bb7f36c3663e55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/Proflu/俱乐部/领导力俱乐部/领导力俱乐部介绍.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b710fb455cb51aa6",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -54,12 +34,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "059db0639204c68c",
         "type": "tabs",
+        "dimension": 48.214285714285715,
         "children": [
           {
             "id": "410d01ff93d237ce",
@@ -67,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -236,11 +216,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "410d01ff93d237ce",
+  "active": "88e41ed72c64de81",
   "lastOpenFiles": [
-    "blogs/Proflu/项目/项目能力维度剖析.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md",
+    "blogs/Proflu/案例参考/未命名.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
+    "blogs/Proflu/俱乐部/AI俱乐部",
+    "blogs/Proflu/俱乐部/数字俱乐部",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目",
     "blogs/Proflu/俱乐部/领导力俱乐部/领导力俱乐部介绍.md",
+    "blogs/Proflu/项目/项目能力维度剖析.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部",
     "blogs/Proflu/俱乐部",
     "blogs/Proflu/俱乐部/领导力俱乐部",
@@ -248,10 +236,7 @@
     "项目",
     "元宇宙项目/项目能力维度剖析.md",
     "元宇宙项目",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/TTS_gui.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/基础案例.md",
     "blogs/Proflu/项目/AI智能客服/项目概要.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/家长要求.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/科学上网.md",
@@ -268,13 +253,8 @@
     "blogs/CS/Flutter/flutter全局管理/Provider.md",
     "blogs/做事十项基本原则.md",
     "blogs/CS/Flutter/flutter全局管理",
-    "blogs/Proflu/SOP/师傅交接.md",
-    "blogs/Proflu/Theory/教育.md",
     "blogs/CS/Flutter/flutter_web",
-    "blogs/Proflu/招生",
     "未命名.canvas",
-    "blogs/CS/低代码",
-    "blogs/Proflu/自媒体",
     "blogs/Proflu/项目/Roblox/folder/Pasted image 20230831083633.png"
   ]
 }
