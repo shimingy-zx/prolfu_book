@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/项目/元宇宙项目/家长要求.md",
+                "file": "blogs/Proflu/项目/元宇宙项目/对接文档.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/元宇宙项目/家长要求.md",
+                "file": "blogs/Proflu/项目/元宇宙项目/对接文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/元宇宙项目/家长要求.md",
+                "file": "blogs/Proflu/项目/元宇宙项目/对接文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/元宇宙项目/家长要求.md"
+                "file": "blogs/Proflu/项目/元宇宙项目/对接文档.md"
               }
             }
           },
@@ -149,23 +149,23 @@
             }
           },
           {
-            "id": "11d1d81d041f91d4",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "055cfd1536e5b713",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "405a0939610ad08d",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -182,11 +182,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "055cfd1536e5b713",
+  "active": "747a277b749adcce",
   "lastOpenFiles": [
-    "blogs/Proflu/项目/元宇宙项目/基础案例.md",
+    "blogs/Proflu/项目/AI智能客服/项目概要.md",
     "blogs/Proflu/项目/元宇宙项目/对接文档.md",
     "blogs/Proflu/项目/元宇宙项目/家长要求.md",
+    "blogs/Proflu/项目/元宇宙项目/基础案例.md",
+    "blogs/Proflu/项目/元宇宙项目/科学上网.md",
+    "blogs/Proflu/项目/元宇宙项目/同学项目.md",
+    "blogs/Proflu/项目/亲子项目对于家长的要求.md",
+    "blogs/Proflu/项目/项目能力维度剖析.md",
+    "blogs/Proflu/项目/元宇宙项目/AI_Robolx.md",
+    "blogs/Proflu/项目/元宇宙项目/俱乐部介绍.md",
     "blogs/Proflu/招生/Untitled.md",
     "blogs/CS/Flutter/flutter_web/flutter url.md",
     "blogs/CS/Flutter/flutter_web/学习参考案例.md",
@@ -204,13 +211,6 @@
     "blogs/Proflu/案例参考/未命名.md",
     "blogs/views/messageBoard.md",
     "blogs/Proflu/综合.md",
-    "blogs/Proflu/项目/所有的人员架构.md",
-    "blogs/Proflu/项目/亲子项目对于家长的要求.md",
-    "blogs/Proflu/项目/潜在项目.md",
-    "blogs/Proflu/项目/其他资料.md",
-    "blogs/Proflu/项目/其他.md",
-    "blogs/Proflu/项目/目标拆解案例.md",
-    "blogs/Proflu/项目/电脑配置.md",
     "blogs/CS/Flutter/flutter_web",
     "blogs/Proflu/招生",
     "未命名.canvas",
