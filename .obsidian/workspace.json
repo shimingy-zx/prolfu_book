@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+                "file": "blogs/CS/Flutter/flutter_web/修改URL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+                "file": "blogs/CS/Flutter/flutter_web/修改URL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+                "file": "blogs/CS/Flutter/flutter_web/修改URL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md"
+                "file": "blogs/CS/Flutter/flutter_web/修改URL.md"
               }
             }
           },
@@ -218,8 +218,10 @@
   },
   "active": "747a277b749adcce",
   "lastOpenFiles": [
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
+    "blogs/CS/Flutter/flutter_web/flutter url.md",
+    "blogs/CS/Flutter/flutter_web/修改URL.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md",
     "blogs/Proflu/案例参考/未命名.md",
@@ -244,14 +246,12 @@
     "blogs/Proflu/项目/亲子项目对于家长的要求.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/俱乐部介绍.md",
     "blogs/Proflu/招生/Untitled.md",
-    "blogs/CS/Flutter/flutter_web/flutter url.md",
     "blogs/CS/Flutter/flutter_web/学习参考案例.md",
     "blogs/CS/graphql/Graphql_reference.md",
     "blogs/CS/Flutter/例子/学习案例（第三方）.md",
     "blogs/CS/Flutter/例子/开源项目.md",
     "blogs/other/技术部学习文档.md",
     "blogs/CS/Flutter/flutter全局管理/Provider.md",
-    "blogs/做事十项基本原则.md",
     "blogs/CS/Flutter/flutter全局管理",
     "blogs/CS/Flutter/flutter_web",
     "未命名.canvas",
