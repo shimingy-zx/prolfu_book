@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/Flutter/flutter_web/修改URL.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/Flutter/flutter_web/修改URL.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/Flutter/flutter_web/修改URL.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/Flutter/flutter_web/修改URL.md"
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md"
               }
             }
           },
@@ -180,18 +180,18 @@
             }
           },
           {
-            "id": "405a0939610ad08d",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "1ae4d043aca8a0c6",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "b167c71fd4cb2dfc",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -213,11 +213,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ae4d043aca8a0c6",
+  "active": "747a277b749adcce",
   "lastOpenFiles": [
-    "blogs/CS/Flutter/flutter_web/flutter url.md",
-    "blogs/CS/Flutter/flutter_web/修改URL.md",
+    "blogs/Proflu/项目/项目能力维度剖析.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+    "blogs/CS/Flutter/flutter_web/修改URL.md",
+    "blogs/CS/Flutter/flutter_web/flutter url.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md",
@@ -227,7 +228,6 @@
     "blogs/Proflu/俱乐部/数字俱乐部",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目",
     "blogs/Proflu/俱乐部/领导力俱乐部/领导力俱乐部介绍.md",
-    "blogs/Proflu/项目/项目能力维度剖析.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部",
     "blogs/Proflu/俱乐部",
     "blogs/Proflu/俱乐部/领导力俱乐部",
