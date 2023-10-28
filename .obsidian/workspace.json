@@ -6,7 +6,7 @@
       {
         "id": "4549607912b44a71",
         "type": "tabs",
-        "dimension": 51.78571428571429,
+        "dimension": 53.57142857142857,
         "children": [
           {
             "id": "747a277b749adcce",
@@ -36,7 +36,7 @@
       {
         "id": "059db0639204c68c",
         "type": "tabs",
-        "dimension": 48.214285714285715,
+        "dimension": 46.42857142857143,
         "children": [
           {
             "id": "410d01ff93d237ce",
@@ -215,8 +215,9 @@
   },
   "active": "747a277b749adcce",
   "lastOpenFiles": [
-    "blogs/Proflu/项目/项目能力维度剖析.md",
+    "blogs/Proflu/项目/English/相关录屏.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+    "blogs/Proflu/项目/项目能力维度剖析.md",
     "blogs/CS/Flutter/flutter_web/修改URL.md",
     "blogs/CS/Flutter/flutter_web/flutter url.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
@@ -248,7 +249,6 @@
     "blogs/CS/Flutter/例子/学习案例（第三方）.md",
     "blogs/CS/Flutter/例子/开源项目.md",
     "blogs/other/技术部学习文档.md",
-    "blogs/CS/Flutter/flutter全局管理/Provider.md",
     "blogs/CS/Flutter/flutter全局管理",
     "blogs/CS/Flutter/flutter_web",
     "未命名.canvas",
