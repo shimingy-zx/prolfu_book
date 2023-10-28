@@ -25,12 +25,9 @@
             "id": "df2beed030b77ecc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md"
               }
             }
           }
@@ -183,23 +180,23 @@
             }
           },
           {
-            "id": "055cfd1536e5b713",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "405a0939610ad08d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "1ae4d043aca8a0c6",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -216,7 +213,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "747a277b749adcce",
+  "active": "1ae4d043aca8a0c6",
   "lastOpenFiles": [
     "blogs/CS/Flutter/flutter_web/flutter url.md",
     "blogs/CS/Flutter/flutter_web/修改URL.md",
