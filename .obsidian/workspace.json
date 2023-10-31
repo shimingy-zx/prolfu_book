@@ -180,7 +180,7 @@
             }
           },
           {
-            "id": "1ae4d043aca8a0c6",
+            "id": "cf263326faebd9a7",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -188,7 +188,7 @@
             }
           },
           {
-            "id": "b167c71fd4cb2dfc",
+            "id": "e8088739cc9d3c9a",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -213,7 +213,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "747a277b749adcce",
+  "active": "e8088739cc9d3c9a",
   "lastOpenFiles": [
     "blogs/Proflu/项目/English/相关录屏.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
