@@ -6,7 +6,7 @@
       {
         "id": "4549607912b44a71",
         "type": "tabs",
-        "dimension": 53.57142857142857,
+        "dimension": 47.767857142857146,
         "children": [
           {
             "id": "747a277b749adcce",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,7 +36,7 @@
       {
         "id": "059db0639204c68c",
         "type": "tabs",
-        "dimension": 46.42857142857143,
+        "dimension": 52.23214285714286,
         "children": [
           {
             "id": "410d01ff93d237ce",
@@ -215,13 +215,13 @@
   },
   "active": "410d01ff93d237ce",
   "lastOpenFiles": [
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
     "blogs/Proflu/电脑配置.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md",
     "blogs/Proflu/项目/AI/LLM参考文档.md",
     "blogs/Proflu/项目/English/相关录屏.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
     "blogs/Proflu/项目/项目能力维度剖析.md",
     "blogs/CS/Flutter/flutter_web/修改URL.md",
     "blogs/CS/Flutter/flutter_web/flutter url.md",
