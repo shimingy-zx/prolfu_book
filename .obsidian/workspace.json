@@ -14,20 +14,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "df2beed030b77ecc",
-            "type": "leaf",
-            "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md"
               }
             }
           }
@@ -44,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md",
+                "file": "blogs/Proflu/案例参考/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -125,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md",
+                "file": "blogs/Proflu/案例参考/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md",
+                "file": "blogs/Proflu/案例参考/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md"
+                "file": "blogs/Proflu/案例参考/未命名.md"
               }
             }
           },
@@ -215,15 +205,22 @@
   },
   "active": "410d01ff93d237ce",
   "lastOpenFiles": [
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md",
+    "blogs/Proflu/案例参考/未命名.md",
+    "blogs/Proflu/招生/Untitled.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/科学上网.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/俱乐部介绍.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/家长要求.md",
+    "blogs/Proflu/项目/目标拆解案例.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/家长要求.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md",
     "blogs/Proflu/项目/其他资料.md",
     "blogs/Proflu/项目/其他.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
-    "blogs/Proflu/项目/目标拆解案例.md",
     "blogs/Proflu/项目/AI/LLM参考文档.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/项目概要.md",
     "blogs/Proflu/电脑配置.md",
@@ -231,8 +228,6 @@
     "blogs/Proflu/项目/项目能力维度剖析.md",
     "blogs/CS/Flutter/flutter_web/修改URL.md",
     "blogs/CS/Flutter/flutter_web/flutter url.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目.md",
-    "blogs/Proflu/案例参考/未命名.md",
     "blogs/Proflu/俱乐部/AI俱乐部",
     "blogs/Proflu/俱乐部/数字俱乐部",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目",
@@ -245,12 +240,7 @@
     "元宇宙项目/项目能力维度剖析.md",
     "元宇宙项目",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/TTS_gui.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/科学上网.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目.md",
-    "blogs/Proflu/项目/亲子项目对于家长的要求.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/俱乐部介绍.md",
     "blogs/CS/Flutter/flutter全局管理",
-    "blogs/CS/Flutter/flutter_web",
     "未命名.canvas",
     "blogs/Proflu/项目/Roblox/folder/Pasted image 20230831083633.png"
   ]
