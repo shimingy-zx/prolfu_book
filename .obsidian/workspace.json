@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md"
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md"
               }
             }
           },
@@ -203,11 +203,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "410d01ff93d237ce",
+  "active": "747a277b749adcce",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/TTS_gui.md",
     "blogs/Proflu/案例参考/未命名.md",
