@@ -1,6 +1,6 @@
 O：Object
-K：Key
-R：Result
+KR：Key Results
+
 
 Time
 一个月
@@ -19,6 +19,9 @@ Time
 
 **在一个月内**
 
-我的游戏要做成什么样子？
+我和我的团队想要完成什么？
 
-要做成这个目标，我需要达成那几个点？
+我如何知道自己是否达成了目标？
+
+参考资料：
+[OKR概念简述-OKR是什么-OKR入门](https://www.okr.com/intro/concept)
