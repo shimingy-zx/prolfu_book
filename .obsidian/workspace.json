@@ -4,24 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "4549607912b44a71",
-        "type": "tabs",
-        "dimension": 52.71049596309112,
-        "children": [
-          {
-            "id": "747a277b749adcce",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "059db0639204c68c",
         "type": "tabs",
-        "dimension": 47.28950403690888,
         "children": [
           {
             "id": "410d01ff93d237ce",
@@ -110,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md"
+              }
             }
           },
           {
@@ -161,18 +149,18 @@
             }
           },
           {
-            "id": "e5e4db19700d3886",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "bb05badba4bd8b36",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a264b55ded13f0d5",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -194,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "747a277b749adcce",
+  "active": "a264b55ded13f0d5",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
