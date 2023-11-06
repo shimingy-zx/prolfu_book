@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/关于OKR的几个思考.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/关于OKR的几个思考.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/关于OKR的几个思考.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md"
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/关于OKR的几个思考.md"
               }
             }
           },
@@ -149,18 +149,18 @@
             }
           },
           {
-            "id": "bb05badba4bd8b36",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "a264b55ded13f0d5",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d9757261ecfb086",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -182,10 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a264b55ded13f0d5",
+  "active": "410d01ff93d237ce",
   "lastOpenFiles": [
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/关于OKR的几个思考.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
     "blogs/Proflu/做项目中常见的问题.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
@@ -216,7 +217,6 @@
     "blogs/Proflu/俱乐部/元宇宙俱乐部",
     "blogs/Proflu/俱乐部",
     "blogs/Proflu/俱乐部/领导力俱乐部",
-    "项目/项目能力维度剖析.md",
     "项目",
     "元宇宙项目",
     "blogs/CS/Flutter/flutter全局管理",
