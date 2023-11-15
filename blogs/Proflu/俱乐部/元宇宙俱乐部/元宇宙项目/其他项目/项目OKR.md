@@ -26,6 +26,7 @@ KR3: Develop and release the first content update with new weapons or map expans
 ## 杨恪
 
 总目标：完成一个mc服务器
+时间周期：
 
 ### O1：制作适合的mod（可以搬运别人做的）
 
@@ -37,7 +38,7 @@ KR3：制作现代防具mod（比如说防弹衣等等……）
 
 KR4：制作或找到投掷物mod
 
-## O2：制作地图
+### O2：制作地图
 
 KR1：思考问题“怎么让玩家在游戏里不破坏地图？”
 
@@ -45,7 +46,7 @@ KR2：设计大大小小3-5个地图
 
 KR3：在游戏中把他们还原出来
 
-## O3：设计游戏机制
+### O3：设计游戏机制
 
 KR1：设计游戏机制
 
