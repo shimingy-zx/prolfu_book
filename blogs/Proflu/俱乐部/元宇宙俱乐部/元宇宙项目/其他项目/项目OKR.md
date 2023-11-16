@@ -20,7 +20,7 @@ KR3: Reach 10,000 game visits within the first two years of launch on the Roblox
 
 ### O4：Monetization and Sustainability
 KR1: Implement a virtual item shop with at least 10 cosmetic items for player avatars by 3 March 2024.
-KR2: Generate 2000 of Robux in the first month through in-game purchases by 10 April 2024.
+KR2: Generate 2000 of Roblox in the first month through in-game purchases by 10 April 2024.
 KR3: Develop and release the first content update with new weapons or map expansions within two months post-launch.
 
 ## 杨恪
