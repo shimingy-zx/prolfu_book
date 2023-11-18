@@ -157,23 +157,23 @@
             }
           },
           {
-            "id": "44b56a0a9409fb6d",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "7e5be874fe5be99a",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "246793bfb1c325e4",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -190,7 +190,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06529c9fc593adab",
+  "active": "246793bfb1c325e4",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙训练营.md",
