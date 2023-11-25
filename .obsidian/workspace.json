@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/项目/AI/Instructions.md",
+                "file": "blogs/CS/数据同步/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/AI/Instructions.md",
+                "file": "blogs/CS/数据同步/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/AI/Instructions.md",
+                "file": "blogs/CS/数据同步/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/AI/Instructions.md"
+                "file": "blogs/CS/数据同步/Untitled.md"
               }
             }
           },
@@ -157,18 +157,18 @@
             }
           },
           {
-            "id": "0d26a9d9ef8c5236",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "c38b48121616ca5a",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c5326feb0e3c3fd",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -190,10 +190,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c38b48121616ca5a",
+  "active": "06529c9fc593adab",
   "lastOpenFiles": [
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
     "blogs/Proflu/项目/AI/Instructions.md",
+    "blogs/CS/数据同步/Untitled.md",
+    "blogs/CS/数据同步",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/关于OKR的几个思考.md",
@@ -219,7 +221,6 @@
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/TTS_gui.md",
     "blogs/Proflu/案例参考/未命名.md",
     "blogs/Proflu/招生/Untitled.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM",
     "blogs/Proflu/俱乐部/AI俱乐部",
     "blogs/Proflu/俱乐部/数字俱乐部",
@@ -227,7 +228,6 @@
     "blogs/Proflu/俱乐部/元宇宙俱乐部",
     "blogs/Proflu/俱乐部",
     "blogs/Proflu/俱乐部/领导力俱乐部",
-    "项目",
     "未命名.canvas",
     "blogs/Proflu/项目/Roblox/folder/Pasted image 20230831083633.png"
   ]
