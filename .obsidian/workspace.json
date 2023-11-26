@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
+                "file": "blogs/CS/OAuth.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
+                "file": "blogs/CS/OAuth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
+                "file": "blogs/CS/OAuth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md"
+                "file": "blogs/CS/OAuth.md"
               }
             }
           },
@@ -157,18 +157,18 @@
             }
           },
           {
-            "id": "4c5326feb0e3c3fd",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "d7d1ccf0df9489c5",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "be15fa0ed6e2519d",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -190,14 +190,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7d1ccf0df9489c5",
+  "active": "06529c9fc593adab",
   "lastOpenFiles": [
+    "blogs/CS/Untitled.md",
+    "blogs/CS/OAuth.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目合集.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
     "blogs/CS/数据同步/Untitled.md",
     "blogs/Proflu/项目/AI/Instructions.md",
     "blogs/CS/数据同步",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/关于OKR的几个思考.md",
@@ -219,8 +221,6 @@
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/科学上网.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/TTS_gui.md",
-    "blogs/Proflu/案例参考/未命名.md",
-    "blogs/Proflu/招生/Untitled.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM",
     "blogs/Proflu/俱乐部/AI俱乐部",
     "blogs/Proflu/俱乐部/数字俱乐部",
