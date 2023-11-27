@@ -157,18 +157,18 @@
             }
           },
           {
-            "id": "d7d1ccf0df9489c5",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "be15fa0ed6e2519d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb0ddd09347bfdf7",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -190,7 +190,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06529c9fc593adab",
+  "active": "bb0ddd09347bfdf7",
   "lastOpenFiles": [
     "blogs/CS/Untitled.md",
     "blogs/CS/OAuth.md",
