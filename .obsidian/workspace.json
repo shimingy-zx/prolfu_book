@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/OAuth.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/OAuth.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/OAuth.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/OAuth.md"
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md"
               }
             }
           },
@@ -157,18 +157,18 @@
             }
           },
           {
-            "id": "be15fa0ed6e2519d",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "bb0ddd09347bfdf7",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "75acea06c6e4fbf7",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -190,10 +190,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb0ddd09347bfdf7",
+  "active": "06529c9fc593adab",
   "lastOpenFiles": [
-    "blogs/CS/Untitled.md",
     "blogs/CS/OAuth.md",
+    "blogs/CS/Untitled.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目合集.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
