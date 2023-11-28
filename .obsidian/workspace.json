@@ -157,7 +157,7 @@
             }
           },
           {
-            "id": "bb0ddd09347bfdf7",
+            "id": "c136c9732b17b566",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -165,7 +165,7 @@
             }
           },
           {
-            "id": "75acea06c6e4fbf7",
+            "id": "3843b4541abb765a",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -190,7 +190,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06529c9fc593adab",
+  "active": "3843b4541abb765a",
   "lastOpenFiles": [
     "blogs/CS/OAuth.md",
     "blogs/CS/Untitled.md",
