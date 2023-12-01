@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/项目/潜在项目.md",
+                "file": "blogs/Proflu/项目/AI/Instructions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/潜在项目.md",
+                "file": "blogs/Proflu/项目/AI/Instructions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/潜在项目.md",
+                "file": "blogs/Proflu/项目/AI/Instructions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/潜在项目.md"
+                "file": "blogs/Proflu/项目/AI/Instructions.md"
               }
             }
           },
@@ -157,7 +157,7 @@
             }
           },
           {
-            "id": "c136c9732b17b566",
+            "id": "6914347935747de4",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -165,7 +165,7 @@
             }
           },
           {
-            "id": "3843b4541abb765a",
+            "id": "1e4876c28d10dbfa",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -173,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -190,14 +190,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06529c9fc593adab",
+  "active": "1e4876c28d10dbfa",
   "lastOpenFiles": [
-    "blogs/Proflu/项目/其他资料.md",
-    "blogs/Proflu/项目/潜在项目.md",
-    "blogs/Proflu/项目/其他.md",
-    "blogs/Proflu/项目/English/相关录屏.md",
     "blogs/Proflu/项目/AI/LLM参考文档.md",
     "blogs/Proflu/项目/AI/Instructions.md",
+    "blogs/Proflu/项目/潜在项目.md",
+    "blogs/Proflu/项目/其他资料.md",
+    "blogs/Proflu/项目/其他.md",
+    "blogs/Proflu/项目/English/相关录屏.md",
     "blogs/Proflu/项目/亲子项目对于家长的要求.md",
     "blogs/Proflu/项目/所有的人员架构.md",
     "blogs/Proflu/项目/讨论原则.md",
