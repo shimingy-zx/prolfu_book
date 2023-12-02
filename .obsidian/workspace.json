@@ -157,18 +157,18 @@
             }
           },
           {
-            "id": "6914347935747de4",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "1e4876c28d10dbfa",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e65b4bf7c9aaaa3",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -190,7 +190,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e4876c28d10dbfa",
+  "active": "3e65b4bf7c9aaaa3",
   "lastOpenFiles": [
     "blogs/Proflu/项目/AI/LLM参考文档.md",
     "blogs/Proflu/项目/AI/Instructions.md",
