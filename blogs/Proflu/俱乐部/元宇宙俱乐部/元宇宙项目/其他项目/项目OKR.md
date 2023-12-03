@@ -87,6 +87,7 @@ Nature: Objectives in OKR are high-level, qualitative goals. They are intentiona
 Characteristics: These objectives should be concise, easy to remember, and communicate what the organization or team strives to accomplish.
 Purpose: The main aim is to push the organization or team beyond their comfort zone, fostering a culture of innovation and continuous improvement.
 Time Frame: Although OKRs are often set on a quarterly basis, objectives may span a longer term, reflecting the overarching vision of the organization.
+
 Key Results in OKR
 Definition: Key Results are specific, measurable actions that, when achieved, will collectively ensure the objective is met.
 Quantifiable Measures: They often include specific targets such as percentages, numbers, or milestones to track progress clearly.
