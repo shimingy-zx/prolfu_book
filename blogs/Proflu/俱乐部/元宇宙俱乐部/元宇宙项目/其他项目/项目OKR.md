@@ -106,3 +106,6 @@ Maintaining Flexibility: While it's essential to stick to set goals, organizatio
 Avoiding Overemphasis on Quantitative Metrics: There's a risk of focusing too much on numbers, which can lead to overlooking other critical qualitative aspects of success.
 
 In summary, OKRs offer a structured approach to goal setting and performance measurement, emphasizing the importance of setting ambitious goals and clearly defining how to measure progress toward these goals. This framework is valuable for organizations that foster a culture of growth, innovation, and alignment toward common objectives.
+
+
+## 王秉政

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/项目/AI/Instructions.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/项目/AI/Instructions.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/项目/AI/Instructions.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/项目/AI/Instructions.md"
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md"
               }
             }
           },
@@ -157,18 +157,18 @@
             }
           },
           {
-            "id": "3c9914f4ab021f8b",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "50c5b23e3d67245e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "18ff5053092ac6e8",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -190,10 +190,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "50c5b23e3d67245e",
+  "active": "06529c9fc593adab",
   "lastOpenFiles": [
-    "blogs/Proflu/项目/AI/LLM参考文档.md",
     "blogs/Proflu/项目/AI/Instructions.md",
+    "blogs/Proflu/项目/AI/LLM参考文档.md",
     "blogs/Proflu/项目/潜在项目.md",
     "blogs/Proflu/项目/其他资料.md",
     "blogs/Proflu/项目/其他.md",
