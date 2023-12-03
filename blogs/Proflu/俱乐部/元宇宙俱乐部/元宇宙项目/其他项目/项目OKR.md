@@ -78,6 +78,7 @@ KR3：实现在游戏中（目前我认为可以用指令方块来达到目的�
 
 
 ## Peter
+
 Objectives and Key Results (OKR)
 OKR stands for Objectives and Key Results. It's a framework for defining and tracking objectives and their outcomes. This management strategy helps organizations set challenging, ambitious goals with measurable results. OKRs are typically used to set company-wide goals, which are then broken down into departmental, team, and individual objectives.
 
