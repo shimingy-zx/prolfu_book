@@ -116,3 +116,6 @@ In summary, OKRs offer a structured approach to goal setting and performance mea
 
 ## 王秉政
 
+
+## 丘浩良
+
