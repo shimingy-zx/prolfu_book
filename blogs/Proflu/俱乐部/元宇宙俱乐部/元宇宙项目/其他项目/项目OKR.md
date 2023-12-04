@@ -22,9 +22,9 @@ KR1: Implement a virtual item shop with at least 10 cosmetic items for player av
 KR2: Generate 2000 of Roblox in the first month through in-game purchases by 10 April 2024.
 KR3: Develop and release the first content update with new weapons or map expansions within two months post-launch.
 
-## 杨恪
+## 杨恪&彭楚洲
 
-总目标：完成一个mc服务器
+%% 总目标：完成一个mc服务器
 时间周期：
 
 ### O1：制作适合的mod（可以搬运别人做的）
@@ -43,7 +43,10 @@ KR3：在游戏中把他们还原出来
 ### O3：设计游戏机制
 
 KR1：设计游戏机制
-KR3：实现在游戏中（目前我认为可以用指令方块来达到目的）
+KR3：实现在游戏中（目前我认为可以用指令方块来达到目的） %%
+
+
+Unity制作游戏软件
 
 
 
