@@ -144,7 +144,7 @@ In summary, OKRs offer a structured approach to goal setting and performance mea
 
 · 在高等级引入更复杂的飞机坠毁障碍，增加玩家在游戏中的策略性。
 
-·]创造与等级相关的特殊关卡或挑战，以鼓励玩家保持参与。
+· 创造与等级相关的特殊关卡或挑战，以鼓励玩家保持参与。
 
 **制定奖励系统和升级反馈：**
 
@@ -155,6 +155,7 @@ In summary, OKRs offer a structured approach to goal setting and performance mea
 
 
 ## 刘梓堷
+
 周六写出来
 
 
