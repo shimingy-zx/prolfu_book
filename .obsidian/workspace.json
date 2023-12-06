@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e24883e8da388566",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md"
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md"
               }
             }
           },
@@ -190,17 +204,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06529c9fc593adab",
+  "active": "e24883e8da388566",
   "lastOpenFiles": [
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/关于OKR的几个思考.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/家长要求.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙训练营.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/英语熏陶目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/TTS_gui.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目OKR.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他项目/项目合集.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/folder/bdd9abee75dc4bcf840eb659a4dec585.jpg",
