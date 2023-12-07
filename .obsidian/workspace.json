@@ -171,7 +171,7 @@
             }
           },
           {
-            "id": "374dfb03db2a4330",
+            "id": "19f7930e944bc483",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -179,7 +179,7 @@
             }
           },
           {
-            "id": "4f872dd97f99a361",
+            "id": "28b28a1a75b8fd85",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -187,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -204,7 +204,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e24883e8da388566",
+  "active": "28b28a1a75b8fd85",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/实验室项目",
