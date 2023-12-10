@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/俱乐部介绍.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/项目OKR.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/俱乐部介绍.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/项目OKR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/俱乐部介绍.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/项目OKR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/俱乐部介绍.md"
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/项目OKR.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             }
           },
           {
-            "id": "19f7930e944bc483",
+            "id": "4633b9516b84be98",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -179,7 +179,7 @@
             }
           },
           {
-            "id": "28b28a1a75b8fd85",
+            "id": "5441f0d03c1810a2",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -204,8 +204,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e24883e8da388566",
+  "active": "5441f0d03c1810a2",
   "lastOpenFiles": [
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/项目合集.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/俱乐部介绍.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/科学上网.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目.md",
@@ -219,7 +221,6 @@
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/项目OKR.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/项目合集.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/实验室项目/实验室AI项目介绍.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/实验室项目/实验室项目列表.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
@@ -234,7 +235,6 @@
     "blogs/Proflu/项目/潜在项目.md",
     "blogs/Proflu/项目/其他资料.md",
     "blogs/Proflu/项目/其他.md",
-    "blogs/Proflu/项目/English/相关录屏.md",
     "blogs/CS/数据同步",
     "blogs/CS/next",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目",
