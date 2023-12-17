@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/项目OKR.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/项目OKR.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/项目OKR.md"
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md"
               }
             }
           },
@@ -171,7 +171,7 @@
             }
           },
           {
-            "id": "4633b9516b84be98",
+            "id": "96a90ce26de12c6a",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -179,7 +179,7 @@
             }
           },
           {
-            "id": "5441f0d03c1810a2",
+            "id": "54fa82bc7a43bbdb",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -204,7 +204,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5441f0d03c1810a2",
+  "active": "54fa82bc7a43bbdb",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/项目合集.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/俱乐部介绍.md",
