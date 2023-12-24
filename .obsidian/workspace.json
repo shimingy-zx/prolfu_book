@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md"
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md"
               }
             }
           },
@@ -171,18 +171,18 @@
             }
           },
           {
-            "id": "81358c715a365da9",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "001167e1377e989f",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfea6aebfe338b50",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -204,11 +204,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "001167e1377e989f",
+  "active": "e24883e8da388566",
   "lastOpenFiles": [
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM参考文档.md",
+    "blogs/Proflu/俱乐部/常见问题.md",
+    "blogs/Proflu/项目/AI/Instructions.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/项目OKR.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/项目合集.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/俱乐部介绍.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/科学上网.md",
@@ -230,11 +234,7 @@
     "blogs/Proflu/俱乐部/元宇宙俱乐部/英语熏陶目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/folder/bdd9abee75dc4bcf840eb659a4dec585.jpg",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/folder",
-    "blogs/Proflu/项目/AI/Instructions.md",
-    "blogs/Proflu/项目/AI/LLM参考文档.md",
     "blogs/Proflu/项目/潜在项目.md",
-    "blogs/Proflu/项目/其他资料.md",
-    "blogs/Proflu/项目/其他.md",
     "blogs/CS/数据同步",
     "blogs/CS/next",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目",
