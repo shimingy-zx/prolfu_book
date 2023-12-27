@@ -171,18 +171,18 @@
             }
           },
           {
-            "id": "dfea6aebfe338b50",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "aa635ee0de84f5c1",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf8925e7c21a3d1c",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -204,12 +204,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa635ee0de84f5c1",
+  "active": "e24883e8da388566",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM参考文档.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
     "blogs/Proflu/俱乐部/常见问题.md",
     "blogs/Proflu/项目/AI/Instructions.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/项目OKR.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
