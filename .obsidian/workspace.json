@@ -171,18 +171,18 @@
             }
           },
           {
-            "id": "001167e1377e989f",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "dfea6aebfe338b50",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa635ee0de84f5c1",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -204,7 +204,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e24883e8da388566",
+  "active": "aa635ee0de84f5c1",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM参考文档.md",
     "blogs/Proflu/俱乐部/常见问题.md",
