@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
+                "file": "blogs/info/url/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+                "file": "blogs/info/url/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+                "file": "blogs/info/url/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md"
+                "file": "blogs/info/url/Untitled.md"
               }
             }
           },
@@ -173,18 +173,18 @@
             }
           },
           {
-            "id": "4dd624189209de99",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "86b84e776ea6ea4e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b0f84abad17599a",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -206,13 +206,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86b84e776ea6ea4e",
+  "active": "e24883e8da388566",
   "lastOpenFiles": [
-    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM参考文档.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
+    "blogs/info/url/Untitled.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+    "blogs/info/url",
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM参考文档.md",
     "blogs/Proflu/俱乐部/常见问题.md",
     "blogs/Proflu/项目/AI/Instructions.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/项目OKR.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/项目合集.md",
@@ -236,7 +238,6 @@
     "blogs/Proflu/俱乐部/元宇宙俱乐部/英语熏陶目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/folder/bdd9abee75dc4bcf840eb659a4dec585.jpg",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/folder",
-    "blogs/Proflu/项目/潜在项目.md",
     "blogs/CS/数据同步",
     "blogs/CS/next",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目",
@@ -244,7 +245,6 @@
     "blogs/Proflu/俱乐部/AI俱乐部",
     "blogs/Proflu/俱乐部/数字俱乐部",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部",
     "未命名.canvas",
     "blogs/Proflu/项目/Roblox/folder/Pasted image 20230831083633.png"
   ]
