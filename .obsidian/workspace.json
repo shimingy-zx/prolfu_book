@@ -32,19 +32,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0290b9c9a2851cdf",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md"
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md"
               }
             }
           },
@@ -183,7 +173,7 @@
             }
           },
           {
-            "id": "cf8925e7c21a3d1c",
+            "id": "4dd624189209de99",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -191,7 +181,7 @@
             }
           },
           {
-            "id": "a3ca35a2bf7a3e01",
+            "id": "86b84e776ea6ea4e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -203,7 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,7 +206,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3ca35a2bf7a3e01",
+  "active": "86b84e776ea6ea4e",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM参考文档.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
