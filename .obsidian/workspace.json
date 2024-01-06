@@ -159,18 +159,18 @@
             }
           },
           {
-            "id": "795e0cf9f33ca33a",
+            "id": "266b9e2116d82a77",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-chat-view",
+              "type": "smart-connections-view",
               "state": {}
             }
           },
           {
-            "id": "fbd63ae91a8f0266",
+            "id": "3553558216d215dd",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -192,7 +192,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fbd63ae91a8f0266",
+  "active": "3553558216d215dd",
   "lastOpenFiles": [
     "blogs/info/经济数据分析.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
