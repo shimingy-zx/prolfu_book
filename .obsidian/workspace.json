@@ -159,18 +159,18 @@
             }
           },
           {
-            "id": "54efb89f8a603b12",
+            "id": "a087d1cfc98b39ea",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-chat-view",
+              "type": "smart-connections-view",
               "state": {}
             }
           },
           {
-            "id": "e368693c6a020a87",
+            "id": "17c43a9373182856",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -192,7 +192,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e368693c6a020a87",
+  "active": "17c43a9373182856",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/俱乐部介绍.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/家长要求.md",
