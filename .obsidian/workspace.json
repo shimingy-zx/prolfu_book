@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "11d0f35d9c039f6c",
+        "id": "7025487e5a79b8a8",
         "type": "tabs",
         "children": [
           {
-            "id": "06529c9fc593adab",
+            "id": "745ebe50a48dc004",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/电脑配置.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "配置",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/电脑配置.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/电脑配置.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/电脑配置.md"
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md"
               }
             }
           },
@@ -160,18 +159,18 @@
             }
           },
           {
-            "id": "1178303137b9ea58",
+            "id": "576d6252ece7110b",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-chat-view",
+              "type": "smart-connections-view",
               "state": {}
             }
           },
           {
-            "id": "cc69b344435fbc49",
+            "id": "d7f05012fdfc7591",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -193,11 +192,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc69b344435fbc49",
+  "active": "745ebe50a48dc004",
   "lastOpenFiles": [
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/folder/bdd9abee75dc4bcf840eb659a4dec585.jpg",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
+    "blogs/Proflu/案例参考/未命名.md",
+    "blogs/react/UI.md",
+    "blogs/react",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
+    "blogs/CS/Git/Git协作.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/项目概要.md",
+    "blogs/Proflu/refer.md",
+    "2024-02-05.md",
+    "blogs/Proflu/电脑配置.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/项目OKR.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/俱乐部介绍.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/家长要求.md",
@@ -212,18 +221,8 @@
     "blogs/Proflu/俱乐部/数字俱乐部/Untitled.md",
     "blogs/Proflu/俱乐部/例会形式.md",
     "blogs/Proflu/俱乐部/常见问题.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/常犯错误.md",
-    "blogs/Proflu/俱乐部/领导力俱乐部/领导力俱乐部介绍.md",
-    "blogs/info/url/网站合集.md",
-    "blogs/info/Untitled.md",
-    "blogs/info/经济数据分析.md",
-    "blogs/info/财务/相关平台.md",
-    "blogs/info/如何看待孩子的叛逆.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
     "blogs/info/url",
-    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM参考文档.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/实验室项目",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/folder/bdd9abee75dc4bcf840eb659a4dec585.jpg",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/folder",
     "blogs/CS/数据同步",
     "blogs/CS/next",
@@ -231,7 +230,6 @@
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM",
     "blogs/Proflu/俱乐部/AI俱乐部",
     "blogs/Proflu/俱乐部/数字俱乐部",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目",
     "未命名.canvas",
     "blogs/Proflu/项目/Roblox/folder/Pasted image 20230831083633.png"
   ]
