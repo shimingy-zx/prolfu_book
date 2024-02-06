@@ -2,7 +2,7 @@
 title: Roblox教程合集
 description: 
 published: true
-date: 2024-02-06T08:57:54.319Z
+date: 2024-02-06T09:01:20.637Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-06T08:54:14.900Z
@@ -14,3 +14,13 @@ dateCreated: 2024-02-06T08:54:14.900Z
 https://www.youtube.com/watch?v=DkD9qNLKVOk&list=PLmNH84ZCFHuQugzWTcigCEMhMz7VLGelf&index=1
 
 https://www.youtube.com/watch?v=BkYwRdCukZA&list=PLhieaQmOk7nIfMZ1UmvKGPrwuwQVwAvFa
+
+https://youtube.com/playlist?list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&si=ncz6ED0sqtEajN5t
+
+### How To Script On Roblox 2023 - Episode 1 (Printing)
+
+https://www.youtube.com/watch?v=4J8kNBBJT1E&list=PLfAg6nOoAuSm3IFHTbLfknrEDnRoSxCwW
+
+
+### 中文版
+https://www.youtube.com/watch?v=Pdd099gedlg&list=PLyE_9XasH04k9tWfZ0SXmHHwdquLHUSlF
