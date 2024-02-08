@@ -13,7 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/Linux/Linux常用命令.md",
+                "file": "blogs/info/url/网站合集.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c3f14c2204f3e114",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d2e6d19f3035a9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/info/经济数据分析.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Frp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/Linux/Linux常用命令.md",
+                "file": "blogs/info/经济数据分析.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/Linux/Linux常用命令.md",
+                "file": "blogs/info/经济数据分析.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/Linux/Linux常用命令.md"
+                "file": "blogs/info/经济数据分析.md"
               }
             }
           },
@@ -176,7 +194,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -193,11 +211,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "86d245fe26b08d5b",
+  "active": "3d2e6d19f3035a9d",
   "lastOpenFiles": [
+    "blogs/info/课程平台/未命名.md",
     "blogs/info/url/网站合集.md",
-    "blogs/info/Rpa/未命名.md",
+    "blogs/info/教育平台信息/未命名.md",
+    "blogs/info/财务/相关平台.md",
+    "blogs/info/如何看待孩子的叛逆.md",
+    "blogs/info/API自动化/相关平台.md",
+    "blogs/info/meta/相关公司.md",
+    "blogs/info/github/github优秀作者.md",
     "blogs/info/erp/未命名.md",
+    "blogs/CS/Linux/Linux常用命令.md",
+    "blogs/info/Rpa/未命名.md",
     "blogs/CS/视频下载/国外视频平台下载方式.md",
     "blogs/CS/好产品/Untitled.md",
     "blogs/CS/动画/未命名.md",
@@ -213,15 +239,7 @@
     "blogs/activity/20230819陈厂长2.md",
     "blogs/think/不用管以物质激励为孩子设立目标.md",
     "blogs/views/messageBoard.md",
-    "blogs/交流/腾讯直播商务总监小Q-近期视频号流量变小原因探讨.md",
-    "blogs/交流/宋老师.md",
-    "blogs/交流/场长.md",
-    "blogs/交流/深度咨询/20230521荣轩深度咨询.md",
-    "blogs/交流/深度咨询/20230515沙宇轩深度咨询.md",
-    "blogs/think/创业的过程就是一个不断解决新问题的过程.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/folder/bdd9abee75dc4bcf840eb659a4dec585.jpg",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
     "blogs/react",
     "blogs/info/url",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/实验室项目",
