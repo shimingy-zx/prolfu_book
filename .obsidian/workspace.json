@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/虚拟号码.md",
+                "file": "blogs/info/url/网站合集.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/info/url/网站合集.md",
+                "file": "blogs/info/erp/未命名.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/info/url/网站合集.md",
+                "file": "blogs/info/erp/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/info/url/网站合集.md",
+                "file": "blogs/info/erp/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/info/url/网站合集.md"
+                "file": "blogs/info/erp/未命名.md"
               }
             }
           },
@@ -213,9 +213,10 @@
   },
   "active": "3d2e6d19f3035a9d",
   "lastOpenFiles": [
-    "blogs/other/Other_reference.md",
-    "blogs/CS/虚拟号码.md",
     "blogs/info/url/网站合集.md",
+    "blogs/info/API自动化/相关平台.md",
+    "blogs/CS/虚拟号码.md",
+    "blogs/other/Other_reference.md",
     "blogs/other/JWT.md",
     "blogs/other/内网穿透.md",
     "blogs/other/接口空值处理.md",
@@ -238,7 +239,6 @@
     "blogs/think/一个人在后天该如何提升自身的内在自信.md",
     "blogs/think/未命名 1.md",
     "blogs/think/如何做出最好的选择.md",
-    "blogs/think/如何看待孩子的叛逆.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/folder/bdd9abee75dc4bcf840eb659a4dec585.jpg",
     "blogs/react",
     "blogs/info/url",
