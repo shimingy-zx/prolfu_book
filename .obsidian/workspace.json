@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
+                "file": "blogs/Soure/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
+                "file": "blogs/Soure/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
+                "file": "blogs/Soure/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md"
+                "file": "blogs/Soure/Untitled.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "576d6252ece7110b",
+            "id": "8c71f913636f5c11",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "d7f05012fdfc7591",
+            "id": "b63fb7e14bfcc17e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -192,14 +192,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "745ebe50a48dc004",
+  "active": "b63fb7e14bfcc17e",
   "lastOpenFiles": [
+    "blogs/交流/腾讯直播商务总监小Q-近期视频号流量变小原因探讨.md",
+    "blogs/交流/宋老师.md",
+    "blogs/交流/场长.md",
+    "blogs/交流/深度咨询/20230521荣轩深度咨询.md",
+    "blogs/交流/深度咨询/20230515沙宇轩深度咨询.md",
+    "blogs/react/UI.md",
+    "blogs/think/创业的过程就是一个不断解决新问题的过程.md",
+    "blogs/think/不用管以物质激励为孩子设立目标.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/folder/bdd9abee75dc4bcf840eb659a4dec585.jpg",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
     "blogs/Proflu/案例参考/未命名.md",
-    "blogs/react/UI.md",
     "blogs/react",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
     "blogs/CS/Git/Git协作.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/项目概要.md",
     "blogs/Proflu/refer.md",
@@ -215,12 +222,6 @@
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/OKR制定标准.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/TTS_gui.md",
-    "blogs/Proflu/俱乐部/数字俱乐部/LuLabAPP/产品文档.md",
-    "blogs/Proflu/俱乐部/数字俱乐部/LuLabAPP/功能模块.md",
-    "blogs/Proflu/俱乐部/数字俱乐部/Untitled.md",
-    "blogs/Proflu/俱乐部/例会形式.md",
-    "blogs/Proflu/俱乐部/常见问题.md",
     "blogs/info/url",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/实验室项目",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/folder",
