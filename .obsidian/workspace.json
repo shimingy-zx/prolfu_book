@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/基础/登录逻辑.md",
+                "file": "blogs/info/url/网站合集.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/基础/登录逻辑.md",
+                "file": "blogs/info/url/网站合集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/基础/登录逻辑.md",
+                "file": "blogs/info/url/网站合集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/基础/登录逻辑.md"
+                "file": "blogs/info/url/网站合集.md"
               }
             }
           },
@@ -159,18 +159,18 @@
             }
           },
           {
-            "id": "b63fb7e14bfcc17e",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "81de3a38a223cb7a",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "549a98b079052d37",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -192,10 +192,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81de3a38a223cb7a",
+  "active": "9c8353318b5e8f8c",
   "lastOpenFiles": [
-    "blogs/CS/基础/未命名.md",
+    "blogs/think/Untitled.md",
+    "blogs/views/messageBoard.md",
+    "blogs/other/Other_reference.md",
+    "blogs/other/1.md",
+    "blogs/think/杂记合集.md",
+    "blogs/think/在面试中的两个灵魂拷问.md",
+    "blogs/think/未命名.md",
+    "blogs/think/如何做出最好的选择.md",
+    "blogs/think/不用管以物质激励为孩子设立目标.md",
     "blogs/CS/基础/登录逻辑.md",
+    "blogs/CS/基础/未命名.md",
     "blogs/CS/数据可视化/现有平台.md",
     "blogs/CS/数据同步/Untitled.md",
     "blogs/CS/AI/工具.md",
@@ -212,20 +221,11 @@
     "blogs/Proflu/HR/人员招募.md",
     "blogs/Proflu/HR/实验室实习生流程.md",
     "blogs/Proflu/HR/实验室实习生招募计划.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/关于OKR的几个思考.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
     "zh/blogs/Proflu/俱乐部/元宇宙俱乐部",
     "zh/blogs/Proflu/俱乐部",
     "zh/blogs/Proflu",
     "zh/blogs",
     "zh",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/TTS_gui.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/OKR制定标准.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/俱乐部介绍.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/科学上网.md",
-    "blogs/Proflu/俱乐部/数字俱乐部/LuLabAPP/产品文档.md",
-    "blogs/Proflu/俱乐部/数字俱乐部/LuLabAPP/功能模块.md",
-    "blogs/Proflu/俱乐部/数字俱乐部/Untitled.md",
     "blogs/Proflu/俱乐部/数字俱乐部/Untitled",
     "blogs/other/如何为你的开源项目选择一个合适的开源协议？/1640431424035.png",
     "blogs/other/如何为你的开源项目选择一个合适的开源协议？/1640431385486.png",
