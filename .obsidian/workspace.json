@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "81de3a38a223cb7a",
+            "id": "1cc426e21a46c968",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "549a98b079052d37",
+            "id": "a79f45bedc046eed",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -192,7 +192,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c8353318b5e8f8c",
+  "active": "a79f45bedc046eed",
   "lastOpenFiles": [
     "blogs/think/Untitled.md",
     "blogs/views/messageBoard.md",
