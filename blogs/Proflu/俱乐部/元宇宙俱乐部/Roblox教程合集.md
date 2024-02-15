@@ -49,9 +49,7 @@ https://youtube.com/playlist?list=PLfie92NjUDbgOf5oqckr8XOyqg_q5B5WT&si=LHcA6x-J
 ### 案例教程
 
 
-
 https://www.youtube.com/watch?v=Pdd099gedlg&list=PLyE_9XasH04k9tWfZ0SXmHHwdquLHUSlF
-
 
 
 ### 项目教程
@@ -63,3 +61,7 @@ https://youtube.com/playlist?list=PLamdj_Nk5UaMjyvk4Zo3-0UoiZIQl6zn7&si=p9gVVceP
 **Roblox Doors Tutorial**
 
 https://youtube.com/playlist?list=PLtMUa6NlF10e1UqysaWEVAUDTFHdBBMtH&si=1P1M09OSUMhujEJ1
+
+
+# 小案例
+https://www.youtube.com/watch?v=2PWIWHVHjMw
