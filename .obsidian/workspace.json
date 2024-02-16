@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "b477bd524b53d83c",
+            "id": "954f7fb042a60fcf",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "a435e171a4219429",
+            "id": "6fe1a9ed5a75d6fa",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -192,7 +192,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c8353318b5e8f8c",
+  "active": "6fe1a9ed5a75d6fa",
   "lastOpenFiles": [
     "blogs/info/url/网站合集.md",
     "blogs/think/Untitled.md",
