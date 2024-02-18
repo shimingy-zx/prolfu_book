@@ -13,25 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
+                "file": "blogs/info/url/网站合集.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
-          {
-            "id": "ed6761a30e85199f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
+                "file": "blogs/info/url/网站合集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
+                "file": "blogs/info/url/网站合集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md"
+                "file": "blogs/info/url/网站合集.md"
               }
             }
           },
@@ -170,18 +159,18 @@
             }
           },
           {
-            "id": "6fe1a9ed5a75d6fa",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "3810e094cb998960",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c1d6c10d57aa400",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -203,8 +192,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3810e094cb998960",
+  "active": "9c8353318b5e8f8c",
   "lastOpenFiles": [
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
     "blogs/info/url/网站合集.md",
     "blogs/think/Untitled.md",
     "blogs/views/messageBoard.md",
@@ -231,7 +221,6 @@
     "blogs/Proflu/俱乐部/AI俱乐部/AI/20230402.md",
     "blogs/Proflu/HR/面试问题.md",
     "blogs/Proflu/HR/人员招募.md",
-    "blogs/Proflu/HR/实验室实习生流程.md",
     "zh/blogs/Proflu/俱乐部/元宇宙俱乐部",
     "zh/blogs/Proflu/俱乐部",
     "zh/blogs/Proflu",
