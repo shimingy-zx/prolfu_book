@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/info/meta/相关公司.md",
+                "file": "blogs/info/movies/精彩电影.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/info/meta/相关公司.md",
+                "file": "blogs/info/movies/精彩电影.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/info/meta/相关公司.md",
+                "file": "blogs/info/movies/精彩电影.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/info/meta/相关公司.md"
+                "file": "blogs/info/movies/精彩电影.md"
               }
             }
           },
@@ -159,18 +159,18 @@
             }
           },
           {
-            "id": "e8bf7ce804f6f18c",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "de2a2e9577c4fa9c",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "948fa0c4cee52359",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -192,8 +192,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fba660938c07a5f2",
+  "active": "948fa0c4cee52359",
   "lastOpenFiles": [
+    "blogs/info/meta/相关公司.md",
     "blogs/info/url/网站合集.md",
     "blogs/info/github/github优秀作者.md",
     "blogs/think/未命名.md",
@@ -229,7 +230,6 @@
     "blogs/design",
     "blogs/activity/20230819陈厂长.md",
     "blogs/activity/20230819陈厂长2.md",
-    "blogs/activity/20230402.md",
     "avatar.jpg",
     "blogs/other/如何为你的开源项目选择一个合适的开源协议？/1640431424035.png",
     "blogs/other/如何为你的开源项目选择一个合适的开源协议？/1640431385486.png",
