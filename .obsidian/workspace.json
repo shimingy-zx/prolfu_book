@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/info/url/网站合集.md",
+                "file": "blogs/CS/Git/Git协作.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "git协",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/info/url/网站合集.md",
+                "file": "blogs/CS/Git/Git协作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/info/url/网站合集.md",
+                "file": "blogs/CS/Git/Git协作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/info/url/网站合集.md"
+                "file": "blogs/CS/Git/Git协作.md"
               }
             }
           },
@@ -194,9 +195,9 @@
   },
   "active": "fba660938c07a5f2",
   "lastOpenFiles": [
+    "blogs/info/url/网站合集.md",
     "blogs/info/movies/精彩电影.md",
     "blogs/info/meta/相关公司.md",
-    "blogs/info/url/网站合集.md",
     "blogs/info/github/github优秀作者.md",
     "blogs/think/未命名.md",
     "blogs/think/如何看待孩子的叛逆.md",
