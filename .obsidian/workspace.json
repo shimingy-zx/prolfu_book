@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/Git/Git协作.md",
+                "file": "blogs/CS/node/Egg/Egg_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/Git/Git协作.md",
+                "file": "blogs/CS/node/Egg/Egg_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/Git/Git协作.md",
+                "file": "blogs/CS/node/Egg/Egg_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/Git/Git协作.md"
+                "file": "blogs/CS/node/Egg/Egg_reference.md"
               }
             }
           },
@@ -192,11 +192,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4cfcfc1ff43614aa",
+  "active": "fba660938c07a5f2",
   "lastOpenFiles": [
-    "blogs/CS/Git/Git_reference.md",
-    "blogs/info/rbac.md",
-    "blogs/CS/Git/Git协作.md",
     "blogs/info/url/网站合集.md",
     "blogs/info/movies/精彩电影.md",
     "blogs/info/meta/相关公司.md",
@@ -211,6 +208,7 @@
     "blogs/Proflu/俱乐部/AI俱乐部/AI/Instructions.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI/20230402.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI",
+    "blogs/CS/Git/Git协作.md",
     "blogs/交流/场长.md",
     "blogs/think/未命名 1.md",
     "blogs/info/财务/相关平台.md",
@@ -229,7 +227,9 @@
     "blogs/info/API自动化",
     "blogs/education/Untitled.md",
     "blogs/education",
+    "blogs/design/综述.md",
     "blogs/design",
+    "blogs/activity/20230819陈厂长.md",
     "avatar.jpg",
     "blogs/other/如何为你的开源项目选择一个合适的开源协议？/1640431424035.png",
     "blogs/other/如何为你的开源项目选择一个合适的开源协议？/1640431385486.png",
