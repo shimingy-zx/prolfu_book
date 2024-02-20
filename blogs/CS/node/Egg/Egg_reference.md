@@ -29,6 +29,7 @@ sidebar: 'auto'
 
 [wl05/AntEggBlogService: 🔥egg、mongodb、restful api、jwt (github.com)](https://github.com/wl05/AntEggBlogService)
 
+[lqsong/lqsblog-backend-nodejs-eggjs: 是一个Node.js API后端服务，它基于 Egg 实现（Egg + Sequelize + RBAC + Jwt（+ 自动刷新） + Restful）。 (github.com)](https://github.com/lqsong/lqsblog-backend-nodejs-eggjs)
 ## egg_email
 
 [(42条消息) eggjs 使用nodemailer发送邮件_jakysing的博客-CSDN博客](https://blog.csdn.net/yueyezhongpaihuai/article/details/86626875)
