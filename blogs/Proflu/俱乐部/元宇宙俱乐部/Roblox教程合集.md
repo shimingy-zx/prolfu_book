@@ -11,8 +11,8 @@ dateCreated: 2024-02-06T08:54:14.900Z
 
 ## Youtube教程
 
-如何寻找教程
-Google搜索YouTube，然后在搜索框搜索关键词：roblox studio tutorial
+如何寻找视频教程
+Google搜索YouTube，然后在搜索框搜索关键词：Roblox studio tutorial
 
 
 ### 基础教程
