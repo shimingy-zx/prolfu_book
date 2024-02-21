@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/node/Egg/Egg_reference.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/node/Egg/Egg_reference.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/node/Egg/Egg_reference.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/node/Egg/Egg_reference.md"
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md"
               }
             }
           },
@@ -175,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,6 +194,9 @@
   },
   "active": "fba660938c07a5f2",
   "lastOpenFiles": [
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+    "blogs/CS/node/Egg/Egg_reference.md",
     "blogs/info/url/网站合集.md",
     "blogs/info/movies/精彩电影.md",
     "blogs/info/meta/相关公司.md",
@@ -203,7 +206,6 @@
     "blogs/think/Untitled.md",
     "blogs/Proflu/自媒体/厂长.md",
     "blogs/Proflu/自媒体/20230819陈厂长2.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI/Untitled.ipynb",
     "blogs/Proflu/俱乐部/AI俱乐部/AI/Instructions.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI/20230402.md",
@@ -227,9 +229,7 @@
     "blogs/info/API自动化",
     "blogs/education/Untitled.md",
     "blogs/education",
-    "blogs/design/综述.md",
     "blogs/design",
-    "blogs/activity/20230819陈厂长.md",
     "avatar.jpg",
     "blogs/other/如何为你的开源项目选择一个合适的开源协议？/1640431424035.png",
     "blogs/other/如何为你的开源项目选择一个合适的开源协议？/1640431385486.png",
