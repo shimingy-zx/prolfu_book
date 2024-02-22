@@ -13,28 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b77453fa2a5633c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
+                "file": "blogs/Proflu/refer.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
+                "file": "blogs/Proflu/refer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
+                "file": "blogs/Proflu/refer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md"
+                "file": "blogs/Proflu/refer.md"
               }
             }
           },
@@ -206,36 +192,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9b77453fa2a5633c",
+  "active": "fba660938c07a5f2",
   "lastOpenFiles": [
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/英语熏陶目标拆解.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙训练营.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/OKR制定标准.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/常犯错误.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/目标拆解.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/科学上网.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/俱乐部介绍.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/关于OKR的几个思考.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/家长要求.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他/TTS_gui.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/AI_Robolx.md",
+    "blogs/think/路径.md",
+    "blogs/think/人不是教出来的，而是做出来的？.md",
+    "blogs/think/如何看待孩子的叛逆.md",
+    "blogs/think/杂记合集.md",
+    "blogs/think/对于人类现在智慧的思考.md",
+    "blogs/think/创业的过程就是一个不断解决新问题的过程.md",
+    "blogs/think/不用管以物质激励为孩子设立目标.md",
+    "blogs/think/Untitled.md",
+    "avatar.jpg",
+    "blogs/think/一个人在后天该如何提升自身的内在自信.md",
+    "blogs/think/未命名.md",
+    "blogs/Proflu/做项目中常见的问题.md",
+    "blogs/Proflu/综合.md",
+    "blogs/Proflu/孩子忍耐度的探讨.md",
+    "README.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/项目OKR.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/项目合集.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/杜瀚之/贪吃蛇项目.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/杜瀚之",
+    "logo.jpg",
+    "home.md",
+    "blogs/views/messageBoard.md",
+    "blogs/think/做局思维.md",
+    "blogs/think/在面试中的两个灵魂拷问.md",
+    "blogs/Proflu/refer.md",
+    "blogs/Proflu/俱乐部/数字俱乐部/Untitled.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/常犯错误.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/英语熏陶目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/实验室项目/实验室项目列表.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/实验室项目/实验室AI项目介绍.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
-    "blogs/CS/node/Egg/Egg_reference.md",
-    "blogs/info/url/网站合集.md",
-    "blogs/info/movies/精彩电影.md",
-    "blogs/info/meta/相关公司.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙训练营.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/同学项目/杜瀚之",
     "blogs/Proflu/俱乐部/AI俱乐部/AI/Untitled.ipynb",
     "blogs/Proflu/俱乐部/AI俱乐部/AI",
     "blogs/info/财务",
@@ -244,7 +231,6 @@
     "blogs/info/erp",
     "blogs/info/Rpa",
     "blogs/info/API自动化",
-    "avatar.jpg",
     "blogs/other/如何为你的开源项目选择一个合适的开源协议？/1640431424035.png",
     "blogs/other/如何为你的开源项目选择一个合适的开源协议？/1640431385486.png",
     "blogs/other/如何为你的开源项目选择一个合适的开源协议？/1635420482984.png",
