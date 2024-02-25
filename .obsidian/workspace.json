@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/常犯错误.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/英语熏陶目标拆解.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/常犯错误.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/英语熏陶目标拆解.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/常犯错误.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/英语熏陶目标拆解.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/常犯错误.md"
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/英语熏陶目标拆解.md"
               }
             }
           },
@@ -159,18 +159,18 @@
             }
           },
           {
-            "id": "7221629f9bf8d54a",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "0a05dcbafa120329",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "988e754aab9b5dbd",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -192,8 +192,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e290ef6183a7577",
+  "active": "988e754aab9b5dbd",
   "lastOpenFiles": [
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/常犯错误.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙入门/小案例合集.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/俱乐部介绍.md",
@@ -207,7 +208,6 @@
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/实验室项目/实验室AI项目介绍.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/实验室项目/实验室项目列表.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/家长要求.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/常犯错误.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/英语熏陶目标拆解.md",
     "blogs/Proflu/做项目中常见的问题.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙入门",
