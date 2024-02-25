@@ -76,3 +76,6 @@ sidebar: 'auto'
 
 ## 自动生成
 [GraphQL Designer](http://graphqldesigner.com/)
+
+
+[🦄 深入探讨 GraphQL 服务器的身份验证、授权和 RBAC |博客 (atulr.com)](https://blog.atulr.com/graphql-auth/#field-level-authorization)
