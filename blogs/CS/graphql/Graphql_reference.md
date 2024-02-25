@@ -72,3 +72,7 @@ sidebar: 'auto'
 [Relay](https://relay.dev/)
 
 [A complete guide to permissions in a GraphQL API - LogRocket Blog](https://blog.logrocket.com/a-complete-guide-to-permissions-in-a-graphql-api/)
+
+
+## 自动生成
+[GraphQL Designer](http://graphqldesigner.com/)
