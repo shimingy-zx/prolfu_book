@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "988e754aab9b5dbd",
+            "id": "c296c6eedbd7b0ef",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "843c308fe429e1e9",
+            "id": "ca755fd955370695",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -192,7 +192,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e290ef6183a7577",
+  "active": "ca755fd955370695",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/元宇宙俱乐部/英语熏陶目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/常犯错误.md",
