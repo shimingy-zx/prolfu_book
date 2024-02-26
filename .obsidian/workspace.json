@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/CS/graphql/Graphql_reference.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/graphql/Graphql_reference.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/graphql/Graphql_reference.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/CS/graphql/Graphql_reference.md"
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md"
               }
             }
           },
@@ -159,18 +159,18 @@
             }
           },
           {
-            "id": "ca755fd955370695",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "f1664441cf61481d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "88e626495596bfe6",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -192,8 +192,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f1664441cf61481d",
+  "active": "0e290ef6183a7577",
   "lastOpenFiles": [
+    "blogs/CS/graphql/Graphql_reference.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/英语熏陶目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/常犯错误.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙入门/小案例合集.md",
@@ -220,7 +221,6 @@
     "blogs/Proflu/案例手册/管理/OKR实践笔记.md",
     "blogs/Proflu/Theory/凭什么让别人给你股份.md",
     "blogs/Proflu/Theory/教育.md",
-    "blogs/Proflu/Theory/国字型培养方案.md",
     "avatar.jpg",
     "logo.jpg",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他",
