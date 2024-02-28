@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "bc00c99b2e2e8059",
+            "id": "d881ea2d62d53b7d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "cb583cf2393e2ea9",
+            "id": "2d0b77638bddd245",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -192,7 +192,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0e290ef6183a7577",
+  "active": "2d0b77638bddd245",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/数字俱乐部/Untitled.md",
     "blogs/Proflu/俱乐部/数字俱乐部/LulabWebsite/基础教程.md",
