@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "grapqhl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,7 +160,7 @@
             }
           },
           {
-            "id": "d881ea2d62d53b7d",
+            "id": "6a6c9528b6070c81",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -167,7 +168,7 @@
             }
           },
           {
-            "id": "2d0b77638bddd245",
+            "id": "e67d7c40c3b1827f",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -192,7 +193,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2d0b77638bddd245",
+  "active": "86d245fe26b08d5b",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/数字俱乐部/Untitled.md",
     "blogs/Proflu/俱乐部/数字俱乐部/LulabWebsite/基础教程.md",
