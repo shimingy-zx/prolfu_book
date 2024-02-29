@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/数字俱乐部/LulabWebsite/基础教程.md",
+                "file": "blogs/CS/graphql/Graphql_reference.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/数字俱乐部/LulabWebsite/基础教程.md",
+                "file": "blogs/CS/graphql/Graphql_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/数字俱乐部/LulabWebsite/基础教程.md",
+                "file": "blogs/CS/graphql/Graphql_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/数字俱乐部/LulabWebsite/基础教程.md"
+                "file": "blogs/CS/graphql/Graphql_reference.md"
               }
             }
           },
@@ -160,7 +159,7 @@
             }
           },
           {
-            "id": "6a6c9528b6070c81",
+            "id": "cb0e490a6f5fe608",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -168,7 +167,7 @@
             }
           },
           {
-            "id": "e67d7c40c3b1827f",
+            "id": "57e80cd2f9427547",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -193,10 +192,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "86d245fe26b08d5b",
+  "active": "57e80cd2f9427547",
   "lastOpenFiles": [
-    "blogs/Proflu/俱乐部/数字俱乐部/Untitled.md",
+    "blogs/CS/graphql/GraphQL_Shield.md",
     "blogs/Proflu/俱乐部/数字俱乐部/LulabWebsite/基础教程.md",
+    "blogs/Proflu/俱乐部/数字俱乐部/Untitled.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
     "blogs/Proflu/俱乐部/数字俱乐部/LulabWebsite",
     "blogs/CS/graphql/Graphql_reference.md",
@@ -222,7 +222,6 @@
     "blogs/Proflu/项目/亲子项目对于家长的要求.md",
     "blogs/Proflu/案例手册/管理/OKR.md",
     "blogs/Proflu/案例手册/人事/人事问题.md",
-    "blogs/Proflu/案例手册/管理/OKR实践笔记.md",
     "avatar.jpg",
     "logo.jpg",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他",
