@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f74d8a5dd4746fa",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +170,7 @@
             }
           },
           {
-            "id": "cb0e490a6f5fe608",
+            "id": "7cfc88686f839ff4",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -167,7 +178,7 @@
             }
           },
           {
-            "id": "57e80cd2f9427547",
+            "id": "8b1058ea4528039d",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -192,7 +203,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "57e80cd2f9427547",
+  "active": "8b1058ea4528039d",
   "lastOpenFiles": [
     "blogs/CS/graphql/GraphQL_Shield.md",
     "blogs/Proflu/俱乐部/数字俱乐部/LulabWebsite/基础教程.md",
