@@ -1,11 +1,11 @@
 ---
-title: Graphql学习参考文档
+fu: Graphql学习参考文档
 date: 2022-11-25
 categories:
- - Graphql
+  - Graphql
 tags:
- - refer
-sidebar: 'auto'
+  - refer
+sidebar: auto
 ---
 [官网：GraphQL | A query language for your API](https://graphql.cn/)
 

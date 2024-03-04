@@ -4,34 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "836b79dc416d369d",
+        "id": "500ace50a8ec7810",
         "type": "tabs",
         "children": [
           {
-            "id": "0e290ef6183a7577",
+            "id": "a2098f3e9132b2fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/CS/graphql/Graphql_reference.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f74d8a5dd4746fa",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/CS/graphql/Graphql_reference.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/CS/graphql/Graphql_reference.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "blogs/CS/graphql/Graphql_reference.md"
-              }
+              "state": {}
             }
           },
           {
@@ -203,18 +183,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b1058ea4528039d",
+  "active": "a2098f3e9132b2fa",
   "lastOpenFiles": [
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+    "blogs/CS/graphql/Grafuphql_reference.md",
     "blogs/CS/graphql/GraphQL_Shield.md",
     "blogs/Proflu/俱乐部/数字俱乐部/LulabWebsite/基础教程.md",
     "blogs/Proflu/俱乐部/数字俱乐部/Untitled.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
     "blogs/Proflu/俱乐部/数字俱乐部/LulabWebsite",
-    "blogs/CS/graphql/Graphql_reference.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/英语熏陶目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/常犯错误.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙入门/小案例合集.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/俱乐部介绍.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/科学上网.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/目标拆解.md",
