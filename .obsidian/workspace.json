@@ -11,8 +11,13 @@
             "id": "a2098f3e9132b2fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/基础案例.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/基础案例.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/基础案例.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/基础案例.md"
+              }
             }
           },
           {
@@ -183,14 +192,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d230b87ca145d2b9",
+  "active": "a2098f3e9132b2fa",
   "lastOpenFiles": [
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/基础案例.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
     "blogs/CS/graphql/Grafuphql_reference.md",
     "blogs/CS/graphql/GraphQL_Shield.md",
     "blogs/Proflu/俱乐部/数字俱乐部/LulabWebsite/基础教程.md",
     "blogs/Proflu/俱乐部/数字俱乐部/Untitled.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
     "blogs/Proflu/俱乐部/数字俱乐部/LulabWebsite",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/英语熏陶目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/常犯错误.md",
@@ -212,7 +222,6 @@
     "blogs/Proflu/项目/潜在项目.md",
     "blogs/Proflu/项目/亲子项目对于家长的要求.md",
     "blogs/Proflu/案例手册/管理/OKR.md",
-    "blogs/Proflu/案例手册/人事/人事问题.md",
     "avatar.jpg",
     "logo.jpg",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/其他",
