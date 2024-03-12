@@ -11,8 +11,13 @@
             "id": "f52fbf0348145ea2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/基础案例.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -154,18 +159,18 @@
             }
           },
           {
-            "id": "912a2a5c9dbdccf2",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "bfc9bff872cb071b",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "30d6d21970c0115d",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -187,7 +192,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bfc9bff872cb071b",
+  "active": "f52fbf0348145ea2",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/基础案例.md",
