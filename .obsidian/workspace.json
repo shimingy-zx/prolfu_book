@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/基础案例.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/基础案例.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/基础案例.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/基础案例.md"
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md"
               }
             }
           },
@@ -194,10 +194,11 @@
   },
   "active": "f52fbf0348145ea2",
   "lastOpenFiles": [
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/OKR制定.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/基础案例.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/家长要求.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/OKR制定.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
     "blogs/CS/graphql/Grafuphql_reference.md",
     "blogs/CS/graphql/GraphQL_Shield.md",
     "blogs/Proflu/俱乐部/数字俱乐部/LulabWebsite/基础教程.md",
@@ -214,7 +215,6 @@
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/实验室项目/实验室AI项目介绍.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/实验室项目/实验室项目列表.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/家长要求.md",
     "blogs/Proflu/做项目中常见的问题.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙入门",
     "blogs/Proflu/综合.md",
