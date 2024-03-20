@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5
+    "width": 227.5
   },
   "right": {
     "id": "9cab37b680999ac1",
@@ -159,18 +159,18 @@
             }
           },
           {
-            "id": "30d6d21970c0115d",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "f38a5ee795547482",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2079b9628f6c982",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -192,7 +192,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f38a5ee795547482",
+  "active": "d2079b9628f6c982",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
