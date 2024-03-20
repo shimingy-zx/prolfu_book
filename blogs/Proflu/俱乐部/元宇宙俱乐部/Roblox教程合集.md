@@ -17,22 +17,20 @@ Google搜索YouTube，然后在搜索框搜索关键词：Roblox studio tutorial
 
 ### 基础教程
 
-https://youtube.com/playlist?list=PLj77CXPwsZsJMP1dMPIPBCgZUhMgKXZUM&si=j_Yr2zFOia5zaEs_
-![企业微信20240206-172411@2x.png](/blogs/public/企业微信20240206-172411@2x.png)
-
-
+- 视频合集比较老
 https://youtube.com/playlist?list=PLmNH84ZCFHuQugzWTcigCEMhMz7VLGelf&si=A2p6-0-2SrpRNUa3
 ![企业微信20240206-171204@2x.png](/blogs/public/企业微信20240206-171204@2x.png)
 
-
+- 5年前的视频，比较老
 https://youtube.com/playlist?list=PLhieaQmOk7nIfMZ1UmvKGPrwuwQVwAvFa&si=0O21HBCXpew9pFWW
 ![企业微信20240206-174120@2x.png](/blogs/public/企业微信20240206-174120@2x.png)
 
-
+- 4年前的视频，比较老
 https://youtube.com/playlist?list=PLsbxI7NIoTth8CE_os8sog72YTMLPhDSf&si=ncz6ED0sqtEajN5t
 ![教程.png](/blogs/public/教程.png)
 
 
+- 2023年12月10日
 https://youtube.com/playlist?list=PLVBnT1wFRUJGh8isfHQgUtW9izJrjPH-A&si=I27hwzlH2OWomI5q
 ![企业微信20240206-173054@2x.png](/blogs/public/企业微信20240206-173054@2x.png)
 
