@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/综合基础案例.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 268.5
   },
   "right": {
     "id": "9cab37b680999ac1",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/综合基础案例.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/综合基础案例.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md"
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/综合基础案例.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "f38a5ee795547482",
+            "id": "cfa4b6ea7a7e5015",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "d2079b9628f6c982",
+            "id": "0cc9f02b19066ee5",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -192,12 +192,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d2079b9628f6c982",
+  "active": "f52fbf0348145ea2",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/基础案例.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/综合基础案例.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/家长要求.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/OKR制定.md",
     "blogs/CS/graphql/Grafuphql_reference.md",
