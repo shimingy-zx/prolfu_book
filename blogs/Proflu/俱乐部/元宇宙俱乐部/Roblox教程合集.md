@@ -49,6 +49,18 @@ https://youtube.com/playlist?list=PLfie92NjUDbgOf5oqckr8XOyqg_q5B5WT&si=LHcA6x-J
 
 https://www.youtube.com/watch?v=Pdd099gedlg&list=PLyE_9XasH04k9tWfZ0SXmHHwdquLHUSlF
 
+### 主播视频
+### youtube
+
+@Itz_FloppyFish
+https://www.youtube.com/@Itz_FloppyFish/videos
+
+@MonzterDEV
+https://www.youtube.com/@MonzterDEV/videos
+
+@GamerM8
+https://www.youtube.com/@GamerM8/videos
+
 
 ### 项目教程
 
@@ -63,3 +75,21 @@ https://youtube.com/playlist?list=PLtMUa6NlF10e1UqysaWEVAUDTFHdBBMtH&si=1P1M09OS
 
 # 小案例
 https://www.youtube.com/watch?v=2PWIWHVHjMw
+
+https://youtu.be/rsA6IuImvus?si=TLvvOThlAr1PrTx9
+
+https://youtu.be/fgiecMfWiv8?si=gzhV97NJMVgzaZ-c
+
+https://www.youtube.com/watch?v=s-910vGWpAQ
+
+https://www.youtube.com/playlist?list=PL_pGtHsOvhtwwhqISJGj7uR1_rH9ol4OG
+
+
+## 其他
+
+https://www.youtube.com/watch?v=qTqDY4JtFfo&list=PL14Yj-e2sgzxTXIRYH-J2_PWAZRMahfLb
+
+https://www.youtube.com/watch?v=3_TB6R_FeDE
+
+https://www.youtube.com/watch?v=X7CRKFFMewg
+
