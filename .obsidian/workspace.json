@@ -172,18 +172,18 @@
             }
           },
           {
-            "id": "0cc9f02b19066ee5",
+            "id": "7e609f828fad8c54",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-chat-view",
+              "type": "smart-connections-view",
               "state": {}
             }
           },
           {
-            "id": "90addc2fdfb79d6d",
+            "id": "50c3fec5255db200",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -205,7 +205,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "90addc2fdfb79d6d",
+  "active": "50c3fec5255db200",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/数字俱乐部/Lulab_LLM",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
