@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/实验室俱乐部管理规则.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65036743aa94d296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/实验室俱乐部管理规则.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/实验室俱乐部管理规则.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/实验室俱乐部管理规则.md"
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md"
               }
             }
           },
@@ -194,10 +207,11 @@
   },
   "active": "f29710b66257d1a2",
   "lastOpenFiles": [
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
     "blogs/Proflu/俱乐部/实验室俱乐部管理规则.md",
     "blogs/Proflu/电脑配置.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
     "blogs/info/url/网站合集.md",
     "blogs/info/经济数据分析.md",
     "blogs/info/rbac.md",
@@ -206,7 +220,6 @@
     "blogs/info/meta/相关公司.md",
     "blogs/info/github/github优秀作者.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/夏季训练营.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
     "blogs/Proflu/俱乐部/数字俱乐部/Lulab_LLM",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/家长要求.md",
