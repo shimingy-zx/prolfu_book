@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "bdcd94f051332a78",
+        "id": "5eeadcc763b23149",
         "type": "tabs",
         "children": [
           {
-            "id": "41072e4ee25e232c",
+            "id": "f29710b66257d1a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac8e48b5d9bf487e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/Proflu/俱乐部/俱乐部负责人职能.md",
+                "file": "blogs/Proflu/俱乐部/实验室俱乐部管理规则.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+                "file": "blogs/Proflu/俱乐部/实验室俱乐部管理规则.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+                "file": "blogs/Proflu/俱乐部/实验室俱乐部管理规则.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md"
+                "file": "blogs/Proflu/俱乐部/实验室俱乐部管理规则.md"
               }
             }
           },
@@ -173,18 +159,18 @@
             }
           },
           {
-            "id": "7ad6a9583d0fcd3d",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "6c82e646830f8d27",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e43cce0517b5e321",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -206,10 +192,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c82e646830f8d27",
+  "active": "f29710b66257d1a2",
   "lastOpenFiles": [
-    "blogs/Proflu/俱乐部/俱乐部负责人职能.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/对接文档.md",
+    "blogs/Proflu/俱乐部/实验室俱乐部管理规则.md",
     "blogs/Proflu/电脑配置.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
     "blogs/info/url/网站合集.md",
