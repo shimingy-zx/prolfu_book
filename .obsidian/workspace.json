@@ -19,19 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "65036743aa94d296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "元宇宙目/小案例合集.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -172,7 +159,7 @@
             }
           },
           {
-            "id": "e43cce0517b5e321",
+            "id": "1b27027e668541fe",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -180,7 +167,7 @@
             }
           },
           {
-            "id": "4de4bb5331b001c3",
+            "id": "d5d8ca51f8d55536",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -205,7 +192,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4de4bb5331b001c3",
+  "active": "d5d8ca51f8d55536",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/小案例合集.md",
     "元宇宙目/小案例合集.md",
