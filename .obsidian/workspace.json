@@ -172,18 +172,18 @@
             }
           },
           {
-            "id": "6c82e646830f8d27",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "e43cce0517b5e321",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4de4bb5331b001c3",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -205,7 +205,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f29710b66257d1a2",
+  "active": "4de4bb5331b001c3",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/小案例合集.md",
     "元宇宙目/小案例合集.md",
