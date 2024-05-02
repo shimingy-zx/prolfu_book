@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "1b27027e668541fe",
+            "id": "73d5ad78b5ad28bb",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "d5d8ca51f8d55536",
+            "id": "63f72ec9a5f38c05",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -192,7 +192,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5d8ca51f8d55536",
+  "active": "63f72ec9a5f38c05",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/小案例合集.md",
     "元宇宙目/小案例合集.md",
