@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI外教/coze_AI待解决的问题.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI外教/coze_AI待解决的问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI外教/coze_AI待解决的问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md"
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI外教/coze_AI待解决的问题.md"
               }
             }
           },
@@ -172,18 +172,18 @@
             }
           },
           {
-            "id": "1b09ce33c9788521",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "c83330dce637a6c8",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "66f3ccd034971a51",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -205,11 +205,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c83330dce637a6c8",
+  "active": "f29710b66257d1a2",
   "lastOpenFiles": [
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/AI/20230402.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/AI外教/待解决的问题.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/AI外教/coze_AI待解决的问题.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI外教",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/小案例合集.md",
     "元宇宙目/小案例合集.md",
@@ -227,7 +229,6 @@
     "blogs/info/github/github优秀作者.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/夏季训练营.md",
     "blogs/Proflu/俱乐部/数字俱乐部/Lulab_LLM",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/家长要求.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/俱乐部介绍.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/科学上网.md",
@@ -236,7 +237,6 @@
     "blogs/CS/graphql/Grafuphql_reference.md",
     "blogs/CS/graphql/GraphQL_Shield.md",
     "blogs/Proflu/俱乐部/数字俱乐部/LulabWebsite/基础教程.md",
-    "blogs/Proflu/俱乐部/数字俱乐部/Untitled.md",
     "blogs/Proflu/俱乐部/数字俱乐部/LulabWebsite",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙入门",
     "avatar.jpg",
