@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/数字俱乐部/Nest/参考项目.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/小案例合集.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,19 +21,46 @@
             }
           },
           {
-            "id": "368b9cc362873e35",
+            "id": "14aeddae2df3aba2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
+                "file": "元宇宙目/小案例合集.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5f463466f537be9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9b8235fb8d85511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "元宇宙目/小案例合集.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/数字俱乐部/Nest/参考项目.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/数字俱乐部/Nest/参考项目.md",
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/数字俱乐部/Nest/参考项目.md"
+                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md"
               }
             }
           },
@@ -205,22 +232,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f29710b66257d1a2",
+  "active": "c5f463466f537be9",
   "lastOpenFiles": [
+    "元宇宙目/小案例合集.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/小案例合集.md",
+    "元宇宙目",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
     "blogs/Proflu/俱乐部/数字俱乐部/Nest/参考项目.md",
     "blogs/Proflu/俱乐部/数字俱乐部/Nest",
     "blogs/Proflu/俱乐部/AI俱乐部/AI外教/coze_AI待解决的问题.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI/20230402.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/项目概要.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI外教",
-    "元宇宙目/小案例合集.md",
-    "元宇宙目",
     "blogs/Proflu/俱乐部/Roblox项目俱乐部",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
     "blogs/Proflu/俱乐部/实验室俱乐部管理规则.md",
     "blogs/Proflu/电脑配置.md",
     "blogs/info/url/网站合集.md",
@@ -237,7 +264,6 @@
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/科学上网.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/综合基础案例.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/OKR制定.md",
-    "blogs/CS/graphql/Grafuphql_reference.md",
     "blogs/Proflu/俱乐部/数字俱乐部/LulabWebsite",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙入门",
     "avatar.jpg",
