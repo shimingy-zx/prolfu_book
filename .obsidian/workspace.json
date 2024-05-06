@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/数字俱乐部/低代码平台/低代码平台参考.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/CozeAI客服.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/数字俱乐部/低代码平台/低代码平台参考.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/CozeAI客服.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/数字俱乐部/低代码平台/低代码平台参考.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/CozeAI客服.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/数字俱乐部/低代码平台/低代码平台参考.md"
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/CozeAI客服.md"
               }
             }
           },
@@ -194,8 +194,12 @@
   },
   "active": "12bfcbc4024b89e9",
   "lastOpenFiles": [
-    "blogs/Proflu/俱乐部/数字俱乐部/技术参考.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM参考文档.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/CozeAI客服.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/项目概要.md",
     "blogs/Proflu/俱乐部/数字俱乐部/低代码平台/低代码平台参考.md",
+    "blogs/Proflu/俱乐部/数字俱乐部/技术参考.md",
     "blogs/Proflu/俱乐部/数字俱乐部/低代码平台",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/小案例合集.md",
     "元宇宙目/小案例合集.md",
@@ -207,7 +211,6 @@
     "blogs/Proflu/俱乐部/数字俱乐部/Nest",
     "blogs/Proflu/俱乐部/AI俱乐部/AI外教/coze_AI待解决的问题.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI/20230402.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/项目概要.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI外教",
     "blogs/Proflu/俱乐部/Roblox项目俱乐部",
@@ -223,9 +226,6 @@
     "blogs/Proflu/俱乐部/元宇宙俱乐部/夏季训练营.md",
     "blogs/Proflu/俱乐部/数字俱乐部/Lulab_LLM",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/家长要求.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/俱乐部介绍.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/科学上网.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/综合基础案例.md",
     "blogs/Proflu/俱乐部/数字俱乐部/LulabWebsite",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙入门",
     "avatar.jpg",
