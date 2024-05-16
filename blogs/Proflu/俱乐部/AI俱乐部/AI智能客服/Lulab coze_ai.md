@@ -4,17 +4,17 @@
 让AI能回答实验室各个场景下产生的问题
 - 应用场景
 	- 客服场景
-		- 企业微信沟通
+		- 企业微信群对接
+			- 技术方案
+				- 对接方案
+					- 开源方案：[gallonyin/worktool: 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT (github.com)](https://github.com/gallonyin/worktool)
+					- 句子互动
+					- RPA开发
 			- 后端AI：coze
 				- api教程文档
 					- https://bytedance.sg.larkoffice.com/docx/PuA0dHcdIoPBAKxBa7YlJJLkgdc
 				- 数据清理
 				- 流程设计
-			- 对接企业微信
-				- 对接方案
-					- 开源方案：[gallonyin/worktool: 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT (github.com)](https://github.com/gallonyin/worktool)
-					- 句子互动
-					- RPA开发
 		- 用户意图识别
 			- 人工客服对接
 				- 参考资料
