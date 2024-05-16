@@ -1,4 +1,3 @@
-## 开源项目
 [LlamaIndex 🦙 0.7.11.post1 (gpt-index.readthedocs.io)](https://gpt-index.readthedocs.io/en/latest/index.html)
 
 [基于GPT4+Llamaindex+LangChain搭建本地知识库AI机器人-千度百科 (wblkc.com)](https://www.wblkc.com/68450.html)

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/Lulab CozeAI客服.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/Lulab CozeAI客服.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/Lulab CozeAI客服.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/Lulab CozeAI客服.md"
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md"
               }
             }
           },
@@ -247,13 +247,13 @@
   },
   "active": "93db2e96e455ffe1",
   "lastOpenFiles": [
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/Lulab CozeAI客服.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/小案例合集.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/Lulab CozeAI客服.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/项目概要.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM参考文档.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/项目目标拆解.md",
     "元宇宙目/小案例合集.md",
     "元宇宙目",
