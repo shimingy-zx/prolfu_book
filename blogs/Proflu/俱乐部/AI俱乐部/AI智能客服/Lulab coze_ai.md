@@ -9,7 +9,7 @@
 				- 对接方案
 					- 开源方案：[gallonyin/worktool: 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT (github.com)](https://github.com/gallonyin/worktool)
 					- 句子互动 : [Wechaty Puppet Service WorkPro 发布公告 | Wechaty](https://wechaty.js.org/2022/12/23/introducing-workpro-puppet/)
-					- RPA开发
+					- RPA开发：
 			- 后端AI：coze
 				- api教程文档
 					- https://bytedance.sg.larkoffice.com/docx/PuA0dHcdIoPBAKxBa7YlJJLkgdc
