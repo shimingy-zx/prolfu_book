@@ -14,11 +14,12 @@
 					- 句子互动 : [Wechaty Puppet Service WorkPro 发布公告 | Wechaty](https://wechaty.js.org/2022/12/23/introducing-workpro-puppet/)
 					- RPA开发
 						- 影刀RPA
-			- 后端AI：coze
-				- api教程文档
-					- https://bytedance.sg.larkoffice.com/docx/PuA0dHcdIoPBAKxBa7YlJJLkgdc
-				- 数据清理
-				- 流程设计
+			- 后端AI
+				- coze
+					- api教程文档
+						- https://bytedance.sg.larkoffice.com/docx/PuA0dHcdIoPBAKxBa7YlJJLkgdc
+					- 数据清理
+					- 流程设计
 		- 用户意图识别
 			- 人工客服对接
 				- 参考资料
