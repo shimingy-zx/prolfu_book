@@ -159,18 +159,18 @@
             }
           },
           {
-            "id": "f81e20c60a0d7f11",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "69d4c73d1b8431a7",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "243120894ba3db35",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -192,7 +192,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b222cbbdd00045a0",
+  "active": "243120894ba3db35",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/Lulab coze_ai.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
