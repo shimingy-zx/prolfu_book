@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/项目概要.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/Lulab coze_ai.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/项目概要.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/Lulab coze_ai.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/项目概要.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/Lulab coze_ai.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/项目概要.md"
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/Lulab coze_ai.md"
               }
             }
           },
@@ -159,18 +159,18 @@
             }
           },
           {
-            "id": "69d4c73d1b8431a7",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "243120894ba3db35",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4354e5a64254a837",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -192,11 +192,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "243120894ba3db35",
+  "active": "b222cbbdd00045a0",
   "lastOpenFiles": [
+    "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/项目概要.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/Lulab coze_ai.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/AI智能客服/项目概要.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI外教/coze_AI待解决的问题.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md",
