@@ -14,6 +14,12 @@
 					- 句子互动 : [Wechaty Puppet Service WorkPro 发布公告 | Wechaty](https://wechaty.js.org/2022/12/23/introducing-workpro-puppet/)
 					- RPA开发
 						- 影刀RPA
+					- 云函数
+						- 腾讯云函数
+							- 框架express
+							- 框架flask
+						- 实现功能
+							- 1:worktool回调接口（接受用户问题）
 			- 后端AI
 				- coze
 					- api教程文档
