@@ -159,18 +159,18 @@
             }
           },
           {
-            "id": "4354e5a64254a837",
+            "id": "11cabef64b444739",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-chat-view",
+              "type": "smart-connections-view",
               "state": {}
             }
           },
           {
-            "id": "198e34a9a3809ed0",
+            "id": "6da454a1edcfc7ac",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -192,10 +192,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "198e34a9a3809ed0",
+  "active": "6da454a1edcfc7ac",
   "lastOpenFiles": [
-    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md",
+    "元宇宙目/小案例合集.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab_通用型AI.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/项目概要.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI外教/coze_AI待解决的问题.md",
@@ -205,7 +206,6 @@
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/基础案例.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/小案例合集.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/项目目标拆解.md",
-    "元宇宙目/小案例合集.md",
     "元宇宙目",
     "blogs/Proflu/俱乐部/数字俱乐部/低代码平台/低代码平台参考.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/元宇宙AI项目/参考资料.md",
