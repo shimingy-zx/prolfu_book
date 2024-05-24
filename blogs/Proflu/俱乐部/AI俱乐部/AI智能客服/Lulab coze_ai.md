@@ -6,20 +6,31 @@
 	- 客服场景
 		- 企业微信群对接
 			- 技术方案
-				- 对接方案
-					- 开源方案
-						- Worktool:[gallonyin/worktool: 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT (github.com)](https://github.com/gallonyin/worktool)
+				- worktool开源方案
+					- 方案说明
+						- worktool开源方案
+							- Worktool用于控制企业微信收发信息
+							- 云手机平台选择VMOS，用于在云端稳定运行Worktool的apk软件，
+						- 句子互动 : [Wechaty Puppet Service WorkPro 发布公告 | Wechaty](https://wechaty.js.org/2022/12/23/introducing-workpro-puppet/)
+						- RPA开发
+							- 影刀RPA
+					- 参考资料
+						- worktool
+							- github：[gallonyin/worktool: 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT (github.com)](https://github.com/gallonyin/worktool)
+							- api文档：[快速入门 - 企微WorkTool API (apifox.cn)](https://worktool.apifox.cn/)
+							- 控制台：[WorkTool管理系统 (ymdyes.cn)](https://admin.worktool.ymdyes.cn/login?redirect=%2Findex)
+						- 内网穿透
+							-  cpolar
+								- 官网：[cpolar - secure introspectable tunnels to localhost](https://dashboard.cpolar.com/)
+						- 云函数
+							- 腾讯云函数
+								- 链接[云函数_无服务器 _无服务器函数计算 (tencent.com)](https://cloud.tencent.com/product/scf)
+								- 框架express
+								- 框架flask
+							- 实现功能
+								- 1:worktool回调接口（接受用户问题）
 						- 云手机平台
-							- VMOS
-					- 句子互动 : [Wechaty Puppet Service WorkPro 发布公告 | Wechaty](https://wechaty.js.org/2022/12/23/introducing-workpro-puppet/)
-					- RPA开发
-						- 影刀RPA
-					- 云函数
-						- 腾讯云函数
-							- 框架express
-							- 框架flask
-						- 实现功能
-							- 1:worktool回调接口（接受用户问题）
+							- VMOS：[VMOS官方网站-虚拟大师-安卓手游模拟器-本地虚拟手机](https://www.vmos.cn/)
 			- 后端AI
 				- coze
 					- api教程文档
