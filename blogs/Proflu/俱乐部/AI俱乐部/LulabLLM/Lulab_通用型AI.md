@@ -26,6 +26,8 @@
 							- 后端的作用？
 								- 用于接收worktool信息接口回调，接受到信息回调后带着问题去请求实验室相关的额AI智能体，最后调用worktool的信息发送接口把AI回复的信息发送至企业微信。
 					- 参考资料
+						- 后端github
+							- 
 						- worktool
 							- github：[gallonyin/worktool: 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT (github.com)](https://github.com/gallonyin/worktool)
 							- api文档：[快速入门 - 企微WorkTool API (apifox.cn)](https://worktool.apifox.cn/)
@@ -82,3 +84,4 @@
 			- 人工客服对接
 				- 参考资料
 					- 图床：[PICUI - PICUI图床](https://picui.cn/)
+## 技术难题
