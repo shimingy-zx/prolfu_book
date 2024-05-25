@@ -72,6 +72,12 @@
 
 ### 现成商业平台
 
+
+会议记录
+[Welcome - Fireflies.ai](https://app.fireflies.ai/)
+
+[Noty.ai](https://app.noty.ai/workspace/e54dea7f-e23a-4870-a4c7-9fc14c342ce0/folders)
+
 #### AI智能体
 
 **COZE**
