@@ -159,18 +159,18 @@
             }
           },
           {
-            "id": "11cabef64b444739",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "6da454a1edcfc7ac",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "12b1247df38c1b3e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -192,7 +192,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b222cbbdd00045a0",
+  "active": "12b1247df38c1b3e",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab_通用型AI.md",
     "blogs/Proflu/俱乐部/AI俱乐部/Vercel部署Node.js Express项目.md",
