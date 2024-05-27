@@ -18,12 +18,20 @@
 						- AI接口
 							- 目前用COZE国内版，根据技术发展进行迭代。
 						- 后端说明
-							- 为什么选择腾讯云函数？
-								- 方便，免费，轻便。
-							- 为什么选择express框架？
-								- 轻量
-								- 也可以选择python的falsk，取决于各位开发者对框架的熟悉程度
-							- 后端的作用？
+							- 部署方案
+								- 腾讯云函数
+									- 为什么选择腾讯云函数？
+										- 方便，免费，轻便。
+								- 服务器部署
+								- docker部署
+									- 
+								- Vercel部署
+									- [Vercel CLI Overview](https://vercel.com/docs/cli)
+							- 框架选择
+								- 为什么选择express框架？
+									- 轻量
+									- 也可以选择python的falsk，取决于各位开发者对框架的熟悉程度
+							- 后端作用
 								- 用于接收worktool信息接口回调，接受到信息回调后带着问题去请求实验室相关的额AI智能体，最后调用worktool的信息发送接口把AI回复的信息发送至企业微信。
 					- 参考资料
 						- 后端github项目地址
@@ -38,6 +46,8 @@
 						- 云函数
 							- 腾讯云函数
 								- 链接：[云函数_无服务器 _无服务器函数计算 (tencent.com)](https://cloud.tencent.com/product/scf)
+						- API网关
+							- 腾讯云API网关：[API 网关简介_API 网关购买指南_API 网关操作指南-腾讯云 (tencent.com)](https://cloud.tencent.com/document/product/628)
 						- 云手机平台
 							- VMOS：[VMOS官方网站-虚拟大师-安卓手游模拟器-本地虚拟手机](https://www.vmos.cn/)
 						- 域名解析
