@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/Vercel部署Node.js Express项目.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab_通用型AI.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/Vercel部署Node.js Express项目.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab_通用型AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/Vercel部署Node.js Express项目.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab_通用型AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/Vercel部署Node.js Express项目.md"
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab_通用型AI.md"
               }
             }
           },
@@ -159,18 +159,18 @@
             }
           },
           {
-            "id": "6da454a1edcfc7ac",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "12b1247df38c1b3e",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5779a392e6ed62d3",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -192,10 +192,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "12b1247df38c1b3e",
+  "active": "b222cbbdd00045a0",
   "lastOpenFiles": [
-    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab_通用型AI.md",
     "blogs/Proflu/俱乐部/AI俱乐部/Vercel部署Node.js Express项目.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab_通用型AI.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md",
     "blogs/Proflu/Theory/游戏和编程该如何平衡.md",
     "元宇宙目/小案例合集.md",

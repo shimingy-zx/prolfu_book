@@ -40,6 +40,8 @@
 								- 链接：[云函数_无服务器 _无服务器函数计算 (tencent.com)](https://cloud.tencent.com/product/scf)
 						- 云手机平台
 							- VMOS：[VMOS官方网站-虚拟大师-安卓手游模拟器-本地虚拟手机](https://www.vmos.cn/)
+						- 域名解析
+							- 阿里云域名解析：[如何添加域名解析记录_公网权威解析_云解析DNS(DNS)-阿里云帮助中心 (aliyun.com)](https://help.aliyun.com/zh/dns/add-a-dns-record?spm=a2c1d.8251892.help.dexternal.575c5b76a6jXBL)
 				- 句子互动对接方案
 					- 参考材料：
 						- 句子互动： [Wechaty Puppet Service WorkPro 发布公告 | Wechaty](https://wechaty.js.org/2022/12/23/introducing-workpro-puppet/)
