@@ -46,6 +46,8 @@
 						- 云函数
 							- 腾讯云函数
 								- 链接：[云函数_无服务器 _无服务器函数计算 (tencent.com)](https://cloud.tencent.com/product/scf)
+							- 如果需要在云函数执行一些长耗时的处理怎么办？
+								- [云开发 CloudBase 云函数相关问题-常见问题-文档中心-腾讯云 (tencent.com)](https://cloud.tencent.com/document/product/876/18435)
 						- API网关
 							- 腾讯云API网关：[API 网关简介_API 网关购买指南_API 网关操作指南-腾讯云 (tencent.com)](https://cloud.tencent.com/document/product/628)
 						- 云手机平台
