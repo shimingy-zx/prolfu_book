@@ -46,6 +46,9 @@
 						- 云函数
 							- 腾讯云函数
 								- 链接：[云函数_无服务器 _无服务器函数计算 (tencent.com)](https://cloud.tencent.com/product/scf)
+							- 功能限制
+								- 在腾讯云标准环境下，仅 `/tmp` 目录可读可写，输出文件时请注意选择 `/tmp` 路径，否则会导致服务因缺少写权限而异常退出。
+								- 链接：[云函数 函数概述-操作指南-文档中心-腾讯云 (tencent.com)](https://cloud.tencent.com/document/product/583/56124)
 							- 如果需要在云函数执行一些长耗时的处理怎么办？
 								- [云开发 CloudBase 云函数相关问题-常见问题-文档中心-腾讯云 (tencent.com)](https://cloud.tencent.com/document/product/876/18435)
 						- API网关
