@@ -34,6 +34,8 @@
 							- 后端作用
 								- 用于接收worktool信息接口回调，接受到信息回调后带着问题去请求实验室相关的额AI智能体，最后调用worktool的信息发送接口把AI回复的信息发送至企业微信。
 					- 参考资料
+						- express
+							- 教程：[Express概述_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1yN4y1S7xU?p=1)
 						- 后端github项目地址
 							- [shimingy-zx/wecom_worktool_backend (github.com)](https://github.com/shimingy-zx/wecom_worktool_backend/tree/main)
 						- worktool
@@ -57,8 +59,6 @@
 							- VMOS：[VMOS官方网站-虚拟大师-安卓手游模拟器-本地虚拟手机](https://www.vmos.cn/)
 						- 安卓虚拟机
 							- docker
-								- [remote-android/redroid-doc: redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here (github.com)](https://github.com/remote-android/redroid-doc)
-								- [budtmo/docker-android: Android in docker solution with noVNC supported and video recording (github.com)](https://github.com/budtmo/docker-android?tab=readme-ov-file)
 						- 域名解析
 							- 阿里云域名解析：[如何添加域名解析记录_公网权威解析_云解析DNS(DNS)-阿里云帮助中心 (aliyun.com)](https://help.aliyun.com/zh/dns/add-a-dns-record?spm=a2c1d.8251892.help.dexternal.575c5b76a6jXBL)
 				- 句子互动对接方案

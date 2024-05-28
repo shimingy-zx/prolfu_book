@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a7543b93647791ed",
+        "id": "c4e6f10760ab78ca",
         "type": "tabs",
         "children": [
           {
-            "id": "b222cbbdd00045a0",
+            "id": "e91baac4bd3dd248",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -192,10 +192,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b222cbbdd00045a0",
+  "active": "e91baac4bd3dd248",
   "lastOpenFiles": [
-    "blogs/Proflu/俱乐部/AI俱乐部/Vercel部署Node.js Express项目.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab_通用型AI.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/Vercel部署Node.js Express项目.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md",
     "blogs/Proflu/Theory/游戏和编程该如何平衡.md",
     "元宇宙目/小案例合集.md",
