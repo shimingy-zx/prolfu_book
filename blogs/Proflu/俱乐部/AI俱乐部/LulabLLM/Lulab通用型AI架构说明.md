@@ -1,0 +1,169 @@
+
+## 目标
+
+做一个陆向谦实验室专属于每个人的太子洗马通用型AI
+
+
+## 参考资料
+
+- 应用场景
+	- 实验室客服
+		- 企业微信（群）对接
+			- 场景说明
+			- 技术方案
+				- worktool开源方案
+					- 方案说明
+						- worktool作用
+							- Worktool用于控制企业微信收发信息
+							- 云手机平台选择VMOS，用于在云端稳定运行Worktool的apk软件。
+						- AI接口
+							- 目前用COZE国内版，根据技术发展进行迭代。
+						- 后端说明
+							- 部署方案
+								- 腾讯云函数
+									- 为什么选择腾讯云函数？
+										- 方便，免费，轻便。
+								- 服务器部署
+									- 本机环境部署，依赖node.js
+									- docker部署
+										- 互联网搜索express如何在docker部署
+								- Vercel部署
+									- [Vercel CLI Overview](https://vercel.com/docs/cli)
+							- 框架选择
+								- 为什么选择express框架？
+									- 轻量
+									- 也可以选择python的falsk，取决于各位开发者对框架的熟悉程度
+							- 后端作用
+								- 用于接收worktool信息接口回调，接受到信息回调后带着问题去请求实验室相关的额AI智能体，最后调用worktool的信息发送接口把AI回复的信息发送至企业微信。
+								- 后续可开发WSS接口，可直接对接前端自编译版本的worktool。
+					- 参考资料
+						- express
+							- 教程：[Express概述_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1yN4y1S7xU?p=1)
+						- 后端github项目
+							- [shimingy-zx/wecom_worktool_backend (github.com)](https://github.com/shimingy-zx/wecom_worktool_backend/tree/main)
+						- worktool
+							- github：[gallonyin/worktool: 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT (github.com)](https://github.com/gallonyin/worktool)
+							- api文档：[快速入门 - 企微WorkTool API (apifox.cn)](https://worktool.apifox.cn/)
+							- 控制台：[WorkTool管理系统 (ymdyes.cn)](https://admin.worktool.ymdyes.cn/login?redirect=%2Findex)
+						- 内网穿透
+							-  cpolar
+								- 官网：[cpolar - secure introspectable tunnels to localhost](https://dashboard.cpolar.com/)
+						- 腾讯云
+							- 云函数
+								- 腾讯云函数
+									- 链接：[云函数_无服务器 _无服务器函数计算 (tencent.com)](https://cloud.tencent.com/product/scf)
+								- 功能限制
+									- 在腾讯云标准环境下，仅 `/tmp` 目录可读可写，输出文件时请注意选择 `/tmp` 路径，否则会导致服务因缺少写权限而异常退出。
+									- 链接：[云函数 函数概述-操作指南-文档中心-腾讯云 (tencent.com)](https://cloud.tencent.com/document/product/583/56124)
+								- 如果需要在云函数执行一些长耗时的处理怎么办？
+									- [云开发 CloudBase 云函数相关问题-常见问题-文档中心-腾讯云 (tencent.com)](https://cloud.tencent.com/document/product/876/18435)
+							- API网关
+								- 腾讯云API网关：[API 网关简介_API 网关购买指南_API 网关操作指南-腾讯云 (tencent.com)](https://cloud.tencent.com/document/product/628)
+						- 云手机平台
+							- VMOS：[VMOS官方网站-虚拟大师-安卓手游模拟器-本地虚拟手机](https://www.vmos.cn/)
+						- 安卓虚拟机
+							- docker
+								- docker-android：[budtmo/docker-android: Android in docker solution with noVNC supported and video recording (github.com)](https://github.com/budtmo/docker-android)
+								- redroid-doc：[remote-android/redroid-doc: redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here (github.com)](https://github.com/remote-android/redroid-doc)
+						- 域名解析
+							- 阿里云域名解析：[如何添加域名解析记录_公网权威解析_云解析DNS(DNS)-阿里云帮助中心 (aliyun.com)](https://help.aliyun.com/zh/dns/add-a-dns-record?spm=a2c1d.8251892.help.dexternal.575c5b76a6jXBL)
+				- 句子互动对接方案
+					- 参考材料：
+						- 句子互动： [Wechaty Puppet Service WorkPro 发布公告 | Wechaty](https://wechaty.js.org/2022/12/23/introducing-workpro-puppet/)
+				- RPA开发对接方案
+					- 参考材料
+						- 影刀RPA：[影刀RPA - 影刀官网 (yingdao.com)](https://www.yingdao.com/
+	- 直播评论区AI
+		- 抖音直播间
+		- 视频号直播间
+		- 小红书直播间
+	- 官网网站
+		- 主页客服
+	- APP
+- 数据训练
+	- 问答数据
+		- 俱乐部问答数据
+			- 数字俱乐部
+			- 元宇宙俱乐部
+			- AI俱乐部
+			- 营销俱乐部
+			- 。。。
+		- 短视频问答数据
+		- 。。。
+	- 非结构化数据
+		- 企业知识文档
+		- 课程数据
+		- 。。。
+	- 其他数据
+		- 会议记录数据
+		- 客户对接数据
+	- 附加功能
+		- 联网查询信息
+		- 特定情况下回复相关图片
+- AI技术
+	- 功能性AI
+		- 会议记录分析
+				- [Noty.ai](https://app.noty.ai/workspace/e54dea7f-e23a-4870-a4c7-9fc14c342ce0/folders)
+				- [Welcome - Fireflies.ai](https://app.fireflies.ai/)
+	- 相关平台
+		- COZE
+			- 实验室AI客服
+				- 功能开发
+					- 用户提示词
+						-  参考文章[陆向谦实验室AI客服提示词](../AI提示词/陆向谦实验室AI客服提示词.md)
+					- 知识库
+						- 问答类数据训练及其调用
+						- 文档类数据的当训练及其调用
+					- 工作流实现功能
+						- 主要功能
+							- 意图识别
+								- 可根据用户问题进行意图识别，分别做不同处理
+									- 当用户需要人工服务时，可对接人工客服
+									- 。。。
+							- 联网搜索
+								- 搜索引擎搜索
+								- 其他相关平台搜索
+								- 。。。
+					- 其他功能
+						- 根据需要返回图片
+			- 参考资料
+				- 官网
+					- 国内：[扣子 (coze.cn)](https://www.coze.cn/)
+					- 国外：[Coze](https://www.coze.com/)
+				- 使用文档：[扣子 - 文档中心 (coze.cn)](https://www.coze.cn/docs/guides/welcome)
+				- api文档：[快速开始 - 扣子 (coze.cn)](https://www.coze.cn/open)
+				- 免费图床：[PICUI - PICUI图床](https://picui.cn/)
+		- Dify
+		- 会议记录AI
+			- [Noty.ai](https://app.noty.ai/workspace/e54dea7f-e23a-4870-a4c7-9fc14c342ce0/folders)
+			- [Welcome - Fireflies.ai](https://app.fireflies.ai/)
+	- 开源技术框架
+		- 参考资料
+			- LangChain [Introduction | 🦜️🔗 Langchain](https://python.langchain.com/docs/get_started/introduction.html)
+			- Llamalndex：[LlamaIndex 🦙 0.7.11.post1 (gpt-index.readthedocs.io)](https://gpt-index.readthedocs.io/en/latest/index.html)
+	- 大语言模型平台
+		- 参考资料
+			- openai
+			- monshot
+			- 智谱AI
+				- [智谱AI开放平台 (bigmodel.cn)](https://open.bigmodel.cn/)
+	- 向量数据库（Vector Database）
+		- 参考资料
+			- Milvus
+				- 官网：[Vector database - Milvus](https://milvus.io/)
+				- 可视化：[zilliztech/attu: Milvus management GUI (github.com)](https://github.com/zilliztech/attu)
+				- 数据备份：[Milvus Backup Milvus documentation](https://milvus.io/docs/milvus_backup_overview.md)
+			- 其他
+				- 相关文章：[Emerging Architectures for LLM Applications | Andreessen Horowitz (a16z.com)](https://a16z.com/emerging-architectures-for-llm-applications/)
+	- NoSql
+		- 参考资料
+			- MongoDB
+				- 官网：[MongoDB：应用程序数据平台 | MongoDB](https://www.mongodb.com/zh-cn)
+
+
+
+
+
+
+
+
