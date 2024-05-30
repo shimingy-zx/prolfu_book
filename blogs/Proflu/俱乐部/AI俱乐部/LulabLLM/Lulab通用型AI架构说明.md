@@ -132,7 +132,9 @@
 					- 国外：[Coze](https://www.coze.com/)
 				- 使用文档：[扣子 - 文档中心 (coze.cn)](https://www.coze.cn/docs/guides/welcome)
 				- api文档：[快速开始 - 扣子 (coze.cn)](https://www.coze.cn/open)
-				- 免费图床：[PICUI - PICUI图床](https://picui.cn/)
+				- 免费图床
+					- [ImgTP - 免费公共图床](https://www.imgtp.com/)
+					- [PICUI - PICUI图床](https://picui.cn/)
 		- Dify
 		- 会议记录AI
 			- [Noty.ai](https://app.noty.ai/workspace/e54dea7f-e23a-4870-a4c7-9fc14c342ce0/folders)
