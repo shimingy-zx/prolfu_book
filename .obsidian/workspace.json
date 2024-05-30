@@ -4,37 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "1a7326f82ce7786e",
+        "id": "c15c60572051f7a9",
         "type": "tabs",
         "children": [
           {
-            "id": "ebc313a411e7b2ea",
+            "id": "86930479c1928961",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66cf25b9649dacb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md",
+                "file": "blogs/info/托管平台.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md",
+                "file": "blogs/info/托管平台.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md",
+                "file": "blogs/info/托管平台.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md"
+                "file": "blogs/info/托管平台.md"
               }
             }
           },
@@ -206,12 +192,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "66cf25b9649dacb3",
+  "active": "86930479c1928961",
   "lastOpenFiles": [
+    "Untitled.md",
+    "blogs/info/托管平台.md",
+    "Untitled 2.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md",
+    "blogs/info/rbac.md",
+    "blogs/CS/OAuth.md",
+    "Untitled 1.md",
+    "blogs/CS/info/未命名.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/项目概要.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI提示词/20230402AI外教提示词.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI提示词/陆向谦实验室AI客服提示词.md",
     "blogs/Proflu/俱乐部/AI俱乐部/Vercel部署Node.js Express项目.md",
@@ -228,17 +221,10 @@
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/科学上网.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/实验室项目/实验室AI项目介绍.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/实验室项目/实验室项目列表.md",
-    "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
-    "blogs/Proflu/俱乐部/数字俱乐部/技术参考.md",
     "blogs/Proflu/俱乐部/数字俱乐部/低代码平台",
-    "blogs/Proflu/俱乐部/数字俱乐部/Nest/参考项目.md",
     "blogs/Proflu/俱乐部/数字俱乐部/Nest",
     "blogs/Proflu/俱乐部/AI俱乐部/AI外教",
     "blogs/Proflu/俱乐部/Roblox项目俱乐部",
-    "blogs/Proflu/俱乐部/实验室俱乐部管理规则.md",
-    "blogs/Proflu/电脑配置.md",
-    "blogs/info/url/网站合集.md",
-    "blogs/info/经济数据分析.md",
     "blogs/Proflu/俱乐部/AI俱乐部/Lulab_LLM",
     "blogs/Proflu/俱乐部/数字俱乐部/LulabWebsite",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙入门",
