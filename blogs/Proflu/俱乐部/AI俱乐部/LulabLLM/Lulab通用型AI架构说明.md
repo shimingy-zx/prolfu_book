@@ -16,7 +16,7 @@
 						- worktool作用
 							- Worktool用于控制企业微信收发信息
 							- 云手机平台选择VMOS，用于在云端稳定运行Worktool的apk软件。
-						- AI接口
+						- AI平台
 							- 目前用COZE国内版，根据技术发展进行迭代。
 						- 后端说明
 							- 部署方案
@@ -35,14 +35,14 @@
 									- 也可以选择python的falsk，取决于各位开发者对框架的熟悉程度
 							- 后端作用
 								- 用于接收worktool信息接口回调，接受到信息回调后带着问题去请求实验室相关的额AI智能体，最后调用worktool的信息发送接口把AI回复的信息发送至企业微信。
-								- 后续可开发WSS接口，可直接对接前端自编译版本的worktool。
+								- 后续可开发WSS接口，可直接对接前端自编译版本的worktool.apk。
 					- 参考资料
 						- express
 							- 教程：[Express概述_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1yN4y1S7xU?p=1)
 						- 后端github项目
 							- [shimingy-zx/wecom_worktool_backend (github.com)](https://github.com/shimingy-zx/wecom_worktool_backend/tree/main)
 						- worktool
-							- github：[gallonyin/worktool: 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT (github.com)](https://github.com/gallonyin/worktool)
+							- github项目地址：[gallonyin/worktool: 【企业微信】企业微信机器人 聊天机器人、自动加好友、自动拉群、自动群发机器人 免Root零封号 集成ChatGPT (github.com)](https://github.com/gallonyin/worktool)
 							- api文档：[快速入门 - 企微WorkTool API (apifox.cn)](https://worktool.apifox.cn/)
 							- 控制台：[WorkTool管理系统 (ymdyes.cn)](https://admin.worktool.ymdyes.cn/login?redirect=%2Findex)
 						- 内网穿透
