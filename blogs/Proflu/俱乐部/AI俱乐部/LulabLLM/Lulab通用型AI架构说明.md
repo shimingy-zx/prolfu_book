@@ -103,6 +103,7 @@
 		- 特定情况下回复相关图片
 - AI技术
 	- 功能性AI
+		- 
 		- 会议记录分析
 				- [Noty.ai](https://app.noty.ai/workspace/e54dea7f-e23a-4870-a4c7-9fc14c342ce0/folders)
 				- [Welcome - Fireflies.ai](https://app.fireflies.ai/)
@@ -136,6 +137,9 @@
 				- 免费图床
 					- [ImgTP - 免费公共图床](https://www.imgtp.com/)
 					- [PICUI - PICUI图床](https://picui.cn/)
+		- FastGPT
+			- doc:[快速了解 FastGPT | FastGPT](https://doc.fastgpt.in/docs/intro/)
+			- github:[labring/FastGPT: FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. (github.com)](https://github.com/labring/FastGPT)
 		- Dify
 		- 会议记录AI
 			- [Noty.ai](https://app.noty.ai/workspace/e54dea7f-e23a-4870-a4c7-9fc14c342ce0/folders)
