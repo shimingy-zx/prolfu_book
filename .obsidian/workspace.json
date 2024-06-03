@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c15c60572051f7a9",
+        "id": "46f719d96f0ede44",
         "type": "tabs",
         "children": [
           {
-            "id": "86930479c1928961",
+            "id": "84532059ccaa5366",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -192,8 +192,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cfab59c8da0c52bf",
+  "active": "84532059ccaa5366",
   "lastOpenFiles": [
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md",
     "blogs/info/托管平台.md",
     "Untitled.md",
     "Untitled 2.md",
@@ -202,7 +203,6 @@
     "blogs/CS/OAuth.md",
     "Untitled 1.md",
     "blogs/CS/info/未命名.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/项目概要.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI提示词/20230402AI外教提示词.md",

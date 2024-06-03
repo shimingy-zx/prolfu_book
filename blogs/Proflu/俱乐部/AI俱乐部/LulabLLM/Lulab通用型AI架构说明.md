@@ -76,8 +76,10 @@
 						- 影刀RPA：[影刀RPA - 影刀官网 (yingdao.com)](https://www.yingdao.com/
 	- 直播评论区AI
 		- 抖音直播间
-			- 目的：
-			- 技术方案：
+			- 目的：用AI
+			- 技术方案
+				- 后端AI：coze
+				- RPA影刀
 		- 视频号直播间
 		- 小红书直播间
 	- 官网网站
