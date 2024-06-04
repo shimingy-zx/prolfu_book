@@ -110,8 +110,9 @@
 	- 功能性AI
 		- 
 		- 会议记录分析
-				- [Noty.ai](https://app.noty.ai/workspace/e54dea7f-e23a-4870-a4c7-9fc14c342ce0/folders)
 				- [Welcome - Fireflies.ai](https://app.fireflies.ai/)
+				- [Otter Voice Meeting Notes - Otter.ai](https://otter.ai/home?utm_source=aihub.cn)
+				- [Noty.ai](https://app.noty.ai/workspace/e54dea7f-e23a-4870-a4c7-9fc14c342ce0/folders)
 	- 相关平台
 		- COZE
 			- 实验室AI客服
