@@ -155,7 +155,7 @@
 			- [Welcome - Fireflies.ai](https://app.fireflies.ai/)
 	- 开源技术框架
 		- 参考资料
-			- LangChain [Introduction | 🦜️🔗 Langchain](https://python.langchain.com/docs/get_started/introduction.html)
+			- LangChain: [Introduction | 🦜️🔗 Langchain](https://python.langchain.com/docs/get_started/introduction.html)
 			- Llamalndex：[LlamaIndex 🦙 0.7.11.post1 (gpt-index.readthedocs.io)](https://gpt-index.readthedocs.io/en/latest/index.html)
 	- 大语言模型平台
 		- 参考资料
