@@ -153,6 +153,7 @@
 		- 会议记录AI
 			- [Noty.ai](https://app.noty.ai/workspace/e54dea7f-e23a-4870-a4c7-9fc14c342ce0/folders)
 			- [Welcome - Fireflies.ai](https://app.fireflies.ai/)
+			- [AI会议工具和助手 - AIHub | AI导航](https://www.aihub.cn/tools/work/meeting/)
 	- 开源技术框架
 		- 参考资料
 			- LangChain: [Introduction | 🦜️🔗 Langchain](https://python.langchain.com/docs/get_started/introduction.html)
