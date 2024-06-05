@@ -80,7 +80,8 @@
 			- 技术方案
 				- 后端AI：coze
 				- RPA影刀
-					- 
+					- 参考资料
+						- 教程：[影刀IT速成课程（上）：编程入门到精通，全程详解。轻松掌握核心知识，助你飞跃成长，开启IT人生新篇章！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1de411i7pe/?spm_id_from=333.337.search-card.all.click&vd_source=d5dcd9ecea5f54eff2a20a9e2ccc0fa0)
 		- 视频号直播间
 		- 小红书直播间
 	- 官网网站
