@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a053fd2d1693a8e1",
+        "id": "12e3fe9483d0e3c5",
         "type": "tabs",
         "children": [
           {
-            "id": "5cc5e46d8f7693fb",
+            "id": "abf5702d3cf11ac7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/AIGC参考资料.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/AIGC参考资料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/AIGC参考资料.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/AIGC参考资料.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,18 +150,18 @@
             }
           },
           {
-            "id": "3a65b25c1a30560e",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "cfab59c8da0c52bf",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c206afb66edcc604",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -192,11 +183,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5cc5e46d8f7693fb",
+  "active": "c206afb66edcc604",
   "lastOpenFiles": [
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/AIGC参考资料.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Untitled.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/AIGC参考资料.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/项目概要.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md",
