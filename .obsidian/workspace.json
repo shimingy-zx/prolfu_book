@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "12e3fe9483d0e3c5",
+        "id": "6b6c7ba78f23170f",
         "type": "tabs",
         "children": [
           {
-            "id": "abf5702d3cf11ac7",
+            "id": "9797a71b9a6c2392",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md"
+              }
             }
           },
           {
@@ -150,18 +159,18 @@
             }
           },
           {
-            "id": "cfab59c8da0c52bf",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
             "id": "c206afb66edcc604",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f437213243ae1a4f",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           }
@@ -183,7 +192,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c206afb66edcc604",
+  "active": "9797a71b9a6c2392",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/AIGC参考资料.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Untitled.md",
