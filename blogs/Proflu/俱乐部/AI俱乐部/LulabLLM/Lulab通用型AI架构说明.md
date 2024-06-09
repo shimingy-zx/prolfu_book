@@ -74,7 +74,7 @@
 				- RPA开发对接方案
 					- 参考材料
 						- 影刀RPA：[影刀RPA - 影刀官网 (yingdao.com)](https://www.yingdao.com/
-	- 直播评论区AI
+	- 直播评论区客服AI
 		- 抖音直播间
 			- 目的：用AI接管抖音评论区答疑助理
 			- 技术方案
