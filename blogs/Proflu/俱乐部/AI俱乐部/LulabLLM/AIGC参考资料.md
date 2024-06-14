@@ -23,6 +23,8 @@
 
 [chatbookai/ChatBook: 主要提供一站式的AI服务, 包含基础AI对话, AI角色代理, AI客服, AI知识库, AI生成思维导图, AI生成PPTX等功能. (github.com)](https://github.com/chatbookai/ChatBook)
 
+
+[Spring AI](https://spring.io/projects/spring-ai#overview)
 # RPA
 [UiBot RPA_机器人流程自动化_提供政企RPA解决方案_免费RPA软件下载](https://www.uibot.com.cn/)
 
