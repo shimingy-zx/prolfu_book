@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Untitled.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/AI训练营参考资料.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Untitled.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/AI训练营参考资料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Untitled.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/AI训练营参考资料.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Untitled.md"
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/AI训练营参考资料.md"
               }
             }
           },
@@ -194,11 +194,11 @@
   },
   "active": "9797a71b9a6c2392",
   "lastOpenFiles": [
-    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/AI训练营参考资料.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/AIGC参考资料.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Untitled.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/AI训练营参考资料.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI外教/coze_AI待解决的问题.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/项目概要.md",
