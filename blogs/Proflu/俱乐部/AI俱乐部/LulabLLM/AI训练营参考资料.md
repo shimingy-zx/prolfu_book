@@ -20,3 +20,6 @@ https://oad0a72p9r.feishu.cn/share/base/view/shrcnPQG0fX0f7316BwcHLJKiOg
 
 **文章数据**
 https://oad0a72p9r.feishu.cn/wiki/DuEHwi9mwiDw4qkKLc3cU9hCnSb?from=from_copylink
+
+**短视频问答word数据下载地址**
+https://drive.weixin.qq.com/s?k=AFAAtgeQAA4ZpT1oIi
