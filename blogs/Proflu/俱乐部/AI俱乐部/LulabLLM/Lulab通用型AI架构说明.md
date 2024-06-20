@@ -73,7 +73,11 @@
 						- 句子互动： [Wechaty Puppet Service WorkPro 发布公告 | Wechaty](https://wechaty.js.org/2022/12/23/introducing-workpro-puppet/)
 				- RPA开发对接方案
 					- 参考材料
-						- 影刀RPA：[影刀RPA - 影刀官网 (yingdao.com)](https://www.yingdao.com/
+						- 影刀RPA
+							- 官网：[影刀RPA - 影刀官网 (yingdao.com)](https://www.yingdao.com/
+							- 使用文档：
+							- 教程参考
+								- 视频教程
 	- 直播评论区客服AI
 		- 抖音直播间
 			- 目的：用AI接管抖音评论区答疑助理
