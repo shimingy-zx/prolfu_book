@@ -168,8 +168,11 @@
 	- 开源技术框架
 		- 参考资料
 			- LangChain: [Introduction | 🦜️🔗 Langchain](https://python.langchain.com/docs/get_started/introduction.html)
+			- Langflow: [Langflow - Create your chatbot!](https://www.langflow.org/)
 			- Llamalndex：[LlamaIndex 🦙 0.7.11.post1 (gpt-index.readthedocs.io)](https://gpt-index.readthedocs.io/en/latest/index.html)
 			- langchain-nextjs-template：[langchain-ai/langchain-nextjs-template: LangChain + Next.js starter template (github.com)](https://github.com/langchain-ai/langchain-nextjs-template)
+			- java
+				- [Spring AI](https://spring.io/projects/spring-ai#overview)
 	- 大语言模型平台
 		- 参考资料
 			- openai
@@ -191,6 +194,10 @@
 		- 参考资料
 			- MongoDB
 				- 官网：[MongoDB：应用程序数据平台 | MongoDB](https://www.mongodb.com/zh-cn)
+	- 项目参考
+		- [vercel](https://github.com/supabase-community/vercel-ai-chatbot)
+		- [vercel/nextjs-subscription-payments: Clone, deploy, and fully customize a SaaS subscription application with Next.js. (github.com)](https://github.com/vercel/nextjs-subscription-payments)
+		- [1Panel-dev/MaxKB: 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。 (github.com)](https://github.com/1Panel-dev/MaxKB)
 
 
 
