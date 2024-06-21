@@ -198,6 +198,7 @@
 		- [vercel](https://github.com/supabase-community/vercel-ai-chatbot)
 		- [vercel/nextjs-subscription-payments: Clone, deploy, and fully customize a SaaS subscription application with Next.js. (github.com)](https://github.com/vercel/nextjs-subscription-payments)
 		- [1Panel-dev/MaxKB: 🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。 (github.com)](https://github.com/1Panel-dev/MaxKB)
+		- [homanp/langchain-ui: 🧬 The open source chat-ai toolkit (github.com)](https://github.com/homanp/langchain-ui)
 
 
 
