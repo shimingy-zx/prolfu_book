@@ -169,6 +169,7 @@
 		- 参考资料
 			- LangChain: [Introduction | 🦜️🔗 Langchain](https://python.langchain.com/docs/get_started/introduction.html)
 			- Llamalndex：[LlamaIndex 🦙 0.7.11.post1 (gpt-index.readthedocs.io)](https://gpt-index.readthedocs.io/en/latest/index.html)
+			- langchain-nextjs-template：[langchain-ai/langchain-nextjs-template: LangChain + Next.js starter template (github.com)](https://github.com/langchain-ai/langchain-nextjs-template)
 	- 大语言模型平台
 		- 参考资料
 			- openai
