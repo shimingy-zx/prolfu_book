@@ -177,6 +177,8 @@
 		- 参考资料
 			- openai
 			- monshot
+			- 百川
+				- [百川大模型-汇聚世界知识 创作妙笔生花-百川智能 (baichuan-ai.com)](https://platform.baichuan-ai.com/homePage)
 			- 智谱AI
 				- [智谱AI开放平台 (bigmodel.cn)](https://open.bigmodel.cn/)
 	- 知识库
