@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md",
+                "file": "blogs/Proflu/电脑配置.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,7 +66,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md",
+                "file": "blogs/Proflu/电脑配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md",
+                "file": "blogs/Proflu/电脑配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md"
+                "file": "blogs/Proflu/电脑配置.md"
               }
             }
           },
@@ -192,8 +193,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07d22a4897d35191",
+  "active": "c16e6f99a95e755c",
   "lastOpenFiles": [
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/英语熏陶目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md",
@@ -219,7 +221,6 @@
     "Untitled 1.md",
     "blogs/CS/info/未命名.md",
     "blogs/Proflu/俱乐部/AI俱乐部/AI提示词/20230402AI外教提示词.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/AI提示词/陆向谦实验室AI客服提示词.md",
     "元宇宙目",
     "blogs/Proflu/俱乐部/数字俱乐部/低代码平台",
     "blogs/Proflu/俱乐部/数字俱乐部/Nest",
