@@ -160,18 +160,18 @@
             }
           },
           {
-            "id": "437eeabc7675457e",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "07d22a4897d35191",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8481d3b696572c45",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -193,7 +193,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c16e6f99a95e755c",
+  "active": "8481d3b696572c45",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/英语熏陶目标拆解.md",
