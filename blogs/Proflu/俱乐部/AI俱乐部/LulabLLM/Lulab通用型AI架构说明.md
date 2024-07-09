@@ -88,6 +88,8 @@
 						- [抖音弹幕抓取数据推送: 基于系统代理抓包打造的抖音弹幕服务推送程序，可抓取浏览器直播间，直播伴侣，抖音客户端，的各种弹幕消息。这也是一个对开发者友好的弹幕推送器 (gitee.com)](https://gitee.com/haodong108/dy-barrage-grab#/haodong108/dy-barrage-grab/blob/master/%E5%85%B3%E9%97%AD%E4%BB%A3%E7%90%86.bat)
 				- RPA影刀
 					- 参考资料
+						- 官网：
+						- 软件下载链接：
 						- 教程：[影刀IT速成课程（上）：编程入门到精通，全程详解。轻松掌握核心知识，助你飞跃成长，开启IT人生新篇章！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1de411i7pe/?spm_id_from=333.337.search-card.all.click&vd_source=d5dcd9ecea5f54eff2a20a9e2ccc0fa0)
 		- 视频号直播间
 		- 小红书直播间
@@ -119,7 +121,6 @@
 		- 特定情况下回复相关图片
 - AI技术
 	- 功能性AI
-		- 
 		- 会议记录分析
 				- [Welcome - Fireflies.ai](https://app.fireflies.ai/)
 				- [Otter Voice Meeting Notes - Otter.ai](https://otter.ai/home?utm_source=aihub.cn)
