@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/常犯错误.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/训练营/AI训练营项目说明.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/常犯错误.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/训练营/AI训练营项目说明.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/常犯错误.md",
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/训练营/AI训练营项目说明.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/Proflu/俱乐部/元宇宙俱乐部/常犯错误.md"
+                "file": "blogs/Proflu/俱乐部/AI俱乐部/训练营/AI训练营项目说明.md"
               }
             }
           },
@@ -159,18 +159,18 @@
             }
           },
           {
-            "id": "8481d3b696572c45",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
             "id": "7294674e35a4b1ad",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7fdcb791c53e7810",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -192,17 +192,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88e41ed72c64de81",
+  "active": "7fdcb791c53e7810",
   "lastOpenFiles": [
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/AIGC参考资料.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/AI提示词/陆向谦实验室AI客服提示词.md",
+    "blogs/Proflu/俱乐部/元宇宙俱乐部/常犯错误.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/夏季训练营.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/英语熏陶目标拆解.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/Roblox教程合集.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Untitled.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/训练营/AI训练营参考资料.md",
+    "blogs/Proflu/俱乐部/AI俱乐部/训练营/AI训练营项目说明.md",
     "blogs/Proflu/俱乐部/AI俱乐部/训练营/AI客服.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/AIGC参考资料.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/项目概要.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
     "blogs/Proflu/电脑配置.md",
@@ -219,8 +221,6 @@
     "Untitled 2.md",
     "blogs/info/rbac.md",
     "blogs/CS/OAuth.md",
-    "Untitled 1.md",
-    "blogs/CS/info/未命名.md",
     "元宇宙目",
     "blogs/Proflu/俱乐部/数字俱乐部/低代码平台",
     "blogs/Proflu/俱乐部/数字俱乐部/Nest",
