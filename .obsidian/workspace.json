@@ -19,8 +19,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a88842abc0bf0757",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "配置",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,12 +77,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 401.5
   },
   "right": {
     "id": "9cab37b680999ac1",
@@ -160,7 +170,7 @@
             }
           },
           {
-            "id": "ce5fffcc5819a92b",
+            "id": "04104902db0657d7",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -168,7 +178,7 @@
             }
           },
           {
-            "id": "122425a9bfb1b7e7",
+            "id": "2f4b87872aa13ae9",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -193,7 +203,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "122425a9bfb1b7e7",
+  "active": "2f4b87872aa13ae9",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/AI俱乐部/训练营/AI训练营项目说明.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md",
