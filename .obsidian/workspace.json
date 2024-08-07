@@ -19,19 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a88842abc0bf0757",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +159,7 @@
             }
           },
           {
-            "id": "04104902db0657d7",
+            "id": "8922ddf9a92d33bc",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -178,7 +167,7 @@
             }
           },
           {
-            "id": "2f4b87872aa13ae9",
+            "id": "5e2f5917e1a7f951",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -203,7 +192,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f4b87872aa13ae9",
+  "active": "5e2f5917e1a7f951",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/AI俱乐部/训练营/AI训练营项目说明.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md",
