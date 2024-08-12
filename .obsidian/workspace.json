@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "笔记本",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "8922ddf9a92d33bc",
+            "id": "95765e98bde715f1",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "5e2f5917e1a7f951",
+            "id": "cc0b97dd0f7222c1",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -192,13 +192,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5e2f5917e1a7f951",
+  "active": "cc0b97dd0f7222c1",
   "lastOpenFiles": [
+    "blogs/Proflu/俱乐部/AI俱乐部/AI提示词/陆向谦实验室AI客服提示词.md",
+    "blogs/Proflu/电脑配置.md",
     "blogs/Proflu/俱乐部/AI俱乐部/训练营/AI训练营项目说明.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/Lulab通用型AI架构说明.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/AIGC参考资料.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/LLM技术参考文档.md",
-    "blogs/Proflu/俱乐部/AI俱乐部/AI提示词/陆向谦实验室AI客服提示词.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/常犯错误.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/夏季训练营.md",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/英语熏陶目标拆解.md",
@@ -207,7 +208,6 @@
     "blogs/Proflu/俱乐部/AI俱乐部/训练营/AI客服.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/项目概要.md",
     "blogs/Proflu/俱乐部/AI俱乐部/LulabLLM/框架构思.md",
-    "blogs/Proflu/电脑配置.md",
     "blogs/Proflu/俱乐部/AI俱乐部/训练营",
     "blogs/Proflu/俱乐部/元宇宙俱乐部/元宇宙项目/项目组参考文档.md",
     "blogs/info/url/网站合集.md",
