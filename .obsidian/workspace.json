@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "014d059eaec2ca78",
+            "id": "a9c0efe2e81eff03",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "8d7659aaffe87be1",
+            "id": "b02686ebcb3b37e9",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -192,7 +192,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d7659aaffe87be1",
+  "active": "b02686ebcb3b37e9",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/AI俱乐部/AI提示词/陆向谦实验室AI客服提示词.md",
     "blogs/Proflu/电脑配置.md",
