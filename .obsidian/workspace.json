@@ -11,8 +11,13 @@
             "id": "d697ca4f6eb7a74a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "blogs/Proflu/电脑配置.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blogs/Proflu/电脑配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blogs/Proflu/电脑配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blogs/Proflu/电脑配置.md"
+              }
             }
           },
           {
@@ -150,18 +159,18 @@
             }
           },
           {
-            "id": "c83bc38ec88df442",
+            "id": "e89481bab85a1674",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
+              "type": "smart-connections-chat-view",
               "state": {}
             }
           },
           {
-            "id": "6727003ddaf4b153",
+            "id": "d462fd8ff37fcec7",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-chat-view",
+              "type": "smart-connections-view",
               "state": {}
             }
           }
@@ -183,7 +192,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6727003ddaf4b153",
+  "active": "d462fd8ff37fcec7",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/数字俱乐部/LuLabAPP/产品文档.md",
     "blogs/Proflu/俱乐部/数字俱乐部/LuLabAPP/功能模块.md",
