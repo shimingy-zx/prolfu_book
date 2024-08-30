@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "e89481bab85a1674",
+            "id": "ac18f3029c68470c",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
@@ -167,7 +167,7 @@
             }
           },
           {
-            "id": "d462fd8ff37fcec7",
+            "id": "c45af50a0a2709a9",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
@@ -192,7 +192,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d462fd8ff37fcec7",
+  "active": "c45af50a0a2709a9",
   "lastOpenFiles": [
     "blogs/Proflu/俱乐部/数字俱乐部/LuLabAPP/产品文档.md",
     "blogs/Proflu/俱乐部/数字俱乐部/LuLabAPP/功能模块.md",
